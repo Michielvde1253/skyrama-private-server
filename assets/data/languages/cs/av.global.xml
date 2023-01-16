@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.global">
+  <item name="av.global.gametitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.pagetitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.Label.buy"><![CDATA[Koupit]]></item>
+  <item name="av.global.ok"><![CDATA[OK]]></item>
+  <item name="av.global.cancel"><![CDATA[Zrušit]]></item>
+  <item name="av.global.minute"><![CDATA[minuta]]></item>
+  <item name="av.global.minutes"><![CDATA[minuty]]></item>
+  <item name="av.global.hour"><![CDATA[Hodina]]></item>
+  <item name="av.global.hours"><![CDATA[Hodiny]]></item>
+  <item name="av.global.day"><![CDATA[den]]></item>
+  <item name="av.global.days"><![CDATA[dní]]></item>
+  <item name="av.global.passenger"><![CDATA[Pasažér]]></item>
+  <item name="av.global.passengers"><![CDATA[Pasažéři]]></item>
+  <item name="av.global.loading"><![CDATA[Náhrávám]]></item>
+  <item name="av.global.send"><![CDATA[Poslat]]></item>
+  <item name="av.global.land"><![CDATA[Stát]]></item>
+  <item name="av.global.logout"><![CDATA[Odhlášení]]></item>
+  <item name="av.global.open"><![CDATA[Otevřít]]></item>
+  <item name="av.global.close"><![CDATA[Zavřít]]></item>
+  <item name="av.global.select"><![CDATA[Vybrat]]></item>
+  <item name="av.global.maintenance"><![CDATA[Údržba]]></item>
+  <item name="av.global.maintenance_countdown"><![CDATA[Údržba za:]]></item>
+  <item name="av.global.quickservice"><![CDATA[Neváhej a odbavuj]]></item>
+  <item name="av.global.superfuel"><![CDATA[Superpalivo]]></item>
+  <item name="av.global.superfuelboost_selectiontab"><![CDATA[Klikni sem k určení hodnoty zrychlení.
+]]></item>
+  <item name="av.global.superfuel.warningmessage"><![CDATA[Opravdu chceš natankovat superpalivo?]]></item>
+  <item name="av.global.instantlanding"><![CDATA[VIP přistání]]></item>
+  <item name="av.global.comingsoon"><![CDATA[Již brzy...]]></item>
+  <item name="av.global.planes.small"><![CDATA[Malé letadlo]]></item>
+  <item name="av.global.planes.medium"><![CDATA[Středně velké letadlo]]></item>
+  <item name="av.global.planes.large"><![CDATA[Velká letadla]]></item>
+  <item name="av.global.plane"><![CDATA[Letadlo]]></item>
+  <item name="av.global.click"><![CDATA[Koupit]]></item>
+ </category>
+ <category name="av.instantlanding">
+  <item name="av.instantlanding.shortdesc"><![CDATA[Okamžité přistání. Stačí jedno kliknutí!]]></item>
+  <item name="av.instantlanding.warningmessage"><![CDATA[Opravdu chceš okamžitě přistát?
+]]></item>
+ </category>
+ <category name="av.xpoffer">
+  <item name="av.xpoffer.title"><![CDATA[Speciální nabídka]]></item>
+  <item name="av.xpoffer.offer"><![CDATA[Tyto předměty vylepší tvé letiště. Jsou vybrány speciálně pro tvůj level a jsou ti od teď k dispozici a jen nyní jsou za tuto nízkou cenu!]]></item>
+  <item name="av.xpoffer.only"><![CDATA[Jen pro]]></item>
+ </category>
+ <category name="av.dutyfree">
+  <item name="av.dutyfree.title"><![CDATA[Bez cla]]></item>
+  <item name="av.dutyfree.buystorage"><![CDATA[Zvětšit inventář]]></item>
+  <item name="av.dutyfree.buygoods"><![CDATA[Přidat {number} kusy/ů zboží]]></item>
+ </category>
+ <category name="av.hangar">
+  <item name="av.hangar.title"><![CDATA[Hangár]]></item>
+  <item name="av.hangar.buyslot"><![CDATA[Rozšířit hangár]]></item>
+  <item name="av.hangar.scrapplane"><![CDATA[Letadlo na šrot]]></item>
+  <item name="av.hangar.security.title"><![CDATA[Letadlo do šrotu?]]></item>
+  <item name="av.hangar.security"><![CDATA[Opravdu chceš dát letadlo na šrot?]]></item>
+  <item name="av.hangar.outofhangar"><![CDATA[Z hangáru]]></item>
+ </category>
+ <category name="av.landsidebuilding">
+  <item name="av.landsidebuilding.passenger"><![CDATA[{passenger}/{max}]]></item>
+ </category>
+ <category name="av.settings">
+  <item name="av.settings.show"><![CDATA[Zobrazit nastavení]]></item>
+  <item name="av.settings.hide"><![CDATA[Skrýt nastavení]]></item>
+  <item name="av.settings.soundOn"><![CDATA[Zapni hudbu]]></item>
+  <item name="av.settings.soundOff"><![CDATA[Vypni hudbu]]></item>
+  <item name="av.settings.soundFxOn"><![CDATA[Zapni zvukové efekty]]></item>
+  <item name="av.settings.soundFxOff"><![CDATA[Vypni zvukové efekty]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Změnit údaje]]></item>
+  <item name="av.settings.animationOff"><![CDATA[Vypnout animace]]></item>
+  <item name="av.settings.animationOn"><![CDATA[Zapnout animace]]></item>
+  <item name="av.settings.quickServiceOn"><![CDATA[Rychlé odbavení/Klikni k vypnutí rychlého odbavení]]></item>
+  <item name="av.settings.quickServiceOff"><![CDATA[Rychlé odbavení/Klikni k zapnutí rychlého odbavení]]></item>
+  <item name="av.settings.superFuelOn"><![CDATA[Aktivovat superpalivo]]></item>
+  <item name="av.settings.superFuelOff"><![CDATA[Deaktivovat superpalivo
+]]></item>
+  <item name="av.settings.fullscreenOn"><![CDATA[Zapnout celou obrazovku]]></item>
+  <item name="av.settings.fullscreenOff"><![CDATA[Vypnout celou obrazovku]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Změnit údaje]]></item>
+  <item name="av.settings.evoucher"><![CDATA[Platba bonusovým kódem]]></item>
+ </category>
+ <category name="av.buddy">
+  <item name="av.buddy.label.flyby"><![CDATA[Flyby]]></item>
+  <item name="av.buddy.label.visit"><![CDATA[Návštěva]]></item>
+  <item name="av.buddy.exit.visit"><![CDATA[Opustit letiště]]></item>
+  <item name="av.buddy.label.send"><![CDATA[Poslat]]></item>
+  <item name="av.buddy.label.add_buddy"><![CDATA[Přidej známého]]></item>
+  <item name="av.buddy.label.delete"><![CDATA[Smazat]]></item>
+  <item name="av.buddy.delete_confirmation.title"><![CDATA[Smaž kamaráda]]></item>
+  <item name="av.buddy.delete_confirmation.text"><![CDATA[Chceš opravdu smazat kamaráda/kamarádku {buddy}?]]></item>
+ </category>
+ <category name="av.rewardwindow">
+  <item name="av.rewardwindow.headline"><![CDATA[Gratulace! Dokončil jsi misi "{goal_name}".]]></item>
+ </category>
+ <category name="av.flightmap">
+  <item name="av.flightmap.welcome"><![CDATA[Vítej v mé zemi]]></item>
+  <item name="av.flightmap.back"><![CDATA[Zpět]]></item>
+  <item name="av.flightmap.worldmap"><![CDATA[Mapa světa]]></item>
+ </category>
+ <category name="av.souvenirwidget">
+  <item name="av.souvenirwidget.title"><![CDATA[Suvenýry]]></item>
+ </category>
+ <category name="av.flybywidget">
+  <item name="av.flybywidget.title"><![CDATA[Tvé bannery letadel]]></item>
+  <item name="av.flybywidget.entertext"><![CDATA[Zadej svůj text sem:]]></item>
+ </category>
+ <category name="av.levelupwidget">
+  <item name="av.levelupwidget.title"><![CDATA[Další level]]></item>
+  <item name="av.levelupwidget.message"><![CDATA[<b>Gratulujeme! Dosáhl jsi levelu {level}.<br>Vezmi si svůj bonus a hurá na nákup!</b>]]></item>
+  <item name="av.levelupwidget.unlocked"><![CDATA[Aktivoval jsi:]]></item>
+ </category>
+ <category name="av.fullscreen">
+  <item name="av.fullscreen.title"><![CDATA[Zavřít celou obrazovku]]></item>
+  <item name="av.fullscreen.message"><![CDATA[Pro použití této funkce musíš zavřít celou obrazovku.]]></item>
+  <item name="av.fullscreen.label"><![CDATA[Zavřít celou obrazovku]]></item>
+ </category>
+ <category name="av.paymentwidget">
+  <item name="av.paymentwidget.title"><![CDATA[Nedostatek peněz]]></item>
+  <item name="av.paymentwidget.message"><![CDATA[Nemáš dostatek peněz pro nákup tohoto předmětu]]></item>
+  <item name="av.paymentwidget.label.add_cash"><![CDATA[OBSTAREJ SI AÉRA]]></item>
+ </category>
+ <category name="av.addfriendswidget">
+  <item name="av.addfriendswidget.title"><![CDATA[Pozvi kamaráda]]></item>
+  <item name="av.addfriendswidget.description"><![CDATA[Zadej email nebo uživatelské jméno kamaráda a pozvi ho do hry Skyrama.]]></item>
+  <item name="av.addfriendswidget.info.emails"><![CDATA[Zde napiš emailové adresy (odděl je ";")]]></item>
+  <item name="av.addfriendswidget.info.usernames"><![CDATA[Zde zadej jména uživatelů (odděl je ";")]]></item>
+  <item name="av.addfriendswidget.error.emails"><![CDATA[Prosím, zkontroluj emailové adresy]]></item>
+  <item name="av.addfriendswidget.error.usernames"><![CDATA[Prosím, zkontroluj jména uživatelů]]></item>
+  <item name="av.addfriendswidget.label.send"><![CDATA[Poslat]]></item>
+ </category>
+ <category name="av.viewfriendswidget">
+  <item name="av.viewfriendswidget.title"><![CDATA[Pozvání]]></item>
+  <item name="av.viewfriendswidget.description_invites"><![CDATA[Obdržel jsi (počet: {number}) pozvání]]></item>
+  <item name="av.viewfriendswidget.description_no_invites"><![CDATA[Nemáš více pozvání.]]></item>
+  <item name="av.viewfriendswidget.accept_invitation"><![CDATA[Přijmout]]></item>
+  <item name="av.viewfriendswidget.decline_invitation"><![CDATA[Odmítnout]]></item>
+ </category>
+ <category name="av.evoucherwidget">
+  <item name="av.evoucherwidget.title"><![CDATA[Máš bonusový kód?]]></item>
+  <item name="av.evoucherwidget.input.text"><![CDATA[Zadej kód a získej odměnu!]]></item>
+  <item name="av.evoucherwidget.input.hint"><![CDATA[Bonusový kód]]></item>
+  <item name="av.evoucherwidget.input.error"><![CDATA[Zadej svůj kód zde.]]></item>
+  <item name="av.evoucherwidget.progress"><![CDATA[Ověřuji ...]]></item>
+  <item name="av.evoucherwidget.success.discount"><![CDATA[Bonusový kód vyplacen. Jedním kliknutím se dostaneš na]]></item>
+  <item name="av.evoucherwidget.success.discount.link"><![CDATA[platební stránku!]]></item>
+  <item name="av.evoucherwidget.success.ingameitems"><![CDATA[Bonusový kód vyplacen. Přihlaš se do hry k obdržení své odměny!]]></item>
+  <item name="av.evoucherwidget.error"><![CDATA[Bonusový kód je neplatný]]></item>
+ </category>
+ <category name="av.passwordwidget">
+  <item name="av.passwordwidget.title"><![CDATA[Změň heslo]]></item>
+  <item name="av.passwordwidget.message"><![CDATA[Prosím, zadej své nové heslo.]]></item>
+  <item name="av.passwordwidget.old"><![CDATA[Prosím, zadej své staré heslo.]]></item>
+  <item name="av.passwordwidget.info.old"><![CDATA[staré heslo]]></item>
+  <item name="av.passwordwidget.new"><![CDATA[Prosím, zadej nové heslo.]]></item>
+  <item name="av.passwordwidget.info.new"><![CDATA[nové heslo]]></item>
+  <item name="av.passwordwidget.confirm"><![CDATA[Prosím, potvrď nové heslo.]]></item>
+  <item name="av.passwordwidget.info.confirm"><![CDATA[potvrzení hesla]]></item>
+  <item name="av.passwordwidget.save"><![CDATA[Uložit]]></item>
+  <item name="av.passwordwidget.cancel"><![CDATA[Zrušit]]></item>
+ </category>
+ <category name="av.flybyitem">
+  <item name="av.flybyitem.dummy"><![CDATA[Panenka]]></item>
+  <item name="av.flybyitem.sms_ownmessage"><![CDATA[Tvůj vlastní text!]]></item>
+  <item name="av.flybyitem.banner1"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner2"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner3"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner4"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner5"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner6"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner7"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner8"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner9"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner10"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner11"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner22"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner23"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner24"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner25"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner26"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.banner27"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.bff"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.cargo"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.coffee"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.friends1"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.friends2"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.greetings"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.ican"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.lol"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.love"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.medium"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.missu"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.music_hearts"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.omn"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.pinup_girl"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.planes"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.stars_elegant"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.thankyou_elegant"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.wtf"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.test"><![CDATA[Test]]></item>
+  <item name="av.flybyitem.unlock_message"><![CDATA[Nakupuj s aéry nebo dosáhni levelu {required_level}!]]></item>
+  <item name="av.flybyitem.effect"><![CDATA[Pošli svým přátelům novoroční ohňostroj.]]></item>
+  <item name="av.flybyitem.bday_champagne"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.birthday_girly"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.birthday_ufo"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.cheers_text"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.fluffy_heart"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.smiley_cool"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.smiley_kitten"><![CDATA[Banner za letadlem]]></item>
+  <item name="av.flybyitem.smiley_surprised"><![CDATA[Banner za letadlem]]></item>
+ </category>
+ <category name="av.selectcountry">
+  <item name="av.selectcountry.hint"><![CDATA[Vyber zemi, do které chceš umístit své letiště.]]></item>
+  <item name="av.flightmap.selectContinent"><![CDATA[Vyber si svůj kontinent]]></item>
+  <item name="av.selectcountry.next"><![CDATA[Dále]]></item>
+ </category>
+ <category name="av.topbar">
+  <item name="av.topbar.tooltip.aircoins"><![CDATA[Haléra]]></item>
+  <item name="av.topbar.tooltip.aircash"><![CDATA[Aéra]]></item>
+  <item name="av.topbar.tooltip.xp"><![CDATA[BZ]]></item>
+  <item name="av.topbar.tooltip.dutyfree"><![CDATA[Bezcelní zboží]]></item>
+  <item name="av.topbar.tooltip.passengers"><![CDATA[Pasažéři (zůstanou max. 5 dní)]]></item>
+  <item name="av.topbar.tooltip.addcash"><![CDATA[Nakup aéra]]></item>
+  <item name="av.topbar.addcash"><![CDATA[Nakup aéra]]></item>
+ </category>
+ <category name="av.dashboard">
+  <item name="av.dashboard.airportname"><![CDATA[Majitel letiště: {name}]]></item>
+  <item name="av.dashboard.store"><![CDATA[Zásoby flotily]]></item>
+  <item name="av.dashboard.tool"><![CDATA[Nástroje]]></item>
+  <item name="av.dashboard.storage"><![CDATA[Inventář]]></item>
+  <item name="av.dashboard.souvenir"><![CDATA[Suvenýry]]></item>
+  <item name="av.dashboard.flight"><![CDATA[Lety]]></item>
+  <item name="av.dashboard.store_cat"><![CDATA[Obchod: {category}]]></item>
+  <item name="av.dashboard.movetostorage"><![CDATA[Přesuň do inventáře]]></item>
+  <item name="av.dashboard.mirror"><![CDATA[Otočit]]></item>
+  <item name="av.dashboard.move"><![CDATA[Přesunout]]></item>
+  <item name="av.dashboard.incoming_flights"><![CDATA[Mé očekávané přílety]]></item>
+  <item name="av.dashboard.buddy_flights"><![CDATA[Lety známých]]></item>
+  <item name="av.dashboard.new_flights"><![CDATA[Nové lety]]></item>
+  <item name="av.dashboard.minimize"><![CDATA[Minimalizovat]]></item>
+  <item name="av.dashboard.maximize"><![CDATA[Maximalizovat]]></item>
+  <item name="av.dashboard.buddy_ping_title"><![CDATA[Vyžádat si letadla]]></item>
+  <item name="av.dashboard.buddy_ping_text"><![CDATA[Zbývající čas (min.):]]></item>
+ </category>
+ <category name="av.storepanel">
+  <item name="av.storepanel.passenger"><![CDATA[Dopravní letadla]]></item>
+  <item name="av.storepanel.cargo"><![CDATA[Nákladní letadla]]></item>
+  <item name="av.storepanel.helicopter"><![CDATA[Ramacopter]]></item>
+  <item name="av.storepanel.seaplane"><![CDATA[Hydroplány]]></item>
+  <item name="av.storepanel.largeplane"><![CDATA[Velká letadla]]></item>
+ </category>
+ <category name="av.visitairport">
+  <item name="av.visitairport.notification.title"><![CDATA[Měl jsi návštěvu!]]></item>
+  <item name="av.visitairport.notification.text"><![CDATA[Tvé letiště navštívili následující uživatelé:<br/><br/>{users}<br/><br/>Přibyli také noví pasažéři (počet: {number}).]]></item>
+ </category>
+ <category name="av.multilogin">
+  <item name="av.multilogin.title"><![CDATA[Info]]></item>
+  <item name="av.multilogin.text"><![CDATA[Jsi už na tomto kontě přihlášen. Aby se předešlo problémům s dvojitým přihlášením, budeš nyní odhlášen.]]></item>
+ </category>
+ <category name="av.login_bonus">
+  <item name="av.login_bonus.title"><![CDATA[Bonus za přihlášení]]></item>
+  <item name="av.login_bonus.button"><![CDATA[Zábava se zavazadly]]></item>
+  <item name="av.login_bonus.text"><![CDATA[Přihlásil ses {days} dní po sobě. Dostaneš za ně (počet: {number}) volných pokusů Přihlas se zítra znovu a zajisti si další volný pokus.]]></item>
+  <item name="av.login_bonus.spin"><![CDATA[Vývrtka]]></item>
+  <item name="av.login_bonus.spin_count"><![CDATA[{count}x]]></item>
+ </category>
+ <category name="av.quickservice">
+  <item name="av.quickservice.text"><![CDATA[Neváhej a odbavuj]]></item>
+  <item name="av.quickservice.offtitle"><![CDATA[Rychlé odbavení]]></item>
+  <item name="av.quickservice.offtext"><![CDATA[Opravdu chceš rychle odbavit svoje letadlo?]]></item>
+ </category>
+ <category name="av.serverproblems">
+  <item name="av.serverproblems.timed_out"><![CDATA[Server neodpovídá. Dalším potížím můžeš předejít restartováním hry.]]></item>
+ </category>
+ <category name="av.zeppelin">
+  <item name="av.zeppelin.title"><![CDATA[Hangár pro vzducholodě]]></item>
+  <item name="av.zeppelin.buylanding"><![CDATA[Hned přistát]]></item>
+  <item name="av.zeppelin.buyfuel"><![CDATA[Naplnit zásobu paliva]]></item>
+  <item name="av.zeppelin.destination_1"><![CDATA[Džungle]]></item>
+  <item name="av.zeppelin.destination_2"><![CDATA[Severní pól]]></item>
+  <item name="av.zeppelin.destination_3"><![CDATA[Maskáčové kalhoty]]></item>
+  <item name="av.zeppelin.destination_4"><![CDATA[Hora]]></item>
+  <item name="av.zeppelin.destination_5"><![CDATA[Sopka]]></item>
+  <item name="av.zeppelin.flytodestination"><![CDATA[Let do:<br />{destination}]]></item>
+  <item name="av.zeppelin.returned_headline"><![CDATA[Gratulace]]></item>
+  <item name="av.zeppelin.youfound"><![CDATA[Našel jsi:]]></item>
+  <item name="av.zeppelin.take1more"><![CDATA[Vezmi ještě 1 suvenýr]]></item>
+  <item name="av.zeppelin.returnhome"><![CDATA[Vrátit se hned domů]]></item>
+  <item name="av.zeppelin.readytoland"><![CDATA[Vzducholodní expedice připravena k přistání!]]></item>
+  <item name="av.zeppelin.retrieving1more"><![CDATA[Získávání dalšího suvenýru...]]></item>
+  <item name="av.zeppelin.requiredfuel"><![CDATA[Palivo potřeba: {fuel}]]></item>
+ </category>
+ <category name="av.win.eng_bay">
+  <item name="av.win.eng_bay.title"><![CDATA[Letecká dílna]]></item>
+  <item name="av.win.eng_bay.res.title"><![CDATA[Vítej v letecké dílně]]></item>
+  <item name="av.win.eng_bay.res.intro"><![CDATA[Je to tak jednoduché: Pošli letadla pro díly, které pak můžeš vyměnit za seřizovací příslušenství!]]></item>
+  <item name="av.win.eng_bay.res.more"><![CDATA[Některé díly se dají získat jen s určitými letadly.<br/> Pamatuj: Čím delší let, tím větší výnos!]]></item>
+  <item name="av.win.eng_bay.cost"><![CDATA[Potřebuješ:]]></item>
+  <item name="av.win.eng_bay.reward"><![CDATA[Bonus]]></item>
+  <item name="av.win.eng_bay.btn.upgrade"><![CDATA[Seřídit]]></item>
+  <item name="av.win.eng_bay.btn.getRes"><![CDATA[Získej díly!]]></item>
+  <item name="av.win.eng_bay.upgrading"><![CDATA[Probíhá upgrade ...]]></item>
+  <item name="av.win.eng_bay.locked"><![CDATA[Momentálně můžeš provést pouze jeden upgrade.]]></item>
+ </category>
+ <category name="av.tooltip.eng_bay">
+  <item name="av.tooltip.eng_bay.tab.0"><![CDATA[Info]]></item>
+  <item name="av.tooltip.eng_bay.tab.locked"><![CDATA[Ještě nemáš žádné {type}!]]></item>
+  <item name="av.tooltip.eng_bay.tab.empty"><![CDATA[V hangáru nemáš {type}!]]></item>
+  <item name="av.tooltip.eng_bay.btn.notupgrade"><![CDATA[Nedostatek dílů!]]></item>
+ </category>
+ <category name="av.consumable">
+  <item name="av.consumable.1"><![CDATA[Montážní sada]]></item>
+  <item name="av.consumable.2"><![CDATA[Montážní sada deluxe]]></item>
+  <item name="av.consumable.3"><![CDATA[Osobní letadlo - části]]></item>
+  <item name="av.consumable.4"><![CDATA[Nákladní letadlo - části]]></item>
+  <item name="av.consumable.5"><![CDATA[Vrtulník - části]]></item>
+  <item name="av.consumable.6"><![CDATA[Hydroplán - části]]></item>
+  <item name="av.consumable.13"><![CDATA[Vavřínový věnec]]></item>
+  <item name="av.consumable.14"><![CDATA[Disk]]></item>
+  <item name="av.consumable.15"><![CDATA[Vzpěračská činka]]></item>
+  <item name="av.consumable.16"><![CDATA[Běžecká bota]]></item>
+  <item name="av.consumable.17"><![CDATA[Hod kladivem]]></item>
+  <item name="av.consumable.18"><![CDATA[Sněhová vločka]]></item>
+  <item name="av.consumable.19"><![CDATA[Malá nemrznoucí směs]]></item>
+  <item name="av.consumable.20"><![CDATA[Střední nemrznoucí směs]]></item>
+  <item name="av.consumable.21"><![CDATA[Nemrznoucí směs - helikoptéry]]></item>
+  <item name="av.consumable.22"><![CDATA[Nemrznoucí směs - aqua]]></item>
+  <item name="av.consumable.23"><![CDATA[Bonboniéra]]></item>
+  <item name="av.consumable.24"><![CDATA[Karamelová slast]]></item>
+  <item name="av.consumable.25"><![CDATA[Ořechový požitek]]></item>
+  <item name="av.consumable.26"><![CDATA[Pralinková radost]]></item>
+  <item name="av.consumable.27"><![CDATA[Pomerančové potěšení]]></item>
+ </category>
+ <category name="av.upgrade">
+  <item name="av.upgrade.1"><![CDATA[Turbína]]></item>
+  <item name="av.upgrade.2"><![CDATA[Vrtule]]></item>
+  <item name="av.upgrade.3"><![CDATA[Navigační systém]]></item>
+  <item name="av.upgrade.4"><![CDATA[VIP-sedadla]]></item>
+  <item name="av.upgrade.5"><![CDATA[Větší nákladní prostor]]></item>
+  <item name="av.upgrade.6"><![CDATA[Stabilizátor]]></item>
+  <item name="av.upgrade.789"><![CDATA[Upgrade]]></item>
+ </category>
+ <category name="av.crafting">
+  <item name="av.crafting.1"><![CDATA[Šroub]]></item>
+  <item name="av.crafting.2"><![CDATA[Kov]]></item>
+  <item name="av.crafting.3"><![CDATA[Umělá hmota]]></item>
+  <item name="av.crafting.4"><![CDATA[Elektronika]]></item>
+  <item name="av.crafting.5"><![CDATA[Látky]]></item>
+  <item name="av.crafting.6"><![CDATA[Sklo]]></item>
+ </category>
+ <category name="av.win.unlock.eng_bay">
+  <item name="av.win.unlock.eng_bay.title.levelup"><![CDATA[Odemknuto!]]></item>
+  <item name="av.win.unlock.eng_bay.title.overlevel"><![CDATA[Nová funkce!]]></item>
+  <item name="av.win.unlock.eng_bay.text.levelup"><![CDATA[Gratulace! Dosáhl jsi levelu {level}! ]]></item>
+  <item name="av.win.unlock.eng_bay.text.overlevel"><![CDATA[Naše nová letecká dílna: Získej licenci na sváření!]]></item>
+  <item name="av.win.unlock.eng_bay.main"><![CDATA[Novinka v obchodě: letecká dílna!<br/>  Vyměň díly za příslušenství, vybav si svoji flotilu a udělej si náskok před konkurencí!]]></item>
+  <item name="av.win.unlock.eng_bay.received"><![CDATA[Neváhej a začni vylepšovat!]]></item>
+ </category>
+ <category name="av.win.bundle">
+  <item name="av.win.bundle.title"><![CDATA[Tvá sada dílů:]]></item>
+  <item name="av.win.bundle.text"><![CDATA[Super! Nové díly jsou opravdu skvělé!<br/>Teď můžeš začít šroubovat a montovat...]]></item>
+  <item name="av.win.bundle.received"><![CDATA[Tvůj výběr:]]></item>
+ </category>
+ <category name="av.win.logout">
+  <item name="av.win.logout.title"><![CDATA[Odhlášení]]></item>
+  <item name="av.win.logout.text"><![CDATA[Opravdu se chceš odhlásit?]]></item>
+ </category>
+ <category name="av.win.buy_conf">
+  <item name="av.win.buy_conf.title"><![CDATA[Potvrdit]]></item>
+  <item name="av.win.buy_conf.buy.text"><![CDATA[Opravdu to chceš koupit?]]></item>
+  <item name="av.win.buy_conf.del.text"><![CDATA[Opravdu chceš odstranit tento předmět z inventáře?]]></item>
+  <item name="av.win.buy_conf.sell.text"><![CDATA[Opravdu chceš prodat tento předmět za {x} {money}?]]></item>
+ </category>
+ <category name="av.win.error">
+  <item name="av.win.error.global.title"><![CDATA[Omlouváme se.]]></item>
+  <item name="av.win.error.global.text"><![CDATA[Z technických důvodů byla hra přerušena.]]></item>
+  <item name="av.win.error.connection.title"><![CDATA[Spojení přerušeno]]></item>
+  <item name="av.win.error.connection.text"><![CDATA[Problém s tvým internetovým připojením.]]></item>
+  <item name="av.win.error.reload.text"><![CDATA[Chceš znovu nahrát hru?]]></item>
+ </category>
+ <category name="av.win.eventBaskets">
+  <item name="av.win.eventBaskets.title"><![CDATA[Velké plus!]]></item>
+  <item name="av.win.eventBaskets.text"><![CDATA[Využij tyto skvělé nabídky a dostaň se dál!]]></item>
+ </category>
+ <category name="av.storage.deleteItems">
+  <item name="av.storage.deleteItems.title"><![CDATA[Prodat]]></item>
+  <item name="av.storage.deleteItems.warning"><![CDATA[Opravdu chceš tento předmět prodat za {value} halér?]]></item>
+  <item name="av.storage.deleteItems.sellbtn"><![CDATA[Prodat]]></item>
+ </category>
+ <category name="av.win.happyhour">
+  <item name="av.win.happyhour.title"><![CDATA[Happy Hour]]></item>
+  <item name="av.win.happyhour.info"><![CDATA[Happy Hour nabídka: Extra {prozent}% pro časté letce!]]></item>
+  <item name="av.win.happyhour.plustext1"><![CDATA[Ušetři aéra během Happy Hour! Např. 100 aér ti dá {calcvalue}!]]></item>
+  <item name="av.win.happyhour.plustext2"><![CDATA[Překonej rychlost zvuku a rozšiř své letiště!]]></item>
+  <item name="av.win.happyhour.plustext3"><![CDATA[Pospěš, než bude pozdě!]]></item>
+  <item name="av.win.happyhour.button"><![CDATA[Koupit]]></item>
+ </category>
+ <category name="av.win.recycling_building">
+  <item name="av.win.recycling_building.title"><![CDATA[Recyklační centrum]]></item>
+  <item name="av.win.recycling_building.res.title"><![CDATA[Vítej v recyklačním centru]]></item>
+  <item name="av.win.recycling_building.res.intro"><![CDATA[Všechno staré je zase nové! Pokud potřebuješ více místa v hangáru nebo nové stavební díly, přišel jsi na správné místo!]]></item>
+  <item name="av.win.recycling_building.res.more"><![CDATA[Zde se rozebírají stará letadla. Z každého letadla můžeš získat různé díly. Použij je k výrobě nových letadel v montážní hale!]]></item>
+  <item name="av.win.recycling_building.level"><![CDATA[Tvůj recyklační level]]></item>
+  <item name="av.win.recycling_building.level_up"><![CDATA[Dosáhl jsi na recyklační level {x}]]></item>
+  <item name="av.win.recycling_building.tooltip.small_planes"><![CDATA[Malá letadla v hangáru:]]></item>
+  <item name="av.win.recycling_building.tooltip.medium_planes"><![CDATA[Střední letadla v hangáru:]]></item>
+  <item name="av.win.recycling_building.tooltip.material1"><![CDATA[Haléra]]></item>
+  <item name="av.win.recycling_building.tooltip.material7"><![CDATA[Šroub]]></item>
+  <item name="av.win.recycling_building.tooltip.material8"><![CDATA[Kov]]></item>
+  <item name="av.win.recycling_building.tooltip.material9"><![CDATA[Umělá hmota]]></item>
+  <item name="av.win.recycling_building.tooltip.material10"><![CDATA[Elektronika]]></item>
+  <item name="av.win.recycling_building.tooltip.material11"><![CDATA[Látky]]></item>
+  <item name="av.win.recycling_building.tooltip.material12"><![CDATA[Sklo]]></item>
+  <item name="av.win.recycling_building.btn.ok"><![CDATA[OK]]></item>
+  <item name="av.win.recycling_building.gears"><![CDATA[Pokrok]]></item>
+  <item name="av.win.recycling_building.option.info"><![CDATA[Rozeber letadla a získej díly. Na levé straně obrazovky zjistíš svou šanci na úspěch.]]></item>
+  <item name="av.win.recycling_building.option.time"><![CDATA[Doba recyklace: {x} h]]></item>
+  <item name="av.win.recycling_building.option.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.recycling_building.btn.dissemble"><![CDATA[Rozebrat]]></item>
+  <item name="av.win.recycling_building.btn.collect"><![CDATA[Vyzvednout]]></item>
+  <item name="av.win.recycling_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.recycling_building.btn.sideflag2"><![CDATA[Malé letadlo]]></item>
+  <item name="av.win.recycling_building.btn.sideflag3"><![CDATA[Středně velké letadlo]]></item>
+  <item name="av.win.recycling_building.btn.sideflag.disabled"><![CDATA[Nedostatek letadel]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.title"><![CDATA[Pryč s tím]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.msg"><![CDATA[Chceš toto letadlo opravdu rozebrat?]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.title"><![CDATA[Dokončit]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.msg"><![CDATA[Okamžitě rozebrat?]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.title"><![CDATA[Nedostatek halér!]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.msg"><![CDATA[Nedostatek aér!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.title"><![CDATA[Nový recyklační level!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.msg"><![CDATA[Bravo! Dosáhl jsi na další recyklační level. Máš větší šanci získat lepší díly.]]></item>
+  <item name="av.win.recycling_building.popup.yes"><![CDATA[OK]]></item>
+  <item name="av.win.recycling_building.popup.no"><![CDATA[Storno]]></item>
+  <item name="av.win.recycling_building.popup.recycling_done.title"><![CDATA[Obdržíš:]]></item>
+ </category>
+ <category name="av.win.crafting_building">
+  <item name="av.win.crafting_building.title"><![CDATA[Montážní hala]]></item>
+  <item name="av.win.crafting_building.res.title"><![CDATA[Hala na Zemi]]></item>
+  <item name="av.win.crafting_building.res.intro"><![CDATA[Navštiv montážní halu a vyrob průkopnická letadla.]]></item>
+  <item name="av.win.crafting_building.res.more"><![CDATA[Použij čtyři různé materiály z recyklačního centra a vyrob zbrusu nové letadlo. Pokud si to chceš urychlit, žádný problém! Máš možnost si pronajmout další halu.]]></item>
+  <item name="av.win.crafting_building.level"><![CDATA[Tvůj level zručnosti]]></item>
+  <item name="av.win.crafting_building.tooltip.cockpit"><![CDATA[Pilotní kabina]]></item>
+  <item name="av.win.crafting_building.tooltip.body"><![CDATA[Trup]]></item>
+  <item name="av.win.crafting_building.tooltip.wingunit"><![CDATA[Křídlo]]></item>
+  <item name="av.win.crafting_building.tooltip.powerunit"><![CDATA[Turbína]]></item>
+  <item name="av.win.crafting_building.tooltip.time"><![CDATA[Čas do konce]]></item>
+  <item name="av.win.crafting_building.gears"><![CDATA[Pokrok]]></item>
+  <item name="av.win.crafting_building.btn.combine"><![CDATA[Zhotovit]]></item>
+  <item name="av.win.crafting_building.btn.build"><![CDATA[Postavit]]></item>
+  <item name="av.win.crafting_building.btn.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.crafting_building.btn.collect"><![CDATA[Vyzvednout]]></item>
+  <item name="av.win.crafting_building.btn.ok"><![CDATA[OK]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.title"><![CDATA[Potřebuješ montážní halu?]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.msg"><![CDATA[Investuj {x} aér a pronajmi si další halu na 24 hodin.]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.msg"><![CDATA[K pronajmutí další montážní haly potřebuješ více aér!]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.title"><![CDATA[Prázdno v kapsách?]]></item>
+  <item name="av.win.crafting_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.crafting_building.btn.sideflag2"><![CDATA[Montážní hala 1]]></item>
+  <item name="av.win.crafting_building.btn.sideflag3"><![CDATA[Montážní hala 2]]></item>
+  <item name="av.win.crafting_building.btn.sideflag4"><![CDATA[Montážní hala 3]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.title"><![CDATA[Nedostatek halér!]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.msg"><![CDATA[Nedostatek aér!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.title"><![CDATA[V hangáru už nemáš žádné místo!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.msg"><![CDATA[Nejdříve musíš rozšířit svůj hangár.]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.title"><![CDATA[Dokončit!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.msg"><![CDATA[Dokončit hned?]]></item>
+  <item name="av.win.crafting_building.popup.crafting_done.title"><![CDATA[Obdržíš:]]></item>
+  <item name="av.win.crafting_building.popup.levelup.title"><![CDATA[Level zručnosti]]></item>
+  <item name="av.win.crafting_building.popup.levelup.msg"><![CDATA[No páni! Dosáhl jsi na další level zručnosti a získal tak přístup k novým letadlům!]]></item>
+  <item name="av.win.crafting_building.popup.yes"><![CDATA[OK]]></item>
+  <item name="av.win.crafting_building.popup.no"><![CDATA[Storno]]></item>
+ </category>
+ <category name="av.win.material_event">
+  <item name="av.win.material_event.res.intro"><![CDATA[Připravit, pozor, teď! Nasbírej co nejvíce Airlympických položek a vyměň je za úžasná akční letadla!]]></item>
+  <item name="av.win.material_event.res.title"><![CDATA[Hry mohou začít!]]></item>
+  <item name="av.win.material_event.res.more"><![CDATA[Každý typ letadla má své vlastní unikátní sběratelské předměty. Vyměň je za naše vylepšená akční letadla!]]></item>
+  <item name="av.win.material_event.btn.side_flag1"><![CDATA[Akční info]]></item>
+  <item name="av.win.material_event.btn.side_flag2"><![CDATA[Akční odměny]]></item>
+  <item name="av.win.material_event.btn.redeem"><![CDATA[Použít]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.title"><![CDATA[Nedostatek položek]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.msg"><![CDATA[K použití tohoto předmětu jsi ještě nenasbíral dostatek položek.]]></item>
+  <item name="av.win.material_event.popup.more_hangar.title"><![CDATA[Potřebuješ hangár!]]></item>
+  <item name="av.win.material_event.popup.more_hangar.msg"><![CDATA[Potřebuješ více místa v hangáru!]]></item>
+ </category>
+</language>

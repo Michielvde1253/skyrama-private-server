@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.global">
+  <item name="av.global.gametitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.pagetitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.Label.buy"><![CDATA[Αγορά]]></item>
+  <item name="av.global.ok"><![CDATA[ΟΚ]]></item>
+  <item name="av.global.cancel"><![CDATA[Ακύρωση]]></item>
+  <item name="av.global.minute"><![CDATA[λεπτό]]></item>
+  <item name="av.global.minutes"><![CDATA[λεπτά]]></item>
+  <item name="av.global.hour"><![CDATA[ώρα]]></item>
+  <item name="av.global.hours"><![CDATA[ώρες]]></item>
+  <item name="av.global.day"><![CDATA[Ημέρα]]></item>
+  <item name="av.global.days"><![CDATA[Ημέρες]]></item>
+  <item name="av.global.passenger"><![CDATA[Επιβάτης]]></item>
+  <item name="av.global.passengers"><![CDATA[Επιβάτες]]></item>
+  <item name="av.global.loading"><![CDATA[Φόρτωση στοιχείων...]]></item>
+  <item name="av.global.send"><![CDATA[Πτήση]]></item>
+  <item name="av.global.land"><![CDATA[Άφιξη]]></item>
+  <item name="av.global.logout"><![CDATA[Logout]]></item>
+  <item name="av.global.open"><![CDATA[Άνοιγμα]]></item>
+  <item name="av.global.close"><![CDATA[Κλείσιμο]]></item>
+  <item name="av.global.select"><![CDATA[Επιλογή]]></item>
+  <item name="av.global.maintenance"><![CDATA[Εργασίες συντήρησης]]></item>
+  <item name="av.global.maintenance_countdown"><![CDATA[Εργασίες συντήρησης σε:]]></item>
+  <item name="av.global.quickservice"><![CDATA[Όσο μπορείς - Εξυπηρέτηση εξπρές!]]></item>
+  <item name="av.global.superfuel"><![CDATA[Τούρμπο-Καύσιμο]]></item>
+  <item name="av.global.superfuelboost_selectiontab"><![CDATA[Κάνε κλικ για να καθορίσεις το μέγεθος της επιτάχυνση σου.]]></item>
+  <item name="av.global.superfuel.warningmessage"><![CDATA[Θέλεις πραγματικά να χρησιμοποιήσεις τούρμπο καύσιμο;]]></item>
+  <item name="av.global.instantlanding"><![CDATA[VIP Προσγείωση]]></item>
+  <item name="av.global.comingsoon"><![CDATA[Προσεχώς...]]></item>
+  <item name="av.global.planes.small"><![CDATA[Μικρά αεροπλάνα]]></item>
+  <item name="av.global.planes.medium"><![CDATA[Μεσαία αεροπλάνα]]></item>
+  <item name="av.global.planes.large"><![CDATA[Μεγάλα αεροσκάφη]]></item>
+  <item name="av.global.plane"><![CDATA[Αεροπλάνο]]></item>
+  <item name="av.global.click"><![CDATA[Αγορά]]></item>
+ </category>
+ <category name="av.instantlanding">
+  <item name="av.instantlanding.shortdesc"><![CDATA[Άμεση προσγείωση στο λεπτό. Χρειάζεται μόνο ένα κλικ!]]></item>
+  <item name="av.instantlanding.warningmessage"><![CDATA[Θέλεις πραγματικά να προσγειώσεις άμεσα αυτό το αεροπλάνο;]]></item>
+ </category>
+ <category name="av.xpoffer">
+  <item name="av.xpoffer.title"><![CDATA[Ειδική προσφορά!]]></item>
+  <item name="av.xpoffer.offer"><![CDATA[Αυτά τα αντικείμενα θα βελτιώσουν το αεροδρόμιό σου! Η τέλεια επιλογή για το τρέχον επίπεδό σου τώρα διαθέσιμα για σένα... σε ένα πακέτο με μια πολύ χαμηλή τιμή! Μόνο τώρα!]]></item>
+  <item name="av.xpoffer.only"><![CDATA[Μόνο για]]></item>
+ </category>
+ <category name="av.dutyfree">
+  <item name="av.dutyfree.title"><![CDATA[Duty Free]]></item>
+  <item name="av.dutyfree.buystorage"><![CDATA[Επέκταση αποθήκης]]></item>
+  <item name="av.dutyfree.buygoods"><![CDATA[Προσθήκη {number} προϊόντων]]></item>
+ </category>
+ <category name="av.hangar">
+  <item name="av.hangar.title"><![CDATA[Υπόστεγο]]></item>
+  <item name="av.hangar.buyslot"><![CDATA[Επέκταση υπόστεγου]]></item>
+  <item name="av.hangar.scrapplane"><![CDATA[Απόσυρση αεροπλάνου]]></item>
+  <item name="av.hangar.security.title"><![CDATA[Απόσυρση αεροπλάνου;]]></item>
+  <item name="av.hangar.security"><![CDATA[Θέλεις πραγματικά να αποσύρεις το αεροπλάνο σου;]]></item>
+  <item name="av.hangar.outofhangar"><![CDATA[Εκτός υποστέγου]]></item>
+ </category>
+ <category name="av.landsidebuilding">
+  <item name="av.landsidebuilding.passenger"><![CDATA[{passenger}/{max}]]></item>
+ </category>
+ <category name="av.settings">
+  <item name="av.settings.show"><![CDATA[Εμφάνιση ρυθμίσεων]]></item>
+  <item name="av.settings.hide"><![CDATA[Απόκρυψη ρυθμίσεων]]></item>
+  <item name="av.settings.soundOn"><![CDATA[Αναπαραγωγή μουσικής]]></item>
+  <item name="av.settings.soundOff"><![CDATA[Σίγαση μουσικής]]></item>
+  <item name="av.settings.soundFxOn"><![CDATA[Αναπαραγωγή ήχου]]></item>
+  <item name="av.settings.soundFxOff"><![CDATA[Σίγαση ήχου]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Αλλαγή δεδομένων]]></item>
+  <item name="av.settings.animationOff"><![CDATA[Απενεργοποίηση κινούμενων γραφικών]]></item>
+  <item name="av.settings.animationOn"><![CDATA[Ενεργοποίηση κινούμενων γραφικών]]></item>
+  <item name="av.settings.quickServiceOn"><![CDATA[Γρήγορη εξυπηρέτηση ενεργοποίηση/απενεργοποίηση]]></item>
+  <item name="av.settings.quickServiceOff"><![CDATA[Γρήγορη εξυπηρέτηση/ενεργοποίηση]]></item>
+  <item name="av.settings.superFuelOn"><![CDATA[Ενεργοποίηση τούρμπο καύσιμου]]></item>
+  <item name="av.settings.superFuelOff"><![CDATA[Απενεργοποίηση τούρμπο καύσιμου]]></item>
+  <item name="av.settings.fullscreenOn"><![CDATA[Ενεργοποίηση πλήρους οθόνης]]></item>
+  <item name="av.settings.fullscreenOff"><![CDATA[Απενεργοποίηση πλήρους οθόνης]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Αλλαγή δεδομένων]]></item>
+  <item name="av.settings.evoucher"><![CDATA[Πληρωμή με κωδικό bonus ]]></item>
+ </category>
+ <category name="av.buddy">
+  <item name="av.buddy.label.flyby"><![CDATA[Εναέριοι χαιρετισμοί]]></item>
+  <item name="av.buddy.label.visit"><![CDATA[Επίσκεψη]]></item>
+  <item name="av.buddy.exit.visit"><![CDATA[Έξοδος]]></item>
+  <item name="av.buddy.label.send"><![CDATA[Πτήση]]></item>
+  <item name="av.buddy.label.add_buddy"><![CDATA[Νέος φίλος]]></item>
+  <item name="av.buddy.label.delete"><![CDATA[Διαγραφή]]></item>
+  <item name="av.buddy.delete_confirmation.title"><![CDATA[Διαγραφή φίλου]]></item>
+  <item name="av.buddy.delete_confirmation.text"><![CDATA[Θέλεις πραγματικά να διαγράψεις τον/την {buddy} από τους φίλους σου;]]></item>
+ </category>
+ <category name="av.rewardwindow">
+  <item name="av.rewardwindow.headline"><![CDATA[Συγχαρητήρια! Ολοκλήρωσες την αποστολή "{goal_name}".]]></item>
+ </category>
+ <category name="av.flightmap">
+  <item name="av.flightmap.welcome"><![CDATA[Καλώς ήρθες στη χώρα μου!]]></item>
+  <item name="av.flightmap.back"><![CDATA[Πίσω]]></item>
+  <item name="av.flightmap.worldmap"><![CDATA[Παγκόσμιος χάρτης]]></item>
+ </category>
+ <category name="av.souvenirwidget">
+  <item name="av.souvenirwidget.title"><![CDATA[Σουβενίρ]]></item>
+ </category>
+ <category name="av.flybywidget">
+  <item name="av.flybywidget.title"><![CDATA[Συλλογή Εναέριων Μηνυμάτων]]></item>
+  <item name="av.flybywidget.entertext"><![CDATA[Πληκτρολόγησε εδώ το κείμενό σου:]]></item>
+ </category>
+ <category name="av.levelupwidget">
+  <item name="av.levelupwidget.title"><![CDATA[Άνοδος]]></item>
+  <item name="av.levelupwidget.message"><![CDATA[<b>Συγχαρητήρια! Ανέβηκες στο επίπεδο {level}.<br>Πάρε το bonus σου και πήγαινε για ψώνια!</b>]]></item>
+  <item name="av.levelupwidget.unlocked"><![CDATA[Ενεργοποίησες:]]></item>
+ </category>
+ <category name="av.fullscreen">
+  <item name="av.fullscreen.title"><![CDATA[Έξοδος από τη λειτουργία πλήρους οθόνης]]></item>
+  <item name="av.fullscreen.message"><![CDATA[Δυστυχώς πρέπει να επιστρέψεις στην κανονική προβολή της οθόνης, για να χρησιμοποιήσεις αυτή την λειτουργία.]]></item>
+  <item name="av.fullscreen.label"><![CDATA[Έξοδος από τη λειτουργία πλήρους οθόνης]]></item>
+ </category>
+ <category name="av.paymentwidget">
+  <item name="av.paymentwidget.title"><![CDATA[Δεν έχεις αρκετά χρήματα.]]></item>
+  <item name="av.paymentwidget.message"><![CDATA[Δεν έχεις αρκετά χρήματα γι΄αυτό το αντικείμενο.]]></item>
+  <item name="av.paymentwidget.label.add_cash"><![CDATA[ΤΡΑΠΕΖΑ]]></item>
+ </category>
+ <category name="av.addfriendswidget">
+  <item name="av.addfriendswidget.title"><![CDATA[Πρόσκληση φίλου]]></item>
+  <item name="av.addfriendswidget.description"><![CDATA[Συμπλήρωσε την e-mail διεύθυνση ή το όνομα χρήστη ενός φίλου σου για να τον προσκαλέσεις στο Skyrama!]]></item>
+  <item name="av.addfriendswidget.info.emails"><![CDATA[Συπλήρωσε εδώ τις e-mail διευθύνσεις (χωρισμένες με ;).]]></item>
+  <item name="av.addfriendswidget.info.usernames"><![CDATA[Συμπλήρωσε εδώ τα ονόματα χρηστών (χωρισμένα με ;).]]></item>
+  <item name="av.addfriendswidget.error.emails"><![CDATA[Έλεγξε τις e-mail διευθύνσεις.]]></item>
+  <item name="av.addfriendswidget.error.usernames"><![CDATA[Έλεγξε τα ονόματα των χρηστών.]]></item>
+  <item name="av.addfriendswidget.label.send"><![CDATA[Πτήση]]></item>
+ </category>
+ <category name="av.viewfriendswidget">
+  <item name="av.viewfriendswidget.title"><![CDATA[Προσκλήσεις]]></item>
+  <item name="av.viewfriendswidget.description_invites"><![CDATA[Έλαβες {number} πρόσκληση(εις)]]></item>
+  <item name="av.viewfriendswidget.description_no_invites"><![CDATA[Δεν έχεις άλλες προσκλήσεις]]></item>
+  <item name="av.viewfriendswidget.accept_invitation"><![CDATA[Αποδοχή]]></item>
+  <item name="av.viewfriendswidget.decline_invitation"><![CDATA[Απόρριψη]]></item>
+ </category>
+ <category name="av.evoucherwidget">
+  <item name="av.evoucherwidget.title"><![CDATA[Έχεις έναν κωδικό;]]></item>
+  <item name="av.evoucherwidget.input.text"><![CDATA[Γράψε τον εδώ και κέρδισε!]]></item>
+  <item name="av.evoucherwidget.input.hint"><![CDATA[Bonus κωδικός]]></item>
+  <item name="av.evoucherwidget.input.error"><![CDATA[Γράψε τον κωδικό σου εδώ!]]></item>
+  <item name="av.evoucherwidget.progress"><![CDATA[Έλεγχος...]]></item>
+  <item name="av.evoucherwidget.success.discount"><![CDATA[Εξαργύρωσες τον κωδικό bonus με επιτυχία. Κάνοντας κλικ θα κατευθυνθείς στο]]></item>
+  <item name="av.evoucherwidget.success.discount.link"><![CDATA[τμήμα πληρωμών!]]></item>
+  <item name="av.evoucherwidget.success.ingameitems"><![CDATA[Εξαργύρωσες τον κωδικό bonus με επιτυχία. Κάνε login για να παραλάβεις την ανταμοιβή σου!]]></item>
+  <item name="av.evoucherwidget.error"><![CDATA[Άκυρος κωδικός bonus]]></item>
+ </category>
+ <category name="av.passwordwidget">
+  <item name="av.passwordwidget.title"><![CDATA[Αλλαγή κωδικού]]></item>
+  <item name="av.passwordwidget.message"><![CDATA[Συμπλήρωσε τον νέο σου κωδικό.]]></item>
+  <item name="av.passwordwidget.old"><![CDATA[Συμπλήρωσε τον παλιό σου κωδικό.]]></item>
+  <item name="av.passwordwidget.info.old"><![CDATA[Παλιός κωδικός]]></item>
+  <item name="av.passwordwidget.new"><![CDATA[Συμπλήρωσε τον νέο σου κωδικό.]]></item>
+  <item name="av.passwordwidget.info.new"><![CDATA[Νέος κωδικός]]></item>
+  <item name="av.passwordwidget.confirm"><![CDATA[Επιβεβαίωσε τον νέο κωδικό.]]></item>
+  <item name="av.passwordwidget.info.confirm"><![CDATA[επιβεβαίωση κωδικού]]></item>
+  <item name="av.passwordwidget.save"><![CDATA[Αποθήκευση]]></item>
+  <item name="av.passwordwidget.cancel"><![CDATA[Ακύρωση]]></item>
+ </category>
+ <category name="av.flybyitem">
+  <item name="av.flybyitem.dummy"><![CDATA[Κούκλα]]></item>
+  <item name="av.flybyitem.sms_ownmessage"><![CDATA[Το μήνυμά σου!]]></item>
+  <item name="av.flybyitem.banner1"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner2"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner3"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner4"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner5"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner6"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner7"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner8"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner9"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner10"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner11"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner22"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner23"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner24"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner25"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner26"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.banner27"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.bff"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.cargo"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.coffee"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.friends1"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.friends2"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.greetings"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.ican"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.lol"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.love"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.medium"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.missu"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.music_hearts"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.omn"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.pinup_girl"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.planes"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.stars_elegant"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.thankyou_elegant"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.wtf"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.test"><![CDATA[Δοκιμή]]></item>
+  <item name="av.flybyitem.unlock_message"><![CDATA[Κάνε τώρα την αγορά με Αεροτάλιρα ή ανέβα στο επίπεδο {required_level}!]]></item>
+  <item name="av.flybyitem.effect"><![CDATA[Στείλε πυροτεχνήματα για τον καινούριο χρόνο στους φίλους σου]]></item>
+  <item name="av.flybyitem.bday_champagne"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.birthday_girly"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.birthday_ufo"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.cheers_text"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.fluffy_heart"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.smiley_cool"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.smiley_kitten"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+  <item name="av.flybyitem.smiley_surprised"><![CDATA[Baner εναέριων χαιρετισμών]]></item>
+ </category>
+ <category name="av.selectcountry">
+  <item name="av.selectcountry.hint"><![CDATA[Επίλεξε την τοποθεσία του αεροδρομίου σου]]></item>
+  <item name="av.flightmap.selectContinent"><![CDATA[Επίλεξε την ήπειρό σου]]></item>
+  <item name="av.selectcountry.next"><![CDATA[Επόμενο]]></item>
+ </category>
+ <category name="av.topbar">
+  <item name="av.topbar.tooltip.aircoins"><![CDATA[Αεροτάλιρα]]></item>
+  <item name="av.topbar.tooltip.aircash"><![CDATA[Αερολάρια]]></item>
+  <item name="av.topbar.tooltip.xp"><![CDATA[ΠΕ]]></item>
+  <item name="av.topbar.tooltip.dutyfree"><![CDATA[Duty free]]></item>
+  <item name="av.topbar.tooltip.passengers"><![CDATA[Επιβάτες - φεύγουν μετά από 3 μέρες]]></item>
+  <item name="av.topbar.tooltip.addcash"><![CDATA[Τράπεζα]]></item>
+  <item name="av.topbar.addcash"><![CDATA[Τράπεζα]]></item>
+ </category>
+ <category name="av.dashboard">
+  <item name="av.dashboard.airportname"><![CDATA[Αεροδρόμιο "{name}"]]></item>
+  <item name="av.dashboard.store"><![CDATA[Κατάστημα]]></item>
+  <item name="av.dashboard.tool"><![CDATA[Προγράμματα]]></item>
+  <item name="av.dashboard.storage"><![CDATA[Υπάρχοντα]]></item>
+  <item name="av.dashboard.souvenir"><![CDATA[Σουβενίρ]]></item>
+  <item name="av.dashboard.flight"><![CDATA[Πτήσεις]]></item>
+  <item name="av.dashboard.store_cat"><![CDATA[Κατάστημα: {category}]]></item>
+  <item name="av.dashboard.movetostorage"><![CDATA[Προσθήκη στα υπάρχοντα]]></item>
+  <item name="av.dashboard.mirror"><![CDATA[Περιστροφή]]></item>
+  <item name="av.dashboard.move"><![CDATA[Μετακίνηση]]></item>
+  <item name="av.dashboard.incoming_flights"><![CDATA[Αφίξεις]]></item>
+  <item name="av.dashboard.buddy_flights"><![CDATA[Αφίξεις φίλων]]></item>
+  <item name="av.dashboard.new_flights"><![CDATA[Νέες πτήσεις]]></item>
+  <item name="av.dashboard.minimize"><![CDATA[Ελαχιστοποίηση]]></item>
+  <item name="av.dashboard.maximize"><![CDATA[Μεγένθυνση]]></item>
+  <item name="av.dashboard.buddy_ping_title"><![CDATA[Αίτημα για αεροπλάνα]]></item>
+  <item name="av.dashboard.buddy_ping_text"><![CDATA[Εναπομείναντας χρόνος (λεπτά):]]></item>
+ </category>
+ <category name="av.storepanel">
+  <item name="av.storepanel.passenger"><![CDATA[Επιβατικά αεροπλάνα]]></item>
+  <item name="av.storepanel.cargo"><![CDATA[Αεροπλάνα Cargo]]></item>
+  <item name="av.storepanel.helicopter"><![CDATA[Ramaκόπτερα]]></item>
+  <item name="av.storepanel.seaplane"><![CDATA[Υδροπλάνα]]></item>
+  <item name="av.storepanel.largeplane"><![CDATA[Μεγάλα αεροσκάφη]]></item>
+ </category>
+ <category name="av.visitairport">
+  <item name="av.visitairport.notification.title"><![CDATA[Είχες επισκέψεις!]]></item>
+  <item name="av.visitairport.notification.text"><![CDATA[Οι ακόλουθοι χρήστες επισκέφτηκαν το αεροδρόμιο σου:<br/><br/>{users}<br/><br/>Σου έστειλαν {number} επιβάτη(ες).]]></item>
+ </category>
+ <category name="av.multilogin">
+  <item name="av.multilogin.title"><![CDATA[Πληροφορίες]]></item>
+  <item name="av.multilogin.text"><![CDATA[Είσαι ήδη συνδεδεμένος μ΄αυτόν τον λογαριασμό. Για να αποφευχθούν προβλήματα μιας διπλής σύνδεσης, θα αποσυνδεθείς τώρα αυτομάτως.]]></item>
+ </category>
+ <category name="av.login_bonus">
+  <item name="av.login_bonus.title"><![CDATA[Bonus σύνδεσης]]></item>
+  <item name="av.login_bonus.button"><![CDATA[Ιμάντας της τύχης]]></item>
+  <item name="av.login_bonus.text"><![CDATA[Συνδέθηκες {days} ημέρες στη σειρά! Για το λόγο αυτό και εμείς σου χαρίζουμε {number} δωρεάν γύρο(ους). Συνδέσου ξανά αύριο για να πάρεις τον(ους) δωρεάν γύρο(ους) σου.]]></item>
+  <item name="av.login_bonus.spin"><![CDATA[Γύρος]]></item>
+  <item name="av.login_bonus.spin_count"><![CDATA[{count}x]]></item>
+ </category>
+ <category name="av.quickservice">
+  <item name="av.quickservice.text"><![CDATA[Όσο μπορείς - Εξυπηρέτηση εξπρές!]]></item>
+  <item name="av.quickservice.offtitle"><![CDATA[Εξυπηρέτηση εξπρές]]></item>
+  <item name="av.quickservice.offtext"><![CDATA[Θέλεις πραγματικά να χρησιμοποιήσεις εξυπηρέτηση εξπρές στα αεροπλάνα σου;]]></item>
+ </category>
+ <category name="av.serverproblems">
+  <item name="av.serverproblems.timed_out"><![CDATA[Ο σέρβερ αποσυνδέθηκε. Ανανέωσε την σελίδα του παιχνιδιού για να αποφευχθούν περαιτέρω προβλήματα.]]></item>
+ </category>
+ <category name="av.zeppelin">
+  <item name="av.zeppelin.title"><![CDATA[Υπόστεγο Ζέπελιν]]></item>
+  <item name="av.zeppelin.buylanding"><![CDATA[Αγορά γης!]]></item>
+  <item name="av.zeppelin.buyfuel"><![CDATA[Ανεφοδίασε τα καύσιμα σου!]]></item>
+  <item name="av.zeppelin.destination_1"><![CDATA[Ζούγκλα]]></item>
+  <item name="av.zeppelin.destination_2"><![CDATA[Βόρειος Πόλος]]></item>
+  <item name="av.zeppelin.destination_3"><![CDATA[Έρημος]]></item>
+  <item name="av.zeppelin.destination_4"><![CDATA[Βουνό]]></item>
+  <item name="av.zeppelin.destination_5"><![CDATA[Ηφαίστειο]]></item>
+  <item name="av.zeppelin.flytodestination"><![CDATA[Πτήση προς:<br />{destination}]]></item>
+  <item name="av.zeppelin.returned_headline"><![CDATA[Συγχαρητήρια]]></item>
+  <item name="av.zeppelin.youfound"><![CDATA[Βρήκες:]]></item>
+  <item name="av.zeppelin.take1more"><![CDATA[Πάρε ακόμα 1 αναμνηστικό]]></item>
+  <item name="av.zeppelin.returnhome"><![CDATA[Επίστρεψε σπίτι τώρα!]]></item>
+  <item name="av.zeppelin.readytoland"><![CDATA[Το Ζέπελιν είναι έτοιμο για προσγείωση!]]></item>
+  <item name="av.zeppelin.retrieving1more"><![CDATA[Ανάκτηση και άλλου αναμνηστικού...]]></item>
+  <item name="av.zeppelin.requiredfuel"><![CDATA[Αναγκαία καύσιμα: {fuel}]]></item>
+ </category>
+ <category name="av.win.eng_bay">
+  <item name="av.win.eng_bay.title"><![CDATA[Συνεργείο αεροπλάνων]]></item>
+  <item name="av.win.eng_bay.res.title"><![CDATA[Καλώς όρισες στο συνεργείο αεροπλάνων]]></item>
+  <item name="av.win.eng_bay.res.intro"><![CDATA[Τόσο απλά! Στείλε πτήσεις και κέρδισε εξαρτήματα!]]></item>
+  <item name="av.win.eng_bay.res.more"><![CDATA[Μερικά εξαρτήματα τα κερδίζεις μόνο με συγκεκριμένες πτήσεις.<br/>Όσο μεγαλύτερη η διάρκεια της πτήσης τόσο μεγαλύτερη είναι και η ανταμοιβή!]]></item>
+  <item name="av.win.eng_bay.cost"><![CDATA[Χρειάζεσαι:]]></item>
+  <item name="av.win.eng_bay.reward"><![CDATA[Bonus]]></item>
+  <item name="av.win.eng_bay.btn.upgrade"><![CDATA[Αναβάθμιση]]></item>
+  <item name="av.win.eng_bay.btn.getRes"><![CDATA[Απόκτησε εξαρτήματα!]]></item>
+  <item name="av.win.eng_bay.upgrading"><![CDATA[Αναβάθμιση σε εξέλιξη...]]></item>
+  <item name="av.win.eng_bay.locked"><![CDATA[Προς το παρόν μπορείς να κάνεις μόνο μια αναβάθμιση.]]></item>
+ </category>
+ <category name="av.tooltip.eng_bay">
+  <item name="av.tooltip.eng_bay.tab.0"><![CDATA[Πληροφορίες]]></item>
+  <item name="av.tooltip.eng_bay.tab.locked"><![CDATA[Δεν έχεις ακόμα κανένα/καμία {type}!]]></item>
+  <item name="av.tooltip.eng_bay.tab.empty"><![CDATA[Δεν έχεις κανένα {type} στο υπόστεγο!]]></item>
+  <item name="av.tooltip.eng_bay.btn.notupgrade"><![CDATA[Πολύ λίγα εξαρτήματα!]]></item>
+ </category>
+ <category name="av.consumable">
+  <item name="av.consumable.1"><![CDATA[Δομικό υλικό]]></item>
+  <item name="av.consumable.2"><![CDATA[Ντελούξ δομικό υλικό]]></item>
+  <item name="av.consumable.3"><![CDATA[Τμήματα επιβατικού αεροπλάνου]]></item>
+  <item name="av.consumable.4"><![CDATA[Τμήματα φορτηγού αεροπλάνου]]></item>
+  <item name="av.consumable.5"><![CDATA[Τμήματα ελικοπτέρου]]></item>
+  <item name="av.consumable.6"><![CDATA[Τμήματα υδροπλάνου]]></item>
+  <item name="av.consumable.13"><![CDATA[Δάφνινο Στεφάνι]]></item>
+  <item name="av.consumable.14"><![CDATA[Δίσκος]]></item>
+  <item name="av.consumable.15"><![CDATA[Μπάρα]]></item>
+  <item name="av.consumable.16"><![CDATA[Παπούτσι Τρεξίματος]]></item>
+  <item name="av.consumable.17"><![CDATA[Σφύρα]]></item>
+  <item name="av.consumable.18"><![CDATA[Νιφάδα]]></item>
+  <item name="av.consumable.19"><![CDATA[Μικρό Αντιψυκτικό]]></item>
+  <item name="av.consumable.20"><![CDATA[Μεσαίο Αντιψυκτικό]]></item>
+  <item name="av.consumable.21"><![CDATA[Αντιψυκτικό Ελικοπτέρου]]></item>
+  <item name="av.consumable.22"><![CDATA[Αντιψυκτικό Υδροπλάνου]]></item>
+  <item name="av.consumable.23"><![CDATA[Κουτί με Σοκολάτες]]></item>
+  <item name="av.consumable.24"><![CDATA[Καραμέλα Βουτύρου]]></item>
+  <item name="av.consumable.25"><![CDATA[Καρυδένιο Σοκολατάκι]]></item>
+  <item name="av.consumable.26"><![CDATA[Παθιασμένη Πραλίνα]]></item>
+  <item name="av.consumable.27"><![CDATA[Πορτοκαλένια Απόλαυση]]></item>
+ </category>
+ <category name="av.upgrade">
+  <item name="av.upgrade.1"><![CDATA[Κινητήρας]]></item>
+  <item name="av.upgrade.2"><![CDATA[Προπέλα]]></item>
+  <item name="av.upgrade.3"><![CDATA[Σύστημα πλοήγησης]]></item>
+  <item name="av.upgrade.4"><![CDATA[Θέσεις VIP]]></item>
+  <item name="av.upgrade.5"><![CDATA[Περισσότερος αποθ. χώρος]]></item>
+  <item name="av.upgrade.6"><![CDATA[Σταθεροποιητής τάσης]]></item>
+  <item name="av.upgrade.789"><![CDATA[Αναβάθμιση]]></item>
+ </category>
+ <category name="av.crafting">
+  <item name="av.crafting.1"><![CDATA[Μπουλόνι]]></item>
+  <item name="av.crafting.2"><![CDATA[Μέταλλο]]></item>
+  <item name="av.crafting.3"><![CDATA[Συνθετικό]]></item>
+  <item name="av.crafting.4"><![CDATA[Ηλεκτρονικά]]></item>
+  <item name="av.crafting.5"><![CDATA[Ύφασμα]]></item>
+  <item name="av.crafting.6"><![CDATA[Γυαλί]]></item>
+ </category>
+ <category name="av.win.unlock.eng_bay">
+  <item name="av.win.unlock.eng_bay.title.levelup"><![CDATA[Ξεκλειδώθηκε!]]></item>
+  <item name="av.win.unlock.eng_bay.title.overlevel"><![CDATA[Νέα λειτουργία!]]></item>
+  <item name="av.win.unlock.eng_bay.text.levelup"><![CDATA[Συγχαρητήρια, ανέβηκες στο επίπεδο {level}!]]></item>
+  <item name="av.win.unlock.eng_bay.text.overlevel"><![CDATA[Το καινούριο μας συνεργείο αεροπλάνων: απόκτησε τώρα την άδεια!]]></item>
+  <item name="av.win.unlock.eng_bay.main"><![CDATA[Τώρα νέο στο μαγαζί: το συνεργείο αεροπλάνων!<br/> Αντάλλαξε εξαρτήματα με αξεσουάτ, εξόπλισε τον στόλο σου και αύξησε τον ανταγωνισμό!]]></item>
+  <item name="av.win.unlock.eng_bay.received"><![CDATA[Απόκτησε τώρα και ξεκίνα!]]></item>
+ </category>
+ <category name="av.win.bundle">
+  <item name="av.win.bundle.title"><![CDATA[Το σετ των εξαρτημάτων σου:]]></item>
+  <item name="av.win.bundle.text"><![CDATA[Τέλεια! Μπορείς να χαρείς τα νέα σου εξαρτήματα!<br/>Ήρθε η ώρα για βίδες, κατσαβίδια και πολύ δουλειά...]]></item>
+  <item name="av.win.bundle.received"><![CDATA[Η επιλογή σου:]]></item>
+ </category>
+ <category name="av.win.logout">
+  <item name="av.win.logout.title"><![CDATA[Logout]]></item>
+  <item name="av.win.logout.text"><![CDATA[Θελεις πραγματικά να βγεις από το παιχνίδι;]]></item>
+ </category>
+ <category name="av.win.buy_conf">
+  <item name="av.win.buy_conf.title"><![CDATA[Επιβεβαίωση]]></item>
+  <item name="av.win.buy_conf.buy.text"><![CDATA[Θέλεις πραγματικά να το αγοράσεις;]]></item>
+  <item name="av.win.buy_conf.del.text"><![CDATA[Θέλεις πραγματικά να το διαγράψεις από τα Υπάρχοντα σου;]]></item>
+  <item name="av.win.buy_conf.sell.text"><![CDATA[Θέλεις πραγματικά να πουλήσεις αυτό το αντικείμενο για {x} {money};]]></item>
+ </category>
+ <category name="av.win.error">
+  <item name="av.win.error.global.title"><![CDATA[Συγνώμη!]]></item>
+  <item name="av.win.error.global.text"><![CDATA[Το παιχνίδι διακόπηκε εξαιτίας τεχνικών προβλημάτων.]]></item>
+  <item name="av.win.error.connection.title"><![CDATA[Διακοπή σύνδεσης]]></item>
+  <item name="av.win.error.connection.text"><![CDATA[Υπάρχουν κάποια προβλήματα με την σύνδεση σου στο διαδίκτυο.]]></item>
+  <item name="av.win.error.reload.text"><![CDATA[Θέλεις να ανανεώσεις την σελίδα του παιχνιδιού;]]></item>
+ </category>
+ <category name="av.win.eventBaskets">
+  <item name="av.win.eventBaskets.title"><![CDATA[Το μεγάλο προνόμιο!]]></item>
+  <item name="av.win.eventBaskets.text"><![CDATA[Εκμεταλλεύσου αυτές τις τέλειες προσφορές και η επιτυχία είναι στο τσεπάκι σου!]]></item>
+ </category>
+ <category name="av.storage.deleteItems">
+  <item name="av.storage.deleteItems.title"><![CDATA[Πώληση]]></item>
+  <item name="av.storage.deleteItems.warning"><![CDATA[Θέλεις να πουλήσεις αυτό το αντικείμενο για {value} αεροτάλιρα;]]></item>
+  <item name="av.storage.deleteItems.sellbtn"><![CDATA[Πώληση]]></item>
+ </category>
+ <category name="av.win.happyhour">
+  <item name="av.win.happyhour.title"><![CDATA[Χαρούμενη ώρα]]></item>
+  <item name="av.win.happyhour.info"><![CDATA[Προσφορά χαρούμενης ώρας: επιπλέον {prozent}% για παίκτες υψηλών επιπέδων!]]></item>
+  <item name="av.win.happyhour.plustext1"><![CDATA[Εκμεταλλεύσου την χαρούμενη ώρα και απόκτησε π.χ {calcvalue} Aερολάρια με την αγορά 100 Αερολαρίων!]]></item>
+  <item name="av.win.happyhour.plustext2"><![CDATA[Σπάσε το φράγμα του ήχου και επέκτεινε το αεροδρόμιο σου!]]></item>
+  <item name="av.win.happyhour.plustext3"><![CDATA[Άρπαξε τώρα την ευκαιρία, πριν να είναι πολύ αργά!]]></item>
+  <item name="av.win.happyhour.button"><![CDATA[Αγορά]]></item>
+ </category>
+ <category name="av.win.recycling_building">
+  <item name="av.win.recycling_building.title"><![CDATA[Κέντρο ανακύκλωσης]]></item>
+  <item name="av.win.recycling_building.res.title"><![CDATA[Καλώς ήρθες στο κέντρο ανακύκλωσης]]></item>
+  <item name="av.win.recycling_building.res.intro"><![CDATA[Όλα τα παλιά παίρνουν νέα πνοή! Χρειάζεσαι περισσότερο χώρο στο υπόστεγο ή παραπάνω εξαρτήματα για νέα σούπερ αεροσκάφη; Τότε χτύπησες τη σωστή πόρτα!]]></item>
+  <item name="av.win.recycling_building.res.more"><![CDATA[Αποσυναρμολόγησε εδώ παλιά αεροσκάφη. Κάθε αεροσκάφος σου προσφέρει διαφορετικά εξαρτήματα με τα οποία μπορείς να κατασκευάσεις στην αίθουσα κατασκευών νέα, τέλεια αεροσκάφη.]]></item>
+  <item name="av.win.recycling_building.level"><![CDATA[Το επίπεδο ανακύκλωσης σου]]></item>
+  <item name="av.win.recycling_building.level_up"><![CDATA[Έχεις φτάσει στο επίπεδο ανακύκλωσης {x}]]></item>
+  <item name="av.win.recycling_building.tooltip.small_planes"><![CDATA[Μικρά αεροσκάφη στο υπόστεγο σου:]]></item>
+  <item name="av.win.recycling_building.tooltip.medium_planes"><![CDATA[Αριθμός μεσαίων αεροσκαφών στο υπόστεγο]]></item>
+  <item name="av.win.recycling_building.tooltip.material1"><![CDATA[Αεροτάλιρα]]></item>
+  <item name="av.win.recycling_building.tooltip.material7"><![CDATA[Μπουλόνι]]></item>
+  <item name="av.win.recycling_building.tooltip.material8"><![CDATA[Μέταλλο]]></item>
+  <item name="av.win.recycling_building.tooltip.material9"><![CDATA[Συνθετικό]]></item>
+  <item name="av.win.recycling_building.tooltip.material10"><![CDATA[Ηλεκτρονικά]]></item>
+  <item name="av.win.recycling_building.tooltip.material11"><![CDATA[Ύφασμα]]></item>
+  <item name="av.win.recycling_building.tooltip.material12"><![CDATA[Γυαλί]]></item>
+  <item name="av.win.recycling_building.btn.ok"><![CDATA[ΟΚ]]></item>
+  <item name="av.win.recycling_building.gears"><![CDATA[Εξέλιξη]]></item>
+  <item name="av.win.recycling_building.option.info"><![CDATA[Αποσυναρμολόγησε αεροσκάφη, πάρε εξαρτήματα. Στην αριστερή πλευρά της οθόνης μπορείς να δεις τις πιθανότητες επιτυχίας σου!]]></item>
+  <item name="av.win.recycling_building.option.time"><![CDATA[Χρόνος ανακύκλωσης: {x} ω]]></item>
+  <item name="av.win.recycling_building.option.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.recycling_building.btn.dissemble"><![CDATA[Αποσυναρμολόγηση]]></item>
+  <item name="av.win.recycling_building.btn.collect"><![CDATA[Παραλαβή]]></item>
+  <item name="av.win.recycling_building.btn.sideflag1"><![CDATA[Πληροφορίες]]></item>
+  <item name="av.win.recycling_building.btn.sideflag2"><![CDATA[Μικρά αεροπλάνα]]></item>
+  <item name="av.win.recycling_building.btn.sideflag3"><![CDATA[Μεσαία αεροπλάνα]]></item>
+  <item name="av.win.recycling_building.btn.sideflag.disabled"><![CDATA[Δεν έχεις αρκετά αεροσκάφη]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.title"><![CDATA[Ξεφορτώσου το]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.msg"><![CDATA[Θέλεις να αποσυναρμολογήσεις αυτό το αεροσκάφος;]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.title"><![CDATA[Ολοκλήρωση]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.msg"><![CDATA[Άμεση ολοκλήρωση αποσυναρμολόγησης;]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.title"><![CDATA[Δεν έχεις αρκετά αεροτάλιρα!]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.msg"><![CDATA[Δεν έχεις αρκετά αερολάρια!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.title"><![CDATA[Άνοδος επιπέδου ανακύκλωσης!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.msg"><![CDATA[Μπράβο! Έφτασες στο επόμενο επίπεδο ανακύκλωσης. Οι πιθανότητες σου για καλύτερα εξαρτήματα αυξάνονται!]]></item>
+  <item name="av.win.recycling_building.popup.yes"><![CDATA[ΟΚ]]></item>
+  <item name="av.win.recycling_building.popup.no"><![CDATA[ΑΚΥΡΩΣΗ]]></item>
+  <item name="av.win.recycling_building.popup.recycling_done.title"><![CDATA[Λαμβάνεις:]]></item>
+ </category>
+ <category name="av.win.crafting_building">
+  <item name="av.win.crafting_building.title"><![CDATA[Αίθουσα κατασκευών]]></item>
+  <item name="av.win.crafting_building.res.title"><![CDATA[Αίθουσα στη γη]]></item>
+  <item name="av.win.crafting_building.res.intro"><![CDATA[Στην αίθουσα κατασκευών μπορείς να συναρμολογήσεις πρωτοποριακά αεροσκάφη από τα εξαρτήματα σου!]]></item>
+  <item name="av.win.crafting_building.res.more"><![CDATA[Με τέσσερα κατάλληλα υλικά από το κέντρο ανακύκλωσης μπορείς να φτιάξεις ένα ολοκαίνουριο αεροσκάφος. Θέλεις να επισπεύσεις την παραγωγή; Τότε νοίκιασε άλλη μία αίθουσα.]]></item>
+  <item name="av.win.crafting_building.level"><![CDATA[Το επίπεδο συναρμολόγησης σου]]></item>
+  <item name="av.win.crafting_building.tooltip.cockpit"><![CDATA[Πιλοτήριο]]></item>
+  <item name="av.win.crafting_building.tooltip.body"><![CDATA[Άτρακτος]]></item>
+  <item name="av.win.crafting_building.tooltip.wingunit"><![CDATA[Μονάδα πτερυγίων]]></item>
+  <item name="av.win.crafting_building.tooltip.powerunit"><![CDATA[Κινητήρας]]></item>
+  <item name="av.win.crafting_building.tooltip.time"><![CDATA[Χρόνος μέχρι την ολοκλήρωση]]></item>
+  <item name="av.win.crafting_building.gears"><![CDATA[Εξέλιξη]]></item>
+  <item name="av.win.crafting_building.btn.combine"><![CDATA[Κατασκευή]]></item>
+  <item name="av.win.crafting_building.btn.build"><![CDATA[Κατασκευή]]></item>
+  <item name="av.win.crafting_building.btn.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.crafting_building.btn.collect"><![CDATA[Παραλαβή]]></item>
+  <item name="av.win.crafting_building.btn.ok"><![CDATA[ΟΚ]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.title"><![CDATA[Θέλεις να νοικιάσεις αίθουσα κατασκευών;]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.msg"><![CDATA[Άλλη μία αίθουσα για 24 ώρες. Με {x} Αερολάρια δε θα χάσεις τίποτα!]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.msg"><![CDATA[Χρειάζεσαι περισσότερα αερολάρια για να νοικιάσεις άλλη μία αίθουσα κατασκευών.]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.title"><![CDATA[Στέγνωσες;]]></item>
+  <item name="av.win.crafting_building.btn.sideflag1"><![CDATA[Πληροφορίες]]></item>
+  <item name="av.win.crafting_building.btn.sideflag2"><![CDATA[Αίθουσα κατασκευών 1]]></item>
+  <item name="av.win.crafting_building.btn.sideflag3"><![CDATA[Αίθουσα κατασκευών 2]]></item>
+  <item name="av.win.crafting_building.btn.sideflag4"><![CDATA[Αίθουσα κατασκευών 3]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.title"><![CDATA[Δεν έχεις αρκετά αεροτάλιρα!]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.msg"><![CDATA[Δεν έχεις αρκετά αερολάρια!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.title"><![CDATA[Δεν υπάρχει άλλος χώρος στο υπόστεγο σου!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.msg"><![CDATA[Πρέπει πρώτα να επεκτείνεις το υπόστεγο σου.]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.title"><![CDATA[Ολοκλήρωση!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.msg"><![CDATA[Θέλεις να το ολοκληρώσεις τώρα;]]></item>
+  <item name="av.win.crafting_building.popup.crafting_done.title"><![CDATA[Λαμβάνεις:]]></item>
+  <item name="av.win.crafting_building.popup.levelup.title"><![CDATA[Επίπεδο συναρμολόγησης +]]></item>
+  <item name="av.win.crafting_building.popup.levelup.msg"><![CDATA[Θαυμάσια! Έφτασες σε νέο επίπεδο συναρμολόγησης και ξεκλείδωσες νέα αεροσκάφη!]]></item>
+  <item name="av.win.crafting_building.popup.yes"><![CDATA[ΟΚ]]></item>
+  <item name="av.win.crafting_building.popup.no"><![CDATA[ΑΚΥΡΩΣΗ]]></item>
+ </category>
+ <category name="av.win.material_event">
+  <item name="av.win.material_event.res.intro"><![CDATA[Λάβετε θέσεις, έτοιμοι, Πάμε! Σύλλεξε όσα περισσότερα αντικείμενα Αερολυμπιακών μπορέσεις και αντάλλαξε τα με τέλεια αεροπλάτα του δρώμενου!]]></item>
+  <item name="av.win.material_event.res.title"><![CDATA[Ας αρχίσουν οι Αγώνες!]]></item>
+  <item name="av.win.material_event.res.more"><![CDATA[Κάθε τύπος αεροπλάνου έχει τα δικά του μοναδικά συλλεκτικά αντικείμενα. Αντάλλαξε τα για να πάρεις μερικά από τα ενισχυμένα αεροπλάνα του δρώμενου!]]></item>
+  <item name="av.win.material_event.btn.side_flag1"><![CDATA[Πληροφορίες Δρώμενου]]></item>
+  <item name="av.win.material_event.btn.side_flag2"><![CDATA[Ανταμοιβές Δρώμενου]]></item>
+  <item name="av.win.material_event.btn.redeem"><![CDATA[Εξαργύρωση]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.title"><![CDATA[Δεν έχεις αρκετά αντικείμενα]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.msg"><![CDATA[Δεν έχεις συγκεντρώσει αρκετά αντικείμενα για να εξαργυρώσεις αυτό το αντικείμενο.]]></item>
+  <item name="av.win.material_event.popup.more_hangar.title"><![CDATA[Χρειάζεσαι ένα κατάλληλο υπόστεγο!]]></item>
+  <item name="av.win.material_event.popup.more_hangar.msg"><![CDATA[Χρειάζεσαι περισσότερο χώρο στο υπόστεγο!]]></item>
+ </category>
+</language>

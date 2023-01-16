@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.global">
+  <item name="av.global.gametitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.pagetitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.Label.buy"><![CDATA[Kopen]]></item>
+  <item name="av.global.ok"><![CDATA[OK]]></item>
+  <item name="av.global.cancel"><![CDATA[Annuleren]]></item>
+  <item name="av.global.minute"><![CDATA[minuut]]></item>
+  <item name="av.global.minutes"><![CDATA[minuten]]></item>
+  <item name="av.global.hour"><![CDATA[uur]]></item>
+  <item name="av.global.hours"><![CDATA[uren]]></item>
+  <item name="av.global.day"><![CDATA[dag]]></item>
+  <item name="av.global.days"><![CDATA[dagen]]></item>
+  <item name="av.global.passenger"><![CDATA[Passagier]]></item>
+  <item name="av.global.passengers"><![CDATA[Passagiers]]></item>
+  <item name="av.global.loading"><![CDATA[Gegevens laden ...]]></item>
+  <item name="av.global.send"><![CDATA[Start]]></item>
+  <item name="av.global.land"><![CDATA[Land]]></item>
+  <item name="av.global.logout"><![CDATA[Logout]]></item>
+  <item name="av.global.open"><![CDATA[Open]]></item>
+  <item name="av.global.close"><![CDATA[Sluiten]]></item>
+  <item name="av.global.select"><![CDATA[Selecteer]]></item>
+  <item name="av.global.maintenance"><![CDATA[Onderhoudswerkzaamheden]]></item>
+  <item name="av.global.maintenance_countdown"><![CDATA[Onderhoudswerkzaamheden over:]]></item>
+  <item name="av.global.quickservice"><![CDATA[Kant en klaar - Spoedafwikkeling]]></item>
+  <item name="av.global.superfuel"><![CDATA[Turbobrandstof]]></item>
+  <item name="av.global.superfuelboost_selectiontab"><![CDATA[Klik hier om je vesnellingswaarde te bepalen.]]></item>
+  <item name="av.global.superfuel.warningmessage"><![CDATA[Wil je echt tanken met turbobrandstof?]]></item>
+  <item name="av.global.instantlanding"><![CDATA[VIP-landing]]></item>
+  <item name="av.global.comingsoon"><![CDATA[Binnenkort ...]]></item>
+  <item name="av.global.planes.small"><![CDATA[Kleine toestellen]]></item>
+  <item name="av.global.planes.medium"><![CDATA[Medium toestellen]]></item>
+  <item name="av.global.planes.large"><![CDATA[Grote vliegtuigen]]></item>
+  <item name="av.global.plane"><![CDATA[Vliegtuig]]></item>
+  <item name="av.global.click"><![CDATA[Kopen]]></item>
+ </category>
+ <category name="av.instantlanding">
+  <item name="av.instantlanding.shortdesc"><![CDATA[Direct landen! Allemaal met 1 klik!]]></item>
+  <item name="av.instantlanding.warningmessage"><![CDATA[Wil je echt direct landen?]]></item>
+ </category>
+ <category name="av.xpoffer">
+  <item name="av.xpoffer.title"><![CDATA[Speciale aanbieding!]]></item>
+  <item name="av.xpoffer.offer"><![CDATA[Met deze items kun je je vliegveld mooier maken. Ze zijn speciaal voor je huidige level geselecteerd; je kunt dit pakket vanaf nu kopen voor deze ongelooflijk lage prijs!]]></item>
+  <item name="av.xpoffer.only"><![CDATA[voor slechts]]></item>
+ </category>
+ <category name="av.dutyfree">
+  <item name="av.dutyfree.title"><![CDATA[Taxfree]]></item>
+  <item name="av.dutyfree.buystorage"><![CDATA[Magazijn uitbreiden]]></item>
+  <item name="av.dutyfree.buygoods"><![CDATA[{number} product(en) toevoegen]]></item>
+ </category>
+ <category name="av.hangar">
+  <item name="av.hangar.title"><![CDATA[Hangar]]></item>
+  <item name="av.hangar.buyslot"><![CDATA[Hangar uitbreiden]]></item>
+  <item name="av.hangar.scrapplane"><![CDATA[Vliegtuig slopen]]></item>
+  <item name="av.hangar.security.title"><![CDATA[Vliegtuig slopen?]]></item>
+  <item name="av.hangar.security"><![CDATA[Wil je dit vliegtuig echt slopen?]]></item>
+  <item name="av.hangar.outofhangar"><![CDATA[Niet in de hangar]]></item>
+ </category>
+ <category name="av.landsidebuilding">
+  <item name="av.landsidebuilding.passenger"><![CDATA[{passenger}/{max}]]></item>
+ </category>
+ <category name="av.settings">
+  <item name="av.settings.show"><![CDATA[Instellingen weergeven]]></item>
+  <item name="av.settings.hide"><![CDATA[Instellingen verbergen]]></item>
+  <item name="av.settings.soundOn"><![CDATA[Muziek aan]]></item>
+  <item name="av.settings.soundOff"><![CDATA[Muziek uit]]></item>
+  <item name="av.settings.soundFxOn"><![CDATA[Geluidseffecten aan]]></item>
+  <item name="av.settings.soundFxOff"><![CDATA[Geluidseffecten uit]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Gegevens veranderen]]></item>
+  <item name="av.settings.animationOff"><![CDATA[Animaties (uit)]]></item>
+  <item name="av.settings.animationOn"><![CDATA[Animaties (uit)]]></item>
+  <item name="av.settings.quickServiceOn"><![CDATA[Spoedafwikkeling UIT]]></item>
+  <item name="av.settings.quickServiceOff"><![CDATA[Spoedafwikkeling AAN]]></item>
+  <item name="av.settings.superFuelOn"><![CDATA[Turbobrandstof (aan)]]></item>
+  <item name="av.settings.superFuelOff"><![CDATA[Turbobrandstof (uit)]]></item>
+  <item name="av.settings.fullscreenOn"><![CDATA[Volledig beeldscherm (AAN)]]></item>
+  <item name="av.settings.fullscreenOff"><![CDATA[Volledig beeldscherm (UIT)]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Gegevens veranderen]]></item>
+  <item name="av.settings.evoucher"><![CDATA[Bonuscode betaling]]></item>
+ </category>
+ <category name="av.buddy">
+  <item name="av.buddy.label.flyby"><![CDATA[Luchtreclame]]></item>
+  <item name="av.buddy.label.visit"><![CDATA[Bezoek]]></item>
+  <item name="av.buddy.exit.visit"><![CDATA[Vliegveld verlaten]]></item>
+  <item name="av.buddy.label.send"><![CDATA[Start]]></item>
+  <item name="av.buddy.label.add_buddy"><![CDATA[Nieuwe vriend]]></item>
+  <item name="av.buddy.label.delete"><![CDATA[Verwijderen]]></item>
+  <item name="av.buddy.delete_confirmation.title"><![CDATA[Vriend verwijderen]]></item>
+  <item name="av.buddy.delete_confirmation.text"><![CDATA[Wil je echt je vriend {buddy} verwijderen?]]></item>
+ </category>
+ <category name="av.rewardwindow">
+  <item name="av.rewardwindow.headline"><![CDATA[Gefeliciteerd - je hebt de missie "{goal_name}" afgesloten.]]></item>
+ </category>
+ <category name="av.flightmap">
+  <item name="av.flightmap.welcome"><![CDATA[Welkom in mijn land]]></item>
+  <item name="av.flightmap.back"><![CDATA[Terug]]></item>
+  <item name="av.flightmap.worldmap"><![CDATA[Wereldkaart]]></item>
+ </category>
+ <category name="av.souvenirwidget">
+  <item name="av.souvenirwidget.title"><![CDATA[Souvenirs]]></item>
+ </category>
+ <category name="av.flybywidget">
+  <item name="av.flybywidget.title"><![CDATA[Je luchtreclame]]></item>
+  <item name="av.flybywidget.entertext"><![CDATA[Voer hier je tekst in:]]></item>
+ </category>
+ <category name="av.levelupwidget">
+  <item name="av.levelupwidget.title"><![CDATA[Level up]]></item>
+  <item name="av.levelupwidget.message"><![CDATA[<b>Gefeliciteerd! Je hebt level {level} bereikt.<br>Geniet van je bonus en ga winkelen!</b>]]></item>
+  <item name="av.levelupwidget.unlocked"><![CDATA[Vrijgespeeld:]]></item>
+ </category>
+ <category name="av.fullscreen">
+  <item name="av.fullscreen.title"><![CDATA[Volledig beeldscherm sluiten]]></item>
+  <item name="av.fullscreen.message"><![CDATA[Je moet voor deze feature het volledige beeldscherm helaas sluiten.]]></item>
+  <item name="av.fullscreen.label"><![CDATA[Volledig beeldscherm sluiten]]></item>
+ </category>
+ <category name="av.paymentwidget">
+  <item name="av.paymentwidget.title"><![CDATA[Te weinig geld]]></item>
+  <item name="av.paymentwidget.message"><![CDATA[Je kunt dit niet betalen.]]></item>
+  <item name="av.paymentwidget.label.add_cash"><![CDATA[REGEL AIRCASH]]></item>
+ </category>
+ <category name="av.addfriendswidget">
+  <item name="av.addfriendswidget.title"><![CDATA[Vriend uitnodigen]]></item>
+  <item name="av.addfriendswidget.description"><![CDATA[Voer hier het e-mailadres of de usernaam in van je vriend(in) om hem/haar uit te nodigen voor Skyrama!]]></item>
+  <item name="av.addfriendswidget.info.emails"><![CDATA[Voer hier de e-mailadressen in (je kunt ze scheiden met een ";")]]></item>
+  <item name="av.addfriendswidget.info.usernames"><![CDATA[Voer hier de usernamen in (je kunt ze scheiden met een ";")]]></item>
+  <item name="av.addfriendswidget.error.emails"><![CDATA[Controleer het e-mailadres]]></item>
+  <item name="av.addfriendswidget.error.usernames"><![CDATA[Controleer de usernaam]]></item>
+  <item name="av.addfriendswidget.label.send"><![CDATA[Start]]></item>
+ </category>
+ <category name="av.viewfriendswidget">
+  <item name="av.viewfriendswidget.title"><![CDATA[Uitnodigingen]]></item>
+  <item name="av.viewfriendswidget.description_invites"><![CDATA[Je hebt {number} uitnodiging(en) ontvangen]]></item>
+  <item name="av.viewfriendswidget.description_no_invites"><![CDATA[Er staan geen uitnodigingen meer open!]]></item>
+  <item name="av.viewfriendswidget.accept_invitation"><![CDATA[Accepteren]]></item>
+  <item name="av.viewfriendswidget.decline_invitation"><![CDATA[Afwijzen]]></item>
+ </category>
+ <category name="av.evoucherwidget">
+  <item name="av.evoucherwidget.title"><![CDATA[Een bonuscode?]]></item>
+  <item name="av.evoucherwidget.input.text"><![CDATA[Vul in voor je beloning.]]></item>
+  <item name="av.evoucherwidget.input.hint"><![CDATA[Bonuscode]]></item>
+  <item name="av.evoucherwidget.input.error"><![CDATA[Hier invullen.]]></item>
+  <item name="av.evoucherwidget.progress"><![CDATA[Verifiëren...]]></item>
+  <item name="av.evoucherwidget.success.discount"><![CDATA[Bonuscode met succes verwerkt. Met een klik beland je in het]]></item>
+  <item name="av.evoucherwidget.success.discount.link"><![CDATA[paymentgedeelte!]]></item>
+  <item name="av.evoucherwidget.success.ingameitems"><![CDATA[Bonuscode met succes verwerkt. Log je opnieuw in, word beloond!]]></item>
+  <item name="av.evoucherwidget.error"><![CDATA[Bonuscode ongeldig]]></item>
+ </category>
+ <category name="av.passwordwidget">
+  <item name="av.passwordwidget.title"><![CDATA[Wachtwoord veranderen]]></item>
+  <item name="av.passwordwidget.message"><![CDATA[Voer je nieuwe wachtwoord in.]]></item>
+  <item name="av.passwordwidget.old"><![CDATA[Voer je oude wachtwoord in.]]></item>
+  <item name="av.passwordwidget.info.old"><![CDATA[oude wachtwoord]]></item>
+  <item name="av.passwordwidget.new"><![CDATA[Voer je nieuwe wachtwoord in.]]></item>
+  <item name="av.passwordwidget.info.new"><![CDATA[nieuw wachtwoord]]></item>
+  <item name="av.passwordwidget.confirm"><![CDATA[Bevestig je nieuwe wachtwoord.]]></item>
+  <item name="av.passwordwidget.info.confirm"><![CDATA[bevestig wachtwoord]]></item>
+  <item name="av.passwordwidget.save"><![CDATA[Opslaan]]></item>
+  <item name="av.passwordwidget.cancel"><![CDATA[Annuleren]]></item>
+ </category>
+ <category name="av.flybyitem">
+  <item name="av.flybyitem.dummy"><![CDATA[Dummy]]></item>
+  <item name="av.flybyitem.sms_ownmessage"><![CDATA[Je eigen tekst!]]></item>
+  <item name="av.flybyitem.banner1"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner2"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner3"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner4"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner5"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner6"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner7"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner8"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner9"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner10"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner11"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner22"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner23"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner24"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner25"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner26"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.banner27"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.bff"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.cargo"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.coffee"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.friends1"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.friends2"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.greetings"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.ican"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.lol"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.love"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.medium"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.missu"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.music_hearts"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.omn"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.pinup_girl"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.planes"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.stars_elegant"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.thankyou_elegant"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.wtf"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.test"><![CDATA[Test]]></item>
+  <item name="av.flybyitem.unlock_message"><![CDATA[Koop het nu met Aircash of bereik level {required_level}]]></item>
+  <item name="av.flybyitem.effect"><![CDATA[Trakteer je vrienden op een vuurwerkspektakel.]]></item>
+  <item name="av.flybyitem.bday_champagne"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.birthday_girly"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.birthday_ufo"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.cheers_text"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.fluffy_heart"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.smiley_cool"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.smiley_kitten"><![CDATA[Luchtreclame]]></item>
+  <item name="av.flybyitem.smiley_surprised"><![CDATA[Luchtreclame]]></item>
+ </category>
+ <category name="av.selectcountry">
+  <item name="av.selectcountry.hint"><![CDATA[In welk land wil je je vliegveld aanleggen?]]></item>
+  <item name="av.flightmap.selectContinent"><![CDATA[Selecteer je continent]]></item>
+  <item name="av.selectcountry.next"><![CDATA[Volgende]]></item>
+ </category>
+ <category name="av.topbar">
+  <item name="av.topbar.tooltip.aircoins"><![CDATA[Aircoins]]></item>
+  <item name="av.topbar.tooltip.aircash"><![CDATA[Aircash]]></item>
+  <item name="av.topbar.tooltip.xp"><![CDATA[EP]]></item>
+  <item name="av.topbar.tooltip.dutyfree"><![CDATA[Tax free]]></item>
+  <item name="av.topbar.tooltip.passengers"><![CDATA[Passagiers (blijven max. 5 dagen)]]></item>
+  <item name="av.topbar.tooltip.addcash"><![CDATA[Regel Aircash]]></item>
+  <item name="av.topbar.addcash"><![CDATA[Regel Aircash]]></item>
+ </category>
+ <category name="av.dashboard">
+  <item name="av.dashboard.airportname"><![CDATA[{name}'s vliegveld]]></item>
+  <item name="av.dashboard.store"><![CDATA[Winkel]]></item>
+  <item name="av.dashboard.tool"><![CDATA[Tools]]></item>
+  <item name="av.dashboard.storage"><![CDATA[Inventaris]]></item>
+  <item name="av.dashboard.souvenir"><![CDATA[Souvenirs]]></item>
+  <item name="av.dashboard.flight"><![CDATA[Vluchten]]></item>
+  <item name="av.dashboard.store_cat"><![CDATA[Winkel: {category}]]></item>
+  <item name="av.dashboard.movetostorage"><![CDATA[Naar het magazijn]]></item>
+  <item name="av.dashboard.mirror"><![CDATA[Draaien]]></item>
+  <item name="av.dashboard.move"><![CDATA[Verplaatsen]]></item>
+  <item name="av.dashboard.incoming_flights"><![CDATA[Terugkerende vluchten]]></item>
+  <item name="av.dashboard.buddy_flights"><![CDATA[Vluchten van vrienden]]></item>
+  <item name="av.dashboard.new_flights"><![CDATA[Nieuwe vluchten]]></item>
+  <item name="av.dashboard.minimize"><![CDATA[Minimaliseren]]></item>
+  <item name="av.dashboard.maximize"><![CDATA[Maximaliseren]]></item>
+  <item name="av.dashboard.buddy_ping_title"><![CDATA[Vliegtuigen aanvragen]]></item>
+  <item name="av.dashboard.buddy_ping_text"><![CDATA[Resterende tijd (min.):]]></item>
+ </category>
+ <category name="av.storepanel">
+  <item name="av.storepanel.passenger"><![CDATA[Passagierstoestellen]]></item>
+  <item name="av.storepanel.cargo"><![CDATA[Vrachttoestellen]]></item>
+  <item name="av.storepanel.helicopter"><![CDATA[Ramacopters]]></item>
+  <item name="av.storepanel.seaplane"><![CDATA[Watervliegtuigen]]></item>
+  <item name="av.storepanel.largeplane"><![CDATA[Grote vliegtuigen ]]></item>
+ </category>
+ <category name="av.visitairport">
+  <item name="av.visitairport.notification.title"><![CDATA[Er was bezoek voor je!]]></item>
+  <item name="av.visitairport.notification.text"><![CDATA[Volgende spelers hebben je vliegveld bezocht:<br/><br/>{users}<br/><br/>Ze hebben {number} nieuwe passagiers meegebracht.]]></item>
+ </category>
+ <category name="av.multilogin">
+  <item name="av.multilogin.title"><![CDATA[Info]]></item>
+  <item name="av.multilogin.text"><![CDATA[Je hebt je al ingelogd op dit account. Om problemen die daardoor kunnen ontstaan te voorkomen, word je automatisch uitgelogd!]]></item>
+ </category>
+ <category name="av.login_bonus">
+  <item name="av.login_bonus.title"><![CDATA[Loginbonus]]></item>
+  <item name="av.login_bonus.button"><![CDATA[Blije Bagage]]></item>
+  <item name="av.login_bonus.text"><![CDATA[Je hebt je {days} dagen op rij ingelogd! Daarom mag je nu {number} keer gratis draaien. Log je morgen opnieuw in en scoor een nieuwe gratis poging.]]></item>
+  <item name="av.login_bonus.spin"><![CDATA[Draaien]]></item>
+  <item name="av.login_bonus.spin_count"><![CDATA[{count}x]]></item>
+ </category>
+ <category name="av.quickservice">
+  <item name="av.quickservice.text"><![CDATA[Kant en klaar - Spoedafwikkeling]]></item>
+  <item name="av.quickservice.offtitle"><![CDATA[Spoedafwikkeling]]></item>
+  <item name="av.quickservice.offtext"><![CDATA[Wil je echt de spoedafwikkeling uitvoeren bij dit vliegtuig?]]></item>
+ </category>
+ <category name="av.serverproblems">
+  <item name="av.serverproblems.timed_out"><![CDATA[De server is vastgelopen. Laad het spel opnieuw om verdere problemen te voorkomen.]]></item>
+ </category>
+ <category name="av.zeppelin">
+  <item name="av.zeppelin.title"><![CDATA[Zeppelin Hangar]]></item>
+  <item name="av.zeppelin.buylanding"><![CDATA[Direct-landing]]></item>
+  <item name="av.zeppelin.buyfuel"><![CDATA[Volle tank]]></item>
+  <item name="av.zeppelin.destination_1"><![CDATA[Jungle]]></item>
+  <item name="av.zeppelin.destination_2"><![CDATA[Noordpool]]></item>
+  <item name="av.zeppelin.destination_3"><![CDATA[Woestijn]]></item>
+  <item name="av.zeppelin.destination_4"><![CDATA[Berg]]></item>
+  <item name="av.zeppelin.destination_5"><![CDATA[Vulkaan]]></item>
+  <item name="av.zeppelin.flytodestination"><![CDATA[Vlieg naar:<br />{destination}]]></item>
+  <item name="av.zeppelin.returned_headline"><![CDATA[Gefeliciteerd]]></item>
+  <item name="av.zeppelin.youfound"><![CDATA[Je vondst:]]></item>
+  <item name="av.zeppelin.take1more"><![CDATA[Regel nog 1 souvenir]]></item>
+  <item name="av.zeppelin.returnhome"><![CDATA[Kom nu terug naar huis!]]></item>
+  <item name="av.zeppelin.readytoland"><![CDATA[Zeppelinexpeditie is klaar om te landen!]]></item>
+  <item name="av.zeppelin.retrieving1more"><![CDATA[Scoor een ander souvenir...]]></item>
+  <item name="av.zeppelin.requiredfuel"><![CDATA[Vereiste brandstof: {fuel}]]></item>
+ </category>
+ <category name="av.win.eng_bay">
+  <item name="av.win.eng_bay.title"><![CDATA[Werkplaats]]></item>
+  <item name="av.win.eng_bay.res.title"><![CDATA[Welkom in de werkplaats]]></item>
+  <item name="av.win.eng_bay.res.intro"><![CDATA[Zo gemakkelijk is het: stuur vliegtuigen op pad ... en je wordt beloond met leuke accessoires!]]></item>
+  <item name="av.win.eng_bay.res.more"><![CDATA[Sommige items krijg je alleen met bepaalde toestellen.<br/>Hoe langer de vlucht des te groter de buit!]]></item>
+  <item name="av.win.eng_bay.cost"><![CDATA[Nodig:]]></item>
+  <item name="av.win.eng_bay.reward"><![CDATA[Bonus]]></item>
+  <item name="av.win.eng_bay.btn.upgrade"><![CDATA[Opleuken]]></item>
+  <item name="av.win.eng_bay.btn.getRes"><![CDATA[Regel materiaal!]]></item>
+  <item name="av.win.eng_bay.upgrading"><![CDATA[Upgrade wordt uitgevoerd ...]]></item>
+  <item name="av.win.eng_bay.locked"><![CDATA[Je kunt maar 1 upgrade tegelijk doorvoeren.]]></item>
+ </category>
+ <category name="av.tooltip.eng_bay">
+  <item name="av.tooltip.eng_bay.tab.0"><![CDATA[Info]]></item>
+  <item name="av.tooltip.eng_bay.tab.locked"><![CDATA[Je hebt nog geen {type}!]]></item>
+  <item name="av.tooltip.eng_bay.tab.empty"><![CDATA[Je hebt geen {type} in je hangar!]]></item>
+  <item name="av.tooltip.eng_bay.btn.notupgrade"><![CDATA[Te weinig materiaal!]]></item>
+ </category>
+ <category name="av.consumable">
+  <item name="av.consumable.1"><![CDATA[Bouwpakket]]></item>
+  <item name="av.consumable.2"><![CDATA[Bouwpakket deluxe]]></item>
+  <item name="av.consumable.3"><![CDATA[Passagierstoestel (stukje)]]></item>
+  <item name="av.consumable.4"><![CDATA[Vrachttoestel (stukje)]]></item>
+  <item name="av.consumable.5"><![CDATA[Helikopter (stukje)]]></item>
+  <item name="av.consumable.6"><![CDATA[Watervliegtuig (stukje)]]></item>
+  <item name="av.consumable.13"><![CDATA[Laurierkrans]]></item>
+  <item name="av.consumable.14"><![CDATA[Discus]]></item>
+  <item name="av.consumable.15"><![CDATA[Halter]]></item>
+  <item name="av.consumable.16"><![CDATA[Hardloopschoen]]></item>
+  <item name="av.consumable.17"><![CDATA[Werphamer]]></item>
+  <item name="av.consumable.18"><![CDATA[Sneeuwvlok]]></item>
+  <item name="av.consumable.19"><![CDATA[Kleine antivries]]></item>
+  <item name="av.consumable.20"><![CDATA[Medium antivries]]></item>
+  <item name="av.consumable.21"><![CDATA[Helikopter-antivries]]></item>
+  <item name="av.consumable.22"><![CDATA[Aqua-antivries]]></item>
+  <item name="av.consumable.23"><![CDATA[Doos bonbons]]></item>
+  <item name="av.consumable.24"><![CDATA[Toffeetraktatie]]></item>
+  <item name="av.consumable.25"><![CDATA[Walnotenwind]]></item>
+  <item name="av.consumable.26"><![CDATA[Pralinépassie]]></item>
+  <item name="av.consumable.27"><![CDATA[Oranje lekkernij]]></item>
+ </category>
+ <category name="av.upgrade">
+  <item name="av.upgrade.1"><![CDATA[Motor]]></item>
+  <item name="av.upgrade.2"><![CDATA[Propeller]]></item>
+  <item name="av.upgrade.3"><![CDATA[Navigatiesysteem]]></item>
+  <item name="av.upgrade.4"><![CDATA[VIP-stoel]]></item>
+  <item name="av.upgrade.5"><![CDATA[Meer laadruim]]></item>
+  <item name="av.upgrade.6"><![CDATA[Stabilisator]]></item>
+  <item name="av.upgrade.789"><![CDATA[Upgrade]]></item>
+ </category>
+ <category name="av.crafting">
+  <item name="av.crafting.1"><![CDATA[Pin]]></item>
+  <item name="av.crafting.2"><![CDATA[Metaal]]></item>
+  <item name="av.crafting.3"><![CDATA[Kunststof]]></item>
+  <item name="av.crafting.4"><![CDATA[Elektronica]]></item>
+  <item name="av.crafting.5"><![CDATA[Stoffen]]></item>
+  <item name="av.crafting.6"><![CDATA[Glas]]></item>
+ </category>
+ <category name="av.win.unlock.eng_bay">
+  <item name="av.win.unlock.eng_bay.title.levelup"><![CDATA[Vrijgespeeld!]]></item>
+  <item name="av.win.unlock.eng_bay.title.overlevel"><![CDATA[Nieuwe feature!]]></item>
+  <item name="av.win.unlock.eng_bay.text.levelup"><![CDATA[Hartelijk gefeliciteerd, je hebt nu level {level} bereikt!]]></item>
+  <item name="av.win.unlock.eng_bay.text.overlevel"><![CDATA[Onze nieuwe werkplaats: laten we de boel lekker opleuken!]]></item>
+  <item name="av.win.unlock.eng_bay.main"><![CDATA[Nieuw in de winkel: de werkplaats!<br/> Wissel materiaal in tegen items ... rust je vloot uit en val in de smaak bij de passagiers!]]></item>
+  <item name="av.win.unlock.eng_bay.received"><![CDATA[Sla nu je slag ... lekker knutselen!]]></item>
+ </category>
+ <category name="av.win.bundle">
+  <item name="av.win.bundle.title"><![CDATA[Je materiaalset:]]></item>
+  <item name="av.win.bundle.text"><![CDATA[Klasse! Dat materiaal is van topkwaliteit!<br/>Tijd om te klussen ... ik wil de boel flink opleuken!]]></item>
+  <item name="av.win.bundle.received"><![CDATA[Je keuze:]]></item>
+ </category>
+ <category name="av.win.logout">
+  <item name="av.win.logout.title"><![CDATA[Logout]]></item>
+  <item name="av.win.logout.text"><![CDATA[Wil je echt het spel verlaten?]]></item>
+ </category>
+ <category name="av.win.buy_conf">
+  <item name="av.win.buy_conf.title"><![CDATA[Bevestigen]]></item>
+  <item name="av.win.buy_conf.buy.text"><![CDATA[Echt kopen?]]></item>
+  <item name="av.win.buy_conf.del.text"><![CDATA[Echt uit je inventaris verwijderen?]]></item>
+  <item name="av.win.buy_conf.sell.text"><![CDATA[Wil je dit item echt verkopen voor {x} {money}?]]></item>
+ </category>
+ <category name="av.win.error">
+  <item name="av.win.error.global.title"><![CDATA[Oeps!]]></item>
+  <item name="av.win.error.global.text"><![CDATA[Het spel is vanwege technische problemen afgesloten.]]></item>
+  <item name="av.win.error.connection.title"><![CDATA[Verbinding verbroken]]></item>
+  <item name="av.win.error.connection.text"><![CDATA[Je hebt problemen met je internetverbinding.]]></item>
+  <item name="av.win.error.reload.text"><![CDATA[Wil je het spel opnieuw laden?]]></item>
+ </category>
+ <category name="av.win.eventBaskets">
+  <item name="av.win.eventBaskets.title"><![CDATA[De grote plus!]]></item>
+  <item name="av.win.eventBaskets.text"><![CDATA[Succes op alle vlakken: bemachtig deze aanbiedingen!]]></item>
+ </category>
+ <category name="av.storage.deleteItems">
+  <item name="av.storage.deleteItems.title"><![CDATA[Verkopen]]></item>
+  <item name="av.storage.deleteItems.warning"><![CDATA[Wil je dit item werkelijk verkopen voor {value} Aircoins?]]></item>
+  <item name="av.storage.deleteItems.sellbtn"><![CDATA[Verkopen]]></item>
+ </category>
+ <category name="av.win.happyhour">
+  <item name="av.win.happyhour.title"><![CDATA[Happy-Hour]]></item>
+  <item name="av.win.happyhour.info"><![CDATA[Happy-Hour-Actie: {prozent}% extra voor hoogvliegers!]]></item>
+  <item name="av.win.happyhour.plustext1"><![CDATA[Koop tijdens Happy-Hour b.v. 100 Aircash en ontvang er {calcvalue}!]]></item>
+  <item name="av.win.happyhour.plustext2"><![CDATA[Doorbreek de geluidsbarrière en breid je vliegveld uit!]]></item>
+  <item name="av.win.happyhour.plustext3"><![CDATA[Grijp meteen je kans, voor het te laat is!]]></item>
+  <item name="av.win.happyhour.button"><![CDATA[Kopen]]></item>
+ </category>
+ <category name="av.win.recycling_building">
+  <item name="av.win.recycling_building.title"><![CDATA[Recyclingcentrum]]></item>
+  <item name="av.win.recycling_building.res.title"><![CDATA[Welkom bij het recyclingcentrum]]></item>
+  <item name="av.win.recycling_building.res.intro"><![CDATA[Oud wordt nieuw! Heb je meer hangarruimte of meer onderdelen nodig voor nieuwe super-vliegtuigen? Dan ben je hier aan het juiste adres.]]></item>
+  <item name="av.win.recycling_building.res.more"><![CDATA[Demonteer hier je oude vliegtuigen. Ieder toestel geeft je kans op verschillende onderdelen, waarmee je in de montagehal geweldige nieuwe vliegtuigen kunt maken!]]></item>
+  <item name="av.win.recycling_building.level"><![CDATA[Je recyclinglevel]]></item>
+  <item name="av.win.recycling_building.level_up"><![CDATA[Je hebt recyclinglevel {x} bereikt!]]></item>
+  <item name="av.win.recycling_building.tooltip.small_planes"><![CDATA[Aantal kleine vliegtuigen in de hangar ]]></item>
+  <item name="av.win.recycling_building.tooltip.medium_planes"><![CDATA[Aantal medium vliegtuigen in de hangar]]></item>
+  <item name="av.win.recycling_building.tooltip.material1"><![CDATA[Aircoins]]></item>
+  <item name="av.win.recycling_building.tooltip.material7"><![CDATA[Pin]]></item>
+  <item name="av.win.recycling_building.tooltip.material8"><![CDATA[Metaal]]></item>
+  <item name="av.win.recycling_building.tooltip.material9"><![CDATA[Kunststof]]></item>
+  <item name="av.win.recycling_building.tooltip.material10"><![CDATA[Elektronica]]></item>
+  <item name="av.win.recycling_building.tooltip.material11"><![CDATA[Stoffen]]></item>
+  <item name="av.win.recycling_building.tooltip.material12"><![CDATA[Glas]]></item>
+  <item name="av.win.recycling_building.btn.ok"><![CDATA[OKE]]></item>
+  <item name="av.win.recycling_building.gears"><![CDATA[Voortgang]]></item>
+  <item name="av.win.recycling_building.option.info"><![CDATA[Sloop vliegtuigen, krijg onderdelen. Links zie je de succesprognose!]]></item>
+  <item name="av.win.recycling_building.option.time"><![CDATA[Recyclingduur: {x} u]]></item>
+  <item name="av.win.recycling_building.option.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.recycling_building.btn.dissemble"><![CDATA[Demonteren]]></item>
+  <item name="av.win.recycling_building.btn.collect"><![CDATA[Ophalen]]></item>
+  <item name="av.win.recycling_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.recycling_building.btn.sideflag2"><![CDATA[Kleine toestellen]]></item>
+  <item name="av.win.recycling_building.btn.sideflag3"><![CDATA[Medium toestellen]]></item>
+  <item name="av.win.recycling_building.btn.sideflag.disabled"><![CDATA[Niet genoeg vliegtuigen]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.title"><![CDATA[Weg ermee]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.msg"><![CDATA[Wil je dit vliegtuig werkelijk demonteren?]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.title"><![CDATA[Voltooien]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.msg"><![CDATA[Demontage meteen voltooien?]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.title"><![CDATA[Je hebt te weinig Aircoins!]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.msg"><![CDATA[Je hebt te weinig Aircash!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.title"><![CDATA[Recycling level-up!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.msg"><![CDATA[Geweldig! Je recyclinglevel is gestegen. Je kansen op betere onderdelen zijn verhoogd!]]></item>
+  <item name="av.win.recycling_building.popup.yes"><![CDATA[OKE]]></item>
+  <item name="av.win.recycling_building.popup.no"><![CDATA[Annuleren]]></item>
+  <item name="av.win.recycling_building.popup.recycling_done.title"><![CDATA[Je krijgt:]]></item>
+ </category>
+ <category name="av.win.crafting_building">
+  <item name="av.win.crafting_building.title"><![CDATA[Montagehal]]></item>
+  <item name="av.win.crafting_building.res.title"><![CDATA[De hal op aarde]]></item>
+  <item name="av.win.crafting_building.res.intro"><![CDATA[In de montagehal maak je baanbrekende vliegtuigen van je onderdelen!]]></item>
+  <item name="av.win.crafting_building.res.more"><![CDATA[Met vier passende delen uit het recyclingcentrum laat je hier een nieuw vliegtuig van de band rollen. Wil je de productie versnellen? Huur dan gewoon nog een gebouw.]]></item>
+  <item name="av.win.crafting_building.level"><![CDATA[Je constructielevel]]></item>
+  <item name="av.win.crafting_building.tooltip.cockpit"><![CDATA[Cockpit]]></item>
+  <item name="av.win.crafting_building.tooltip.body"><![CDATA[Romp]]></item>
+  <item name="av.win.crafting_building.tooltip.wingunit"><![CDATA[Vleugeldeel]]></item>
+  <item name="av.win.crafting_building.tooltip.powerunit"><![CDATA[Motor]]></item>
+  <item name="av.win.crafting_building.tooltip.time"><![CDATA[Duur tot voltooiing ]]></item>
+  <item name="av.win.crafting_building.gears"><![CDATA[Voortgang]]></item>
+  <item name="av.win.crafting_building.btn.combine"><![CDATA[Fabriceren]]></item>
+  <item name="av.win.crafting_building.btn.build"><![CDATA[Bouwen]]></item>
+  <item name="av.win.crafting_building.btn.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.crafting_building.btn.collect"><![CDATA[Ophalen]]></item>
+  <item name="av.win.crafting_building.btn.ok"><![CDATA[OKE]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.title"><![CDATA[Montagehal huren?]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.msg"><![CDATA[Een extra hal voor 24 uur. Voor {x} Aircash heb je hem!]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.msg"><![CDATA[Je hebt meer Aircash nodig, om een extra montagehal te huren. ]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.title"><![CDATA[Te weinig poen?]]></item>
+  <item name="av.win.crafting_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.crafting_building.btn.sideflag2"><![CDATA[Montagehal 1]]></item>
+  <item name="av.win.crafting_building.btn.sideflag3"><![CDATA[Montagehal 2]]></item>
+  <item name="av.win.crafting_building.btn.sideflag4"><![CDATA[Montagehal 3]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.title"><![CDATA[Je hebt te weinig Aircoins!]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.msg"><![CDATA[Je hebt te weinig Aircash!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.title"><![CDATA[Je hebt geen plaats in je hangar!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.msg"><![CDATA[Je moet eerst je hangar uitbreiden!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.title"><![CDATA[Voltooien!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.msg"><![CDATA[Meteen voltooien?]]></item>
+  <item name="av.win.crafting_building.popup.crafting_done.title"><![CDATA[Je krijgt:]]></item>
+  <item name="av.win.crafting_building.popup.levelup.title"><![CDATA[Constructielevel +]]></item>
+  <item name="av.win.crafting_building.popup.levelup.msg"><![CDATA[Ongelooflijk! Je hebt een nieuw constructielevel bereikt en nieuwe vliegtuigen ontgrendeld!]]></item>
+  <item name="av.win.crafting_building.popup.yes"><![CDATA[OKE]]></item>
+  <item name="av.win.crafting_building.popup.no"><![CDATA[Annuleren]]></item>
+ </category>
+ <category name="av.win.material_event">
+  <item name="av.win.material_event.res.intro"><![CDATA[Klaar voor de start... af! Verzamel zoveel mogelijk Airlympic-items en wissel ze in voor geweldige eventvliegtuigen!]]></item>
+  <item name="av.win.material_event.res.title"><![CDATA[Kom maar op met de Spelen!]]></item>
+  <item name="av.win.material_event.res.more"><![CDATA[Ieder type vliegtuig heeft zijn eigen unieke verzamelitems. Wissel ze in voor die geweldige eventvliegtuigen!]]></item>
+  <item name="av.win.material_event.btn.side_flag1"><![CDATA[Event info]]></item>
+  <item name="av.win.material_event.btn.side_flag2"><![CDATA[Eventbeloningen]]></item>
+  <item name="av.win.material_event.btn.redeem"><![CDATA[Verzilveren]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.title"><![CDATA[Niet genoeg items]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.msg"><![CDATA[Je hebt nog niet genoeg items verzameld voor dit item.]]></item>
+  <item name="av.win.material_event.popup.more_hangar.title"><![CDATA[Je hebt een passende hangar nodig!]]></item>
+  <item name="av.win.material_event.popup.more_hangar.msg"><![CDATA[Je hebt meer ruimte in je hangar nodig!]]></item>
+ </category>
+</language>

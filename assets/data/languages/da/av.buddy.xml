@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.buddy">
+  <item name="av.buddy.title"><![CDATA[Add buddies!]]></item>
+  <item name="av.buddy.text"><![CDATA[United we stand - invite your friends to play with you!]]></item>
+  <item name="av.buddy.search"><![CDATA[Add friends to your buddy list]]></item>
+  <item name="av.buddy.search.hint"><![CDATA[Username/User ID]]></item>
+  <item name="av.buddy.search.button"><![CDATA[Søg]]></item>
+  <item name="av.buddy.search.results"><![CDATA[Resultater]]></item>
+  <item name="av.buddy.search.searching"><![CDATA[Søger...]]></item>
+  <item name="av.buddy.search.add"><![CDATA[Tilføj til mine venner]]></item>
+  <item name="av.buddy.search.user_result"><![CDATA[{username} (ID: {id})]]></item>
+  <item name="av.buddy.search.user_notfound"><![CDATA[Player not found]]></item>
+  <item name="av.buddy.search.user_added"><![CDATA[Spiller tilføjet succesfuldt]]></item>
+  <item name="av.buddy.search.user_notadded"><![CDATA[Spiller kunne ikke tilføjes]]></item>
+  <item name="av.buddy.search.user_yourself"><![CDATA[You cannot add yourself.]]></item>
+  <item name="av.buddy.search.user_already"><![CDATA[This user is already your buddy]]></item>
+  <item name="av.buddy.email"><![CDATA[E-mail invite]]></item>
+ </category>
+</language>

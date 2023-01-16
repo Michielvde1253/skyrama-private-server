@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.global">
+  <item name="av.global.gametitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.pagetitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.Label.buy"><![CDATA[Køb]]></item>
+  <item name="av.global.ok"><![CDATA[OK]]></item>
+  <item name="av.global.cancel"><![CDATA[Annuller]]></item>
+  <item name="av.global.minute"><![CDATA[minut]]></item>
+  <item name="av.global.minutes"><![CDATA[minutter]]></item>
+  <item name="av.global.hour"><![CDATA[time]]></item>
+  <item name="av.global.hours"><![CDATA[timer]]></item>
+  <item name="av.global.day"><![CDATA[dag]]></item>
+  <item name="av.global.days"><![CDATA[dage]]></item>
+  <item name="av.global.passenger"><![CDATA[Passager]]></item>
+  <item name="av.global.passengers"><![CDATA[Passagerer]]></item>
+  <item name="av.global.loading"><![CDATA[data lades]]></item>
+  <item name="av.global.send"><![CDATA[Send]]></item>
+  <item name="av.global.land"><![CDATA[Land]]></item>
+  <item name="av.global.logout"><![CDATA[Logud]]></item>
+  <item name="av.global.open"><![CDATA[Åben]]></item>
+  <item name="av.global.close"><![CDATA[Luk]]></item>
+  <item name="av.global.select"><![CDATA[Vælg]]></item>
+  <item name="av.global.maintenance"><![CDATA[Vedligeholdelsesarbejde]]></item>
+  <item name="av.global.maintenance_countdown"><![CDATA[Vedligeholdelsesarbejde om:]]></item>
+  <item name="av.global.quickservice"><![CDATA[Alt du kan quickservice]]></item>
+  <item name="av.global.superfuel"><![CDATA[Super brændstof]]></item>
+  <item name="av.global.superfuelboost_selectiontab"><![CDATA[Klik for at sætte acceleration på.
+]]></item>
+  <item name="av.global.superfuel.warningmessage"><![CDATA[Ønsker du virkelig at bruge Super Brændstof?]]></item>
+  <item name="av.global.instantlanding"><![CDATA[VIP landing
+]]></item>
+  <item name="av.global.comingsoon"><![CDATA[Kommer snart ...]]></item>
+  <item name="av.global.planes.small"><![CDATA[Lille fly]]></item>
+  <item name="av.global.planes.medium"><![CDATA[Mellemstor fly]]></item>
+  <item name="av.global.planes.large"><![CDATA[Store flyvere]]></item>
+  <item name="av.global.plane"><![CDATA[Flyvemaskine]]></item>
+  <item name="av.global.click"><![CDATA[Køb]]></item>
+ </category>
+ <category name="av.instantlanding">
+  <item name="av.instantlanding.shortdesc"><![CDATA[Land i en fart. Et klik er nok!
+]]></item>
+  <item name="av.instantlanding.warningmessage"><![CDATA[Ønsker du at lande med det samme?
+]]></item>
+ </category>
+ <category name="av.xpoffer">
+  <item name="av.xpoffer.title"><![CDATA[Special tilbud!]]></item>
+  <item name="av.xpoffer.offer"><![CDATA[Disse itmes vil forbedre din lufthavn. Det perfekte valg til dit aktuelle level. Superpakken til ekstremt lav pris, men kun nu!]]></item>
+  <item name="av.xpoffer.only"><![CDATA[for kun]]></item>
+ </category>
+ <category name="av.dutyfree">
+  <item name="av.dutyfree.title"><![CDATA[Toldfri handel]]></item>
+  <item name="av.dutyfree.buystorage"><![CDATA[Forøg dit lastrum]]></item>
+  <item name="av.dutyfree.buygoods"><![CDATA[Tilføj {number} varer]]></item>
+ </category>
+ <category name="av.hangar">
+  <item name="av.hangar.title"><![CDATA[Hangar]]></item>
+  <item name="av.hangar.buyslot"><![CDATA[Udvid hangar]]></item>
+  <item name="av.hangar.scrapplane"><![CDATA[Skrot flyet]]></item>
+  <item name="av.hangar.security.title"><![CDATA[Skrot fly?]]></item>
+  <item name="av.hangar.security"><![CDATA[Vil du virkelig skrotte flyet?]]></item>
+  <item name="av.hangar.outofhangar"><![CDATA[Ude af hangaren, du kan ikke skrotte et fly der er i aktivt brug.]]></item>
+ </category>
+ <category name="av.landsidebuilding">
+  <item name="av.landsidebuilding.passenger"><![CDATA[{passenger}/{max}]]></item>
+ </category>
+ <category name="av.settings">
+  <item name="av.settings.show"><![CDATA[Vis indstillinger]]></item>
+  <item name="av.settings.hide"><![CDATA[Skjul indstillinger]]></item>
+  <item name="av.settings.soundOn"><![CDATA[musik til]]></item>
+  <item name="av.settings.soundOff"><![CDATA[musik fra]]></item>
+  <item name="av.settings.soundFxOn"><![CDATA[sfx til]]></item>
+  <item name="av.settings.soundFxOff"><![CDATA[sfx fra]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Ændre oplysninger]]></item>
+  <item name="av.settings.animationOff"><![CDATA[Animationer til/fra]]></item>
+  <item name="av.settings.animationOn"><![CDATA[Slå animationer til]]></item>
+  <item name="av.settings.quickServiceOn"><![CDATA[Hurtig Service/klik for at skjule "Hurtig Service" funktionen]]></item>
+  <item name="av.settings.quickServiceOff"><![CDATA[Hurtig Service/klik for at vise "Hurtig Service" funktionen]]></item>
+  <item name="av.settings.superFuelOn"><![CDATA[Aktiver Super Brændstof]]></item>
+  <item name="av.settings.superFuelOff"><![CDATA[Deaktiver Super Brændstof]]></item>
+  <item name="av.settings.fullscreenOn"><![CDATA[Aktiver fuldskærm]]></item>
+  <item name="av.settings.fullscreenOff"><![CDATA[Deaktiver fuldskærm]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Ændre oplysninger]]></item>
+  <item name="av.settings.evoucher"><![CDATA[Bonuskode-betaling]]></item>
+ </category>
+ <category name="av.buddy">
+  <item name="av.buddy.label.flyby"><![CDATA[Medflyver]]></item>
+  <item name="av.buddy.label.visit"><![CDATA[Besøg]]></item>
+  <item name="av.buddy.exit.visit"><![CDATA[Forlad lufthavn]]></item>
+  <item name="av.buddy.label.send"><![CDATA[Send]]></item>
+  <item name="av.buddy.label.add_buddy"><![CDATA[Tilføj ven]]></item>
+  <item name="av.buddy.label.delete"><![CDATA[Slet]]></item>
+  <item name="av.buddy.delete_confirmation.title"><![CDATA[Slet ven]]></item>
+  <item name="av.buddy.delete_confirmation.text"><![CDATA[Ønsker du virkelig at slette din ven?{buddy}?]]></item>
+ </category>
+ <category name="av.rewardwindow">
+  <item name="av.rewardwindow.headline"><![CDATA[Tillykke - Kun har fuldført missionen "{goal_name}".]]></item>
+ </category>
+ <category name="av.flightmap">
+  <item name="av.flightmap.welcome"><![CDATA[Velkommen til mit land]]></item>
+  <item name="av.flightmap.back"><![CDATA[Tilbage]]></item>
+  <item name="av.flightmap.worldmap"><![CDATA[Verdenskort]]></item>
+ </category>
+ <category name="av.souvenirwidget">
+  <item name="av.souvenirwidget.title"><![CDATA[Souvenirs]]></item>
+ </category>
+ <category name="av.flybywidget">
+  <item name="av.flybywidget.title"><![CDATA[Dine medflyvende bannere]]></item>
+  <item name="av.flybywidget.entertext"><![CDATA[Skriv din tekst her:]]></item>
+ </category>
+ <category name="av.levelupwidget">
+  <item name="av.levelupwidget.title"><![CDATA[Nyt level]]></item>
+  <item name="av.levelupwidget.message"><![CDATA[<b>Tillykke! Du har nået level {level}.<br>Få din bonus og tag på shopping!</b>]]></item>
+  <item name="av.levelupwidget.unlocked"><![CDATA[Du har åbnet:]]></item>
+ </category>
+ <category name="av.fullscreen">
+  <item name="av.fullscreen.title"><![CDATA[Afslut fuldskærm]]></item>
+  <item name="av.fullscreen.message"><![CDATA[Beklager, men du bliver nød til at afslutte fuldskærm, for at bruge denne funktion.]]></item>
+  <item name="av.fullscreen.label"><![CDATA[Afslut fuldskærm]]></item>
+ </category>
+ <category name="av.paymentwidget">
+  <item name="av.paymentwidget.title"><![CDATA[For lidt penge]]></item>
+  <item name="av.paymentwidget.message"><![CDATA[Du har ikke råd til dette item.]]></item>
+  <item name="av.paymentwidget.label.add_cash"><![CDATA[HENT AIRCASH]]></item>
+ </category>
+ <category name="av.addfriendswidget">
+  <item name="av.addfriendswidget.title"><![CDATA[Inviter en ven!]]></item>
+  <item name="av.addfriendswidget.description"><![CDATA[Skriv din vens e-mail-adresse eller brugernavn for at invitere ham/hende til at spille Skyrama!]]></item>
+  <item name="av.addfriendswidget.info.emails"><![CDATA[Skriv e-mail-adressen her (ved flere, delt med ;)]]></item>
+  <item name="av.addfriendswidget.info.usernames"><![CDATA[Indtast brugernavn her (ved flere, delt med ;)]]></item>
+  <item name="av.addfriendswidget.error.emails"><![CDATA[Kontroller venligst e-mail-adresse]]></item>
+  <item name="av.addfriendswidget.error.usernames"><![CDATA[Kontroller venligst brugernavn]]></item>
+  <item name="av.addfriendswidget.label.send"><![CDATA[Send]]></item>
+ </category>
+ <category name="av.viewfriendswidget">
+  <item name="av.viewfriendswidget.title"><![CDATA[Invitationer]]></item>
+  <item name="av.viewfriendswidget.description_invites"><![CDATA[Du har fået {number} invitation/er]]></item>
+  <item name="av.viewfriendswidget.description_no_invites"><![CDATA[Du har ikke flere invitationer!]]></item>
+  <item name="av.viewfriendswidget.accept_invitation"><![CDATA[Acceptere]]></item>
+  <item name="av.viewfriendswidget.decline_invitation"><![CDATA[Afvis]]></item>
+ </category>
+ <category name="av.evoucherwidget">
+  <item name="av.evoucherwidget.title"><![CDATA[Har du en kode?]]></item>
+  <item name="av.evoucherwidget.input.text"><![CDATA[Skriv her for bonus!]]></item>
+  <item name="av.evoucherwidget.input.hint"><![CDATA[Bonuskode]]></item>
+  <item name="av.evoucherwidget.input.error"><![CDATA[Skriv koden her.]]></item>
+  <item name="av.evoucherwidget.progress"><![CDATA[Verificerer...]]></item>
+  <item name="av.evoucherwidget.success.discount"><![CDATA[Bonuskode indløst. Med et enkelt klik, kommer du til]]></item>
+  <item name="av.evoucherwidget.success.discount.link"><![CDATA[betalingen!]]></item>
+  <item name="av.evoucherwidget.success.ingameitems"><![CDATA[Bonuskode indløst. Logind igen, for at modtage din belønning!]]></item>
+  <item name="av.evoucherwidget.error"><![CDATA[Bonuskode ugyldig.]]></item>
+ </category>
+ <category name="av.passwordwidget">
+  <item name="av.passwordwidget.title"><![CDATA[Skift password]]></item>
+  <item name="av.passwordwidget.message"><![CDATA[Indtast nyt password.]]></item>
+  <item name="av.passwordwidget.old"><![CDATA[Indtast det gamle password.]]></item>
+  <item name="av.passwordwidget.info.old"><![CDATA[gammelt password]]></item>
+  <item name="av.passwordwidget.new"><![CDATA[Indtast det nye password.]]></item>
+  <item name="av.passwordwidget.info.new"><![CDATA[nyt password]]></item>
+  <item name="av.passwordwidget.confirm"><![CDATA[Bekræft nyt password.]]></item>
+  <item name="av.passwordwidget.info.confirm"><![CDATA[bekræft password]]></item>
+  <item name="av.passwordwidget.save"><![CDATA[Gem]]></item>
+  <item name="av.passwordwidget.cancel"><![CDATA[Annuller]]></item>
+ </category>
+ <category name="av.flybyitem">
+  <item name="av.flybyitem.dummy"><![CDATA[Dummy]]></item>
+  <item name="av.flybyitem.sms_ownmessage"><![CDATA[Din egen tekst!]]></item>
+  <item name="av.flybyitem.banner1"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner2"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner3"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner4"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner5"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner6"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner7"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner8"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner9"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner10"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner11"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner22"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner23"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner24"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner25"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner26"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.banner27"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.bff"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.cargo"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.coffee"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.friends1"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.friends2"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.greetings"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.ican"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.lol"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.love"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.medium"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.missu"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.music_hearts"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.omn"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.pinup_girl"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.planes"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.stars_elegant"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.thankyou_elegant"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.wtf"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.test"><![CDATA[Test]]></item>
+  <item name="av.flybyitem.unlock_message"><![CDATA[Køb det nu med AirCash eller nå level {required_level}]]></item>
+  <item name="av.flybyitem.effect"><![CDATA[Send godt nytår fyrværkeri til dine venner]]></item>
+  <item name="av.flybyitem.bday_champagne"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.birthday_girly"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.birthday_ufo"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.cheers_text"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.fluffy_heart"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.smiley_cool"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.smiley_kitten"><![CDATA[Medflyvende banner]]></item>
+  <item name="av.flybyitem.smiley_surprised"><![CDATA[Medflyvende banner]]></item>
+ </category>
+ <category name="av.selectcountry">
+  <item name="av.selectcountry.hint"><![CDATA[I hvilket land vil du have din lufthavn?]]></item>
+  <item name="av.flightmap.selectContinent"><![CDATA[Vælg dit kontinent]]></item>
+  <item name="av.selectcountry.next"><![CDATA[Næste]]></item>
+ </category>
+ <category name="av.topbar">
+  <item name="av.topbar.tooltip.aircoins"><![CDATA[aircoins]]></item>
+  <item name="av.topbar.tooltip.aircash"><![CDATA[AirCash]]></item>
+  <item name="av.topbar.tooltip.xp"><![CDATA[EP]]></item>
+  <item name="av.topbar.tooltip.dutyfree"><![CDATA[Told frit]]></item>
+  <item name="av.topbar.tooltip.passengers"><![CDATA[Passagerer (bliver maks. 5 dage)]]></item>
+  <item name="av.topbar.tooltip.addcash"><![CDATA[Hent aircash]]></item>
+  <item name="av.topbar.addcash"><![CDATA[Hent aircash]]></item>
+ </category>
+ <category name="av.dashboard">
+  <item name="av.dashboard.airportname"><![CDATA[{name}s lufthavn]]></item>
+  <item name="av.dashboard.store"><![CDATA[Store]]></item>
+  <item name="av.dashboard.tool"><![CDATA[Tools]]></item>
+  <item name="av.dashboard.storage"><![CDATA[Inventar]]></item>
+  <item name="av.dashboard.souvenir"><![CDATA[Souvenirs]]></item>
+  <item name="av.dashboard.flight"><![CDATA[Flyvemaskiner]]></item>
+  <item name="av.dashboard.store_cat"><![CDATA[Butik: {category}]]></item>
+  <item name="av.dashboard.movetostorage"><![CDATA[Skub i inventar]]></item>
+  <item name="av.dashboard.mirror"><![CDATA[Drej]]></item>
+  <item name="av.dashboard.move"><![CDATA[Flyt]]></item>
+  <item name="av.dashboard.incoming_flights"><![CDATA[Mine tilbagevendte fly]]></item>
+  <item name="av.dashboard.buddy_flights"><![CDATA[Fly fra venner]]></item>
+  <item name="av.dashboard.new_flights"><![CDATA[Nye fly]]></item>
+  <item name="av.dashboard.minimize"><![CDATA[Minimere]]></item>
+  <item name="av.dashboard.maximize"><![CDATA[Maksimere]]></item>
+  <item name="av.dashboard.buddy_ping_title"><![CDATA[Anmod flyvemaskiner]]></item>
+  <item name="av.dashboard.buddy_ping_text"><![CDATA[Resterende tid (min.):]]></item>
+ </category>
+ <category name="av.storepanel">
+  <item name="av.storepanel.passenger"><![CDATA[Passagerfly]]></item>
+  <item name="av.storepanel.cargo"><![CDATA[Cargofly]]></item>
+  <item name="av.storepanel.helicopter"><![CDATA[Ramakopter]]></item>
+  <item name="av.storepanel.seaplane"><![CDATA[Søfly]]></item>
+  <item name="av.storepanel.largeplane"><![CDATA[Stor-flyvere]]></item>
+ </category>
+ <category name="av.visitairport">
+  <item name="av.visitairport.notification.title"><![CDATA[Du har haft besøg!]]></item>
+  <item name="av.visitairport.notification.text"><![CDATA[Følgende spiller har besøgt din lufthavn:<br/><br/>{users}<br/><br/> {number} nye passagerer er kommet til.]]></item>
+ </category>
+ <category name="av.multilogin">
+  <item name="av.multilogin.title"><![CDATA[Info]]></item>
+  <item name="av.multilogin.text"><![CDATA[Du er allerede logget på med denne konto. Du bliver automatisk logget af for at undgå problemer med dobbelt login.]]></item>
+ </category>
+ <category name="av.login_bonus">
+  <item name="av.login_bonus.title"><![CDATA[Log ind Bonus]]></item>
+  <item name="av.login_bonus.button"><![CDATA[Heldigt bagage]]></item>
+  <item name="av.login_bonus.text"><![CDATA[Du har logget ind {days} dage i træk! Derfor får du {number}gratis spin(s). Log ind igen i morgen og få gratis spin(s)]]></item>
+  <item name="av.login_bonus.spin"><![CDATA[Spin]]></item>
+  <item name="av.login_bonus.spin_count"><![CDATA[{count}x]]></item>
+ </category>
+ <category name="av.quickservice">
+  <item name="av.quickservice.text"><![CDATA[Alt du kan quickservice]]></item>
+  <item name="av.quickservice.offtitle"><![CDATA[Hurtig Service]]></item>
+  <item name="av.quickservice.offtext"><![CDATA[Vil du virkelig give "Hurtig Service" til flyet?]]></item>
+ </category>
+ <category name="av.serverproblems">
+  <item name="av.serverproblems.timed_out"><![CDATA[Serveren brugte for lang tid på at indlæse spillet, opdater (F5) venligst spillet for at undgå spilmæssige problemer.]]></item>
+ </category>
+ <category name="av.zeppelin">
+  <item name="av.zeppelin.title"><![CDATA[Zeppelin Hangar]]></item>
+  <item name="av.zeppelin.buylanding"><![CDATA[Land nu]]></item>
+  <item name="av.zeppelin.buyfuel"><![CDATA[Fyld brændstoflager op]]></item>
+  <item name="av.zeppelin.destination_1"><![CDATA[Jungle]]></item>
+  <item name="av.zeppelin.destination_2"><![CDATA[Nordpolen]]></item>
+  <item name="av.zeppelin.destination_3"><![CDATA[Ørkenkamufleret fragtforklædning]]></item>
+  <item name="av.zeppelin.destination_4"><![CDATA[Bjerg]]></item>
+  <item name="av.zeppelin.destination_5"><![CDATA[Vulkan]]></item>
+  <item name="av.zeppelin.flytodestination"><![CDATA[Flyv til:<br />{destination}]]></item>
+  <item name="av.zeppelin.returned_headline"><![CDATA[Tillykke]]></item>
+  <item name="av.zeppelin.youfound"><![CDATA[Du fandt:]]></item>
+  <item name="av.zeppelin.take1more"><![CDATA[Anskaf en souvenir til]]></item>
+  <item name="av.zeppelin.returnhome"><![CDATA[Tag hjem nu]]></item>
+  <item name="av.zeppelin.readytoland"><![CDATA[Zeppelin Ekspedition parat til at lande!]]></item>
+  <item name="av.zeppelin.retrieving1more"><![CDATA[Få fat i flere souvenirs]]></item>
+  <item name="av.zeppelin.requiredfuel"><![CDATA[Brændstof krav: {fuel}]]></item>
+ </category>
+ <category name="av.win.eng_bay">
+  <item name="av.win.eng_bay.title"><![CDATA[Fly værksted]]></item>
+  <item name="av.win.eng_bay.res.title"><![CDATA[Velkommen til fly værkstedet!]]></item>
+  <item name="av.win.eng_bay.res.intro"><![CDATA[Det her er nemt: Send fly for at få udvidelses dele, som kan ændres til et regulært tunings set!]]></item>
+  <item name="av.win.eng_bay.res.more"><![CDATA[Nogle udvidelses dele, kan kun fås som belønning med særlige fly.<br/> Bare husk: Jo længere fly rejse, desto bedre udbytte!]]></item>
+  <item name="av.win.eng_bay.cost"><![CDATA[Du har brug for:]]></item>
+  <item name="av.win.eng_bay.reward"><![CDATA[Bonus]]></item>
+  <item name="av.win.eng_bay.btn.upgrade"><![CDATA[Tune]]></item>
+  <item name="av.win.eng_bay.btn.getRes"><![CDATA[Hent udvidelses dele!]]></item>
+  <item name="av.win.eng_bay.upgrading"><![CDATA[Opgradering kører ...]]></item>
+  <item name="av.win.eng_bay.locked"><![CDATA[Du må kun bruge en opgradering på nuværende tidspunkt.]]></item>
+ </category>
+ <category name="av.tooltip.eng_bay">
+  <item name="av.tooltip.eng_bay.tab.0"><![CDATA[Info]]></item>
+  <item name="av.tooltip.eng_bay.tab.locked"><![CDATA[Du har ikke nogen {type}!]]></item>
+  <item name="av.tooltip.eng_bay.tab.empty"><![CDATA[Du har ingen {type} i hangaren!]]></item>
+  <item name="av.tooltip.eng_bay.btn.notupgrade"><![CDATA[Ikke tilstrækkeligt nok dele!]]></item>
+ </category>
+ <category name="av.consumable">
+  <item name="av.consumable.1"><![CDATA[Samlesæt]]></item>
+  <item name="av.consumable.2"><![CDATA[Luksus samlesæt]]></item>
+  <item name="av.consumable.3"><![CDATA[Passagerfly dele]]></item>
+  <item name="av.consumable.4"><![CDATA[Fragtfly dele]]></item>
+  <item name="av.consumable.5"><![CDATA[Helikopter dele]]></item>
+  <item name="av.consumable.6"><![CDATA[Vandfly dele]]></item>
+  <item name="av.consumable.13"><![CDATA[Gyldne laurbær]]></item>
+  <item name="av.consumable.14"><![CDATA[Diskos]]></item>
+  <item name="av.consumable.15"><![CDATA[Vægtstang]]></item>
+  <item name="av.consumable.16"><![CDATA[Løbesko]]></item>
+  <item name="av.consumable.17"><![CDATA[Hammerkast]]></item>
+  <item name="av.consumable.18"><![CDATA[Snefnug]]></item>
+  <item name="av.consumable.19"><![CDATA[Lille Frostvæske]]></item>
+  <item name="av.consumable.20"><![CDATA[Mellem Frostvæske]]></item>
+  <item name="av.consumable.21"><![CDATA[Helikopter Frostvæske]]></item>
+  <item name="av.consumable.22"><![CDATA[Aqua Frostvæske]]></item>
+  <item name="av.consumable.23"><![CDATA[Æske med chokolade]]></item>
+  <item name="av.consumable.24"><![CDATA[Toffee lækkerier]]></item>
+  <item name="av.consumable.25"><![CDATA[Valnød hvirvel]]></item>
+  <item name="av.consumable.26"><![CDATA[Konfekt lidenskab]]></item>
+  <item name="av.consumable.27"><![CDATA[Orange fryd]]></item>
+ </category>
+ <category name="av.upgrade">
+  <item name="av.upgrade.1"><![CDATA[Turbine ]]></item>
+  <item name="av.upgrade.2"><![CDATA[Propeller]]></item>
+  <item name="av.upgrade.3"><![CDATA[Navigationssystem]]></item>
+  <item name="av.upgrade.4"><![CDATA[VIP sæde]]></item>
+  <item name="av.upgrade.5"><![CDATA[Større lastrum]]></item>
+  <item name="av.upgrade.6"><![CDATA[Stabilisator]]></item>
+  <item name="av.upgrade.789"><![CDATA[Opgrader]]></item>
+ </category>
+ <category name="av.crafting">
+  <item name="av.crafting.1"><![CDATA[Bolte]]></item>
+  <item name="av.crafting.2"><![CDATA[Metal]]></item>
+  <item name="av.crafting.3"><![CDATA[Kunststof]]></item>
+  <item name="av.crafting.4"><![CDATA[Elektronik]]></item>
+  <item name="av.crafting.5"><![CDATA[Stof]]></item>
+  <item name="av.crafting.6"><![CDATA[Glas]]></item>
+ </category>
+ <category name="av.win.unlock.eng_bay">
+  <item name="av.win.unlock.eng_bay.title.levelup"><![CDATA[Åben!]]></item>
+  <item name="av.win.unlock.eng_bay.title.overlevel"><![CDATA[Ny funktion!]]></item>
+  <item name="av.win.unlock.eng_bay.text.levelup"><![CDATA[Stort tillykke! Du har nået {level}! ]]></item>
+  <item name="av.win.unlock.eng_bay.text.overlevel"><![CDATA[Vores nye fly væksted: Få licens til s(kill)s!]]></item>
+  <item name="av.win.unlock.eng_bay.main"><![CDATA[Nyt i shoppen: Fly værksted!<br/> Udskift dele med nyt tilbehør, udrust din flåde med prof dele og gør den konkurrencedygtig!]]></item>
+  <item name="av.win.unlock.eng_bay.received"><![CDATA[Start nu og skru løs!]]></item>
+ </category>
+ <category name="av.win.bundle">
+  <item name="av.win.bundle.title"><![CDATA[Dine udvidelses dele:]]></item>
+  <item name="av.win.bundle.text"><![CDATA[Fantastisk! De nye udvidelses dele, kan ses!<br/> Grib dit værktøj og skru løs!]]></item>
+  <item name="av.win.bundle.received"><![CDATA[Dit udvalg:]]></item>
+ </category>
+ <category name="av.win.logout">
+  <item name="av.win.logout.title"><![CDATA[Logud]]></item>
+  <item name="av.win.logout.text"><![CDATA[Vil du virkelig logge ud?]]></item>
+ </category>
+ <category name="av.win.buy_conf">
+  <item name="av.win.buy_conf.title"><![CDATA[Bekræft]]></item>
+  <item name="av.win.buy_conf.buy.text"><![CDATA[Vil du virkelig købe dette?]]></item>
+  <item name="av.win.buy_conf.del.text"><![CDATA[Er du sikker på, du vil fjerne dette item fra dit inventar?]]></item>
+  <item name="av.win.buy_conf.sell.text"><![CDATA[Vil du virkelig sælge dette item for {x} {money}?]]></item>
+ </category>
+ <category name="av.win.error">
+  <item name="av.win.error.global.title"><![CDATA[Ups!]]></item>
+  <item name="av.win.error.global.text"><![CDATA[Spillet er blevet afbrudt på grund af tekniske vanskeligheder.]]></item>
+  <item name="av.win.error.connection.title"><![CDATA[Forbindelse afbrudt]]></item>
+  <item name="av.win.error.connection.text"><![CDATA[Din internetforbindelse oplever tekniske vanskeligheder.]]></item>
+  <item name="av.win.error.reload.text"><![CDATA[Ønsker du at genindlæse dit spil?]]></item>
+ </category>
+ <category name="av.win.eventBaskets">
+  <item name="av.win.eventBaskets.title"><![CDATA[Nonplusultra!]]></item>
+  <item name="av.win.eventBaskets.text"><![CDATA[Succes over hele luftlinjen: Gå ikke glip af disse tilbud!]]></item>
+ </category>
+ <category name="av.storage.deleteItems">
+  <item name="av.storage.deleteItems.title"><![CDATA[Sælg]]></item>
+  <item name="av.storage.deleteItems.warning"><![CDATA[Vil du virkelig sælge denne genstand for {value} Aircoins?]]></item>
+  <item name="av.storage.deleteItems.sellbtn"><![CDATA[Sælg]]></item>
+ </category>
+ <category name="av.win.happyhour">
+  <item name="av.win.happyhour.title"><![CDATA[Happy-Hour]]></item>
+  <item name="av.win.happyhour.info"><![CDATA[Happy-hour-tilbud: {prozent}% extra for flittige flyrejsende!]]></item>
+  <item name="av.win.happyhour.plustext1"><![CDATA[Køb f.eks. 100 Aircash mens der er happy-hour og få {calcvalue}! ]]></item>
+  <item name="av.win.happyhour.plustext2"><![CDATA[Bryd igennem lydmuren og udvid din lufthavn!]]></item>
+  <item name="av.win.happyhour.plustext3"><![CDATA[Så er det nu, slå til inden det er for sent!]]></item>
+  <item name="av.win.happyhour.button"><![CDATA[Køb]]></item>
+ </category>
+ <category name="av.win.recycling_building">
+  <item name="av.win.recycling_building.title"><![CDATA[Genbrugscenter]]></item>
+  <item name="av.win.recycling_building.res.title"><![CDATA[Velkommen til genbrugs centeret]]></item>
+  <item name="av.win.recycling_building.res.intro"><![CDATA[Fra gammelt til nyt! Skal du bruge mere hangar plads eller flere materialer til superflyver? Så er du på den rigtige adresse.]]></item>
+  <item name="av.win.recycling_building.res.more"><![CDATA[Afmontere dine gamle flyvere her. Hver flyer giver dig en chance for forskellige komponenter, som du sætte sammen til nye flyvere i montagehallen.]]></item>
+  <item name="av.win.recycling_building.level"><![CDATA[Dit genbrugs level]]></item>
+  <item name="av.win.recycling_building.level_up"><![CDATA[Du er nået genbrugs level {x}!]]></item>
+  <item name="av.win.recycling_building.tooltip.small_planes"><![CDATA[Antal små flyvere i hangaren]]></item>
+  <item name="av.win.recycling_building.tooltip.medium_planes"><![CDATA[Antal mellemstore flyvere i hangaren]]></item>
+  <item name="av.win.recycling_building.tooltip.material1"><![CDATA[aircoins]]></item>
+  <item name="av.win.recycling_building.tooltip.material7"><![CDATA[Bolte]]></item>
+  <item name="av.win.recycling_building.tooltip.material8"><![CDATA[Metal]]></item>
+  <item name="av.win.recycling_building.tooltip.material9"><![CDATA[Kunststof]]></item>
+  <item name="av.win.recycling_building.tooltip.material10"><![CDATA[Elektronik]]></item>
+  <item name="av.win.recycling_building.tooltip.material11"><![CDATA[Stof]]></item>
+  <item name="av.win.recycling_building.tooltip.material12"><![CDATA[Glas]]></item>
+  <item name="av.win.recycling_building.btn.ok"><![CDATA[OK]]></item>
+  <item name="av.win.recycling_building.gears"><![CDATA[Fremskridt]]></item>
+  <item name="av.win.recycling_building.option.info"><![CDATA[Afmonter flyvere, modtag materialer. Til venstre kan du se din succes prognose!]]></item>
+  <item name="av.win.recycling_building.option.time"><![CDATA[Genbrugs varighed: {x} h]]></item>
+  <item name="av.win.recycling_building.option.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.recycling_building.btn.dissemble"><![CDATA[Afmontere]]></item>
+  <item name="av.win.recycling_building.btn.collect"><![CDATA[Hent]]></item>
+  <item name="av.win.recycling_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.recycling_building.btn.sideflag2"><![CDATA[Lille fly]]></item>
+  <item name="av.win.recycling_building.btn.sideflag3"><![CDATA[Mellemstor fly]]></item>
+  <item name="av.win.recycling_building.btn.sideflag.disabled"><![CDATA[Ikke nok flyvere]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.title"><![CDATA[Skrot denne]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.msg"><![CDATA[Vil du virkelig afmontere denne flyver?]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.title"><![CDATA[Gør færdig]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.msg"><![CDATA[Afslut demontering?]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.title"><![CDATA[Du har for lidt aircoins!]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.msg"><![CDATA[Du har ikke nok aircash!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.title"><![CDATA[Genbrugs Level-Up!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.msg"><![CDATA[Bravo! Dit genbrugs level er steget. Din chance for bedre materialer øges!]]></item>
+  <item name="av.win.recycling_building.popup.yes"><![CDATA[OK]]></item>
+  <item name="av.win.recycling_building.popup.no"><![CDATA[Annuller]]></item>
+  <item name="av.win.recycling_building.popup.recycling_done.title"><![CDATA[Du modtager:]]></item>
+ </category>
+ <category name="av.win.crafting_building">
+  <item name="av.win.crafting_building.title"><![CDATA[Montagehal]]></item>
+  <item name="av.win.crafting_building.res.title"><![CDATA[Hallen på jorden]]></item>
+  <item name="av.win.crafting_building.res.intro"><![CDATA[I montagehallen konstruerer du banebrydende flyvere af dine materialer.]]></item>
+  <item name="av.win.crafting_building.res.more"><![CDATA[Med fire forskellige elementer fra genbrugscenteret kan du bygge en ny flyer her. Vil du sætte skub i tingene? Så kan du altid leje en ekstra hal.]]></item>
+  <item name="av.win.crafting_building.level"><![CDATA[Dit håndværker level]]></item>
+  <item name="av.win.crafting_building.tooltip.cockpit"><![CDATA[Cockpit]]></item>
+  <item name="av.win.crafting_building.tooltip.body"><![CDATA[Skrog]]></item>
+  <item name="av.win.crafting_building.tooltip.wingunit"><![CDATA[Flyve enhed]]></item>
+  <item name="av.win.crafting_building.tooltip.powerunit"><![CDATA[Turbine]]></item>
+  <item name="av.win.crafting_building.tooltip.time"><![CDATA[Færdig om]]></item>
+  <item name="av.win.crafting_building.gears"><![CDATA[Fremskridt]]></item>
+  <item name="av.win.crafting_building.btn.combine"><![CDATA[Færdiggør]]></item>
+  <item name="av.win.crafting_building.btn.build"><![CDATA[Byg]]></item>
+  <item name="av.win.crafting_building.btn.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.crafting_building.btn.collect"><![CDATA[Hent]]></item>
+  <item name="av.win.crafting_building.btn.ok"><![CDATA[OK]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.title"><![CDATA[Leje en montagehal?]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.msg"><![CDATA[En ekstra hal i 24 timer. Med {x} Aircash er du med!]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.msg"><![CDATA[Du skal bruge flere aircach for at leje en ekstra montagehal.]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.title"><![CDATA[Tomme lommer?]]></item>
+  <item name="av.win.crafting_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.crafting_building.btn.sideflag2"><![CDATA[Montagehal 1]]></item>
+  <item name="av.win.crafting_building.btn.sideflag3"><![CDATA[Montagehal 2]]></item>
+  <item name="av.win.crafting_building.btn.sideflag4"><![CDATA[Montagehal 3]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.title"><![CDATA[Du har for lidt aircoins!]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.msg"><![CDATA[Du har for lidt aircash!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.title"><![CDATA[Du har ingen ledig hangar plads!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.msg"><![CDATA[Du skal først udvide din hangar!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.title"><![CDATA[Færdiggør!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.msg"><![CDATA[Færdiggør nu?]]></item>
+  <item name="av.win.crafting_building.popup.crafting_done.title"><![CDATA[Du modtager:]]></item>
+  <item name="av.win.crafting_building.popup.levelup.title"><![CDATA[Håndværker level +]]></item>
+  <item name="av.win.crafting_building.popup.levelup.msg"><![CDATA[Vildt! Du har opnået et nyt håndværker level og frigjort nye fly!]]></item>
+  <item name="av.win.crafting_building.popup.yes"><![CDATA[OK]]></item>
+  <item name="av.win.crafting_building.popup.no"><![CDATA[Annuller]]></item>
+ </category>
+ <category name="av.win.material_event">
+  <item name="av.win.material_event.res.intro"><![CDATA[Klar, parat, afsted! Indsaml så mange Airlympiade genstande som muligt og indløs dem for nogle fede event fly!]]></item>
+  <item name="av.win.material_event.res.title"><![CDATA[Lad spillene begynde!]]></item>
+  <item name="av.win.material_event.res.more"><![CDATA[Hver flytype kommer med dets helt egen unikke samlergenstande. Indløs dem for skaffe nogle af vores forbedret event fly!]]></item>
+  <item name="av.win.material_event.btn.side_flag1"><![CDATA[Event information]]></item>
+  <item name="av.win.material_event.btn.side_flag2"><![CDATA[Event belønninger]]></item>
+  <item name="av.win.material_event.btn.redeem"><![CDATA[Indløs]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.title"><![CDATA[Ikke nok genstande]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.msg"><![CDATA[Du har ikke indsamlet nok genstande til, at indløse denne genstand.]]></item>
+  <item name="av.win.material_event.popup.more_hangar.title"><![CDATA[Du skal bruge en passende hangar!]]></item>
+  <item name="av.win.material_event.popup.more_hangar.msg"><![CDATA[Du har brug for mere plads i hangaren!]]></item>
+ </category>
+</language>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.buddy">
+  <item name="av.buddy.title"><![CDATA[С друзьями веселее]]></item>
+  <item name="av.buddy.text"><![CDATA[Позовите друзей в игру и взмойте ввысь вместе!]]></item>
+  <item name="av.buddy.search"><![CDATA[Добавить друга в список]]></item>
+  <item name="av.buddy.search.hint"><![CDATA[Логин/ID игрока]]></item>
+  <item name="av.buddy.search.button"><![CDATA[Искать]]></item>
+  <item name="av.buddy.search.results"><![CDATA[Результаты]]></item>
+  <item name="av.buddy.search.searching"><![CDATA[Поиск...]]></item>
+  <item name="av.buddy.search.add"><![CDATA[Добавить друга]]></item>
+  <item name="av.buddy.search.user_result"><![CDATA[{username} (ID: {id})]]></item>
+  <item name="av.buddy.search.user_notfound"><![CDATA[Игрок не найден]]></item>
+  <item name="av.buddy.search.user_added"><![CDATA[Игрок добавлен]]></item>
+  <item name="av.buddy.search.user_notadded"><![CDATA[Не удалось добавить игрока]]></item>
+  <item name="av.buddy.search.user_yourself"><![CDATA[Невозможно добавить самого себя в друзья]]></item>
+  <item name="av.buddy.search.user_already"><![CDATA[Данный игрок уже является Вашим другом]]></item>
+  <item name="av.buddy.email"><![CDATA[Приглашение по e-mail]]></item>
+ </category>
+</language>

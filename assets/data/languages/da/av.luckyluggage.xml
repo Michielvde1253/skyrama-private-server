@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Heldigt bagage]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Gratis spin]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[{number}x gratis spin]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1x Spin: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Spin]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Check in hver 24. time, få et gratis spin og vend!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Vind:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Til lykke!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Du vinder!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Tillykke du har vundet! Jeg tror det vil være handy. Tøv ikke med at spinne bagagebæltet igen!]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[Dag {day}:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[Dag {day}: {spins}x gratis Spin]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Spring over]]></item>
+ </category>
+</language>

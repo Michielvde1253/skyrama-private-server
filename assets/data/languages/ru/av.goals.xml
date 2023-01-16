@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.goal">
+  <item name="av.goals.tooltip.main"><![CDATA[Основное задание]]></item>
+  <item name="av.goals.tooltip.daily"><![CDATA[Ежедневное задание]]></item>
+  <item name="av.goals.tooltip.story"><![CDATA[Сюжетное задание]]></item>
+  <item name="av.goals.tooltip.world"><![CDATA[Слетайте во все страны!]]></item>
+  <item name="av.finishGoal.message"><![CDATA[После квеста]]></item>
+  <item name="av.requirements.text.default"><![CDATA[Требования:]]></item>
+  <item name="av.requirements.text.mediumPlanes"><![CDATA[Для отправки ср. самолётов нужно:]]></item>
+  <item name="av.requirements.text.heliCopter"><![CDATA[Чтобы отправить вертолёты, нужно:]]></item>
+  <item name="av.requirements.text.seaPlanes"><![CDATA[Чтобы отправить гидропланы, нужно:]]></item>
+  <item name="av.requirements.text.largePlanes"><![CDATA[Um Große Flugzeuge zu starten brauchst Du:]]></item>
+ </category>
+ <category name="av.task">
+  <item name="av.task.buy"><![CDATA[Купить {item} ({amount} шт.)]]></item>
+  <item name="av.task.collect"><![CDATA[Собрать {item} ({amount} шт.)]]></item>
+  <item name="av.task.fillShop"><![CDATA[Пополнить полки]]></item>
+  <item name="av.task.land"><![CDATA[Посадить {item} ({amount} шт.)]]></item>
+  <item name="av.task.place"><![CDATA[Разместить {item} ({amount} шт.)]]></item>
+  <item name="av.task.quickStart"><![CDATA[Мгновенно обслужить самолёт]]></item>
+  <item name="av.task.return"><![CDATA[Отправить обратно {item} ({amount} шт.)]]></item>
+  <item name="av.task.returnToCountry"><![CDATA[Отправить обратно {item} ({amount} шт.) из {country}]]></item>
+  <item name="av.task.sellProducts"><![CDATA[Продажа товаров]]></item>
+  <item name="av.task.send"><![CDATA[Отправить {item} ({amount} шт.)]]></item>
+  <item name="av.task.sendToCountry"><![CDATA[Отправить {item} ({amount} шт.) в {country}]]></item>
+  <item name="av.task.sendToStranger"><![CDATA[Отправить самолёт(ы) ({amount} шт.) незнакомцу]]></item>
+  <item name="av.task.store"><![CDATA[Поместить {item} из старых предметов в инвентарь]]></item>
+  <item name="av.task.storeInventory"><![CDATA[Воспользоваться хранилищем]]></item>
+ </category>
+</language>

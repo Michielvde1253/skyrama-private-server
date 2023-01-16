@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.website">
+  <item name="av.website.registered"><![CDATA[Înregistraţi:]]></item>
+  <item name="av.website.language"><![CDATA[Limba:]]></item>
+  <item name="av.website.gametour"><![CDATA[Tur de joc]]></item>
+  <item name="av.website.freeregister"><![CDATA[Înregistrare<br>gratuită ]]></item>
+  <item name="av.website.forum"><![CDATA[Forum]]></item>
+  <item name="av.website.username"><![CDATA[Nume:]]></item>
+  <item name="av.website.userId"><![CDATA[ID utilizator:]]></item>
+  <item name="av.website.forgotPassword"><![CDATA[Ai uitat parola?]]></item>
+  <item name="av.website.imprint"><![CDATA[Referinţe legale]]></item>
+  <item name="av.website.regHeader"><![CDATA[Înregistrare]]></item>
+  <item name="av.website.back"><![CDATA[Înapoi]]></item>
+  <item name="av.website.downloadClientHeadline"><![CDATA[Lansator Skyrama]]></item>
+  <item name="av.website.downloadClientText"><![CDATA[Stimați directori de aeroport! Asistența pentru Adobe Flash se încheie în luna decembrie 2020, după care veți avea nevoie de Lansatorul Skyrama pentru a continua să joci! Fă clic aici pentru a instala Lansatorul.]]></item>
+  <item name="av.website.Windows32Bit"><![CDATA[Lansator Win 32 biți]]></item>
+  <item name="av.website.Windows64Bit"><![CDATA[Lansator Win 64 biți]]></item>
+  <item name="av.website.RememberMe"><![CDATA[Ține-mă minte]]></item>
+ </category>
+ <category name="av.website.technicalError">
+  <item name="av.website.technicalError.header"><![CDATA[Eroare tehnică]]></item>
+  <item name="av.website.technicalError.desc"><![CDATA[A avut loc o eroare tehnică. Te rugăm să reîncarci jocul.]]></item>
+  <item name="av.website.technicalError.reload"><![CDATA[Reîncarcă Skyrama]]></item>
+ </category>
+ <category name="av.website.multipleLoginError">
+  <item name="av.website.multipleLoginError.header"><![CDATA[Autentificare dublă]]></item>
+  <item name="av.website.multipleLoginError.desc"><![CDATA[Nu poţi juca în acelaşi timp decât cu un cont. Te rugăm să închizi celălalt cont şi să reporneşti jocul.]]></item>
+ </category>
+ <category name="av.website.blocked">
+  <item name="av.website.blocked.title"><![CDATA[Acces refuzat]]></item>
+  <item name="av.website.blocked.until"><![CDATA[Am detectat că utilizezi un program pentru a manipula Skyrama. Prin urmare, nu vei putea accesa jocul până la: %s.]]></item>
+  <item name="av.website.blocked.warning"><![CDATA[Dacă vom detecta acest lucru din nou, contul tău va fi bannat permanent!]]></item>
+ </category>
+ <category name="av.website.gametour">
+  <item name="av.website.gametour.1"><![CDATA[Bine ai venit la SkyRama, noul trend în lumea jocurilor cu aeroport! Acest aeroport virtual îţi deschide noi posibilităţi. Joacă împreună cu prietenii şi călătoreşte în jurul lumii!]]></item>
+  <item name="av.website.gametour.2"><![CDATA[Bine ai venit la SkyRama, noul trend în lumea jocurilor cu aeroport! Acest aeroport virtual îţi deschide noi posibilităţi. Joacă împreună cu prietenii şi călătoreşte în jurul lumii!]]></item>
+  <item name="av.website.gametour.3"><![CDATA[În Skyrama, cooperarea este pe primul plan - jucătorii fac schimb de avioane, marfă şi de experienţă în format MMO.]]></item>
+  <item name="av.website.gametour.4"><![CDATA[În Skyrama, cooperarea este pe primul plan - jucătorii fac schimb de avioane, marfă şi de experienţă în format MMO.]]></item>
+  <item name="av.website.gametour.5"><![CDATA[Skyrama conţine elemente de strategie casual– resurse multiple, micromanagement de aeroport, orare de zbor  - care te menţine activ şi îţi oferă o porţie sănătoasă de divertisment!]]></item>
+  <item name="av.website.gametour.6"><![CDATA[Skyrama conţine elemente de strategie casual– resurse multiple, micromanagement de aeroport, orare de zbor  - care te menţine activ şi îţi oferă o porţie sănătoasă de divertisment!]]></item>
+  <item name="av.website.gametour.7"><![CDATA[Skyrama conţine elemente de strategie casual– resurse multiple, micromanagement de aeroport, orare de zbor  - care te menţine activ şi îţi oferă o porţie sănătoasă de divertisment!]]></item>
+  <item name="av.website.gametour.8"><![CDATA[Skyrama oferă cele mai mişto avioane, peisaje, decoraţiuni şi suveniruri. Colectează-le şi personalizează-ţi aeroportul!]]></item>
+  <item name="av.website.gametour.9"><![CDATA[Skyrama oferă cele mai mişto avioane, peisaje, decoraţiuni şi suveniruri. Colectează-le şi personalizează-ţi aeroportul!]]></item>
+  <item name="av.website.gametour.10"><![CDATA[Grafica şi story de la Skyrama te poartă într-o lume nouă, cu animaţii şi personaje amuzante.]]></item>
+  <item name="av.website.gametour.11"><![CDATA[Grafica şi story de la Skyrama te poartă într-o lume nouă, cu animaţii şi personaje amuzante.]]></item>
+ </category>
+ <category name="av.website.seo">
+  <item name="av.website.seo.title"><![CDATA[SkyRama | Aeroportul tău online: decolează gratis în jocul nostru online!]]></item>
+  <item name="av.website.seo.keywords"><![CDATA[SkyRama, Sky Rama, joc cu aeroport online, joc de aeroport]]></item>
+  <item name="av.website.seo.description"><![CDATA[Rama-SuperTurbo este gata de aterizare! Acordă permisiunea de aterizare şi ai grijă de pasageri şi de avioane. Dezvoltă-ţi aeroportul on-line şi fă-l să devină un nod aerian internaţional. Joacă acum!]]></item>
+  <item name="av.website.seo.text"><![CDATA[<p>Dar Skyrama oferă mult mai mult decât obişnuitele jocuri gratuite: Creează un aeroport propriu şi extinde-l (în funcţie de ideile tale) din ce în ce mai mult. Amplasează terminale pentru pasageri şi platforme de parcare pentru avioanele care aterizează. Prieteni din întreaga lume pot ateriza cu avioanele lor pe aeroportul tău de la Skyrama.</p>
+			<p>Şi asta nu e tot! Niciunul dintre succesele tale din joc nu este pierdut, pentru că Skyrama nu se termină, ca celelalte jocuri gratuite, după câteva ture. Aici te aşteaptă divertisment fără limite: avansează în nivel şi descoperă noi avioane pentru transportul călătorilor, înfrumuseţează-ţi aeroportul cu accesorii colorate şi atrage noi pasageri.</p>
+			<p>La Skyrama, joci gratis cu mii de alţi jucători din toata lumea. Vizitează aeroporturile prietenilor şi invită-i să-l vadă pe-al tău. Curând, aeroportul tău va deveni un nod principal pentru traficul internaţional. În ce jocuri gratuite găseşti atâtea posibilităţi?</p>
+			<p>Alătură-te piloţilor de la Skyrama şi pregăteşte-te de decolare!</p>]]></item>
+  <item name="av.website.seo.seoText.short"><![CDATA[<h1>Skyrama: un joc gratuit de simulare de aeroport!</h1>
+            <p>Skyrama este cerul posibilităţilor. Aici preiei conducerea aeroportului şi poţi zbura în jurul lumii!</p>]]></item>
+  <item name="av.website.seo.open"><![CDATA[Citeşte mai mult]]></item>
+  <item name="av.website.seo.close"><![CDATA[Minimizează]]></item>
+  <item name="av.website.seo.titleAid"><![CDATA[Skyrama: Jocul tău de management aeroport online]]></item>
+  <item name="av.website.seo.descriptionAid"><![CDATA[Întreţine avioane, ocupă-te de pasageri, dezvoltă-ţi aeroportul: la Skyrama, eşti boss-ul propriului tău aeroport! Pregăteşte-te de decolare!]]></item>
+ </category>
+ <category name="av.website.errors">
+  <item name="av.website.errors.title"><![CDATA[Mesaj de eroare]]></item>
+  <item name="av.website.errors.login"><![CDATA[Login eşuat; numele de utilizator sau parola incorecte.]]></item>
+  <item name="av.website.errors.1"><![CDATA[Login eşuat; numele de utilizator sau parola incorecte.]]></item>
+  <item name="av.website.errors.2"><![CDATA[Login eşuat; numele de utilizator sau parola incorecte.]]></item>
+  <item name="av.website.errors.3"><![CDATA[Eroare de login! Contul nu a putut fi găsit.]]></item>
+  <item name="av.website.errors.10"><![CDATA[Eroare de login! Contul nu a fost activat.]]></item>
+  <item name="av.website.errors.11"><![CDATA[Login eşuat. Contul nu a fost blocat.]]></item>
+  <item name="av.website.errors.99"><![CDATA[Problema tehnică de login! Contactează suportul.]]></item>
+  <item name="av.website.errors.noClient"><![CDATA[Clientul nu este disponibil momentan.]]></item>
+ </category>
+ <category name="av.website.desc">
+  <item name="av.website.desc.1"><![CDATA[Joc online în browser: construieşte-ţi propriul mega-aeroport!]]></item>
+  <item name="av.website.desc.2"><![CDATA[Gestionează propriul tău aeroport online şi dirijează traficul aerian ]]></item>
+  <item name="av.website.desc.3"><![CDATA[Trimite avioanele în jurul lumii şi vizitează aeroporturile prietenilor]]></item>
+ </category>
+ <category name="av.website.prelayer">
+  <item name="av.website.prelayer.headline1"><![CDATA[Avion TNT]]></item>
+  <item name="av.website.prelayer.topcontent1"><![CDATA[Această escadrilă îţi aduce multe premii grozave!]]></item>
+  <item name="av.website.prelayer.botcontent1"><![CDATA[Parcurge tutorialul în întregime şi obţii trei avioane exclusive de la TNT!]]></item>
+ </category>
+</language>

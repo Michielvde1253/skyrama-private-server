@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.easy_event">
+  <item name="av.easy_events.countdown.tooltip"><![CDATA[Aktuális esemény!]]></item>
+  <item name="av.easy_event.coin_storm.title"><![CDATA[Pénzeső!]]></item>
+  <item name="av.easy_event.coin_storm.text"><![CDATA[Remek! Akciós ajánlatot kaptunk az üzemanyag-beszállítótól. Ma minden repülőgép ellátásáért 20%-kal több aircoint kapsz!]]></item>
+  <item name="av.easy_event.crazysale.title"><![CDATA[Hihetetlen akció!]]></item>
+  <item name="av.easy_event.crazysale.text"><![CDATA[Ha ma vámmentes árut adsz el, kétszeres aircoint kereshetsz!]]></item>
+  <item name="av.easy_event.knowhowday.title"><![CDATA[Tapasztalat bónusz!]]></item>
+  <item name="av.easy_event.knowhowday.text"><![CDATA[A pilótáink épp most tértek vissza a kiképzésről. Az agyuk úgy fog, mint a legnehezebb teherszállítónk fékje! Ezért ma kétszeres tapasztalatpontot szerezhetsz!]]></item>
+  <item name="av.easy_event.airshow.title"><![CDATA[Légiparádé!]]></item>
+  <item name="av.easy_event.airshow.text"><![CDATA[Ma éri meg igazán ellátni a repülőket: dupla tapasztalatpontra és aircoinra számíthatsz!]]></item>
+  <item name="av.easy_event.passenger.title"><![CDATA[Micsoda forgalom!]]></item>
+  <item name="av.easy_event.passenger.text"><![CDATA[A földi személyzetet megrohanják az utasok! Az utasgyűjtő épületekből ma kétszeres mennyiségű utast szerezhetsz!]]></item>
+  <item name="av.easy_event.specialplane.title"><![CDATA[Turbó repülés!]]></item>
+  <item name="av.easy_event.specialplane.text"><![CDATA[Indíts ma minél több {plane} járatot, mert ma kétszeres aircoint és tapasztalatpontot kapsz érte!]]></item>
+  <item name="av.easy_event.x_coins.title"><![CDATA[Hihetetlen akció!]]></item>
+  <item name="av.easy_event.x_coins.text"><![CDATA[Ha ma vámmentes árut adsz el, {times}x aircoin összeget kereshetsz!]]></item>
+  <item name="av.easy_event.x_xp.title"><![CDATA[Tapasztalat bónusz!]]></item>
+  <item name="av.easy_event.x_xp.text"><![CDATA[A pilótáink épp most tértek vissza a kiképzésről. Az agyuk úgy fog, mint a legnehezebb teherszállítónk fékje! Ezért ma {times}x TP-szerzés jár minden tevékenységednél.]]></item>
+  <item name="av.easy_event.quickservice.title"><![CDATA[Gyors ellátás mini event]]></item>
+  <item name="av.easy_event.quickservice.text"><![CDATA[Ingyenes gyors ellátás!]]></item>
+ </category>
+</language>

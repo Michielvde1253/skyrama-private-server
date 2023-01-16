@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.website">
+  <item name="av.website.registered"><![CDATA[Inscrits :]]></item>
+  <item name="av.website.language"><![CDATA[Langue :]]></item>
+  <item name="av.website.gametour"><![CDATA[Visite guidée]]></item>
+  <item name="av.website.freeregister"><![CDATA[Inscription<br>gratuite]]></item>
+  <item name="av.website.forum"><![CDATA[Forum]]></item>
+  <item name="av.website.username"><![CDATA[Nom :]]></item>
+  <item name="av.website.userId"><![CDATA[ID utilisateur :]]></item>
+  <item name="av.website.forgotPassword"><![CDATA[Mot de passe oublié ?]]></item>
+  <item name="av.website.imprint"><![CDATA[Mentions légales]]></item>
+  <item name="av.website.regHeader"><![CDATA[Inscription]]></item>
+  <item name="av.website.back"><![CDATA[Retour]]></item>
+  <item name="av.website.downloadClientHeadline"><![CDATA[Client Skyrama]]></item>
+  <item name="av.website.downloadClientText"><![CDATA[Cher directeur, Adobe Flash ne sera plus disponible à partir de décembre 2020. Pour continuer à jouer à Skyrama, vous devrez installer le client Skyrama ! Cliquez ici pour l'installer.]]></item>
+  <item name="av.website.Windows32Bit"><![CDATA[Client Win-32Bit]]></item>
+  <item name="av.website.Windows64Bit"><![CDATA[Client Win-64Bit]]></item>
+  <item name="av.website.RememberMe"><![CDATA[Se souvenir de moi]]></item>
+ </category>
+ <category name="av.website.technicalError">
+  <item name="av.website.technicalError.header"><![CDATA[Erreur technique]]></item>
+  <item name="av.website.technicalError.desc"><![CDATA[Une erreur technique s'est produite. Veuillez relancer le jeu.]]></item>
+  <item name="av.website.technicalError.reload"><![CDATA[Relancer Skyrama]]></item>
+ </category>
+ <category name="av.website.multipleLoginError">
+  <item name="av.website.multipleLoginError.header"><![CDATA[Double connexion]]></item>
+  <item name="av.website.multipleLoginError.desc"><![CDATA[Vous ne pouvez jouer qu'avec un seul compte ouvert à la fois. Veuillez fermer l'autre compte et relancer le jeu.]]></item>
+ </category>
+ <category name="av.website.blocked">
+  <item name="av.website.blocked.title"><![CDATA[Accès refusé]]></item>
+  <item name="av.website.blocked.until"><![CDATA[Nous avons détecté que vous utilisez un outil pour manipuler Skyrama. Pour cette raison, l'accès au jeu vous sera refusé jusqu'à : %s.]]></item>
+  <item name="av.website.blocked.warning"><![CDATA[Si nous détectons de nouveau une telle utilisation, votre compte pourra être bloqué de manière définitive.]]></item>
+ </category>
+ <category name="av.website.gametour">
+  <item name="av.website.gametour.1"><![CDATA[Bienvenue à Skyrama, le jeu d'avions vraiment marrant. Un aéroport animé qui ouvre de nouvelles possibilités pour jouer avec ses amis et voyager dans le monde entier !]]></item>
+  <item name="av.website.gametour.2"><![CDATA[Bienvenue à Skyrama, le jeu d'avions vraiment marrant. Un aéroport animé qui ouvre de nouvelles possibilités pour jouer avec ses amis et voyager dans le monde entier !]]></item>
+  <item name="av.website.gametour.3"><![CDATA[Skyrama met en avant un  gameplay coopératif : les joueurs envoient des avions de ligne, des avions cargo... Le ciel se met à la dimension du MMO !]]></item>
+  <item name="av.website.gametour.4"><![CDATA[Skyrama met en avant un  gameplay coopératif : les joueurs envoient des avions de ligne, des avions cargo... Le ciel se met à la dimension du MMO !]]></item>
+  <item name="av.website.gametour.5"><![CDATA[Skyrama est le jeu idéal pour les fans de jeux sociaux de stratégie. Des ressources variées à utiliser, un aéroport à superviser, les atterrissages et les décollages à planifier !]]></item>
+  <item name="av.website.gametour.6"><![CDATA[Skyrama est le jeu idéal pour les fans de jeux sociaux de stratégie. Des ressources variées à utiliser, un aéroport à superviser, les atterrissages et les décollages à planifier !]]></item>
+  <item name="av.website.gametour.7"><![CDATA[Skyrama est le jeu idéal pour les fans de jeux sociaux de stratégie. Des ressources variées à utiliser, un aéroport à superviser, les atterrissages et les décollages à planifier !]]></item>
+  <item name="av.website.gametour.8"><![CDATA[Skyrama propose une multitude d'avions géniaux, des paysages, des décorations, des souvenirs tous plus beaux les uns que les autres.]]></item>
+  <item name="av.website.gametour.9"><![CDATA[Skyrama propose une multitude d'avions géniaux, des paysages, des décorations, des souvenirs tous plus beaux les uns que les autres.]]></item>
+  <item name="av.website.gametour.10"><![CDATA[Les graphismes de Skyrama vous plongent dans l'univers du jeu, l'histoire en toile de fond permet une immersion totale dans le jeu. Découvrez des animations rigolotes et des personnages attachants !]]></item>
+  <item name="av.website.gametour.11"><![CDATA[Les graphismes de Skyrama vous plongent dans l'univers du jeu, l'histoire en toile de fond permet une immersion totale dans le jeu. Découvrez des animations rigolotes et des personnages attachants !]]></item>
+ </category>
+ <category name="av.website.seo">
+  <item name="av.website.seo.title"><![CDATA[Skyrama | Votre aéroport gratuit : le paradis des jeux gratuits]]></item>
+  <item name="av.website.seo.keywords"><![CDATA[SkyRama, Sky Rama, jeu d'aéroport en ligne, jeu d'aéroport]]></item>
+  <item name="av.website.seo.description"><![CDATA[Le Super Turbo est à l’approche ! Donnez-lui la permission d'atterrir, procédez à son entretien au sol et occupez-vous de vos passagers. Développez votre aéroport en ligne pour en faire un aéroport international ! Lance-toi !]]></item>
+  <item name="av.website.seo.text"><![CDATA[<p>Skyrama offre beaucoup plus que les jeux gratuits habituels : dans ce jeu, vous prenez la tête de votre aéroport et le gérez comme vous voulez. Placez des terminaux, des pistes atterrissage, des hangars... tout tourne autour des avions et des passagers. Vous recevez aussi les avions de vos amis venant de tous pays.</p>
+			<p>Skyrama est un jeu qui promet beaucoup : chaque avancée vous permet de monter en niveau. Ce jeu n'est pas comme les autres jeux gratuits qui s'arrêtent après quelques actions. Ici, les limites de l'amusement n'existent pas: montez de niveau en niveau et découvrez de nouveaux avions, tant pour les vols de passagers que les vols de fret. Vous pouvez décorer votre aéroport avec des articles de décoration et des bâtiments, et cela permet d'attirer beaucoup de passagers.</p>
+			<p>Vous ne jouez pas tout seul à des jeux gratuits comme Skyrama : vous pouvez vous rendre sur les aéroports de vos amis et les inviter chez vous. Votre aéroport sera bientôt la plaque tournante de la scène internationale ! Dans quels autres jeux gratuits trouverez-vous autant de possibilités ?</p>
+			<p>Venez sur Skyrama et transformez les avions en super stars !</p>]]></item>
+  <item name="av.website.seo.seoText.short"><![CDATA[<h1>Skyrama : un jeu gratuit de simulation d'aéroport</h1>
+            <p>Skyrama vous offre un ciel de possibilités. Vous prenez la tête d'un aéroport et vous envolez vers des cieux cléments !</p>]]></item>
+  <item name="av.website.seo.open"><![CDATA[En savoir plus]]></item>
+  <item name="av.website.seo.close"><![CDATA[Réduire]]></item>
+  <item name="av.website.seo.titleAid"><![CDATA[Skyrama : votre jeu d'aéroport en ligne]]></item>
+  <item name="av.website.seo.descriptionAid"><![CDATA[Entretenir les avions, s'occuper des passagers, développer l'aéroport : voici ce qui vous attend à Skyrama, le jeu d'avions en ligne ! Devenez patron d'un aéroport]]></item>
+ </category>
+ <category name="av.website.errors">
+  <item name="av.website.errors.title"><![CDATA[Message d'erreur]]></item>
+  <item name="av.website.errors.login"><![CDATA[Erreur de connexion ; nom d'utilisateur ou mot de passe incorrect]]></item>
+  <item name="av.website.errors.1"><![CDATA[Erreur de connexion ; nom d'utilisateur ou mot de passe incorrect]]></item>
+  <item name="av.website.errors.2"><![CDATA[Erreur de connexion ; nom d'utilisateur ou mot de passe incorrect]]></item>
+  <item name="av.website.errors.3"><![CDATA[Erreur de connexion ; compte introuvable]]></item>
+  <item name="av.website.errors.10"><![CDATA[Erreur de connexion ; ce compte n'a pas encore été activé]]></item>
+  <item name="av.website.errors.11"><![CDATA[Erreur de connexion ; compte non bloqué]]></item>
+  <item name="av.website.errors.99"><![CDATA[Une erreur technique est survenue au cours de la connexion ; veuillez contacter le support]]></item>
+  <item name="av.website.errors.noClient"><![CDATA[Client momentanément indisponible]]></item>
+ </category>
+ <category name="av.website.desc">
+  <item name="av.website.desc.1"><![CDATA[Jouer en ligne sur navigateur : construisez votre aéroport international !]]></item>
+  <item name="av.website.desc.2"><![CDATA[Votre aéroport en ligne ! Dirigez le trafic aérien et assurez l'entretien de vos avions.]]></item>
+  <item name="av.website.desc.3"><![CDATA[Envoyez vos avions en mission dans le monde entier : visitez les aéroports de vos amis.]]></item>
+ </category>
+ <category name="av.website.prelayer">
+  <item name="av.website.prelayer.headline1"><![CDATA[Avion TNT]]></item>
+  <item name="av.website.prelayer.topcontent1"><![CDATA[Des prix incroyables vous attendent avec cette flotte !]]></item>
+  <item name="av.website.prelayer.botcontent1"><![CDATA[Complétez le tutoriel et obtenez trois avions exclusifs signés TNT !]]></item>
+ </category>
+</language>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.website">
+  <item name="av.website.registered"><![CDATA[Rekisteröityneitä:]]></item>
+  <item name="av.website.language"><![CDATA[Kieli:]]></item>
+  <item name="av.website.gametour"><![CDATA[Pelikierros]]></item>
+  <item name="av.website.freeregister"><![CDATA[Rekisteröidy<br>ilmaiseksi]]></item>
+  <item name="av.website.forum"><![CDATA[Foorumi]]></item>
+  <item name="av.website.username"><![CDATA[Nimi:]]></item>
+  <item name="av.website.userId"><![CDATA[Käyttäjätunnus:]]></item>
+  <item name="av.website.forgotPassword"><![CDATA[Salasana unohtunut?]]></item>
+  <item name="av.website.imprint"><![CDATA[Lakitiedot]]></item>
+  <item name="av.website.regHeader"><![CDATA[Rekisteröityminen]]></item>
+  <item name="av.website.back"><![CDATA[Palaa]]></item>
+  <item name="av.website.downloadClientHeadline"><![CDATA[Skyraman käynnistysohjelma]]></item>
+  <item name="av.website.downloadClientText"><![CDATA[Hyvät lentokentän johtajat! Adobe Flashin tuki päättyy joulukuussa 2020. Sen jälkeen pelin pelaamiseen tarvitaan Skyraman käynnistysohjelma. Asenna käynnistysohjelma napsauttamalla tästä.]]></item>
+  <item name="av.website.Windows32Bit"><![CDATA[Win-32Bit-Launcher]]></item>
+  <item name="av.website.Windows64Bit"><![CDATA[Win-64Bit-Launcher]]></item>
+  <item name="av.website.RememberMe"><![CDATA[Muista minut]]></item>
+ </category>
+ <category name="av.website.technicalError">
+  <item name="av.website.technicalError.header"><![CDATA[Tekninen virhe]]></item>
+  <item name="av.website.technicalError.desc"><![CDATA[Tekninen virhe tapahtui. Ole hyvä ja lataa peli uudestaan.]]></item>
+  <item name="av.website.technicalError.reload"><![CDATA[Lataa Skyrama uudestaan]]></item>
+ </category>
+ <category name="av.website.multipleLoginError">
+  <item name="av.website.multipleLoginError.header"><![CDATA[Tuplasti kirjautuminen]]></item>
+  <item name="av.website.multipleLoginError.desc"><![CDATA[Voit pelata vain yhdellä tilillä kerrallaan. Sulje toinen tili ja käynnistä peli uudestaan.]]></item>
+ </category>
+ <category name="av.website.blocked">
+  <item name="av.website.blocked.title"><![CDATA[Pääsy evätty]]></item>
+  <item name="av.website.blocked.until"><![CDATA[Huomasimme, että käytit laitetta Skyraman manipuloimiseen ja siksi eväämme sinulta pääsyn peliin %s saakka.]]></item>
+  <item name="av.website.blocked.warning"><![CDATA[Jos toiminta jatkuu, saatamme sulkea tilin lopullisesti!]]></item>
+ </category>
+ <category name="av.website.gametour">
+  <item name="av.website.gametour.1"><![CDATA[Tervetuloa Skyramaan, mukavaan lentokenttäpeliin! Tämä nopeatahtinen virtuaalilentokenttä tarjoaa yhteispeliä kavereiden kanssa ja mahdollisuuden matkustaa ympäri maailmaa.]]></item>
+  <item name="av.website.gametour.2"><![CDATA[Tervetuloa Skyramaan, mukavaan lentokenttäpeliin! Tämä nopeatahtinen virtuaalilentokenttä tarjoaa yhteispeliä kavereiden kanssa ja mahdollisuuden matkustaa ympäri maailmaa.]]></item>
+  <item name="av.website.gametour.3"><![CDATA[Skyramassa yhteispeli on valttia - tässä MMO-pelissä pelaajat jakavat lennot, rahdin ja ilmatilan.]]></item>
+  <item name="av.website.gametour.4"><![CDATA[Skyramassa yhteispeli on valttia - tässä MMO-pelissä pelaajat jakavat lennot, rahdin ja ilmatilan.]]></item>
+  <item name="av.website.gametour.5"><![CDATA[Skyrama tarjoaa kevyttä taktikointia - lukuisat resurssit, lentokentän hallinta ja lentojen suunnittelu tuovat peliin haasteita.]]></item>
+  <item name="av.website.gametour.6"><![CDATA[Skyrama tarjoaa kevyttä taktikointia - lukuisat resurssit, lentokentän hallinta ja lentojen suunnittelu tuovat peliin haasteita.]]></item>
+  <item name="av.website.gametour.7"><![CDATA[Skyrama tarjoaa kevyttä taktikointia - lukuisat resurssit, lentokentän hallinta ja lentojen suunnittelu tuovat peliin haasteita.]]></item>
+  <item name="av.website.gametour.8"><![CDATA[Skyramassa on upeita lentokoneita, maisemia, koristeita ja matkamuistoja, jotka pitävät sinut kiireisinä.]]></item>
+  <item name="av.website.gametour.9"><![CDATA[Skyramassa on upeita lentokoneita, maisemia, koristeita ja matkamuistoja, jotka pitävät sinut kiireisinä.]]></item>
+  <item name="av.website.gametour.10"><![CDATA[Skyraman grafiikka ja tarinat vievät sinut uuteen maailmaan - söpöillä animaatioilla ja hauskoilla hahmoilla.]]></item>
+  <item name="av.website.gametour.11"><![CDATA[Skyraman grafiikka ja tarinat vievät sinut uuteen maailmaan - söpöillä animaatioilla ja hauskoilla hahmoilla.]]></item>
+ </category>
+ <category name="av.website.seo">
+  <item name="av.website.seo.title"><![CDATA[Skyrama | Virtuaalilentokenttä: Lähde lentoon ilmaispelitaivaalle]]></item>
+  <item name="av.website.seo.keywords"><![CDATA[Skyrama, Sky Rama, lentokenttä online peli, lentokenttäpeli]]></item>
+  <item name="av.website.seo.description"><![CDATA[Rama-SuperTurbo on valmiina laskuun! Anna laskulupa - pidä huolta koneistasi ja matkustajista. Tee virtuaalikentästäsi maailman huippu. Tule mukaan!]]></item>
+  <item name="av.website.seo.text"><![CDATA[<p>Skyrama on paljon enemmän kuin ilmaispeli: Täällä voit suunnitella oman lentokenttäsi ja laajentaa sitä omien tarpeidesi mukaan. Voit rakentaa terminaaleja matkustajille ja halleja koneillesi.
+ Ystäväsi ympäri maailman voi lähettää koneitaan Skyrama-lentokentällesi.</p>
+			<p>Ja vielä parempaa on luvassa: voit pelata Skyramaa niin paljon kuin sielu sietää. Peli laajenee loputtomiin ja se pitää otteessaan pitkään. Nouse tasolla ja saat uusia lentokoneita laivastoosi. Koristele lentokentän ympäristö värikkäillä tuotteilla ja rakennuksilla houkutellaksesi uusia matkustajia.</p>
+			<p>Lisäksi et pelaa Skyramaa yksin. Tässä ilmaispelissä käyt kavereiden lentokentillä ja kutsut heitä omallesi. Lentokenttäsi on jo pian kansainvälisen lentoliikenteen solmukohta. Missä muussa ilmaispelissä löydät näin monia mahdollisuuksia?</p>
+			<p>Tule Skyramaan ja lähetä koneesi kiitoradalle!</p>]]></item>
+  <item name="av.website.seo.seoText.short"><![CDATA[<h1>Skyrama: Ilmainen lentokenttäpeli</h1>
+            <p>Vain taivas on rajana ilmaisessa pelissä Skyrama, jossa johdat omaa lentokenttääsi ja pidät hauskaa!</p>]]></item>
+  <item name="av.website.seo.open"><![CDATA[Lue lisää]]></item>
+  <item name="av.website.seo.close"><![CDATA[Piilota]]></item>
+  <item name="av.website.seo.titleAid"><![CDATA[Skyrama: Online-lentokentänjohtamis-peli]]></item>
+  <item name="av.website.seo.descriptionAid"><![CDATA[Valmistele lennot, pidä huolta matkustajista ja rakenna lentokenttää: Nettipelissä Skyrama olet oman lentokenttäsi pomo. Valmistaudu nousuun ja pelaa!]]></item>
+ </category>
+ <category name="av.website.errors">
+  <item name="av.website.errors.title"><![CDATA[Virheilmoitus]]></item>
+  <item name="av.website.errors.login"><![CDATA[Kirjautumisvirhe; väärä käyttäjänimi tai salasana]]></item>
+  <item name="av.website.errors.1"><![CDATA[Kirjautumisvirhe; väärä käyttäjänimi tai salasana]]></item>
+  <item name="av.website.errors.2"><![CDATA[Kirjautumisvirhe; väärä käyttäjänimi tai salasana]]></item>
+  <item name="av.website.errors.3"><![CDATA[Kirjautumisvirhe; tiliä ei löytynyt]]></item>
+  <item name="av.website.errors.10"><![CDATA[Kirjautumisvirhe; tiliä ei vielä aktivoitu]]></item>
+  <item name="av.website.errors.11"><![CDATA[Kirjautumisvirhe; tili on blokattu]]></item>
+  <item name="av.website.errors.99"><![CDATA[Tekninen virhe kirjautumisessa; ota yhteys tukeen]]></item>
+  <item name="av.website.errors.noClient"><![CDATA[Asiakasohjelma ei saatavilla tällä hetkellä]]></item>
+ </category>
+ <category name="av.website.desc">
+  <item name="av.website.desc.1"><![CDATA[Pelaa netissä selaimella: Rakenna oma megaluokan lentokenttäsi!]]></item>
+  <item name="av.website.desc.2"><![CDATA[Oma online-lentokenttä! Ohjaa lentoliikennettä ja valmistele lennot]]></item>
+  <item name="av.website.desc.3"><![CDATA[Lähetä lentokoneesi maailman ympäri: käy kylässä kavereiden lentokentillä]]></item>
+ </category>
+ <category name="av.website.prelayer">
+  <item name="av.website.prelayer.headline1"><![CDATA[TNT-lentokone]]></item>
+  <item name="av.website.prelayer.topcontent1"><![CDATA[Upeat palkinnot odottavat sinua tällä laivastolla!]]></item>
+  <item name="av.website.prelayer.botcontent1"><![CDATA[Suorita tuutori ja saa kolme ainutlaatuista konetta TNT:ltä!]]></item>
+ </category>
+</language>

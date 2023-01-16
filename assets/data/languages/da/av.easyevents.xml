@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.easy_event">
+  <item name="av.easy_events.countdown.tooltip"><![CDATA[Tilbagevendende event!]]></item>
+  <item name="av.easy_event.coin_storm.title"><![CDATA[Guldregn!]]></item>
+  <item name="av.easy_event.coin_storm.text"><![CDATA[Vi har fået et specialtilbud fra vores brændstofleverandør. I dag får du 20% flere aircoins for at servicere fly.]]></item>
+  <item name="av.easy_event.crazysale.title"><![CDATA[Crazy udsalg!]]></item>
+  <item name="av.easy_event.crazysale.text"><![CDATA[I dag får vi dobbelt så mange AirCoins for at sælge toldfrit!]]></item>
+  <item name="av.easy_event.knowhowday.title"><![CDATA[Know how dag!!]]></item>
+  <item name="av.easy_event.knowhowday.text"><![CDATA[Vores piloter er lige kommet hjem fra træningslejr. Forvent at flyene producerer dobbelt XP i dag!]]></item>
+  <item name="av.easy_event.airshow.title"><![CDATA[Airshow!!]]></item>
+  <item name="av.easy_event.airshow.text"><![CDATA[I dag får du dobbelt mængde XP og AirCoins for at servicere fly!]]></item>
+  <item name="av.easy_event.passenger.title"><![CDATA[Passager-dag!]]></item>
+  <item name="av.easy_event.passenger.text"><![CDATA[Personalet på jorden observerede en tilstrømning af besøgende! I dag kan du samle dobbelt så mange passagerer fra alle dine bygninger!]]></item>
+  <item name="av.easy_event.specialplane.title"><![CDATA[Fly Dag!!]]></item>
+  <item name="av.easy_event.specialplane.text"><![CDATA[Send dit {plane} og få dobbelt op af Aircoins og XP i dag!]]></item>
+  <item name="av.easy_event.x_coins.title"><![CDATA[Tosset udsalg!]]></item>
+  <item name="av.easy_event.x_coins.text"><![CDATA[Hvis du sælger toldfri varer i dag, vil du modtage {times} så mange AirCoins.]]></item>
+  <item name="av.easy_event.x_xp.title"><![CDATA[Højflyver!!]]></item>
+  <item name="av.easy_event.x_xp.text"><![CDATA[Vores piloter er netop vendt tilbage fra et træningsseminar og deres hoveder brummer som Cessna motorer. Gør dig klar til {times} det ekstra EP!]]></item>
+  <item name="av.easy_event.quickservice.title"><![CDATA[HurtigService Mini-Event]]></item>
+  <item name="av.easy_event.quickservice.text"><![CDATA[Gratis HurtigService!]]></item>
+ </category>
+</language>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.news">
+  <item name="av.news.header"><![CDATA[Skyrama news]]></item>
+  <item name="av.news.title"><![CDATA[Ciao! Sono Cassandra e sono la tua nuova pilota di idrovolanti. Ti illustrerò le novità.]]></item>
+  <item name="av.news.text"><![CDATA[<li>È arrivato il nuovo sistema cargo! Segui il tutorial per saperne di più!</li><li>Tutti i passeggeri raccolti in un giorno lasceranno l'aeroporto dopo 72 ore a meno che non partano per un'altra destinazione, non dimenticarlo!</li>]]></item>
+  <item name="av.news.hint_title"><![CDATA[Consiglio:]]></item>
+  <item name="av.news.hint_text"><![CDATA[Se fai la manutenzione dei tuoi aerei in altri aeroporti ricevi il doppio delle ricompense!]]></item>
+  <item name="av.news.shop_title"><![CDATA[Wonderquickie!]]></item>
+  <item name="av.news.shop_text"><![CDATA[Raccogli componenti di aerei per completare la collezione Wonderquickie!]]></item>
+ </category>
+ <category name="av.santanews">
+  <item name="av.santanews.header"><![CDATA[News per l'inverno]]></item>
+  <item name="av.santanews.title"><![CDATA[Oh oh oh! Sono iniziate le settimane invernali e tutti i piloti, gli assistenti di volo e i passeggeri aspettano la grande festa di capodanno! Abbiamo in serbo un sacco di sorprese per voi!]]></item>
+  <item name="av.santanews.text"><![CDATA[Durante le settimane invernali anche Babbo Natale passerà a trovarti e potrebbero cadergli alcuni regali dalla slitta: fai attenzione e cerca di raccoglierli tutti, potresti ricevere delle ricompense! Dal 24 al 26 dicembre!]]></item>
+  <item name="av.santanews.hint_title"><![CDATA[Fuochi d'artificio!]]></item>
+  <item name="av.santanews.hint_text"><![CDATA[Buon anno! Invia dei saluti scoppiettanti ai tuoi amici. Dal 29 al 31 dicembre!]]></item>
+  <item name="av.santanews.shop_title"><![CDATA[Servizio rapido:]]></item>
+  <item name="av.santanews.shop_text"><![CDATA[paghi una volta e fai la manutenzione GRATIS a tutti gli aerei per 24 ore!]]></item>
+ </category>
+ <category name="av.january12news">
+  <item name="av.january12news.header"><![CDATA[Nuovo anno, nuove news]]></item>
+  <item name="av.january12news.title"><![CDATA[Buon anno! Ti auguriamo un 2012 pieno di aerei in orario, passeggeri soddisfatti e tante Aircoin!]]></item>
+  <item name="av.january12news.text"><![CDATA[Grazie a un'ottimizzazione tecnica, ora gli aerei vengono spostati automaticamente nelle rispettive piazzole. Prova subito e vedrai che in questo mondo inviare gli aerei è molto più comodo: un miglioramento davvero notevole per la gestione dell'aeroporto!]]></item>
+  <item name="av.january12news.hint_title"><![CDATA[Aggiornamenti]]></item>
+  <item name="av.january12news.hint_text"><![CDATA[Per ottenere maggiore velocità di caricamento e una performance migliorata stiamo lavorando a tutta forza!]]></item>
+  <item name="av.january12news.shop_title"><![CDATA[Acquisto merci]]></item>
+  <item name="av.january12news.shop_text"><![CDATA[Sei a corto di risorse? Comprale nel negozio!]]></item>
+ </category>
+ <category name="av.modernizationnews">
+  <item name="av.modernizationnews.header"><![CDATA[Le nuove quest quotidiane!]]></item>
+  <item name="av.modernizationnews.title"><![CDATA[Il futuro è già qui! Sono in arrivo fantastici prototipi di aerei e nuovi edifici.]]></item>
+  <item name="av.modernizationnews.text"><![CDATA[Una ristrutturazione dell'aeroporto del genere è davvero notevole. Non meravigliatevi, dunque, se il team di Skyrama negli ultimi mesi non ha potuto farsi sentire molto. Ora Tariq, Lin, Kurt e colleghi sono completamente a disposizione. Dal tour in relax per fare shopping alle scappatelle amorose (fallimenti inclusi), ce n'è di tutti i colori. Cliccate la stella sulla sinistra e divertitevi giocando, ma prima della scadenza! E tra poche settimane, sempre lì, vi attenderanno quest evento completamente nuove.]]></item>
+  <item name="av.modernizationnews.hint_title"><![CDATA[Aggiornamenti]]></item>
+  <item name="av.modernizationnews.hint_text"><![CDATA[Piazzando delle decorazioni hi-tech vicino alle piazzole puoi ridurre i tempi di manutenzione fino a un massimo del 40%.]]></item>
+  <item name="av.modernizationnews.shop_title"><![CDATA[Nuovi aerei!]]></item>
+  <item name="av.modernizationnews.shop_text"><![CDATA[Disponibili al negozio i nuovi prototipi e velivoli di sicurezza.]]></item>
+ </category>
+ <category name="av.modernizationnews+mmo">
+  <item name="av.modernizationnews+mmo.header"><![CDATA[L'aeroporto del futuro!]]></item>
+  <item name="av.modernizationnews+mmo.title"><![CDATA[Il futuro è già qui! Sono in arrivo fantastici prototipi di aerei e nuovi edifici.]]></item>
+  <item name="av.modernizationnews+mmo.text"><![CDATA[A tutti i piloti: Skyrama è stato nominato come migliore "MMO di imprenditori per browser"! Che bello! Clicca su questo link e vota per Skyrama nella categoria "Best Tycoon Browser MMO" <br/><a href="http://mmooftheyear.com/" target="_blank"><u>Link alle nomination</u></a><br/>Aiuta Skyrama a prendere ancora più quota! E se vinciamo ti aspetta una bella sorpresa!]]></item>
+  <item name="av.modernizationnews+mmo.hint_title"><![CDATA[Aggiornamenti]]></item>
+  <item name="av.modernizationnews+mmo.hint_text"><![CDATA[Piazzando delle decorazioni hi-tech vicino alle piazzole puoi ridurre i tempi di manutenzione fino a un massimo del 40%.]]></item>
+  <item name="av.modernizationnews+mmo.shop_title"><![CDATA[Nuovi aerei!]]></item>
+  <item name="av.modernizationnews+mmo.shop_text"><![CDATA[Disponibili al negozio i nuovi prototipi e velivoli di sicurezza.]]></item>
+ </category>
+ <category name="av.modernizationnews+unlocking">
+  <item name="av.modernizationnews+unlocking.header"><![CDATA[L'aeroporto del futuro!]]></item>
+  <item name="av.modernizationnews+unlocking.title"><![CDATA[Il futuro è già qui! Sono in arrivo fantastici prototipi di aerei e nuovi edifici.]]></item>
+  <item name="av.modernizationnews+unlocking.text"><![CDATA[Attenzione, piloti!<br/>Ora potete seguire i vostri progressi sulla nuova mappa dei Paesi sbloccati.<br/>Visitate ogni Paese di un continente per ricevere una ricompensa, dimostrando a tutti i giocatori che tutti i vostri aerei volano in tutto il mondo!]]></item>
+  <item name="av.modernizationnews+unlocking.hint_title"><![CDATA[Aggiornamenti]]></item>
+  <item name="av.modernizationnews+unlocking.hint_text"><![CDATA[Piazzando delle decorazioni hi-tech vicino alle piazzole puoi ridurre i tempi di manutenzione fino a un massimo del 40%.]]></item>
+  <item name="av.modernizationnews+unlocking.shop_title"><![CDATA[Nuovi aerei!]]></item>
+  <item name="av.modernizationnews+unlocking.shop_text"><![CDATA[Disponibili al negozio i nuovi prototipi e velivoli di sicurezza.]]></item>
+ </category>
+ <category name="av.zeppelinexpedition">
+  <item name="av.zeppelinexpedition.header"><![CDATA[Nuove funzionalità!]]></item>
+  <item name="av.zeppelinexpedition.title"><![CDATA[I vostri aeroporti sono pronti per ricevere i famosi dirigibili e per l'esplorazione dei Paesi! Vi attendono fama, onore e ricompense davvero speciali!]]></item>
+  <item name="av.zeppelinexpedition.text"><![CDATA[Ora puoi verificare i progressi di volo nella nuova mappa dell'esplorazione: visita tutti i Paesi di un continente per ricevere una ricompensa e per far vedere i tuoi aerei a giocatori di tutto il mondo!<br/><br/>Una volta edificato l'hangar per il dirigibile inizia a immagazzinare carburante per le tue spedizioni completando il mini gioco VOLI ACROBATICI. Una volta immagazzinato carburante sufficiente puoi inviare il tuo dirigibile verso mete esotiche per raccogliere rari souvenir. Quando avrai raccolto abbastanza souvenir potrai scambiarli in uno o due aerei molto esclusivi. Controlla il tuo inventario: forse l'hangar per il dirigibile c'è già!]]></item>
+  <item name="av.zeppelinexpedition.hint_title"><![CDATA[Spedizione dirigibile!]]></item>
+  <item name="av.zeppelinexpedition.hint_text"><![CDATA[Come ricompensa per i souvenir delle spedizioni ricevi il Dedarama o l'incredibile Spaceship-One.]]></item>
+  <item name="av.zeppelinexpedition.shop_title"><![CDATA[Voli acrobatici]]></item>
+  <item name="av.zeppelinexpedition.shop_text"><![CDATA[I Voli acrobatici sono disponibili nel tuo aeroporto appena hai un hangar per dirigibili. Clicca gli aerei al momento giusto per ricevere il carburante!]]></item>
+ </category>
+ <category name="av.mmo">
+  <item name="av.mmo.header"><![CDATA[MMO dell'anno!]]></item>
+  <item name="av.mmo.title"><![CDATA[Votare conviene! Grazie ai vostri voti l'equipaggio di Skyrama è riuscito ad accaparrarsi l'MMO Award 2012.]]></item>
+  <item name="av.mmo.text"><![CDATA[Ci hai votato come miglior <br/><a href="http://mmooftheyear.com/" target="_blank"><u>MMO del 2012</u></a>!<br/> È il momento di brindare e per voi ci saranno tre fantastici regali! Ogni pilota che si rispetti deve avere spazio sufficiente per dare sfogo alle proprie abilità: per questo il personale di terra ha lavorato giorno e notte per aggiungere uno slot all'hangar S e renderlo ancora più spazioso. Offre la casa, naturalmente!]]></item>
+  <item name="av.mmo.hint_title"><![CDATA[Sotto una buona stella]]></item>
+  <item name="av.mmo.hint_text"><![CDATA[Questa decorazione esclusiva farà risplendere il vostro aeroporto, non solo di notte!]]></item>
+  <item name="av.mmo.shop_title"><![CDATA[10 è il numero perfetto]]></item>
+  <item name="av.mmo.shop_text"><![CDATA[Fantastico regalo: ben 10 tentativi gratis al nastro delle sorprese!]]></item>
+ </category>
+ <category name="av.superfuel">
+  <item name="av.superfuel.header"><![CDATA[Metti il turbo nell'aeromobile!]]></item>
+  <item name="av.superfuel.title"><![CDATA[Supera la barriera del suono... con il carburante turbo!]]></item>
+  <item name="av.superfuel.text"><![CDATA[Aeromobili troppo lenti? Mai più dal tuo aeroporto! Fai subito rifornimento con il nuovissimo carburante turbo e vola in un baleno dagli amici in tutto il mondo tornando rapidamente con merce preziosa.]]></item>
+  <item name="av.superfuel.hint_title"><![CDATA[Atterraggio VIP]]></item>
+  <item name="av.superfuel.hint_text"><![CDATA[Basta aspettare! I veri VIP atterrano subito!]]></item>
+  <item name="av.superfuel.shop_title"><![CDATA[Al rifornimento!]]></item>
+  <item name="av.superfuel.shop_text"><![CDATA[Per tutti i manager dal 3° livello: 50 litri di carburante turbo per decollare alla grande!]]></item>
+ </category>
+ <category name="av.may_day">
+  <item name="av.may_day.header"><![CDATA[Giorni di Maggio su Skyrama!]]></item>
+  <item name="av.may_day.title"><![CDATA[Adesso si festeggia finché non arriva l'ambulanza a portarci via!]]></item>
+  <item name="av.may_day.text"><![CDATA[Che mese favoloso!  Per la fine della primavera la torre di controllo vibra! Accedi a risorse esclusive con monete floreali e festeggia giornata della mamma, del papà e fine della primavera in un colpo solo. Che l'atmosfera festosa continui!]]></item>
+  <item name="av.may_day.hint_title"><![CDATA[Fai parlare i fiori]]></item>
+  <item name="av.may_day.hint_text"><![CDATA[Raccoglierli vale la pena: più fiori, più risorse!]]></item>
+  <item name="av.may_day.shop_title"><![CDATA[Acquisti scatenati!]]></item>
+  <item name="av.may_day.shop_text"><![CDATA[Tutto per la primavera fino ad esaurimento scorte.]]></item>
+ </category>
+ <category name="av.eng_bay">
+  <item name="av.eng_bay.header"><![CDATA[L'officina aeronautica!]]></item>
+  <item name="av.eng_bay.title"><![CDATA[Fenomenale: ora è possibile potenziare gli aeromobili!]]></item>
+  <item name="av.eng_bay.text"><![CDATA[Nel negozio, alla voce "Risorse lato volo", con l'officina aeronautica migliori non solo l'estetica dei tuoi velivoli.  Qui i manager dell'aeroporto equipaggiano i velivoli con sistemi di navigazione, più spazio in stiva e propulsori più potenti. Per soli 100 Aircoin ti puoi assicurare subito la centrale di potenziamento. Il futuro è nei potenziamenti esclusivi!]]></item>
+  <item name="av.eng_bay.hint_title"><![CDATA[Artigianato efficiente!]]></item>
+  <item name="av.eng_bay.hint_text"><![CDATA[Ora ogni 24 puoi demolire gratis un velivolo!]]></item>
+  <item name="av.eng_bay.shop_title"><![CDATA[Il meglio del meglio]]></item>
+  <item name="av.eng_bay.shop_text"><![CDATA[Non hai tempo e voglia di raccogliere? Nel negozio trovi set di componenti a prezzi sensazionali!]]></item>
+  <item name="av.eng_bay.buy_title"><![CDATA[Trasporto efficiente]]></item>
+  <item name="av.eng_bay.buy_text"><![CDATA[Piazzando delle decorazioni hi-tech vicino alle piazzole puoi ridurre i tempi di manutenzione fino a un massimo del 40%.]]></item>
+  <item name="av.eng_bay.skin_title"><![CDATA[Gioca la carta carlinga]]></item>
+  <item name="av.eng_bay.skin_text"><![CDATA[Una bella ripassatina ai velivoli non fa male. Con il nuovo look dall'officina aeronautica si vola più in alto!]]></item>
+ </category>
+ <category name="av.announcement">
+  <item name="av.announcement.header"><![CDATA[Uno sguardo a tutta pista su Skyrama]]></item>
+  <item name="av.announcement.title"><![CDATA[Uno sguardo al futuro: scoprite subito quello che vi attende!]]></item>
+  <item name="av.announcement.text"><![CDATA[In alta stagione l'atmosfera si fa calda a Skyrama! Per la fine del mese è in programma un grande evento sportivo per tutti i campioni di oggi e di domani. Aerei esclusivi, edifici nuovissimi e tanto altro ancora per vincere la medaglia d'oro! Inoltre, dietro le quinte, fervono i lavori di rinnovamento. Stiamo eliminando molti bug per prepararvi al meglio a volare nei cieli di Skyrama. Tenetevi pronti!]]></item>
+  <item name="av.announcement.hint_title"><![CDATA[Amici preziosi]]></item>
+  <item name="av.announcement.hint_text"><![CDATA[Più comoda, più rapida, semplicemente migliore: presto la nuova funzionalità per gli inviti!]]></item>
+  <item name="av.announcement.shop_title"><![CDATA[Basta annoiarsi]]></item>
+  <item name="av.announcement.shop_text"><![CDATA[Obiettivi giornalieri come non ne avete mai visti: prossimamente incarichi esclusivi!]]></item>
+ </category>
+ <category name="av.friends">
+  <item name="av.friends.header"><![CDATA[Social aeronetwork]]></item>
+  <item name="av.friends.title"><![CDATA[Una visione a 360° del traffico aereo con il nuovo sistema di gestione degli amici!]]></item>
+  <item name="av.friends.text"><![CDATA[Lontano dagli occhi, lontano dal cuore! È difficile far funzionare un aeroporto senza tenere i contatti con gli amici! Negli ultimi tempi, però, il personale di terra ci ha informato che si sono verificati ripetuti problemi con lo stato online, che mettono in ginocchio anche i migliori manager di aeroporto. Non succederà più! In futuro, grazie al nuovo segnale aereo, potrete coordinarvi alla perfezione con tutti i membri della vostra lista amici. Vi basterà cliccare sul simbolo della torre in alto a sinistra dalla barra del menù e segnalare la vostra disponibilità. Nei 30 minuti successivi salirete di posizione nella lista dei vostri amici. Quindi al lavoro! Tenetevi sempre informati a vicenda per dire ai vostri "soci" quando siete in linea!]]></item>
+  <item name="av.friends.hint_title"><![CDATA[Aggiornamenti]]></item>
+  <item name="av.friends.hint_text"><![CDATA[Piazzando delle decorazioni hi-tech vicino alle piazzole puoi ridurre i tempi di manutenzione fino a un massimo del 40%.]]></item>
+  <item name="av.friends.shop_title"><![CDATA[Ospiti fissi]]></item>
+  <item name="av.friends.shop_text"><![CDATA[Meglio che a casa: in futuro i passeggeri rimarranno nella sala d'attesa per ben 5 giorni.]]></item>
+ </category>
+ <category name="av.10mi">
+  <item name="av.10mi.header"><![CDATA[Dieci milioni di giocatori registrati!]]></item>
+  <item name="av.10mi.title"><![CDATA[Un piccolo evento per un grande record. Che la festa abbia inizio!]]></item>
+  <item name="av.10mi.text"><![CDATA[Come ringraziamento per la vostra fedeltà, per voi 5 tentativi gratis al nastro delle sorprese, 10 litri di carburante turbo e componenti per l'officina aeronautica. Nel negozio vi aspettano anche una decorazione esclusiva e l'aereo di lusso MillionAir X.]]></item>
+  <item name="av.10mi.hint_title"><![CDATA[Un inizio senza intoppi]]></item>
+  <item name="av.10mi.hint_text"><![CDATA[Una settimana di festa, dal 10 al 17.12.2012, per celebrare i 10 milioni di giocatori!]]></item>
+  <item name="av.10mi.shop_title"><![CDATA[C'era una volta...]]></item>
+  <item name="av.10mi.shop_text"><![CDATA[L'aeroporto di Croydon, il primo aeroporto internazionale del mondo, aprì i battenti nel marzo del 1920.]]></item>
+ </category>
+ <category name="av.dark_orbit">
+  <item name="av.dark_orbit.header"><![CDATA[Dark Airport: una visita dallo spazio!]]></item>
+  <item name="av.dark_orbit.title"><![CDATA[Quando in futuro ci muoveremo a velocità supersonica, chi userà ancora gli aeroplani?]]></item>
+  <item name="av.dark_orbit.text"><![CDATA[Novità esclusiva: nelle prossime ore nel tuo aeroporto atterrerà l'incrociatore da battaglia Goliath per fare una breve comparsa. Procurati la fortezza volante, infondi timore tra gli avversari e dimostra che il futuro del trasporto aereo è nelle stelle...]]></item>
+  <item name="av.dark_orbit.hint_title"><![CDATA[Ieri Davide, oggi Goliath!]]></item>
+  <item name="av.dark_orbit.hint_text"><![CDATA[6 anni di DarkOrbit: l'11.12. ricorre l'inizio della grande opera spaziale]]></item>
+  <item name="av.dark_orbit.shop_title"><![CDATA[Offerta esclusiva]]></item>
+  <item name="av.dark_orbit.shop_text"><![CDATA[Ora o mai più: cogli l'occasione di possedere una Goliath!]]></item>
+ </category>
+ <category name="av.high_level">
+  <item name="av.high_level.header"><![CDATA[Permesso di atterraggio per l'élite degli aereoplani]]></item>
+  <item name="av.high_level.title"><![CDATA[Ecco che arriva il meglio del meglio!]]></item>
+  <item name="av.high_level.text"><![CDATA[I bravi piloti vogliono volare alto, i migliori vogliono volare in vetta! In futuro potrete ampliare la vostra flotta con la crème de la crème del trasporto aereo internazionale. Lasciatevi sorprendere dai prossimi aerei leggendari che faranno scalo nel vostro aeroporto!]]></item>
+  <item name="av.high_level.hint_title"><![CDATA[Rien ne va plus]]></item>
+  <item name="av.high_level.hint_text"><![CDATA[Hai voglia di una decorazione da vincitore? Vinci il primo premio!]]></item>
+  <item name="av.high_level.shop_title"><![CDATA[Decolla subito]]></item>
+  <item name="av.high_level.shop_text"><![CDATA[I nuovi aerei sono tirati a lucido.]]></item>
+ </category>
+ <category name="av.newquests">
+  <item name="av.newquests.header"><![CDATA[Obiettiv-O-Rama]]></item>
+  <item name="av.newquests.title"><![CDATA[Autorizzazione al decollo per nuove missioni!]]></item>
+  <item name="av.newquests.text"><![CDATA[Nuove storie, nuovi personaggi e tantissimi avvincenti incarichi: nelle prossime settimane il vostro aeroporto sarà sempre in fermento! Dopo essersi presi una pausa dal raggiungere gli obiettivi principali e quelli con una trama, Tariq, Lin & Co. sono di nuovo immersi a pieno ritmo nella baraonda quotidiana dell'aeroporto. Solo questa settimana abbiamo 10 nuovi missioni per tutti i giocatori che hanno completato tutte le loro quest. E per le settimane a venire ve ne aspettano altre! Tante altre! Aggiornate sempre le nuove quest e scoprite che cosa abbiamo ancora in serbo per voi.]]></item>
+  <item name="av.newquests.hint_title"><![CDATA[Nuovi edifici nel negozio]]></item>
+  <item name="av.newquests.hint_text"><![CDATA[Qui c'è qualcosa per tutti i gusti, da una piscina a onde a dispositivi di sicurezza.]]></item>
+  <item name="av.newquests.shop_title"><![CDATA[Wonderquickie!]]></item>
+  <item name="av.newquests.shop_text"><![CDATA[Raccogli componenti di aerei per completare la collezione Wonderquickie!]]></item>
+ </category>
+ <category name="av.recyclingnews">
+  <item name="av.recyclingnews.header"><![CDATA[Rottamazione corretta: ricicla i tuoi aerei!]]></item>
+  <item name="av.recyclingnews.title"><![CDATA[Più ecologici non si può]]></item>
+  <item name="av.recyclingnews.text"><![CDATA[Hangar intasato, polvere sulla pista e frustrazione nella torre di controllo? Nessun problema! Di' addio ai tuoi vecchi aerei arrugginiti, spediscili per il loro ultimo volo nel nostro nuovissimo centro di riciclaggio e crea nuovi, fiammanti componenti. Nell'officina di montaggio i nostri meccanici più abili daranno il meglio per creare a partire dai nuovi materiali dei fenomenali superaerei. Partecipa e catapulta il tuo aeroporto nel nuovo millennio!]]></item>
+  <item name="av.recyclingnews.hint_title"><![CDATA[Nuovi componenti]]></item>
+  <item name="av.recyclingnews.hint_text"><![CDATA[Vetro, bulloni, metallo: senza questi componenti non si creano aerei.]]></item>
+  <item name="av.recyclingnews.shop_title"><![CDATA[Nuovi fantastici aerei]]></item>
+  <item name="av.recyclingnews.shop_text"><![CDATA[Veloci come il fulmine e incredibilmente aerodinamici: così renderai eccezionale la tua flotta!]]></item>
+ </category>
+</language>

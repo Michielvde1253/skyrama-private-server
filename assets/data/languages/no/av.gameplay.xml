@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.gameplay">
+  <item name="av.gameplay.noSuperfuel"><![CDATA[Du har ikke nok turbodrivstoff!]]></item>
+  <item name="av.gameplay.noSuperfuel.title"><![CDATA[Fyll opp!]]></item>
+  <item name="av.gameplay.noFunds"><![CDATA[Du har ikke nok midler for denne enheten]]></item>
+  <item name="av.gameplay.noFunds.title"><![CDATA[Ikke nok midler]]></item>
+  <item name="av.gameplay.noFunds.message"><![CDATA[Du har ikke nok midler for denne enheten]]></item>
+  <item name="av.gameplay.planeAddedToRadar"><![CDATA[Radaren din har fanget opp noe!]]></item>
+  <item name="av.gameplay.planeAddedToHangar"><![CDATA[Luftfartøyet ble flyttet til hangaren]]></item>
+  <item name="av.gameplay.cannotGetPlaneOutOfHangar"><![CDATA[Kan ikke få ut luftfartøyet fra hangaren!]]></item>
+  <item name="av.gameplay.noRunwayAvailable"><![CDATA[Ingen ledige rullebaner!]]></item>
+  <item name="av.gameplay.noSeaPortAvailable"><![CDATA[Ingen sjøhavner tilgjengelig!]]></item>
+  <item name="av.gameplay.noHeliBayAvailable"><![CDATA[Ingen ledige heliplass tilgjengelig!]]></item>
+  <item name="av.gameplay.noRunwaySmall"><![CDATA[Du trenger en liten rullebane for å lande små fly med!]]></item>
+  <item name="av.gameplay.noRunwayMedium"><![CDATA[Du trenger en medium rullebane for å lande medium fly med!]]></item>
+  <item name="av.gameplay.noRunwayLarge"><![CDATA[Du trenger en stor rullebane for å lande store fly.]]></item>
+  <item name="av.gameplay.noRunwayHelicopter"><![CDATA[Du trenger en helirampe for å lande helikoptre med!]]></item>
+  <item name="av.gameplay.noRunwaySeaplane"><![CDATA[Du trenger en sjøhavn for å lande sjøfly!]]></item>
+  <item name="av.gameplay.noSizeRunwayAvailable"><![CDATA[Ingen [{size1}] rullebane tilgjengelig for [{size2}] luftfartøyet!]]></item>
+  <item name="av.gameplay.noSizeHeliBayAvailable"><![CDATA[Ingen heliplass [{size1}] tilgjengelig for helikopter [{size2}]!]]></item>
+  <item name="av.gameplay.buildingMissing"><![CDATA[En bygning mangler for å kunne sende luftfartøyet.]]></item>
+  <item name="av.gameplay.coinsToSendPlane"><![CDATA[Du trenger flere luftmynter for å kunne sende dette luftfartøyet.]]></item>
+  <item name="av.gameplay.passengersToSendPlane"><![CDATA[Du trenger flere passasjerer for å kunne sende dette luftfartøyet.]]></item>
+  <item name="av.gameplay.hangarNeeded"><![CDATA[En passende hangar kreves!]]></item>
+  <item name="av.gameplay.hangarCapacityNeeded"><![CDATA[Større hangarkapasitet kreves!]]></item>
+  <item name="av.gameplay.bayNeeded"><![CDATA[Rampe kreves!]]></item>
+  <item name="av.gameplay.baySizeNeeded"><![CDATA[Du trenger [{size1}] rampe for et [{size2}] fly!!]]></item>
+  <item name="av.gameplay.warehouseNeeded"><![CDATA[Cargorampe kreves!]]></item>
+  <item name="av.gameplay.warehouseSizeNeeded"><![CDATA[Du trenger en [{size1}] cargorampe, for disse luftfartøyene!
+]]></item>
+  <item name="av.gameplay.mediumBuildingsNeed"><![CDATA[Medium flyplass bygninger kreves!]]></item>
+  <item name="av.gameplay.newPlaneAddedToHangar"><![CDATA[Et nytt luftfartøy ble levert til hangaren!]]></item>
+  <item name="av.gameplay.storage.emptyBuilding"><![CDATA[Du kan bare flytte tomme bygninger til lager]]></item>
+  <item name="av.gameplay.storage.noBuilding"><![CDATA[Bare bygninger kan flyttes til lager]]></item>
+  <item name="av.gameplay.move.emptyBuilding"><![CDATA[Du kan bare flytte tomme bygninger]]></item>
+  <item name="av.gameplay.move.noBuilding"><![CDATA[Bare bygninger kan flyttes]]></item>
+  <item name="av.gameplay.rotate.emptyBuilding"><![CDATA[Du kan bare rotere tomme bygninger]]></item>
+  <item name="av.gameplay.rotate.noBuilding"><![CDATA[Bare bygninger kan roteres]]></item>
+  <item name="av.gameplay.sameBackground"><![CDATA[Vi syns ikke du skal kjøpe din nåværende bakgrunn]]></item>
+  <item name="av.gameplay.notEnoughWaresCapacity.title"><![CDATA[Ikke nok varekapasitet]]></item>
+  <item name="av.gameplay.notEnoughWaresCapacity.message"><![CDATA[Du har ikke nok kapasitet til å kjøpe flere varer.]]></item>
+  <item name="av.gameplay.landingWouldCauseDeadlock"><![CDATA[Ved å lande dette flyet, kan det skape en deadlock situasjon.]]></item>
+  <item name="av.gameplay.transferWouldCauseDeadlock.title"><![CDATA[Potensial deadlock]]></item>
+  <item name="av.gameplay.transferWouldCauseDeadlock.message"><![CDATA[Forflytte dette flyet kan føre til en deadlock situasjon.]]></item>
+  <item name="av.gameplay.hangarToStorage"><![CDATA[Du kan ikke flytte en hangar til lager.]]></item>
+  <item name="av.gameplay.notPossible"><![CDATA[Dette er ikke mulig!]]></item>
+  <item name="av.gameplay.skipTask"><![CDATA[Klikk her for å hoppe over oppgaven]]></item>
+  <item name="av.gameplay.timeout"><![CDATA[Det var ikke nok tid til å utføre service for dette luftfartøyet.]]></item>
+  <item name="av.gameplay.planeReturned"><![CDATA[Et luftfartøy har returnert og har blitt flyttet til hangaren.]]></item>
+  <item name="av.gameplay.upgradeBuilding"><![CDATA[Bygning oppgradert!]]></item>
+  <item name="av.gameplay.nomoreUpgradeBuilding"><![CDATA[Denne bygningen kan ikke oppgraderes mer!]]></item>
+  <item name="av.gameplay.notEnoughWaresForReward"><![CDATA[Ikke nok varekapasitet til å motta belønningen!]]></item>
+  <item name="av.gameplay.buildingUpgraded"><![CDATA[Bygning oppgradert]]></item>
+  <item name="av.gameplay.boughtResource"><![CDATA[Hell og lykke til deg for du har kjøpt en ressurs!]]></item>
+  <item name="av.gameplay.cargocapacity"><![CDATA[Du har kjøpt deg større varekapasitet!]]></item>
+  <item name="av.gameplay.messageRequired"><![CDATA[Kreves en banner med melding!]]></item>
+  <item name="av.gameplay.planeMoved"><![CDATA[Luftfartøy flyttet fra hangar]]></item>
+  <item name="av.gameplay.recycleBuildingToStorage"><![CDATA[Aktive bygninger kan ikke sendes til lagring!]]></item>
+  <item name="av.gameplay.assemblyBuildingToStorage"><![CDATA[Aktive bygninger kan ikke sendes til lagring!]]></item>
+ </category>
+</language>

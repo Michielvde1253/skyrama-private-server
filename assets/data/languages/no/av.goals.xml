@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.goal">
+  <item name="av.goals.tooltip.main"><![CDATA[Hovedmål]]></item>
+  <item name="av.goals.tooltip.daily"><![CDATA[Daglig mål]]></item>
+  <item name="av.goals.tooltip.story"><![CDATA[Historiemål]]></item>
+  <item name="av.goals.tooltip.world"><![CDATA[Besøk alle land!]]></item>
+  <item name="av.finishGoal.message"><![CDATA[Fullfør målet]]></item>
+  <item name="av.requirements.text.default"><![CDATA[Krav:]]></item>
+  <item name="av.requirements.text.mediumPlanes"><![CDATA[Følgende kreves for å sende medium fly:]]></item>
+  <item name="av.requirements.text.heliCopter"><![CDATA[Følgende kreves for å sende Ramakopter:]]></item>
+  <item name="av.requirements.text.seaPlanes"><![CDATA[Følgende kreves for å sende sjøfly:]]></item>
+  <item name="av.requirements.text.largePlanes"><![CDATA[Um Große Flugzeuge zu starten brauchst Du:]]></item>
+ </category>
+ <category name="av.task">
+  <item name="av.task.buy"><![CDATA[Kjøp {amount} {item}]]></item>
+  <item name="av.task.collect"><![CDATA[Samle {amount} {item}]]></item>
+  <item name="av.task.fillShop"><![CDATA[Fyll opp hyllene]]></item>
+  <item name="av.task.land"><![CDATA[Lande {amount} {item}]]></item>
+  <item name="av.task.place"><![CDATA[Plasser {amount} {item}]]></item>
+  <item name="av.task.quickStart"><![CDATA[Øyeblikkelig service for et fly.]]></item>
+  <item name="av.task.return"><![CDATA[Returner {amount} {item}]]></item>
+  <item name="av.task.returnToCountry"><![CDATA[Returner {amount} {item} fra {country}]]></item>
+  <item name="av.task.sellProducts"><![CDATA[Selg produkter]]></item>
+  <item name="av.task.send"><![CDATA[Send {amount} {item}]]></item>
+  <item name="av.task.sendToCountry"><![CDATA[Send {amount} {item} til {country}]]></item>
+  <item name="av.task.sendToStranger"><![CDATA[Send {amount} fly til en ukjent]]></item>
+  <item name="av.task.store"><![CDATA[Plasser din gamle {item} i lageret ditt]]></item>
+  <item name="av.task.storeInventory"><![CDATA[Bruk lageret ditt]]></item>
+ </category>
+</language>

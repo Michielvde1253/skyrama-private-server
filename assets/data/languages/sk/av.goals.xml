@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.goal">
+  <item name="av.goals.tooltip.main"><![CDATA[Hlavná úloha]]></item>
+  <item name="av.goals.tooltip.daily"><![CDATA[Denná úloha]]></item>
+  <item name="av.goals.tooltip.story"><![CDATA[Úloha príbehu]]></item>
+  <item name="av.goals.tooltip.world"><![CDATA[Navštív každú krajinu!]]></item>
+  <item name="av.finishGoal.message"><![CDATA[Aktuálna úloha]]></item>
+  <item name="av.requirements.text.default"><![CDATA[Potrebné:]]></item>
+  <item name="av.requirements.text.mediumPlanes"><![CDATA[Na štart stredne veľkých lietadiel potrebuješ:]]></item>
+  <item name="av.requirements.text.heliCopter"><![CDATA[Pre štart ramakoptér potrebuješ:]]></item>
+  <item name="av.requirements.text.seaPlanes"><![CDATA[Pre štart hydroplánov potrebuješ:]]></item>
+  <item name="av.requirements.text.largePlanes"><![CDATA[Um Große Flugzeuge zu starten brauchst Du:]]></item>
+ </category>
+ <category name="av.task">
+  <item name="av.task.buy"><![CDATA[Kúp: typ: {item}, množstvo: {amount}]]></item>
+  <item name="av.task.collect"><![CDATA[Nazbieraj : typ: {item}, množstvo: {amount}]]></item>
+  <item name="av.task.fillShop"><![CDATA[Naplň regále]]></item>
+  <item name="av.task.land"><![CDATA[Pristaň: typ: {item}, množstvo: {amount}]]></item>
+  <item name="av.task.place"><![CDATA[Umiestni: typ: {item}, množstvo: {amount}]]></item>
+  <item name="av.task.quickStart"><![CDATA[Okamžité odbavenie lietadla]]></item>
+  <item name="av.task.return"><![CDATA[Odošli späť: typ: {item}, množstvo: {amount}]]></item>
+  <item name="av.task.returnToCountry"><![CDATA[Zo štátu {country} odošli späť: typ: {item}, množstvo: {amount}]]></item>
+  <item name="av.task.sellProducts"><![CDATA[Predaj výrobky]]></item>
+  <item name="av.task.send"><![CDATA[Odštartuj: typ: {item}, množstvo: {amount}]]></item>
+  <item name="av.task.sendToCountry"><![CDATA[Do štátu {country} pošli: typ: {item}, množstvo: {amount}]]></item>
+  <item name="av.task.sendToStranger"><![CDATA[Pošli lietadlá (počet: {amount}) niekomu neznámemu]]></item>
+  <item name="av.task.store"><![CDATA[Svoj starý predmet (typ: {item} ) odlož do inventáru.]]></item>
+  <item name="av.task.storeInventory"><![CDATA[Použi svoj inventár]]></item>
+ </category>
+</language>

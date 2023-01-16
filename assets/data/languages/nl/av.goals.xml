@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.goal">
+  <item name="av.goals.tooltip.main"><![CDATA[Hoofddoel]]></item>
+  <item name="av.goals.tooltip.daily"><![CDATA[Dagopdracht]]></item>
+  <item name="av.goals.tooltip.story"><![CDATA[Verhaalquest]]></item>
+  <item name="av.goals.tooltip.world"><![CDATA[Bezoek ieder land!]]></item>
+  <item name="av.finishGoal.message"><![CDATA[Einddoel]]></item>
+  <item name="av.requirements.text.default"><![CDATA[Voorwaarden:]]></item>
+  <item name="av.requirements.text.mediumPlanes"><![CDATA[Vereist om middelgrote vliegtuigen te starten:]]></item>
+  <item name="av.requirements.text.heliCopter"><![CDATA[Voorwaarden voor het starten van ramacopters:]]></item>
+  <item name="av.requirements.text.seaPlanes"><![CDATA[Voorwaarden voor het starten van watervliegtuigen:]]></item>
+  <item name="av.requirements.text.largePlanes"><![CDATA[Um Große Flugzeuge zu starten brauchst Du:]]></item>
+ </category>
+ <category name="av.task">
+  <item name="av.task.buy"><![CDATA[Koop {amount} {item}]]></item>
+  <item name="av.task.collect"><![CDATA[Verzamel {amount} {item}]]></item>
+  <item name="av.task.fillShop"><![CDATA[Vul je winkel]]></item>
+  <item name="av.task.land"><![CDATA[Land {amount} {item}]]></item>
+  <item name="av.task.place"><![CDATA[Plaats {amount} {item}]]></item>
+  <item name="av.task.quickStart"><![CDATA[Directe vluchtafwikkeling]]></item>
+  <item name="av.task.return"><![CDATA[Stuur {amount} {item} terug]]></item>
+  <item name="av.task.returnToCountry"><![CDATA[Stuur {amount} {item} uit {country} terug]]></item>
+  <item name="av.task.sellProducts"><![CDATA[Verkoop producten]]></item>
+  <item name="av.task.send"><![CDATA[Stuur {amount} {item}]]></item>
+  <item name="av.task.sendToCountry"><![CDATA[Stuur {amount} {item} naar {country}]]></item>
+  <item name="av.task.sendToStranger"><![CDATA[Stuur {amount} vliegtuigen naar een onbekende]]></item>
+  <item name="av.task.store"><![CDATA[Leg je oude {item} in de inventaris]]></item>
+  <item name="av.task.storeInventory"><![CDATA[Gebruik je magazijn]]></item>
+ </category>
+</language>

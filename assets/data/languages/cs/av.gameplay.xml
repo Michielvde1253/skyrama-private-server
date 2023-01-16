@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.gameplay">
+  <item name="av.gameplay.noSuperfuel"><![CDATA[Nemáš dost superpaliva
+]]></item>
+  <item name="av.gameplay.noSuperfuel.title"><![CDATA[Natankuj!
+]]></item>
+  <item name="av.gameplay.noFunds"><![CDATA[Nemáš dostatek peněz pro nákup tohoto předmětu]]></item>
+  <item name="av.gameplay.noFunds.title"><![CDATA[Nedostatek peněz]]></item>
+  <item name="av.gameplay.noFunds.message"><![CDATA[Nemáš dostatek peněz pro nákup tohoto předmětu]]></item>
+  <item name="av.gameplay.planeAddedToRadar"><![CDATA[Tvůj radar detekoval letadlo.]]></item>
+  <item name="av.gameplay.planeAddedToHangar"><![CDATA[Tvé letadlo bylo umístěno do hangáru.]]></item>
+  <item name="av.gameplay.cannotGetPlaneOutOfHangar"><![CDATA[Letadlo nemůže odjet z hangáru!]]></item>
+  <item name="av.gameplay.noRunwayAvailable"><![CDATA[Runway není k dispozici!]]></item>
+  <item name="av.gameplay.noSeaPortAvailable"><![CDATA[Vodní přístav není k dipozici!]]></item>
+  <item name="av.gameplay.noHeliBayAvailable"><![CDATA[Nedostatek přist. ploch pro helikoptéry!]]></item>
+  <item name="av.gameplay.noRunwaySmall"><![CDATA[Pro přistání malých letadel potřebuješ malou runway!]]></item>
+  <item name="av.gameplay.noRunwayMedium"><![CDATA[Pro přistání středních letadel potřebuješ střední runway!]]></item>
+  <item name="av.gameplay.noRunwayLarge"><![CDATA[Pro přistání velkých letadel potřebuješ velkou runway!]]></item>
+  <item name="av.gameplay.noRunwayHelicopter"><![CDATA[Pro přistání helikoptér potřebuješ přistávací plochu pro helikoptéry!]]></item>
+  <item name="av.gameplay.noRunwaySeaplane"><![CDATA[K přistání hydroplánu potřebuješ přístav!]]></item>
+  <item name="av.gameplay.noSizeRunwayAvailable"><![CDATA[Není volná runway k dispozici ({size1}) pro letadla {size2}!]]></item>
+  <item name="av.gameplay.noSizeHeliBayAvailable"><![CDATA[Nemáš volné přistávací plochy [{size1}] pro helikoptéru [{size2}]!]]></item>
+  <item name="av.gameplay.buildingMissing"><![CDATA[Chybí budova potřebná k vyslání letadla.]]></item>
+  <item name="av.gameplay.coinsToSendPlane"><![CDATA[Potřebuješ více halér k vyslání letadla.]]></item>
+  <item name="av.gameplay.passengersToSendPlane"><![CDATA[Potřebuješ více pasažérů k vyslání letadla.]]></item>
+  <item name="av.gameplay.hangarNeeded"><![CDATA[Potřebuješ hangár!]]></item>
+  <item name="av.gameplay.hangarCapacityNeeded"><![CDATA[Potřebuješ více místa v hangáru!]]></item>
+  <item name="av.gameplay.bayNeeded"><![CDATA[Potřebuješ servisní plochu!]]></item>
+  <item name="av.gameplay.baySizeNeeded"><![CDATA[Potřebuješ servisní plochu {size1} pro letadla {size2}!]]></item>
+  <item name="av.gameplay.warehouseNeeded"><![CDATA[Je třeba nákladová rampa!]]></item>
+  <item name="av.gameplay.warehouseSizeNeeded"><![CDATA[Potřebuješ sklad [{size1}] pro letadlo [{size2}]!]]></item>
+  <item name="av.gameplay.mediumBuildingsNeed"><![CDATA[Potřebuješ budovu technické obsluhy!]]></item>
+  <item name="av.gameplay.newPlaneAddedToHangar"><![CDATA[Ve tvém hangáru stojí nové letadlo!]]></item>
+  <item name="av.gameplay.storage.emptyBuilding"><![CDATA[Do inventáře můžeš přesunout jen prázdné budovy.]]></item>
+  <item name="av.gameplay.storage.noBuilding"><![CDATA[Do inventáře můžeš přesunout jen budovy.]]></item>
+  <item name="av.gameplay.move.emptyBuilding"><![CDATA[Můžeš přesunout jen prázdné budovy.]]></item>
+  <item name="av.gameplay.move.noBuilding"><![CDATA[Můžeš přesunout jen budovy]]></item>
+  <item name="av.gameplay.rotate.emptyBuilding"><![CDATA[Otočit můžeš jen prázdné budovy.]]></item>
+  <item name="av.gameplay.rotate.noBuilding"><![CDATA[Otáčet můžeš jen budovy.]]></item>
+  <item name="av.gameplay.sameBackground"><![CDATA[Neměl bys nakupovat pozadí, které už vlastníš.]]></item>
+  <item name="av.gameplay.notEnoughWaresCapacity.title"><![CDATA[Sklad je přeplněný]]></item>
+  <item name="av.gameplay.notEnoughWaresCapacity.message"><![CDATA[Chceš více zboží? Tak rozšiř svůj sklad!]]></item>
+  <item name="av.gameplay.landingWouldCauseDeadlock"><![CDATA[Přistání není možné. Nemáš dostatek servisních ploch.]]></item>
+  <item name="av.gameplay.transferWouldCauseDeadlock.title"><![CDATA[Málo místa]]></item>
+  <item name="av.gameplay.transferWouldCauseDeadlock.message"><![CDATA[Pro toto letadlo chybí servisní plocha.]]></item>
+  <item name="av.gameplay.hangarToStorage"><![CDATA[Nemůžeš přesunout hangár do inventáře.]]></item>
+  <item name="av.gameplay.notPossible"><![CDATA[Akce není možná!]]></item>
+  <item name="av.gameplay.skipTask"><![CDATA[Klikni k přeskočení úkolu]]></item>
+  <item name="av.gameplay.timeout"><![CDATA[Servisní čas překročen.]]></item>
+  <item name="av.gameplay.planeReturned"><![CDATA[Letadlo se vrátilo a stojí teď v hangáru.]]></item>
+  <item name="av.gameplay.upgradeBuilding"><![CDATA[Budova byla rozšířena (upgrade)!]]></item>
+  <item name="av.gameplay.nomoreUpgradeBuilding"><![CDATA[Budova už nemůže být rozšířena!]]></item>
+  <item name="av.gameplay.notEnoughWaresForReward"><![CDATA[Sklad je příliš malý k umístění odměny!]]></item>
+  <item name="av.gameplay.buildingUpgraded"><![CDATA[Budova rozšířena]]></item>
+  <item name="av.gameplay.boughtResource"><![CDATA[Tvůj nákup byl úspěšný!]]></item>
+  <item name="av.gameplay.cargocapacity"><![CDATA[Úspěšně jsi navýšil kapacitu nákladu!]]></item>
+  <item name="av.gameplay.messageRequired"><![CDATA[Je potřeba poutač se zprávou!]]></item>
+  <item name="av.gameplay.planeMoved"><![CDATA[Letadlo je mimo hangár]]></item>
+  <item name="av.gameplay.recycleBuildingToStorage"><![CDATA[Aktivní budovy nemůžeš uložit do skladu!]]></item>
+  <item name="av.gameplay.assemblyBuildingToStorage"><![CDATA[Aktivní budovy nemůžeš uložit do skladu!]]></item>
+ </category>
+</language>

@@ -1,0 +1,19 @@
+<Goals>
+
+<!-- Available tasks (task name comes first, names of other attributses are listed in brackets)
+	SendPlane(reps)
+-->
+
+	<Sequence name="main">
+		<Goal>
+			<Task name="SendPlane" reps="1"/>
+		</Goal>
+	</Sequence>
+	
+	<!--<Sequence name="">
+		<Goal>
+			<Task type="" reps=""/>
+		</Goal>	
+	</Sequence>-->
+
+</Goals>

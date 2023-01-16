@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.news">
+  <item name="av.news.header"><![CDATA[Skyrama – zprávy]]></item>
+  <item name="av.news.title"><![CDATA[Ahoj! Já jsem Cassandra tvůj nový pilot hydroplánu. Provedu tě novým obsahem a funkcemi.]]></item>
+  <item name="av.news.text"><![CDATA[<li>Přivezli nový nákladový systém! Postupuj podle nového tutoriálu, aby ses o něm dozvěděl více!</li><li>Pasažéři nasbíraní během jednoho dne, pokud je neodešleš, tvé letiště po 72 hodinách opustí! To měj vždy na paměti!</li>]]></item>
+  <item name="av.news.hint_title"><![CDATA[Tip:]]></item>
+  <item name="av.news.hint_text"><![CDATA[Když jsou tvá letadla odbavena na jiných letištích, obdržíš dvojnásobnou odměnu!]]></item>
+  <item name="av.news.shop_title"><![CDATA[WonderQuicky!]]></item>
+  <item name="av.news.shop_text"><![CDATA[Sbírej části letadel a zkompletuj sbírku WonderQuicky!!!]]></item>
+ </category>
+ <category name="av.santanews">
+  <item name="av.santanews.header"><![CDATA[Zímní novinky]]></item>
+  <item name="av.santanews.title"><![CDATA[Ho ho ho! Blíží se konec roku a piloti, pasažéři, letušky i stewardi se už těší na pořádnou novoroční párty. Připoutejte se, čekají vás velké věci!]]></item>
+  <item name="av.santanews.text"><![CDATA[V období vánoc má Ježíšek ve zvyku kroužit nad naším letištěm. Měj oči na stopkách – může se stát, že upustí nějaké dárky. Posbírej je a raduj se z odměny! Platí od 24.12. do 26.12.!]]></item>
+  <item name="av.santanews.hint_title"><![CDATA[Ohňostroj!]]></item>
+  <item name="av.santanews.hint_text"><![CDATA[Šťastný nový rok! Pošli svým přátelům novoroční přání s ohňostrojem. Platí od 29.12. do 31.12.!]]></item>
+  <item name="av.santanews.shop_title"><![CDATA[Neváhej a odbavuj:]]></item>
+  <item name="av.santanews.shop_text"><![CDATA[Zaplať jednou a pak po celých 24 hodin ZDARMA odbavuj tolik letadel, kolik jen chceš.]]></item>
+ </category>
+ <category name="av.january12news">
+  <item name="av.january12news.header"><![CDATA[Novoroční novinky]]></item>
+  <item name="av.january12news.title"><![CDATA[Štastný nový rok! Vítej do roku 2012 - Ať máš všechny letadla hned opravena, spoustu pasažérů a halér jako máku!]]></item>
+  <item name="av.january12news.text"><![CDATA[Udělali jsme pár technických vylepšení a letadla teď budou automaticky přesunuta do svých příslušných parkovacích pruhů. Zkus to a uvidíš, že ti tato funkce usnadní vysílání letadel, a že je důkladným vylepšením pro každého manažera letiště!]]></item>
+  <item name="av.january12news.hint_title"><![CDATA[Aktualizace:]]></item>
+  <item name="av.january12news.hint_text"><![CDATA[Pracujeme na zlepšení doby načítání a výkonnosti. Opravdu!]]></item>
+  <item name="av.january12news.shop_title"><![CDATA[Nákup zboží:]]></item>
+  <item name="av.january12news.shop_text"><![CDATA[Došlo ti zboží? Neváhej si nějaké nakoupit v obchodní sekci s "Doplňky".]]></item>
+ </category>
+ <category name="av.modernizationnews">
+  <item name="av.modernizationnews.header"><![CDATA[Nové denní úkoly!]]></item>
+  <item name="av.modernizationnews.title"><![CDATA[Je čas vzlétnout! 21 zcela nových dobrodružství pro letištní manažery!]]></item>
+  <item name="av.modernizationnews.text"><![CDATA[Rekonstrukce letiště je velmi náročná. Není divu, že posádka ve Skyramě byla v poslední době nepřítomná. Ale teď jsou Tonda, Lin, Karel a spol. opět tu. Je tu všechno - od pohodového nákupního výletu až ke skvělému dobrodružství. Klikni na hvězdu na levé straně a hraj, dokud neuplyne čas! Už za několik týdnů na vás bude na stejném místě čekat úplně nová řada akčních úkolů.]]></item>
+  <item name="av.modernizationnews.hint_title"><![CDATA[Aktualizace:]]></item>
+  <item name="av.modernizationnews.hint_text"><![CDATA[Rozmísti moderní dekorace okolo servisních ploch a zkrať tak dobu odbavování letadel až o 40%.]]></item>
+  <item name="av.modernizationnews.shop_title"><![CDATA[Nová letadla!]]></item>
+  <item name="av.modernizationnews.shop_text"><![CDATA[V obchodě najdeš řadu pohotovostních modelů a zbrusu nový prototyp.]]></item>
+ </category>
+ <category name="av.modernizationnews+mmo">
+  <item name="av.modernizationnews+mmo.header"><![CDATA[Letiště zítřka!]]></item>
+  <item name="av.modernizationnews+mmo.title"><![CDATA[Letiště zítřka je tady! Brzy budeme mít k dispozici nové skvělé prototypy letadel a budovy.]]></item>
+  <item name="av.modernizationnews+mmo.text"><![CDATA[Piloti, poslouchejte! Skyrama je nominována na "Nejlepší Tycoon MMO webovou hru"! Hurááá!!! Klikni na odkaz dole a hlasuj pro nás! <br/><a href="http://mmooftheyear.com/" target="_blank"><u>Odkaz na MMO hlasování</u></a><br/>Pomoz Skyramě dosáhnout ještě vyšších výšek!! Čeká na tebe překvapení, jestli tuto cenu vyhrajeme!]]></item>
+  <item name="av.modernizationnews+mmo.hint_title"><![CDATA[Aktualizace:]]></item>
+  <item name="av.modernizationnews+mmo.hint_text"><![CDATA[Rozmísti moderní dekorace okolo servisních ploch a zkrať tak dobu odbavování letadel až o 40%.]]></item>
+  <item name="av.modernizationnews+mmo.shop_title"><![CDATA[Nová letadla!]]></item>
+  <item name="av.modernizationnews+mmo.shop_text"><![CDATA[V obchodě najdeš řadu pohotovostních modelů a zbrusu nový prototyp.]]></item>
+ </category>
+ <category name="av.modernizationnews+unlocking">
+  <item name="av.modernizationnews+unlocking.header"><![CDATA[Letiště zítřka!]]></item>
+  <item name="av.modernizationnews+unlocking.title"><![CDATA[Letiště zítřka je tady! Brzy budeme mít k dispozici nové skvělé prototypy letadel a budovy.]]></item>
+  <item name="av.modernizationnews+unlocking.text"><![CDATA[Piloti poslouchejte!<br/>Odteď budeš mít možnost sledovat svůj letový průběh s novou mapou odemykající země.<br/>Navštiv každou zemi na kontinentu, získej za to odměnu a ukaž svá letadla dalším hráčům po celém světě!]]></item>
+  <item name="av.modernizationnews+unlocking.hint_title"><![CDATA[Aktualizace:]]></item>
+  <item name="av.modernizationnews+unlocking.hint_text"><![CDATA[Rozmísti moderní dekorace okolo servisních ploch a zkrať tak dobu odbavování letadel až o 40%.]]></item>
+  <item name="av.modernizationnews+unlocking.shop_title"><![CDATA[Nová letadla!]]></item>
+  <item name="av.modernizationnews+unlocking.shop_text"><![CDATA[V obchodě najdeš řadu pohotovostních modelů a zbrusu nový prototyp.]]></item>
+ </category>
+ <category name="av.zeppelinexpedition">
+  <item name="av.zeppelinexpedition.header"><![CDATA[Nové funkce!]]></item>
+  <item name="av.zeppelinexpedition.title"><![CDATA[Naše letiště je připraveno k uspořádání slavné vzducholodní expedice a odemykání zemí! Sláva, čest a speciální odměny čekají všechny, kteří se účastní!]]></item>
+  <item name="av.zeppelinexpedition.text"><![CDATA[Odteď budeš mít možnost sledovat svůj letový průběh s novou mapou odemykající země. Navštiv každou zemi na kontinentu, získej za to odměnu a ukaž svá skvělá letadla hráčům po celém světě!<br/><br/>Jakmile budeš mít hangár pro vzducholodě, můžeš začít shromažďovat palivo pro expedici dokončením mini hry LETECKÁ SHOW. Až získáš dostatek paliva, pošli svoji vzducholoď do exotických míst sbírat vzácné suvenýry. Posbírej dostatek suvenýrů a vyměň je za jedno nebo dvě velmi exkluzivní letadla. Zkontroluj si svůj sklad, možná už tam na tebe čeká hangár pro vzducholodě!]]></item>
+  <item name="av.zeppelinexpedition.hint_title"><![CDATA[Vzducholodní expedice!]]></item>
+  <item name="av.zeppelinexpedition.hint_text"><![CDATA[Získej Dedaramu nebo tu úžasnou Spaceship-One jako odměnu za sbírky z expedice.]]></item>
+  <item name="av.zeppelinexpedition.shop_title"><![CDATA[Letecká show]]></item>
+  <item name="av.zeppelinexpedition.shop_text"><![CDATA[Letecká show se ukáže na tvém letišti jakmile budeš mít hangár pro vzducholodě. Klikni na letadla, která letí kolem v ten pravý okamžik a dostaneš palivo!]]></item>
+ </category>
+ <category name="av.mmo">
+  <item name="av.mmo.header"><![CDATA[MMO roku!]]></item>
+  <item name="av.mmo.title"><![CDATA[Řekni nám svůj názor a můžeš vyhrát! Díky všem vašim hlasům si Skyrama tým nedávno odnesl ocenění za MMO roku 2012.]]></item>
+  <item name="av.mmo.text"><![CDATA[Zvolili jste nás nejlepší tycoon browser hrou v soutěži o <br/><a href="http://mmooftheyear.com/" target="_blank"><u>MMO roku 2012</u></a><br/>! My otevřeme šampaňské a vy získáte tři nové úžasné dárky! Každý pravý pilot potřebuje dostatek místa k roztáhnutí křídel, a proto pozemní personál nepřestal pracovat a uvolnil další místo ve tvém malém hangáru. A to je všechno na nás!]]></item>
+  <item name="av.mmo.hint_title"><![CDATA[Tvá šťastná hvězda]]></item>
+  <item name="av.mmo.hint_text"><![CDATA[Tato nová dekorace rozzáří tvé letiště ve dne v noci.]]></item>
+  <item name="av.mmo.shop_title"><![CDATA[Šťastné číslo 10!]]></item>
+  <item name="av.mmo.shop_text"><![CDATA[9 je dobré, 10 je skvělé! A proto ti dáváme 10 zatočení zdarma v Zábavě se zavazadly!]]></item>
+ </category>
+ <category name="av.superfuel">
+  <item name="av.superfuel.header"><![CDATA[Natankuj svá letadla superpalivem
+]]></item>
+  <item name="av.superfuel.title"><![CDATA[Leť nadzvukovou rychlostí se zcela novým superpalivem!]]></item>
+  <item name="av.superfuel.text"><![CDATA[Zdá se ti, že tvá letadla, helikoptéry i vzducholodě nemají tu správnou rychlost? Tak je natankuj superpalivem a sleduj jak tvá flotila prosviští oblohou. Navštiv své přátele a dovez si hodnotné zboží ze všech koutů světa.]]></item>
+  <item name="av.superfuel.hint_title"><![CDATA[VIP přistání]]></item>
+  <item name="av.superfuel.hint_text"><![CDATA[Čekání v řadě na přistání už je minulostí. Teď můžeš přistát bez prodlení.]]></item>
+  <item name="av.superfuel.shop_title"><![CDATA[Tak je natankuj!
+]]></item>
+  <item name="av.superfuel.shop_text"><![CDATA[Pro každého hráče od 3. levelu: 50 jednotek superpaliva zdarma!
+]]></item>
+ </category>
+ <category name="av.may_day">
+  <item name="av.may_day.header"><![CDATA[Květen ve SkyRamě!
+]]></item>
+  <item name="av.may_day.title"><![CDATA[Skyrama se těší z letní oblohy! Je čas na kokteil a párty na pláži!
+]]></item>
+  <item name="av.may_day.text"><![CDATA[Jaký překrásný květen!  Jaro je krásné období! Použij sváteční mince a odemkni exkluzivní předměty, oslav Den matek, Den otců a jarní svátky v jednom! Doufejme, že při odletu nebude moc větrno! Tak pojďme na letiště!]]></item>
+  <item name="av.may_day.hint_title"><![CDATA[Peníze mluví za všechno
+]]></item>
+  <item name="av.may_day.hint_text"><![CDATA[Tak začni sbírat! Čím více mincí, tím více předmětů!
+]]></item>
+  <item name="av.may_day.shop_title"><![CDATA[Obchodní horečka!
+]]></item>
+  <item name="av.may_day.shop_text"><![CDATA[Jarní výprodej! Všechno se musí prodat!
+]]></item>
+ </category>
+ <category name="av.eng_bay">
+  <item name="av.eng_bay.header"><![CDATA[Letecká dílna]]></item>
+  <item name="av.eng_bay.title"><![CDATA[To je bomba: Seřizování pro tvou flotilu!]]></item>
+  <item name="av.eng_bay.text"><![CDATA[Zcela nová letecká dílna je teď k dispozici v sekci "Budovy technické obsluhy". V letecké dílně si můžeš seřídit celou svou flotilu. Vybav svá letadla a Ramacoptery novým navigačním systémem, extra nákladním prostorem a lepší turbínou. Získej svou vlastní seřizovací centrálu za 100 halér. Letadla se značkou 'vlastní výroba' jsou značkou budoucnosti.]]></item>
+  <item name="av.eng_bay.hint_title"><![CDATA[Jde se montovat!]]></item>
+  <item name="av.eng_bay.hint_text"><![CDATA[Každých 24 hodin: Šrotování letadel zdarma!]]></item>
+  <item name="av.eng_bay.shop_title"><![CDATA[Od letadel k dílům]]></item>
+  <item name="av.eng_bay.shop_text"><![CDATA[Nemáš čas na sbírání? V obchodě najdeš sady dílů za skvělou cenu!]]></item>
+  <item name="av.eng_bay.buy_title"><![CDATA[Žádný strach]]></item>
+  <item name="av.eng_bay.buy_text"><![CDATA[Rozmísti moderní dekorace okolo servisních ploch a zkrať tak dobu odbavování letadel až o 40%.]]></item>
+  <item name="av.eng_bay.skin_title"><![CDATA[Povyk]]></item>
+  <item name="av.eng_bay.skin_text"><![CDATA[Zkrášli své letadlo. S novým vzhledem z dílny přímo do oblak!]]></item>
+ </category>
+ <category name="av.announcement">
+  <item name="av.announcement.header"><![CDATA[Skyrama - oznámení]]></item>
+  <item name="av.announcement.title"><![CDATA[Pohled do budoucnosti: Zde se jako první dozvíte, co vás již brzy čeká!]]></item>
+  <item name="av.announcement.text"><![CDATA[V hlavní sezóně je horko i ve Skyramě. Na konci měsíce je na programu velká akce pro všechny špičkové sportovce i ty, kteří se jimi chtějí stát. Exkluzivní letadla, zcela nové budovy a mnohem víc za medailové úspěchy. Kromě toho za oponou plně renovujeme - zavolali jsme ty nejlepší z týmu, aby zničili hejno bugů, které se nám tu nashromáždily. Teď nemají bugy žádnou šanci!]]></item>
+  <item name="av.announcement.hint_title"><![CDATA[Důvěrní přátelé]]></item>
+  <item name="av.announcement.hint_text"><![CDATA[Pohodlnější, rychlejší, lepší: Už brzy spustíme funkci pozvánek pro tvé kamarády!]]></item>
+  <item name="av.announcement.shop_title"><![CDATA[Starý a šedivý včerejšek.]]></item>
+  <item name="av.announcement.shop_text"><![CDATA[Denní úkoly jako nikdy předtím - již brzy!]]></item>
+ </category>
+ <category name="av.friends">
+  <item name="av.friends.header"><![CDATA[Letecký společenský portál]]></item>
+  <item name="av.friends.title"><![CDATA[Kompletní přehled celé letecké dopravy s novým Buddy-plánovačem!]]></item>
+  <item name="av.friends.text"><![CDATA[Jako letištní manažer musíš být stále v kontaktu se svými kamarády - jinak na tebe zapomenou a to by mělo špatné důsledky pro tvůj byznys. Náš pozemní personál nás informoval o problémech, které jsi měl s online statusem a my na nich pracujeme, tak to nevzdávej. Vytvořili jsme nový letecký signál, který ti dovolí zkoordinovat tvé letecké plány s tvými přáteli! Klikni na symbol věže v menu vlevo nahoře a na dalších 30 minut se tvé jméno objeví nahoře v seznamu přátel tvých kamarádů. Toto jim dá vědět, že můžeš přijímat lety. Tak na co čekáš? Zkus to a dej svým byznys partnerům vědět, že jsi připraven!]]></item>
+  <item name="av.friends.hint_title"><![CDATA[Aktualizace:]]></item>
+  <item name="av.friends.hint_text"><![CDATA[Rozmísti moderní dekorace okolo servisních ploch a zkrať tak dobu odbavování letadel až o 40%.]]></item>
+  <item name="av.friends.shop_title"><![CDATA[Zůstaň chvíli!]]></item>
+  <item name="av.friends.shop_text"><![CDATA[Jako doma! Již brzy zůstanou tví pasažéři v terminálu 5 dní.]]></item>
+ </category>
+ <category name="av.10mi">
+  <item name="av.10mi.header"><![CDATA[10 milionů registrovaných hráčů!]]></item>
+  <item name="av.10mi.title"><![CDATA[Malá akce při příležitosti velkého rekordu. Budeme otevírat lahve se šampaňským!]]></item>
+  <item name="av.10mi.text"><![CDATA[Jako poděkování za vaši věrnost rozdáváme 5 zatočení na zavazadlovém pásu zdarma, 10 jednotek superpaliva a díly do letecké dílny. Běž se také podívat do obchodu, kde najdeš exkluzivní dekorace a vzácný MillionAir X!]]></item>
+  <item name="av.10mi.hint_title"><![CDATA[Začátky jsou hračka]]></item>
+  <item name="av.10mi.hint_text"><![CDATA[10 milionů hráčů a týden dlouhá párty - slavíme od 10. do 17. prosince 2012!]]></item>
+  <item name="av.10mi.shop_title"><![CDATA[Bylo nebylo...]]></item>
+  <item name="av.10mi.shop_text"><![CDATA[Letiště Croydon, první mezinárodní letiště na světě, otevřelo své dveře v březnu 1920.]]></item>
+ </category>
+ <category name="av.dark_orbit">
+  <item name="av.dark_orbit.header"><![CDATA[Dark Airport: Návštěva z vesmíru!]]></item>
+  <item name="av.dark_orbit.title"><![CDATA[Do budoucnosti rychlostí zvuku - kdo bude potřebovat letadla?]]></item>
+  <item name="av.dark_orbit.text"><![CDATA[Exkluzivní novinka: V nejbližších hodinách přistane na krátkou návštěvu na tvém letišti bojový křižník Goliath. Získej létající pevnost, nauč konkurenci něco o strachu a dokaž, že budoucnost letadlové dopravy je ve hvězdách ...]]></item>
+  <item name="av.dark_orbit.hint_title"><![CDATA[Včera David, dnes Goliath!]]></item>
+  <item name="av.dark_orbit.hint_text"><![CDATA[6 let hry DarkOrbit - 11.12. vystartovala velká kosmická opera]]></item>
+  <item name="av.dark_orbit.shop_title"><![CDATA[Jednorázová nabídka]]></item>
+  <item name="av.dark_orbit.shop_text"><![CDATA[Teď a nebo nikdy: Tvoje šance na získání lodě Goliath!]]></item>
+ </category>
+ <category name="av.high_level">
+  <item name="av.high_level.header"><![CDATA[Povolení ke startu pro elitní letadla]]></item>
+  <item name="av.high_level.title"><![CDATA[Naše nová letadla jsou tu!]]></item>
+  <item name="av.high_level.text"><![CDATA[Dobří piloti se chtějí dostat nahoru, ale ti nejlepší až na vrchol! V budoucnu si můžeš svou flotilu vybudovat pro mezinárodní leteckou dopravu. Nech se překvapit, jaká legendární letadla zanedlouho přistanou na tvých letištích!]]></item>
+  <item name="av.high_level.hint_title"><![CDATA[Rien ne va plus]]></item>
+  <item name="av.high_level.hint_text"><![CDATA[Chceš získat skvělé výhry? Losy už jsou připraveny!]]></item>
+  <item name="av.high_level.shop_title"><![CDATA[Odstartovat]]></item>
+  <item name="av.high_level.shop_text"><![CDATA[Nové letadla - na skladě a naleštěná.]]></item>
+ </category>
+ <category name="av.newquests">
+  <item name="av.newquests.header"><![CDATA[Mise-O-Rama]]></item>
+  <item name="av.newquests.title"><![CDATA[Připrav se na nové mise!]]></item>
+  <item name="av.newquests.text"><![CDATA[Nové příběhy, postavy a hromada vzrušujících úkolů! V nadcházejících týdnech bude na letišti hodně rušno. Po delší přestávce od hlavních příběhů a úkolů se Tarik, Lin a jejich přátelé vrací zpátky, aby to na letišti trochu rozproudili. Tento týden spustíme 10 nových misí pro všechny hráče, kteří už vykonali všechny úkoly na jejich seznamu. Další přijdou v příštích týdnech. Vyhlížej nové úkoly, updaty a další překvapení, které máme připraveny!]]></item>
+  <item name="av.newquests.hint_title"><![CDATA[Nové budovy v obchodě]]></item>
+  <item name="av.newquests.hint_text"><![CDATA[Každý si tu něco najde, jestli hledáš dětský bazén nebo bezpečnostní sadu.]]></item>
+  <item name="av.newquests.shop_title"><![CDATA[WonderQuicky!]]></item>
+  <item name="av.newquests.shop_text"><![CDATA[Sbírej části letadel a zkompletuj sbírku WonderQuicky!!!]]></item>
+ </category>
+ <category name="av.recyclingnews">
+  <item name="av.recyclingnews.header"><![CDATA[Recykluj svá letadla!]]></item>
+  <item name="av.recyclingnews.title"><![CDATA[Od starých k novým!]]></item>
+  <item name="av.recyclingnews.text"><![CDATA[Zácpa na ranveji, hangár praská ve švech a letová posádka kypí vzteky? Žádný problém! Od teď si můžeš jednoduše letiště vyklidit, rozebrat náhradní letadla ve zbrusu novém recyklačním centru a na oplátku získat jedinečné díly. Vydej se do montážní haly, předej díly našim mechanikům a nech si sestavit letadlo svých snů přímo před svýma očima. Budoucnost začíná dnes. Připraven k odletu?]]></item>
+  <item name="av.recyclingnews.hint_title"><![CDATA[Nové díly]]></item>
+  <item name="av.recyclingnews.hint_text"><![CDATA[Sklo, šrouby, kov a další: Obstarej si náhradní díly ze starých letadel!]]></item>
+  <item name="av.recyclingnews.shop_title"><![CDATA[Nová senzační letadla]]></item>
+  <item name="av.recyclingnews.shop_text"><![CDATA[Super rychlá a super elegantní: Předveď svá nová stylová letadla!]]></item>
+ </category>
+</language>

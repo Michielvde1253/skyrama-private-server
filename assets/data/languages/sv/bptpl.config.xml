@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="bptpl.config">
+  <item name="bptpl.config.thousandSeparator"><![CDATA[.]]></item>
+  <item name="bptpl.config.decimalPoint"><![CDATA[,]]></item>
+  <item name="bptpl.config.locale"><![CDATA[sv_SE]]></item>
+ </category>
+</language>

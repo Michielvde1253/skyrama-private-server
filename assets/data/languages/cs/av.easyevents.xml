@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.easy_event">
+  <item name="av.easy_events.countdown.tooltip"><![CDATA[Probíhající akce!]]></item>
+  <item name="av.easy_event.coin_storm.title"><![CDATA[Déšť peněz!]]></item>
+  <item name="av.easy_event.coin_storm.text"><![CDATA[Speciální nabídka od dodavatelů paliva! Dnes získáš za odbavení letadel o 20% více halér.]]></item>
+  <item name="av.easy_event.crazysale.title"><![CDATA[Skvělý prodej!]]></item>
+  <item name="av.easy_event.crazysale.text"><![CDATA[Pokud dnes nakoupíš zboží duty free, získáš dvojnásobek halér!]]></item>
+  <item name="av.easy_event.knowhowday.title"><![CDATA[Den know-how!]]></item>
+  <item name="av.easy_event.knowhowday.text"><![CDATA[Naši piloti se vrátili z tréninkového tábora. Připrav se na dvojnásobek BZ!]]></item>
+  <item name="av.easy_event.airshow.title"><![CDATA[Letecká show!]]></item>
+  <item name="av.easy_event.airshow.text"><![CDATA[Odbavování letadel se dnes obzvlášť vyplatí. Na programu je dvojnásobek BZ a halér!]]></item>
+  <item name="av.easy_event.passenger.title"><![CDATA[To je ale zmatek!]]></item>
+  <item name="av.easy_event.passenger.text"><![CDATA[Personál se před pasažéry sotva ubrání! Dnes tě čeká v budově pasažérů dvojnásobný počet návštěvníků!]]></item>
+  <item name="av.easy_event.specialplane.title"><![CDATA[Turbo pro letadlo!!]]></item>
+  <item name="av.easy_event.specialplane.text"><![CDATA[Vyšli dnes své letadlo {plane} a získej dvojnásobek halérů a BZ!]]></item>
+  <item name="av.easy_event.x_coins.title"><![CDATA[Skvělý prodej!]]></item>
+  <item name="av.easy_event.x_coins.text"><![CDATA[Pokud dnes prodáš bezcelní zboží, získáš {times} tolik halérů.]]></item>
+  <item name="av.easy_event.x_xp.title"><![CDATA[Den know-how!]]></item>
+  <item name="av.easy_event.x_xp.text"><![CDATA[Naši piloti se právě vrátili ze vzdělávacího semináře a bzučí jim z toho v hlavě jako v letadlovém motoru. Připrav se na {times} tolik BZ!]]></item>
+  <item name="av.easy_event.quickservice.title"><![CDATA[Rychlý servis - Mini akce]]></item>
+  <item name="av.easy_event.quickservice.text"><![CDATA[Rychlý servis zdarma!]]></item>
+ </category>
+</language>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.goal">
+  <item name="av.goals.tooltip.main"><![CDATA[Tarefa principal]]></item>
+  <item name="av.goals.tooltip.daily"><![CDATA[Missão diária]]></item>
+  <item name="av.goals.tooltip.story"><![CDATA[Tarefa da história]]></item>
+  <item name="av.goals.tooltip.world"><![CDATA[Visita todos os países!]]></item>
+  <item name="av.finishGoal.message"><![CDATA[Concluir tarefa]]></item>
+  <item name="av.requirements.text.default"><![CDATA[Requisitos:]]></item>
+  <item name="av.requirements.text.mediumPlanes"><![CDATA[Necessário para descolar aviões médios:]]></item>
+  <item name="av.requirements.text.heliCopter"><![CDATA[Necessário para enviar ramacópteros:]]></item>
+  <item name="av.requirements.text.seaPlanes"><![CDATA[Necessário para enviar hidroaviões:]]></item>
+  <item name="av.requirements.text.largePlanes"><![CDATA[Um Große Flugzeuge zu starten brauchst Du:]]></item>
+ </category>
+ <category name="av.task">
+  <item name="av.task.buy"><![CDATA[Compra {amount} {item}]]></item>
+  <item name="av.task.collect"><![CDATA[Recolhe {amount} {item}]]></item>
+  <item name="av.task.fillShop"><![CDATA[Enche as prateleiras]]></item>
+  <item name="av.task.land"><![CDATA[Aterra {amount} {item}]]></item>
+  <item name="av.task.place"><![CDATA[Coloca {amount} {item} no aeroporto]]></item>
+  <item name="av.task.quickStart"><![CDATA[Manutenção imediato do avião.]]></item>
+  <item name="av.task.return"><![CDATA[Faz regressar {amount} {item}]]></item>
+  <item name="av.task.returnToCountry"><![CDATA[Fax regressar {amount} {item} a {country}]]></item>
+  <item name="av.task.sellProducts"><![CDATA[Vende produtos]]></item>
+  <item name="av.task.send"><![CDATA[Descola {amount} {item}]]></item>
+  <item name="av.task.sendToCountry"><![CDATA[Descola {amount} {item} para {country}]]></item>
+  <item name="av.task.sendToStranger"><![CDATA[Descola {amount} avião(ões) para algum desconhecido]]></item>
+  <item name="av.task.store"><![CDATA[Guarde o teu antigo {item} no inventário]]></item>
+  <item name="av.task.storeInventory"><![CDATA[Usa o teu inventário]]></item>
+ </category>
+</language>

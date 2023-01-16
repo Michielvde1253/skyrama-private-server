@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.friend">
+  <item name="av.friend.title"><![CDATA[Venneliste]]></item>
+  <item name="av.friend.text"><![CDATA[TODO: Lorem ipsum dolor...]]></item>
+  <item name="av.friend.reward"><![CDATA[Belønninger for venner]]></item>
+  <item name="av.friend.invite"><![CDATA[Inviter en venn]]></item>
+  <item name="av.friend.list.country"><![CDATA[Land]]></item>
+  <item name="av.friend.list.status"><![CDATA[Status]]></item>
+  <item name="av.friend.list.name"><![CDATA[Navn]]></item>
+  <item name="av.friend.list.level"><![CDATA[Nivå]]></item>
+  <item name="av.friend.list.bpoints"><![CDATA[Buddy-Punkte]]></item>
+  <item name="av.friend.search.hint"><![CDATA[Username / ID]]></item>
+  <item name="av.friend.search.clear"><![CDATA[Suche leeren]]></item>
+  <item name="av.friend.search.button"><![CDATA[Søk]]></item>
+  <item name="av.friend.rewards"><![CDATA[{current}/{max} Belohnung/en]]></item>
+  <item name="av.friend.reward.claim"><![CDATA[Beanspruchen]]></item>
+  <item name="av.friend.reward.got"><![CDATA[Beanspruchte Belohnungen]]></item>
+ </category>
+ <category name="av.friend.invite">
+  <item name="av.friend.invite.title"><![CDATA[Inviter venner]]></item>
+  <item name="av.friend.invite.text"><![CDATA[Allein  spielen war gestern. Lade Deine Freunde ins Spiel ein!]]></item>
+  <item name="av.friend.invite.to"><![CDATA[Nach:]]></item>
+  <item name="av.friend.invite.email"><![CDATA[E-Post]]></item>
+  <item name="av.friend.invite.hint"><![CDATA[Trenne mehrere Email-Adressen mit Kommas]]></item>
+  <item name="av.friend.invite.error"><![CDATA[Überprüfe, ob die E-Mail-Adresse korrekt geschrieben ist.]]></item>
+  <item name="av.friend.invite.send"><![CDATA[Nachricht schicken:]]></item>
+ </category>
+</language>

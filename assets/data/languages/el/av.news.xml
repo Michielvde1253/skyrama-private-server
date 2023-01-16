@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.news">
+  <item name="av.news.header"><![CDATA[Τα νέα του Skyrama]]></item>
+  <item name="av.news.title"><![CDATA[Γεια σου! Είμαι η Μαρίνα, η νέα πιλότος υδροπλάνου. Θα σου παρουσιάσω εν συντομία όλα τα νέα μας features.]]></item>
+  <item name="av.news.text"><![CDATA[<li>έφτασε το νέο σύστημα εμπορευμάτων και φορτηγών αεροπλάνων! Ακολούθησε την εκμάθηση για να μάθεις περισσότερα!</li><li> Όλοι οι επιβάτες θα περιμένουν στο αεροδρόμιο μέχρι και 72 ώρες, μετά θα φεύγουν! Να το θυμάσαι συνέχεια αυτό!</li>]]></item>
+  <item name="av.news.hint_title"><![CDATA[Συμβουλή:]]></item>
+  <item name="av.news.hint_text"><![CDATA[Αν τα αεροπλάνα σου επισκευαστούν σε άλλα αεροδρόμια τότε η ανταμοιβή σου θα είναι διπλή!]]></item>
+  <item name="av.news.shop_title"><![CDATA[Γρήγορα Θαύματα!]]></item>
+  <item name="av.news.shop_text"><![CDATA[Μάζεψε κομμάτια από τα αεροπλάνα για να συμπληρώσεις την συλλογή Γρήγορα Θαύματα!]]></item>
+ </category>
+ <category name="av.santanews">
+  <item name="av.santanews.header"><![CDATA[Χειμερινά νέα]]></item>
+  <item name="av.santanews.title"><![CDATA[Χόου χόου χόου! Κατα την διάρκεια των χειμερινών εβδομάδων όλοι ανυπομονούν για το μεγάλο πάρτι στο τέλος του χρόνου. Σε περιμένουν πολλά καινούρια πράγματα!]]></item>
+  <item name="av.santanews.text"><![CDATA[Κατά την διάρκεια των χειμερινών εβδομάδων ο Άι Βασίλης θα περάσει από το αεροδρόμιο σου! Να έχεις τον νου σου! Μπορεί να του πέσουν μερικά δώρα! Μάζεψε τα και κέρδισε πλούσια δώρα! Διαθέσιμο από τις 24.12 μέχρι τις 26.12!]]></item>
+  <item name="av.santanews.hint_title"><![CDATA[Πυροτεχνήματα!!!]]></item>
+  <item name="av.santanews.hint_text"><![CDATA[Ευτυχισμένος ο καινούριος χρόνος! Στείλε τα ολοκαίνουρια πυροτεχνήματα στους φίλους σου. Διαθέσιμα από 29.12 μέχρι και 31.12!]]></item>
+  <item name="av.santanews.shop_title"><![CDATA[Ταχεία εξυπηρέτηση:]]></item>
+  <item name="av.santanews.shop_text"><![CDATA[Πλήρωσε μόνο μια φορά και εξυπηρέτησε όσο περισσότερο μπορείς μέσα σε διάστημα 24 ωρών ΔΩΡΕΑΝ.]]></item>
+ </category>
+ <category name="av.january12news">
+  <item name="av.january12news.header"><![CDATA[Τα νέα του Νέου Έτους]]></item>
+  <item name="av.january12news.title"><![CDATA[Καλή Χρονιά! Καλωσόρισες πάλι πίσω! Ευχόμαστε για το 2012 καλές πτήσεις, πολλούς επιβάτες και πολλά αεροτάληρα!]]></item>
+  <item name="av.january12news.text"><![CDATA[Εξ'αιτίας τεχνικών βελτιώσεων τα αεροπλάνα μεταφέρθηκαν σε νέες θέσεις στάθμευσης. Δοκίμασες τες και θα δεις ότι αυτή η λειτουργία σε βοηθάει να στέλνεις πολύ πιο άνετα τα αεροπλάνα σου σε πτήσεις, αποτελώντας έτσι μια σημαντική βελτίωση για το αεροδρόμιο σου!]]></item>
+  <item name="av.january12news.hint_title"><![CDATA[Αναβαθμίσεις:]]></item>
+  <item name="av.january12news.hint_text"><![CDATA[Θέλουμε να σας ενημερώσουμε ότι δουλεύουμε σκληρά στο να βελτιώσουμε τον χρόνο φόρτωσης και τα θέματα απόδοσης.]]></item>
+  <item name="av.january12news.shop_title"><![CDATA[Αγορά προϊόντων:]]></item>
+  <item name="av.january12news.shop_text"><![CDATA[Σου τελείωσαν τα προϊόντα; Μπορείς να αγοράσεις μερικά από την ειδική κατηγορία στο μαγαζί.]]></item>
+ </category>
+ <category name="av.modernizationnews">
+  <item name="av.modernizationnews.header"><![CDATA[Οι νέες καθημερινές αποστολές!]]></item>
+  <item name="av.modernizationnews.title"><![CDATA[Σε λίγο κοντά σας 21 ολοκαίνουριες περιπέτειες για το προσωπικό του αεροδρομίου σας!]]></item>
+  <item name="av.modernizationnews.text"><![CDATA[Ήταν πολύ λογικό μετά από τέτοια αναδιοργάνωση να εξαφανιστεί για λίγο, τους τελευταίους μήνες, το πλήρωμα του Skyrama. Τώρα όμως όλοι οι γνωστοί μας χαρακτήρες είναι και πάλι κοντά μας, γεμάτη ενέργεια. Σας περιμένουν συναρπαστικά ταξίδια για ψώνια μέχρι και διασκεδαστικές ανατροπές και επικές προσγειώσεις. Κάντε κλικ στο αστεράκι αριστερά και παίξτε, πριν λήξει η ημερομηνία! Ήδη σε μερικές εβδομάδες σας περιμένουν ξανά στο ίδιο μέρος, τελείως διαφορετικές αποστολές.]]></item>
+  <item name="av.modernizationnews.hint_title"><![CDATA[Αναβαθμίσεις:]]></item>
+  <item name="av.modernizationnews.hint_text"><![CDATA[Τοποθέτησε μοντέρνα διακοσμητικά γύρω από τις θέσεις στάθμευσης για να μειώσεις τον χρόνο εξυπηρέτησης μέχρι και 40%.]]></item>
+  <item name="av.modernizationnews.shop_title"><![CDATA[Νέα αεροπλάνα!]]></item>
+  <item name="av.modernizationnews.shop_text"><![CDATA[Δες τα καινούρια αεροπλάνα στο κατάστημα σου.]]></item>
+ </category>
+ <category name="av.modernizationnews+mmo">
+  <item name="av.modernizationnews+mmo.header"><![CDATA[Το αεροδρόμιο του Μέλλοντος!]]></item>
+  <item name="av.modernizationnews+mmo.title"><![CDATA[Το αεροδρόμιο του Μέλλοντος είναι εδώ με καινούρια αεροπλάνα και φανταχτερά νέα κτίρια!]]></item>
+  <item name="av.modernizationnews+mmo.text"><![CDATA[Προσοχή πιλότοι! Το Skyrama είναι προτεινόμενο για τον τίτλο του "Καλύτερου ΜΜΟ παιχνιδιού browser"! Γιούπιιιι!!!! Χρειαζόμαστε την βοήθεια σας! Πατήστε το παρακάτω σύνδεσμο και δώστε μας την ψήφος σας! <br/><a href="http://mmooftheyear.com/" target="_blank"><u>Link to MMO-Votings</u></a><br/>Βοηθήστε μας να φτάσουμε στον έβδομο ουρανό!! Εννοείται ότι αν κερδίσουμε, σας περιμένει μια μεγάλη έκπληξη!]]></item>
+  <item name="av.modernizationnews+mmo.hint_title"><![CDATA[Αναβαθμίσεις:]]></item>
+  <item name="av.modernizationnews+mmo.hint_text"><![CDATA[Τοποθέτησε μοντέρνα διακοσμητικά γύρω από τις θέσεις στάθμευσης για να μειώσεις τον χρόνο εξυπηρέτησης μέχρι και 40%.]]></item>
+  <item name="av.modernizationnews+mmo.shop_title"><![CDATA[Νέα αεροπλάνα!]]></item>
+  <item name="av.modernizationnews+mmo.shop_text"><![CDATA[Δες τα καινούρια αεροπλάνα στο κατάστημα σου.]]></item>
+ </category>
+ <category name="av.modernizationnews+unlocking">
+  <item name="av.modernizationnews+unlocking.header"><![CDATA[Το αεροδρόμιο του Μέλλοντος!]]></item>
+  <item name="av.modernizationnews+unlocking.title"><![CDATA[Το αεροδρόμιο του Μέλλοντος είναι εδώ με καινούρια αεροπλάνα και φανταχτερά νέα κτίρια!]]></item>
+  <item name="av.modernizationnews+unlocking.text"><![CDATA[Συνταρακτικά νέα πιλότοι!<br/>Πλέον μπορείτε να παρακολουθείτε την πρόοδο των πτήσεων σας με τον νέο χάρτη πτήσεων.<br/>Επισκεφτείτε όλες τις χώρες κάθε ηπείρου και δείξτε τα καταπληκτικά αεροπλάνα σας σε παίκτες σε όλον τον κόσμο!]]></item>
+  <item name="av.modernizationnews+unlocking.hint_title"><![CDATA[Αναβαθμίσεις:]]></item>
+  <item name="av.modernizationnews+unlocking.hint_text"><![CDATA[Τοποθέτησε μοντέρνα διακοσμητικά γύρω από τις θέσεις στάθμευσης για να μειώσεις τον χρόνο εξυπηρέτησης μέχρι και 40%.]]></item>
+  <item name="av.modernizationnews+unlocking.shop_title"><![CDATA[Νέα αεροπλάνα!]]></item>
+  <item name="av.modernizationnews+unlocking.shop_text"><![CDATA[Δες τα καινούρια αεροπλάνα στο κατάστημα σου.]]></item>
+ </category>
+ <category name="av.zeppelinexpedition">
+  <item name="av.zeppelinexpedition.header"><![CDATA[Νέες λειτουργίες!]]></item>
+  <item name="av.zeppelinexpedition.title"><![CDATA[Το αεροδρόμιο μας είναι έτοιμο να υποδεχτεί την διάσημη έκθεση των αεροπλάνων Ζέπελιν και το Ξεκλείδωμα του Χάρτη! Σας περιμένουν φήμη,δόξα και πολλά καταπληκτικά δώρα!]]></item>
+  <item name="av.zeppelinexpedition.text"><![CDATA[Πλέον μπορείς να ελέγχεις την πρόοδο των πτήσεων σου με τον νέο χάρτη. Επισκέψου κάθε χώρα σε όλες τις ηπείρους και κέρδισε ένα δώρο! Επιπλέον έχεις την ευκαιρία να δείξεις τα αεροπλάνα σου σε όλο τον κόσμο!<br/><br/>Μόλις αποκτήσεις το υπόστεγο για το Ζέπελιν, μπορείς να ξεκινήσεις να μαζεύεις καύσιμα για την αποστολή σου, ολοκληρώνοντας το μίνι παιχνίδι "Επίδειξη στον αέρα". Όταν μαζέψεις αρκετά καύσιμα, μπορείς να στείλεις το Ζέπελιν σου σε εξωτικούς προορισμούς και να μαζέψεις σπάνια αναμνηστικά. Μάζεψε αρκετά αναμνηστικά και αντάλλαξε τα με κάποια συγκεκριμένα αεροπλάνα. Έλεγξε τα υπάρχοντα σου! Μπορεί το υπόστεγο για το Ζέπελιν να βρίσκεται ήδη εκεί!]]></item>
+  <item name="av.zeppelinexpedition.hint_title"><![CDATA[Αποστολή του Ζέπελιν!]]></item>
+  <item name="av.zeppelinexpedition.hint_text"><![CDATA[Ολοκλήρωσε την συλλογή της αποστολής του Ζέπελιν και κέρδισε το Dedarama ή το απίστευτο Διαστημόπλοιο.]]></item>
+  <item name="av.zeppelinexpedition.shop_title"><![CDATA[Επίδειξη στον αέρα]]></item>
+  <item name="av.zeppelinexpedition.shop_text"><![CDATA[Το σόου "Επίδειξη στον Αέρα" εμφανίζεται στο αεροδρόμιο σου μόλις αποκτήσεις ένα υπόστεγο για Ζέπελιν. Κάνε κλικ την κατάλληλη στιγμή στα αεροπλάνα που πετάνε για να πάρεις καύσιμα!]]></item>
+ </category>
+ <category name="av.mmo">
+  <item name="av.mmo.header"><![CDATA[Καλύτερο MMO παιχνίδι της χρονιάς!]]></item>
+  <item name="av.mmo.title"><![CDATA[Πες την γνώμη σου και βγες κερδισμένος! Χάρη στις ψήφους σας το πλήρωμα του Skyrama μόλις απέκτησε το βραβείο "MMO Award 2012".]]></item>
+  <item name="av.mmo.text"><![CDATA[Μας ψηφίσατε ως το καλύτερο παιχνίδι tycoon browswer στον διαγωνισμό <br/><a href="http://mmooftheyear.com/" target="_blank"><u>MMO of the Year 2012</u></a><br/>! Ήρθε λοιπόν η ώρα να το γιορτάσουμε, δίνοντας σας την ευκαιρία να κερδίσετε τρία νέα καταπληκτικά δώρα! Μια σωστή επιχείρηση αποσκοπεί πάντα σε αναβαθμίσεις και βελτιώσεις και για αυτό τον λόγο το πλήρωμα εδάφους μας προσπαθούσε τόσο καιρό να βρει χώρο για ακόμα μια υποδοχή στο υπόστεγο S. Φυσικά τα εργατικά έξοδα είναι δικά μας!]]></item>
+  <item name="av.mmo.hint_title"><![CDATA[Τυχερό Αστέρι]]></item>
+  <item name="av.mmo.hint_text"><![CDATA[Αυτό το καινούριο διακοσμητικό θα κάνει το αεροδρόμιο σου να λάμπει μέρα νύχτα.]]></item>
+  <item name="av.mmo.shop_title"><![CDATA[Το 10 το Καλό!]]></item>
+  <item name="av.mmo.shop_text"><![CDATA[9 είναι καλά αλλά 10 είναι τέλεια! Για αυτό τον λόγο λοιπόν σου δίνουμε 10 δωρεάν γύρους στην τυχερή βαλίτσα!]]></item>
+ </category>
+ <category name="av.superfuel">
+  <item name="av.superfuel.header"><![CDATA[Φούλαρε Τούρμπο!]]></item>
+  <item name="av.superfuel.title"><![CDATA[Σπάσε το φράγμα του ήχου, χρησιμοποιώντας... τούρμπο καύσιμο!]]></item>
+  <item name="av.superfuel.text"><![CDATA[Μειωμένη κίνηση, μεγάλοι χρόνοι αναμονής και δυσαρεστημένοι πελάτες; Όχι φυσικά στο δικό σου αεροδρόμιο! Φούλαρε τώρα με το τούρμπο καύσιμο και στείλε τα αεροπλάνα σου με ταχύτητα του φωτός!]]></item>
+  <item name="av.superfuel.hint_title"><![CDATA[VIP Προσγείωση]]></item>
+  <item name="av.superfuel.hint_text"><![CDATA[Ξέχνα πλέον τους χρόνους αναμονής. Προσγείωσε το αεροπλάνο σου χωρίς καθυστερήσεις.]]></item>
+  <item name="av.superfuel.shop_title"><![CDATA[Φούλαρε τα!]]></item>
+  <item name="av.superfuel.shop_text"><![CDATA[Για όλους, πάνω από το επίπεδο 3, υπάρχουν 50 δωρεάν λίτρα τούρμπο καύσιμο!]]></item>
+ </category>
+ <category name="av.may_day">
+  <item name="av.may_day.header"><![CDATA[Ανοιξιάτικες ημέρες στο Skyrama!]]></item>
+  <item name="av.may_day.title"><![CDATA[Τώρα αρχίζει το πάρτι και όποιος αντέξει!]]></item>
+  <item name="av.may_day.text"><![CDATA[Μα τι καταπληκτικός καιρός!  Φτιάχνει την διάθεση όλων! Χρησιμοποίησε τα Λουλουδοκέρματα για να ξεκλειδώσεις αποκλειστικά αντικείμενα, να γιορτάσεις την Γιορτή της Μητέρας, του Πατέρα και την Άνοιξη! Όλα μαζί μονομιάς! Μην χάνεις χρόνο!]]></item>
+  <item name="av.may_day.hint_title"><![CDATA[Χρησιμοποίησε έξυπνα τα λουλούδια!]]></item>
+  <item name="av.may_day.hint_text"><![CDATA[Μάζεψε όσα περισσότερα μπορείς! Όσα περισσότερα μαζέψεις τόσα περισσότερα αντικείμενα θα πάρεις!]]></item>
+  <item name="av.may_day.shop_title"><![CDATA[Καταναλωτική Μανία!]]></item>
+  <item name="av.may_day.shop_text"><![CDATA[Ανοιξιάτικες εκπτώσεις! Προλάβετε!]]></item>
+ </category>
+ <category name="av.eng_bay">
+  <item name="av.eng_bay.header"><![CDATA[Το νέο συνεργείο αεροπλάνων!]]></item>
+  <item name="av.eng_bay.title"><![CDATA[Απλά τέλεια! Τώρα μπορείς να αναβαθμίσεις τον στόλο σου!]]></item>
+  <item name="av.eng_bay.text"><![CDATA[Τώρα διαθέσιμο στο κατάστημα, στην κατηγορία "Εσωτερικά κτίρια". Στο συνεργείο μπορείς να φτιάξεις τα αεροπλάνα σου όπως εσύ θέλεις. Βάλε συστήματα πλοήγησης, επιπλέον αποθηκευτικό χώρο και καλύτερους κινητήρες. Για 100 Αεροτάλιρα μπορείς να αποκτήσεις αμέσως το καινούριο κτίριο. Τέρμα στα έτοιμα...η δικιά σου παραγωγή είναι πάντα καλύτερη!]]></item>
+  <item name="av.eng_bay.hint_title"><![CDATA[Μάθε τέχνη κι άστην! ]]></item>
+  <item name="av.eng_bay.hint_text"><![CDATA[Τώρα κάθε 24 ώρες: απόσυρε τα παλιά σου αεροπλάνα!]]></item>
+  <item name="av.eng_bay.shop_title"><![CDATA[Περί ανέμων και υδάτων]]></item>
+  <item name="av.eng_bay.shop_text"><![CDATA[Δεν έχεις χρόνο να περιμένεις; Στο μαγαζί μπορείς να βρεις τα εξαρτήματα σε ειδικές τιμές!]]></item>
+  <item name="av.eng_bay.buy_title"><![CDATA[Φορτηγό με έλικα]]></item>
+  <item name="av.eng_bay.buy_text"><![CDATA[Τοποθέτησε μοντέρνα διακοσμητικά γύρω από τις θέσεις στάθμευσης για να μειώσεις τον χρόνο εξυπηρέτησης μέχρι και 40%.]]></item>
+  <item name="av.eng_bay.skin_title"><![CDATA[Δώστα όλα για όλα]]></item>
+  <item name="av.eng_bay.skin_text"><![CDATA[Το σπα των αεροπλάνων σου. Με την νέα εμφάνιση λάμπει το αεροδρόμιο σου και χαίρονται οι πιλότοι σου!]]></item>
+ </category>
+ <category name="av.announcement">
+  <item name="av.announcement.header"><![CDATA[Τα νέα του Skyrama]]></item>
+  <item name="av.announcement.title"><![CDATA[Μια μικρή γεύση από αυτά που αναμένονται! Μάθετε πρώτοι τα νέα!]]></item>
+  <item name="av.announcement.text"><![CDATA[Πολλά συμβαίνουν στα παρασκήνια του Skyrama. Για το τέλος του μήνα έχουμε ήδη διοργανώσει ένα μεγάλο αθλητικό γεγονός. Αποκλειστικά αεροπλάνα, ολοκαίνουρια κτίρια και τόσα καινούρια πράγματα, που θα ανεβάσουν την διάθεση σας στους ουρανούς. Επιπλέον έχουμε αναθέσει στους καλύτερους τεχνικούς την διόρθωση όλων εκείνων των μικρών ενοχλητικών σφαλμάτων και πολύ σύντομα το παιχνίδι θα πετάει!]]></item>
+  <item name="av.announcement.hint_title"><![CDATA[Επιστήθιοι φίλοι]]></item>
+  <item name="av.announcement.hint_text"><![CDATA[Εύκολα, γρήγορα και καλύτερα! Πολύ σύντομα νέο σύστημα προσκλήσεων!]]></item>
+  <item name="av.announcement.shop_title"><![CDATA[Ξεχάστε το 0815!]]></item>
+  <item name="av.announcement.shop_text"><![CDATA[Ολοκαίνουριες καθημερινές αποστολές! Θα τα καταφέρετε;]]></item>
+ </category>
+ <category name="av.friends">
+  <item name="av.friends.header"><![CDATA[Κοινωνικό δίκτυο πτήσεων]]></item>
+  <item name="av.friends.title"><![CDATA[Έχε μια συνοπτική εικόνα της εναέριας κίνησης με το νέο Πλάνο Φίλων!]]></item>
+  <item name="av.friends.text"><![CDATA[Μάτια που δε βλέπονται γρήγορα λησμονιούνται. Αν χάνεις την επαφή με τους φίλους σου επηρεάζεται αρνητικά και η κίνηση του αεροδρομίου σου. Το προσωπικό εδάφους μας ενημέρωσε ότι τελευταία διακόπτεται συχνά το online status σου, κάτι που πρέπει να λυθεί επειγόντως. Αυτό δεν θα ξανασυμβεί! Αναπτύξαμε ένα νέο σήμα εναέριας κυκλοφορίας ώστε να μπορείς να συντονίζεις τα σχέδια πτήσεων σου με τους φίλους σου! Κάνε απλά κλικ στο σύμβολο του Πύργου πάνω αριστερά στο μενού και για τα επόμενα 30 λεπτά το όνομα σου θα εμφανίζεται πρώτο στη λίστα των φίλων σου. Έτσι θα ενημερώνονται ότι μπορείς να δεχτείς πτήσεις. Άντε, τι περιμένεις; Δοκίμασε το και δείξε στους συνεργάτες σου ότι είσαι έτοιμος να πιάσεις δουλειά!]]></item>
+  <item name="av.friends.hint_title"><![CDATA[Αναβαθμίσεις:]]></item>
+  <item name="av.friends.hint_text"><![CDATA[Τοποθέτησε μοντέρνα διακοσμητικά γύρω από τις θέσεις στάθμευσης για να μειώσεις τον χρόνο εξυπηρέτησης μέχρι και 40%.]]></item>
+  <item name="av.friends.shop_title"><![CDATA[Νέα αεροπλάνα!]]></item>
+  <item name="av.friends.shop_text"><![CDATA[Ρίξε μια ματιά στα καινούρια δείγματα αεροπλάνων καθώς και στα διασωστικά στο μαγαζί.]]></item>
+ </category>
+ <category name="av.10mi">
+  <item name="av.10mi.header"><![CDATA[10.000.000 εγγεγραμμένοι παίκτες και παίκτριες!]]></item>
+  <item name="av.10mi.title"><![CDATA[Μια μικρή γιορτή για ένα μεγάλο ρεκόρ. Ας ξεφαντώσουμε!]]></item>
+  <item name="av.10mi.text"><![CDATA[Για να σας ευχαριστήσουμε για την συμμετοχή σας στο παιχνίδι, σας κάνουμε δώρο 5 δωρεάν γύρους στον ιμάντα της τύχης, 10 λίτρα τούρμπο καύσιμου, δομικά εξαρτήματα για το συνεργείο αεροπλάνων. Στο μαγαζί μπορείτε επίσης να βρείτε το αποκλειστικό διακοσμητικό αντικείμενο και το λούξους αεροπλάνο MillionAir X.]]></item>
+  <item name="av.10mi.hint_title"><![CDATA[Κάθε αρχή και αέρινη]]></item>
+  <item name="av.10mi.hint_text"><![CDATA[10.000.000 παίκτες και παίκτριες! Πάρτι για μια εβδομάδα! Από τις 10 μέχρι τις 17.12.2012!]]></item>
+  <item name="av.10mi.shop_title"><![CDATA[Κάποτε...]]></item>
+  <item name="av.10mi.shop_text"><![CDATA[τον Μάρτιο του 1920, το πρώτο διεθνές αεροδρόμιο, το Croydon, άνοιξε τις πόρτες του στο κοινό.]]></item>
+ </category>
+ <category name="av.dark_orbit">
+  <item name="av.dark_orbit.header"><![CDATA[Επίσκεψη από το διάστημα!]]></item>
+  <item name="av.dark_orbit.title"><![CDATA[Ποιος χρειάζεται αεροπλάνα όταν μπορεί να ταξιδέψει με την ταχύτητα του φωτός;]]></item>
+  <item name="av.dark_orbit.text"><![CDATA[Αποκλειστικά και μόνο στο αεροδρόμιο σου θα προσγειωθεί το ισχυρό σκάφος "Goliath". Απόκτησε το ιπτάμενο οχυρό, βίωσε τον ανταγωνισμό των αιθέρων και απόδειξε ότι το μέλλον της αεροπορίας βρίσκεται ψηλά στα αστέρια...]]></item>
+  <item name="av.dark_orbit.hint_title"><![CDATA[Από Δαβίδ σε Γολιάθ!]]></item>
+  <item name="av.dark_orbit.hint_text"><![CDATA[6 χρόνια DarkOrbit - στις 11.12 άνοιξε τις πύλες του ο κόσμος του διαστήματος]]></item>
+  <item name="av.dark_orbit.shop_title"><![CDATA[Μοναδική προσφορά]]></item>
+  <item name="av.dark_orbit.shop_text"><![CDATA[Ή τώρα ή ποτέ! Εκμεταλλεύσου την ευκαιρία και απόκτησε το Goliath!]]></item>
+ </category>
+ <category name="av.high_level">
+  <item name="av.high_level.header"><![CDATA[Άδεια προσγείωσης για την αφρόκρεμα ]]></item>
+  <item name="av.high_level.title"><![CDATA[Τα νέα ελίτ αεροπλάνα έφτασαν!]]></item>
+  <item name="av.high_level.text"><![CDATA[Οι καλύτεροι θέλουν πάντα να είναι στην κορυφή! Μελλοντικά θα έχετε την δυνατότητα να εξοπλίσετε τον στόλο σας με την αφρόκρεμα των αιθέρων. Προετοιμαστείτε για μερικά από τα πιο θρυλικά αεροπλάνα όλων των εποχών!]]></item>
+  <item name="av.high_level.hint_title"><![CDATA[Δοκίμασε την τύχη σου]]></item>
+  <item name="av.high_level.hint_text"><![CDATA[Θέλεις να κερδίσεις μοναδικά διακοσμητικά; Πάρε το μεγάλο λαχνό.]]></item>
+  <item name="av.high_level.shop_title"><![CDATA[Ξεκίνα τώρα]]></item>
+  <item name="av.high_level.shop_text"><![CDATA[Τα νέα αεροπλάνα σε περιμένουν!]]></item>
+ </category>
+ <category name="av.newquests">
+  <item name="av.newquests.header"><![CDATA[Νέες αποστολές!]]></item>
+  <item name="av.newquests.title"><![CDATA[Ίντριγκες, ειδύλλια και πολύ διασκέδαση!]]></item>
+  <item name="av.newquests.text"><![CDATA[Νέες ιστορίες, νέοι χαρακτήρες και πολλές συναρπαστικές δοκιμασίες! Μέσα στις επόμενες εβδομάδες η δράση δεν θα έχει σταματημό στα αεροδρόμιο σας! Μετά από αρκετό καιρό ο Τάκης, η Μιμή και η παρέα τους έρχονται ανανεωμένοι και έτοιμοι να φέρουν μια νέα πνοή! Αυτή την εβδομάδα έχουμε να σας παρουσιάσουμε τις 10 πρώτες ολοκαίνουριες αποστολές και μέσα στις επόμενες εβδομάδες θα ακολουθήσουν και άλλες. Πολλές περισσότερες! Έχετε λοιπόν το νου σας στην λίστα των αποστολών και ρίχνετε και μια ματιά στο μαγαζί γιατί όλο και θα εμφανίζονται καινούρια αντικείμενα!]]></item>
+  <item name="av.newquests.hint_title"><![CDATA[Νέα κτίρια στο μαγαζί]]></item>
+  <item name="av.newquests.hint_text"><![CDATA[Πάρτε μέρος και σίγουρα θα βρείτε κάτι που θα σας τραβήξει την προσοχή!]]></item>
+  <item name="av.newquests.shop_title"><![CDATA[Γρήγορα Θαύματα!]]></item>
+  <item name="av.newquests.shop_text"><![CDATA[Μάζεψε κομμάτια από τα αεροπλάνα για να συμπληρώσεις την συλλογή Γρήγορα Θαύματα!]]></item>
+ </category>
+ <category name="av.recyclingnews">
+  <item name="av.recyclingnews.header"><![CDATA[Τέλεια παλιοσίδερα: Ανακύκλωσε τα αεροσκάφη σου!]]></item>
+  <item name="av.recyclingnews.title"><![CDATA[Δε γίνεται πιο πράσινα!]]></item>
+  <item name="av.recyclingnews.text"><![CDATA[Ο αεροδιάδρομος σου έχει μπλοκαριστεί, το υπόστεγο σου ξεχειλίζει και στον πύργο ελέγχου επικρατεί πανικός; Κανένα πρόβλημα! Αποχαιρέτα τα παλιά σου αεροσκάφη και στείλ' τα για ένα τελευταίο ταξίδι στο κέντρο ανακύκλωσης για να κερδίσεις ολοκαίνουρια εξαρτήματα. Στην αίθουσα κατασκευών θα αναλάβουν δράση οι πιο επιδέξιοι μηχανικοί μας και θα κατασκευάσουν το αεροσκάφος των ονείρων σου από νέα υλικά. Το μέλλον ξεκινάει τώρα. Καλωσόρισε το!]]></item>
+  <item name="av.recyclingnews.hint_title"><![CDATA[Νέα εξαρτήματα]]></item>
+  <item name="av.recyclingnews.hint_text"><![CDATA[Γυαλί, μπουλόνια, μέταλλα και άλλα πολλά - δεν πας πουθενά χωρίς τα εξαρτήματα!]]></item>
+  <item name="av.recyclingnews.shop_title"><![CDATA[Η ελίτ των αεροσκαφών]]></item>
+  <item name="av.recyclingnews.shop_text"><![CDATA[Αστραπιαία και αναίμακτα: έτσι θα ανανεώσεις το στόλο σου!]]></item>
+ </category>
+</language>

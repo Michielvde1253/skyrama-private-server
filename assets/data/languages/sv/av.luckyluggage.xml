@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Turbagage]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Free Spin]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[{number}x Free Spin]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1x Spin: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Spin]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Kolla var 24:e timme, få en free spin och vinn!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Vinn:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Grattis!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Du vann!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Grattis till din vinst! Det där kan säkert komma väl till pass. Snurra gärna babagebandet igen!]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[Dag {day}:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[Dag {day}: {spins}x Free Spin]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Hoppa över]]></item>
+ </category>
+</language>

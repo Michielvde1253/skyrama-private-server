@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.news">
+  <item name="av.news.header"><![CDATA[Skyrama Haberleri]]></item>
+  <item name="av.news.title"><![CDATA[Merhaba! Ben yeni deniz uçağı pilotun, Ceyda. Hangarda çok sayıda mükemmel geliştirme var. Görmek ister misin? O zaman gel!]]></item>
+  <item name="av.news.text"><![CDATA[<li>Yeni kargo sistemi geldi! Daha fazla bilgi için yeni tutorial'a git!</li><li>Bir gün boyunca topladığın yolcular onları göndermediğin takdirde 72 saat sonra havaalanını terk edecekler. Bu hep aklında olsun!</li>]]></item>
+  <item name="av.news.hint_title"><![CDATA[İpucu:]]></item>
+  <item name="av.news.hint_text"><![CDATA[Uçaklarına diğer havaalanlarında hizmet verilirse, bu sana iki kat kazanç getirir!]]></item>
+  <item name="av.news.shop_title"><![CDATA[WonderExpress!]]></item>
+  <item name="av.news.shop_text"><![CDATA[Uçak parçalarını toplayarak WonderExpress koleksiyonunu tamamla!]]></item>
+ </category>
+ <category name="av.santanews">
+  <item name="av.santanews.header"><![CDATA[Kış Haberleri]]></item>
+  <item name="av.santanews.title"><![CDATA[Hohoho! Pilotlar, hostesler ve yolcular kış haftaları boyunca yılın en büyük partisine hazırlanıyorlar. Seni de birçok yenilik bekliyor!]]></item>
+  <item name="av.santanews.text"><![CDATA[Kış haftaları boyunca Noel Baba buraya da uğrayacak. Gözün açık olsun, arada bir hediye düşürecek. Onları toplamaya çalış, belki ödüllendirilirsin! 24 - 26 Aralık arasında geçerli!]]></item>
+  <item name="av.santanews.hint_title"><![CDATA[Havai fişekler!!!]]></item>
+  <item name="av.santanews.hint_text"><![CDATA[Mutlu yıllar! Arkadaşlarına yepyeni havai fişekli flamayı gönder. arkadaşlarına yepyeni havai fişekli flamayı gönder.]]></item>
+  <item name="av.santanews.shop_title"><![CDATA[Hızlı hizmet:]]></item>
+  <item name="av.santanews.shop_text"><![CDATA[Bir kez öde ve 24 saat boyunca istediğin kadar uçağa BEDAVA hizmet ver.]]></item>
+ </category>
+ <category name="av.january12news">
+  <item name="av.january12news.header"><![CDATA[Yeni Yıl Haberleri]]></item>
+  <item name="av.january12news.title"><![CDATA[İyi seneler! Skyrama 2012'ye hızlı bir başlangıç yapıyor. Sana onlarca yolcu, yığınla Uçuş kuruşu ve uçaklara hizmet vermede kolaylık diliyoruz!]]></item>
+  <item name="av.january12news.text"><![CDATA[Teknik iyileştirmeler sayesinde, artık uçaklar otomatik olarak uygun park yerine götürülecek. Bir dene! Bu özellik uçak göndermede büyük kolaylık sağlayacak ve her havaalanı müdürünün hoşuna gidecek.]]></item>
+  <item name="av.january12news.hint_title"><![CDATA[Güncellemeler:]]></item>
+  <item name="av.january12news.hint_text"><![CDATA[Yükleme süresinin kısatılması ve performansın iyileştirilmesi üzerinde çalışıyoruz. Hem de çok sıkı!]]></item>
+  <item name="av.january12news.shop_title"><![CDATA[Mal satın al:]]></item>
+  <item name="av.january12news.shop_text"><![CDATA[Elinde mal kalmadı mı? İstediğin zaman dükkanda satın alabilirsin.]]></item>
+ </category>
+ <category name="av.modernizationnews">
+  <item name="av.modernizationnews.header"><![CDATA[Yeni günlük görevler!]]></item>
+  <item name="av.modernizationnews.title"><![CDATA[Havaalanı personeli için 21 yeni macera]]></item>
+  <item name="av.modernizationnews.text"><![CDATA[Havaalanı tadilatı çok iyi fikirdi ve pek çok yeniliği de beraberinde getirdi. Skyrama mürettebatını oluşturan Tarık, Zeynep, Tayfun ve arkadaşları tekrar görev başında. Sol taraftaki yıldıza tıklayıp hemen oynamaya başlayın! Birkaç hafta içinde sizi aynı yerde tamamen yeni etkinlik görevleri bekleyecek.]]></item>
+  <item name="av.modernizationnews.hint_title"><![CDATA[Güncellemeler:]]></item>
+  <item name="av.modernizationnews.hint_text"><![CDATA[Hizmet süresini maks. % 40 azaltmak için iş dekorasyonlarını park pozisyonlarının yanına yerleştir.]]></item>
+  <item name="av.modernizationnews.shop_title"><![CDATA[Yeni uçaklar!]]></item>
+  <item name="av.modernizationnews.shop_text"><![CDATA[Dükkana gidip yepyeni uçak prototiplerine ve kurtarma uçaklarına bir göz at.]]></item>
+ </category>
+ <category name="av.modernizationnews+mmo">
+  <item name="av.modernizationnews+mmo.header"><![CDATA[Yarının Havaalanı!]]></item>
+  <item name="av.modernizationnews+mmo.title"><![CDATA[Yarının havaalanı burada! Harika uçak prototipleri ve şık binalarla yepyeni bir döneme giriyoruz.]]></item>
+  <item name="av.modernizationnews+mmo.text"><![CDATA[Pilotların dikkatine! Skyrama "Best Tycoon Browser MMO" ödülüne aday gösterildi! Oleyy!!! Lütfen aşağıdaki bağlantıyı kullanarak bize oy verin! <br/><a href="http://mmooftheyear.com/" target="_blank"><u>MMO Oylaması Bağlantısı</u></a><br/>Skyrama'nın daha da yüksekten uçmasına yardım edin! Bu ödülü kazanırsak size güzel bir sürprizimiz olacak!]]></item>
+  <item name="av.modernizationnews+mmo.hint_title"><![CDATA[Güncellemeler:]]></item>
+  <item name="av.modernizationnews+mmo.hint_text"><![CDATA[Hizmet süresini maks. % 40 azaltmak için iş dekorasyonlarını park pozisyonlarının yanına yerleştir.]]></item>
+  <item name="av.modernizationnews+mmo.shop_title"><![CDATA[Yeni uçaklar!]]></item>
+  <item name="av.modernizationnews+mmo.shop_text"><![CDATA[Dükkana gidip yepyeni uçak prototiplerine ve kurtarma uçaklarına bir göz at.]]></item>
+ </category>
+ <category name="av.modernizationnews+unlocking">
+  <item name="av.modernizationnews+unlocking.header"><![CDATA[Yarının Havaalanı!]]></item>
+  <item name="av.modernizationnews+unlocking.title"><![CDATA[Yarının havaalanı burada! Harika uçak prototipleri ve şık binalarla yepyeni bir döneme giriyoruz.]]></item>
+  <item name="av.modernizationnews+unlocking.text"><![CDATA[Dikkat, pilot!<br/>Artık uçuş haritasında uçuş durumunu takip edebilir ve ülkeleri etkinleştirebilirsin.<br/>Bir kıtadaki bütün ülkelere uçak gönderip ödülünü al. Bütün dünyadaki oyunculara muhteşem uçaklarını göster!]]></item>
+  <item name="av.modernizationnews+unlocking.hint_title"><![CDATA[Güncellemeler:]]></item>
+  <item name="av.modernizationnews+unlocking.hint_text"><![CDATA[Hizmet süresini maks. % 40 azaltmak için iş dekorasyonlarını park pozisyonlarının yanına yerleştir.]]></item>
+  <item name="av.modernizationnews+unlocking.shop_title"><![CDATA[Yeni uçaklar!]]></item>
+  <item name="av.modernizationnews+unlocking.shop_text"><![CDATA[Dükkana gidip yepyeni uçak prototiplerine ve kurtarma uçaklarına bir göz at.]]></item>
+ </category>
+ <category name="av.zeppelinexpedition">
+  <item name="av.zeppelinexpedition.header"><![CDATA[Yeni özellikler!]]></item>
+  <item name="av.zeppelinexpedition.title"><![CDATA[Havaalanımız zeplin seferine ve ülke etkinleştirmeye hazır! Şan, şöhret ve çok özel ödüller seni bekliyor!]]></item>
+  <item name="av.zeppelinexpedition.text"><![CDATA[Yeni ülke etkinleştirici uçuş haritasıyla artık ilerlemeni takip edebilirsin. Bir kıtadaki her ülkeyi ziyaret edip ödülünü al ve dünyanın başka yerlerindeki oyunculara muhteşem uçaklarını göster!<br/><br/>Zeplin hangarını aldıktan sonra, HAVA ŞOVU adlı küçük oyunu tamamlayıp seferin için yakıt toplamaya başlayabilirsin. Yeterince yakıt toplayınca, zeplinini egzotik yerlere gönderip nadir bulunan hediyelik eşyalar topla. Yeterince hediyelik eşya toplayıp onları çok özel iki uçaktan biriyle takas et. Deponu kontrol et, belki zeplinin çoktan oradadır!]]></item>
+  <item name="av.zeppelinexpedition.hint_title"><![CDATA[Zeplin seferi!]]></item>
+  <item name="av.zeppelinexpedition.hint_text"><![CDATA[Sefer koleksiyonu için ödül olarak Dedarama'yı veya inanılmaz Uzay Gemisi Bir'i al.]]></item>
+  <item name="av.zeppelinexpedition.shop_title"><![CDATA[Hava gösterisi]]></item>
+  <item name="av.zeppelinexpedition.shop_text"><![CDATA[Hava şovu zeplin hangarını alır almaz havaalanında görünür. Yakıtını almak için geçen uçaklara doğru anda tıkla!]]></item>
+ </category>
+ <category name="av.mmo">
+  <item name="av.mmo.header"><![CDATA[Yılın MMO'su!]]></item>
+  <item name="av.mmo.title"><![CDATA[Sesini duyur ve kazanan ol! Oylarınız sayesinde Skyrama mürettebatı geçenlerde 2012 MMO Ödülü'nü kazandı.]]></item>
+  <item name="av.mmo.text"><![CDATA[<br/><a href="http://mmooftheyear.com/" target="_blank"><u>2012 yılının MMO'su</u></a><br/> yarışmasında oylarınız sayesinde "en iyi tycoon browser oyunu" ödülünü aldık. Şimdi kutlama zamanı. Üç harika hediye alacaksınız! Bütün gerçek pilotların kanatlarını açmak için biraz yere ihtiyacı var. Bu nedenle, yer personelimiz gece gündüz küçük hangarınızı ek slotla büyütmek için çalışıyor. Bu sefer bizden olsun!]]></item>
+  <item name="av.mmo.hint_title"><![CDATA[Şans yıldızın]]></item>
+  <item name="av.mmo.hint_text"><![CDATA[Bu yeni süs eşyasıyla havaalanınız gece gündüz ışıl ışıl olacak.]]></item>
+  <item name="av.mmo.shop_title"><![CDATA[Şanslı sayı 10!]]></item>
+  <item name="av.mmo.shop_text"><![CDATA[9 iyi, 10 çok daha iyi! Bu nedenle, Bagaj Bandı'nda 10 serbest çevirme hakkı veriyoruz!]]></item>
+ </category>
+ <category name="av.superfuel">
+  <item name="av.superfuel.header"><![CDATA[Uçaklarını turbo yakıtla doldur!]]></item>
+  <item name="av.superfuel.title"><![CDATA[Yepyeni turbo yakıtla hızını inanılmaz artır!]]></item>
+  <item name="av.superfuel.text"><![CDATA[Uçakların, helikopterlerin ve jetlerin çok mu yavaş? O zaman yeni turbo yakıtı doldur ve filon dünyanın her yerinden arkadaşlarına inanılmaz hızlı biçimde ulaşsın.]]></item>
+  <item name="av.superfuel.hint_title"><![CDATA[VIP inişi]]></item>
+  <item name="av.superfuel.hint_text"><![CDATA[Bekleme sıraları tarih oldu. Uçaklarını hemen indir!]]></item>
+  <item name="av.superfuel.shop_title"><![CDATA[Doldur!]]></item>
+  <item name="av.superfuel.shop_text"><![CDATA[Seviye 3'ün üzerindeki herkes için: 50 birim turbo yakıt bedava!]]></item>
+ </category>
+ <category name="av.may_day">
+  <item name="av.may_day.header"><![CDATA[SkyRama'da Bahar Bayramı!]]></item>
+  <item name="av.may_day.title"><![CDATA[SkyRama'ya bahar geldi! Şimdi parti zamanı!]]></item>
+  <item name="av.may_day.text"><![CDATA[Bahar gibisi var mı?  Parti yapıp havaalanını sallamaya ne dersin? Etkinlik paralarıyla özel öğeleri etkinleştirip bahar bayramını kutla! Haydi havaalanına!]]></item>
+  <item name="av.may_day.hint_title"><![CDATA[Bırak paralar konuşsun]]></item>
+  <item name="av.may_day.hint_text"><![CDATA[Hemen toplamaya başla. Ne kadar çok paran olursa, o kadar çok öğe alırsın!]]></item>
+  <item name="av.may_day.shop_title"><![CDATA[Alışveriş çılgınlığı!]]></item>
+  <item name="av.may_day.shop_text"><![CDATA[Bahar indirimi! Stoklar bitene kadar.]]></item>
+ </category>
+ <category name="av.eng_bay">
+  <item name="av.eng_bay.header"><![CDATA[Uçak atölyesi!]]></item>
+  <item name="av.eng_bay.title"><![CDATA[Harika haber! Filon için şimdi ince ayar zamanı!]]></item>
+  <item name="av.eng_bay.text"><![CDATA[Yeni uçak atölyesi şimdi dükkandaki "Binalar I" bölümünde. Orada bütün filonun ince ayarını yapabilir; uçaklarını yeni navigasyon sistemleri, ekstra kargo yeri ve daha iyi motorlarla donatabilirsin. Sadece 100 Uçuş kuruşu karşılığında ayarlama merkezini hemen al ve uçaklarını kişiselleştirmeye başla!]]></item>
+  <item name="av.eng_bay.hint_title"><![CDATA[Haydi iş başına!]]></item>
+  <item name="av.eng_bay.hint_text"><![CDATA[24 saatte bir uçaklarını ücretsiz hurdaya çıkar!]]></item>
+  <item name="av.eng_bay.shop_title"><![CDATA[Jetlerden setlere]]></item>
+  <item name="av.eng_bay.shop_text"><![CDATA[Parça toplayacak vaktin yok mu? O zaman parçaları dükkanda çok düşük fiyata satın al!]]></item>
+  <item name="av.eng_bay.buy_title"><![CDATA[Taşımaktan korkma]]></item>
+  <item name="av.eng_bay.buy_text"><![CDATA[Hizmet süresini maks. % 40 azaltmak için iş dekorasyonlarını park pozisyonlarının yanına yerleştir. ]]></item>
+  <item name="av.eng_bay.skin_title"><![CDATA[Yeni görünümüyle atölye]]></item>
+  <item name="av.eng_bay.skin_text"><![CDATA[Atölyenin yeni görünümüyle bundan sonra hep yükseklere çık!]]></item>
+ </category>
+ <category name="av.announcement">
+  <item name="av.announcement.header"><![CDATA[Skyrama Habercisi]]></item>
+  <item name="av.announcement.title"><![CDATA[Geleceğe bakış: Yakında neler olacağını burada öğren!]]></item>
+  <item name="av.announcement.text"><![CDATA[Yoğun sezonda Skyrama da çok hareketli. Ay sonunda bütün iyi sporcular ve sporcu adayları için büyük bir etkinlik var. Çok özel uçaklar, yepyeni binalar ve daha fazlası muhteşem bir ortam yaratacak. Ayrıca, sahne arkasında da yenilikler yapıyor ve oyundaki bug'ları ortadan kaldırmakla uğraşıyoruz.]]></item>
+  <item name="av.announcement.hint_title"><![CDATA[Kankalar]]></item>
+  <item name="av.announcement.hint_text"><![CDATA[Daha rahat, daha hızlı ve daha kolay! Çok yakında yeni davet özelliği başlayacak.]]></item>
+  <item name="av.announcement.shop_title"><![CDATA[Monotonluk geride kaldı]]></item>
+  <item name="av.announcement.shop_text"><![CDATA[Çok yakında yepyeni günlük görevler geliyor!]]></item>
+ </category>
+ <category name="av.friends">
+  <item name="av.friends.header"><![CDATA[Sosyal uçuş ağı]]></item>
+  <item name="av.friends.title"><![CDATA[Yeni arkadaş planlamacısıyla uçuş trafiğine hakim ol!]]></item>
+  <item name="av.friends.text"><![CDATA[Havaalanı müdürü olarak arkadaşlarınızla devamlı irtibatta olmanız gerekir. Yoksa işlerinizde zorluk yaşarsınız. Son zamanlarda yer personeli bizi online statünüzle ilgili sorunlardan haberdar etti, onları düzeltmeye çalışıyoruz. Yeni bir uçuş sinyali geliştirdik. Gelecekte uçuş planlarınızı arkadaş listesindeki bütün üyelerle koordine edebileceksiniz. Sol üstte bulunan menü çubuğundaki kule sembolüne tıklayın. Bundan sonraki 30 dakika boyunca arkadaşlarınızın arkadaş listesinde en öne çıkarsınız. Hadi daha ne bekliyorsunuz? Hemen deneyin ve ortaklarınıza işe hazır olduğunuzu gösterin!]]></item>
+  <item name="av.friends.hint_title"><![CDATA[Güncellemeler:]]></item>
+  <item name="av.friends.hint_text"><![CDATA[Hizmet süresini maks. % 40 azaltmak için iş dekorasyonlarını park pozisyonlarının yanına yerleştir.]]></item>
+  <item name="av.friends.shop_title"><![CDATA[Devamlı misafirler]]></item>
+  <item name="av.friends.shop_text"><![CDATA[Ev kadar rahat! Gelecekte yolcularınız tam 5 gün bekleme salonunda kalacak.]]></item>
+ </category>
+ <category name="av.10mi">
+  <item name="av.10mi.header"><![CDATA[10 milyon kayıtlı oyuncu!]]></item>
+  <item name="av.10mi.title"><![CDATA[Skyrama'da muhteşem kutlama! Çok önemli bir dönüm noktasını kutluyoruz!]]></item>
+  <item name="av.10mi.text"><![CDATA[Sadakatiniz için teşekkür olarak size Bagaj Bandı'nda 5 serbest çevirme hakkı, 10 birim turbo yakıt ve uçak atölyesi için inşaat parçaları veriyoruz. Ayrıca, dükkanda çok özel bir süs ve lüks uçak MillionAir X'i bulacaksınız.]]></item>
+  <item name="av.10mi.hint_title"><![CDATA[Yeni başlangıçlar çocuk oyuncağıdır]]></item>
+  <item name="av.10mi.hint_text"><![CDATA[10 milyon oyuncu, bir hafta boyunca parti - 10 ve 17 Aralık arasında kutlama var!]]></item>
+  <item name="av.10mi.shop_title"><![CDATA[Bir varmış bir yokmuş...]]></item>
+  <item name="av.10mi.shop_text"><![CDATA[Dünyanın ilk uluslararası havaalanı olan Croydon Havaalanı 1920 Mart'ında kapılarını açtı.]]></item>
+ </category>
+ <category name="av.dark_orbit">
+  <item name="av.dark_orbit.header"><![CDATA[Karanlık havalanı: uzaydan ziyaret!]]></item>
+  <item name="av.dark_orbit.title"><![CDATA[Ses hızı ile geleceğe - orada kimin uçağa ihtiyacı olacak ki?]]></item>
+  <item name="av.dark_orbit.text"><![CDATA[Şimdi yeni: Birkaç saat sonra güçlü savaş kruvazörü Goliath kısa süreliğine havaalanına gelecek. Uçan kaleyi al, rakiplerine korkuyu göster ve geleceğin hava trafiğinin yıldızlarda olduğunu kanıtla...]]></item>
+  <item name="av.dark_orbit.hint_title"><![CDATA[Dün David, bugün Goliath!]]></item>
+  <item name="av.dark_orbit.hint_text"><![CDATA[DarkOrbit 6. yılını dolduruyor - 11.12 tarihinde büyük uzay operasına yolculuk startı veriliyor]]></item>
+  <item name="av.dark_orbit.shop_title"><![CDATA[Eşsiz Kampanya]]></item>
+  <item name="av.dark_orbit.shop_text"><![CDATA[Ya şimdi ya hiç: Şimdi Goliath için şansını kullan!]]></item>
+ </category>
+ <category name="av.high_level">
+  <item name="av.high_level.header"><![CDATA[Uçak elitleri için iniş izni]]></item>
+  <item name="av.high_level.title"><![CDATA[Yeni uçaklarımız geldi!]]></item>
+  <item name="av.high_level.text"><![CDATA[İyi pilotlar hep daha yüksekleri hedefler! Gelecekte filonuzu uluslararası hava taşımacılığının en gözdeleriyle genişletebilirsiniz. Hangi efsanevi uçakların havaalanınıza uğrayacağını bekleyin ve görün!]]></item>
+  <item name="av.high_level.hint_title"><![CDATA[Bahis kapanmıştır]]></item>
+  <item name="av.high_level.hint_text"><![CDATA[Büyük bir ödül kazanmaya ne dersin? Hadi daha ne bekliyorsun?]]></item>
+  <item name="av.high_level.shop_title"><![CDATA[Hemen başla]]></item>
+  <item name="av.high_level.shop_text"><![CDATA[Yeni uçaklar - kalkışa hazırlar.]]></item>
+ </category>
+ <category name="av.newquests">
+  <item name="av.newquests.header"><![CDATA[Görev-O-Rama]]></item>
+  <item name="av.newquests.title"><![CDATA[Yeni görevlerin önünü açın!]]></item>
+  <item name="av.newquests.text"><![CDATA[Yeni hikayeler, yeni karakterler ve bir dolu eğlenceli görev: Gelecek haftalarda havaalanınız çok hareketlenecek. Uzun bir aradan sonra Tarık ve arkadaşları geri dönüyor ve havaalanını birbirine katıyorlar. Örneğin bu hafta görev listelerini bitiren oyuncular için 10 yeni görevimiz var. Önümüzdeki haftalarda daha da çok olacak. Yeni görev geliştirmelerine hazır olun ve daha neler var bir göz atın.]]></item>
+  <item name="av.newquests.hint_title"><![CDATA[Dükkanda yeni binalar]]></item>
+  <item name="av.newquests.hint_text"><![CDATA[Dalgalı havuz veya güvenlik cihazı fark etmez, burada herkese göre bir şey var.]]></item>
+  <item name="av.newquests.shop_title"><![CDATA[WonderExpress!]]></item>
+  <item name="av.newquests.shop_text"><![CDATA[Uçak parçalarını toplayarak WonderExpress koleksiyonunu tamamla!]]></item>
+ </category>
+ <category name="av.recyclingnews">
+  <item name="av.recyclingnews.header"><![CDATA[Kullanışlı Hurda: Uçaklarını geri dönüştür!]]></item>
+  <item name="av.recyclingnews.title"><![CDATA[Daha yeşil olamaz]]></item>
+  <item name="av.recyclingnews.text"><![CDATA[Hangarın dolu, pistte trafik var ve kulede sinirler gergin?  Sorun değil! Eski uçaklarından kurtul, onları yeni geri dönüşüm alanına son bir uçuşa çıkar ve yeni parçalar üret. Montaj hangarında zeki teknikerlerimiz yepyeni materyallerden  süper uçaklar yapmak için vidaları sıkacak. Katıl ve havaalanını yeni milenyuma zıplat!]]></item>
+  <item name="av.recyclingnews.hint_title"><![CDATA[Yeni İnşa Parçaları]]></item>
+  <item name="av.recyclingnews.hint_text"><![CDATA[Cam, cıvata ya da metal - bu parçalar olmadan uçak olmaz.]]></item>
+  <item name="av.recyclingnews.shop_title"><![CDATA[Yeni Uçaklar]]></item>
+  <item name="av.recyclingnews.shop_text"><![CDATA[Hızlı ve ultra modern: Böylece filonu mükemmel hale getir!
+]]></item>
+ </category>
+</language>

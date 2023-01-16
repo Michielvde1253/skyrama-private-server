@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.global">
+  <item name="av.global.gametitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.pagetitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.Label.buy"><![CDATA[Compra]]></item>
+  <item name="av.global.ok"><![CDATA[OK]]></item>
+  <item name="av.global.cancel"><![CDATA[Cancella]]></item>
+  <item name="av.global.minute"><![CDATA[minuto]]></item>
+  <item name="av.global.minutes"><![CDATA[minuti]]></item>
+  <item name="av.global.hour"><![CDATA[ora]]></item>
+  <item name="av.global.hours"><![CDATA[ore]]></item>
+  <item name="av.global.day"><![CDATA[giorno]]></item>
+  <item name="av.global.days"><![CDATA[giorni]]></item>
+  <item name="av.global.passenger"><![CDATA[Passeggero]]></item>
+  <item name="av.global.passengers"><![CDATA[Passeggeri]]></item>
+  <item name="av.global.loading"><![CDATA[Caricamento dati...]]></item>
+  <item name="av.global.send"><![CDATA[Invia]]></item>
+  <item name="av.global.land"><![CDATA[Atterra]]></item>
+  <item name="av.global.logout"><![CDATA[Logout]]></item>
+  <item name="av.global.open"><![CDATA[Apri]]></item>
+  <item name="av.global.close"><![CDATA[Chiudi]]></item>
+  <item name="av.global.select"><![CDATA[Scegli]]></item>
+  <item name="av.global.maintenance"><![CDATA[Lavori in corso!]]></item>
+  <item name="av.global.maintenance_countdown"><![CDATA[Lavori in corso tra:]]></item>
+  <item name="av.global.quickservice"><![CDATA[Servizio rapido]]></item>
+  <item name="av.global.superfuel"><![CDATA[Carburante turbo]]></item>
+  <item name="av.global.superfuelboost_selectiontab"><![CDATA[Clicca per definire il valore dell'accelerazione.]]></item>
+  <item name="av.global.superfuel.warningmessage"><![CDATA[Vuoi davvero fare rifornimento con il carburante turbo?]]></item>
+  <item name="av.global.instantlanding"><![CDATA[Atterraggio VIP]]></item>
+  <item name="av.global.comingsoon"><![CDATA[Prossimamente...]]></item>
+  <item name="av.global.planes.small"><![CDATA[Velivoli piccoli]]></item>
+  <item name="av.global.planes.medium"><![CDATA[Velivoli medi]]></item>
+  <item name="av.global.planes.large"><![CDATA[Aerei L]]></item>
+  <item name="av.global.plane"><![CDATA[Aereo]]></item>
+  <item name="av.global.click"><![CDATA[Compra]]></item>
+ </category>
+ <category name="av.instantlanding">
+  <item name="av.instantlanding.shortdesc"><![CDATA[Atterraggio immediato: basta un click!]]></item>
+  <item name="av.instantlanding.warningmessage"><![CDATA[Vuoi davvero atterrare subito?]]></item>
+ </category>
+ <category name="av.xpoffer">
+  <item name="av.xpoffer.title"><![CDATA[Offerta speciale!]]></item>
+  <item name="av.xpoffer.offer"><![CDATA[Queste risorse potenziano il tuo aeroporto. Sono state selezionate appositamente per il tuo livello e le hai a disposizione solo ora, in un pacchetto a prezzo sensazionale!]]></item>
+  <item name="av.xpoffer.only"><![CDATA[per soli]]></item>
+ </category>
+ <category name="av.dutyfree">
+  <item name="av.dutyfree.title"><![CDATA[Duty-free]]></item>
+  <item name="av.dutyfree.buystorage"><![CDATA[Amplia capienza]]></item>
+  <item name="av.dutyfree.buygoods"><![CDATA[Aggiungi {number} prodotto/i]]></item>
+ </category>
+ <category name="av.hangar">
+  <item name="av.hangar.title"><![CDATA[Hangar]]></item>
+  <item name="av.hangar.buyslot"><![CDATA[Espandi hangar]]></item>
+  <item name="av.hangar.scrapplane"><![CDATA[Demolisci aereo]]></item>
+  <item name="av.hangar.security.title"><![CDATA[Aereo da rottamare?]]></item>
+  <item name="av.hangar.security"><![CDATA[Vuoi davvero demolire il tuo aereo?]]></item>
+  <item name="av.hangar.outofhangar"><![CDATA[Fuori dall'hangar]]></item>
+ </category>
+ <category name="av.landsidebuilding">
+  <item name="av.landsidebuilding.passenger"><![CDATA[{passenger}/{max}]]></item>
+ </category>
+ <category name="av.settings">
+  <item name="av.settings.show"><![CDATA[Visualizza impostazioni]]></item>
+  <item name="av.settings.hide"><![CDATA[Nascondi impostazioni]]></item>
+  <item name="av.settings.soundOn"><![CDATA[Musica ON]]></item>
+  <item name="av.settings.soundOff"><![CDATA[Musica OFF]]></item>
+  <item name="av.settings.soundFxOn"><![CDATA[Effetti sonori ON]]></item>
+  <item name="av.settings.soundFxOff"><![CDATA[Effetti sonori OFF]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Modifica dati]]></item>
+  <item name="av.settings.animationOff"><![CDATA[Animazioni OFF]]></item>
+  <item name="av.settings.animationOn"><![CDATA[Animazioni ON]]></item>
+  <item name="av.settings.quickServiceOn"><![CDATA[Servizio rapido: clicca per disattivare il servizio rapido]]></item>
+  <item name="av.settings.quickServiceOff"><![CDATA[Servizio rapido: clicca qui per attivare il servizio rapido]]></item>
+  <item name="av.settings.superFuelOn"><![CDATA[Carburante turbo on]]></item>
+  <item name="av.settings.superFuelOff"><![CDATA[Carburante turbo off]]></item>
+  <item name="av.settings.fullscreenOn"><![CDATA[Attiva schermo intero]]></item>
+  <item name="av.settings.fullscreenOff"><![CDATA[Disabilita schermo intero]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Modifica dati]]></item>
+  <item name="av.settings.evoucher"><![CDATA[Codice bonus]]></item>
+ </category>
+ <category name="av.buddy">
+  <item name="av.buddy.label.flyby"><![CDATA[Saluta]]></item>
+  <item name="av.buddy.label.visit"><![CDATA[Visita]]></item>
+  <item name="av.buddy.exit.visit"><![CDATA[Esci dall'aeroporto]]></item>
+  <item name="av.buddy.label.send"><![CDATA[Invia]]></item>
+  <item name="av.buddy.label.add_buddy"><![CDATA[Aggiungi amico]]></item>
+  <item name="av.buddy.label.delete"><![CDATA[Cancella]]></item>
+  <item name="av.buddy.delete_confirmation.title"><![CDATA[Cancella amico]]></item>
+  <item name="av.buddy.delete_confirmation.text"><![CDATA[Vuoi davvero cancellare l'amico {buddy}?]]></item>
+ </category>
+ <category name="av.rewardwindow">
+  <item name="av.rewardwindow.headline"><![CDATA[Congratulazioni! Hai raggiunto l'obiettivo "{goal_name}"]]></item>
+ </category>
+ <category name="av.flightmap">
+  <item name="av.flightmap.welcome"><![CDATA[Benvenuto nel mio Paese]]></item>
+  <item name="av.flightmap.back"><![CDATA[Indietro]]></item>
+  <item name="av.flightmap.worldmap"><![CDATA[Mappa globale]]></item>
+ </category>
+ <category name="av.souvenirwidget">
+  <item name="av.souvenirwidget.title"><![CDATA[Raccolte]]></item>
+ </category>
+ <category name="av.flybywidget">
+  <item name="av.flybywidget.title"><![CDATA[Collezione striscioni]]></item>
+  <item name="av.flybywidget.entertext"><![CDATA[Inserisci il testo:]]></item>
+ </category>
+ <category name="av.levelupwidget">
+  <item name="av.levelupwidget.title"><![CDATA[Passaggio di livello]]></item>
+  <item name="av.levelupwidget.message"><![CDATA[<b>Congratulazioni! Hai raggiunto il livello {level}.<br>Ecco un bel bonus per i tuoi acquisti!</b>]]></item>
+  <item name="av.levelupwidget.unlocked"><![CDATA[Ora hai a disposizione:]]></item>
+ </category>
+ <category name="av.fullscreen">
+  <item name="av.fullscreen.title"><![CDATA[Disattivazione schermo intero]]></item>
+  <item name="av.fullscreen.message"><![CDATA[Purtroppo per utilizzare questa funzionalità devi disattivare la modalità schermo intero.]]></item>
+  <item name="av.fullscreen.label"><![CDATA[Disattiva schermo intero]]></item>
+ </category>
+ <category name="av.paymentwidget">
+  <item name="av.paymentwidget.title"><![CDATA[Non hai abbastanza soldi]]></item>
+  <item name="av.paymentwidget.message"><![CDATA[Non hai abbastanza soldi per effettuare questa operazione!]]></item>
+  <item name="av.paymentwidget.label.add_cash"><![CDATA[COMPRA CASH]]></item>
+ </category>
+ <category name="av.addfriendswidget">
+  <item name="av.addfriendswidget.title"><![CDATA[Invita un amico]]></item>
+  <item name="av.addfriendswidget.description"><![CDATA[Inserisci un indirizzo email o l'ID utente di uno dei tuoi amici per inviargli un invito per Skyrama!]]></item>
+  <item name="av.addfriendswidget.info.emails"><![CDATA[Inserisci qui gli indirizzi e-mail separandoli con ;]]></item>
+  <item name="av.addfriendswidget.info.usernames"><![CDATA[Inserisci qui gli ID utenti (separati da ;)]]></item>
+  <item name="av.addfriendswidget.error.emails"><![CDATA[Controlla gli indirizzi e-mail]]></item>
+  <item name="av.addfriendswidget.error.usernames"><![CDATA[Controlla gli ID utenti]]></item>
+  <item name="av.addfriendswidget.label.send"><![CDATA[Invia]]></item>
+ </category>
+ <category name="av.viewfriendswidget">
+  <item name="av.viewfriendswidget.title"><![CDATA[Inviti]]></item>
+  <item name="av.viewfriendswidget.description_invites"><![CDATA[Hai ricevuto {number} invito/i]]></item>
+  <item name="av.viewfriendswidget.description_no_invites"><![CDATA[Non ci sono altri inviti]]></item>
+  <item name="av.viewfriendswidget.accept_invitation"><![CDATA[Accetta]]></item>
+  <item name="av.viewfriendswidget.decline_invitation"><![CDATA[Rifiuta]]></item>
+ </category>
+ <category name="av.evoucherwidget">
+  <item name="av.evoucherwidget.title"><![CDATA[Codice a portata di mano?]]></item>
+  <item name="av.evoucherwidget.input.text"><![CDATA[Inseriscilo adesso!]]></item>
+  <item name="av.evoucherwidget.input.hint"><![CDATA[Codice Bonus]]></item>
+  <item name="av.evoucherwidget.input.error"><![CDATA[Digita qui il codice.]]></item>
+  <item name="av.evoucherwidget.progress"><![CDATA[Controllo in corso...]]></item>
+  <item name="av.evoucherwidget.success.discount"><![CDATA[Codice bonus utilizzato correttamente. Con un solo click passi al]]></item>
+  <item name="av.evoucherwidget.success.discount.link"><![CDATA[pagamento!]]></item>
+  <item name="av.evoucherwidget.success.ingameitems"><![CDATA[Codice bonus utilizzato correttamente. Fai il login per ricevere la ricompensa!]]></item>
+  <item name="av.evoucherwidget.error"><![CDATA[Codice bonus non valido]]></item>
+ </category>
+ <category name="av.passwordwidget">
+  <item name="av.passwordwidget.title"><![CDATA[Modifica password]]></item>
+  <item name="av.passwordwidget.message"><![CDATA[Inserisci la tua nuova password.]]></item>
+  <item name="av.passwordwidget.old"><![CDATA[Inserisci la vecchia password.]]></item>
+  <item name="av.passwordwidget.info.old"><![CDATA[Vecchia password]]></item>
+  <item name="av.passwordwidget.new"><![CDATA[Inserisci la tua nuova password.]]></item>
+  <item name="av.passwordwidget.info.new"><![CDATA[Nuova password]]></item>
+  <item name="av.passwordwidget.confirm"><![CDATA[Conferma la tua nuova password]]></item>
+  <item name="av.passwordwidget.info.confirm"><![CDATA[conferma password]]></item>
+  <item name="av.passwordwidget.save"><![CDATA[Salva]]></item>
+  <item name="av.passwordwidget.cancel"><![CDATA[Cancella]]></item>
+ </category>
+ <category name="av.flybyitem">
+  <item name="av.flybyitem.dummy"><![CDATA[Test]]></item>
+  <item name="av.flybyitem.sms_ownmessage"><![CDATA[Scrivi il tuo messaggio!]]></item>
+  <item name="av.flybyitem.banner1"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner2"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner3"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner4"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner5"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner6"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner7"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner8"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner9"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner10"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner11"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner22"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner23"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner24"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner25"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner26"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.banner27"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.bff"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.cargo"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.coffee"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.friends1"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.friends2"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.greetings"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.ican"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.lol"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.love"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.medium"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.missu"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.music_hearts"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.omn"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.pinup_girl"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.planes"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.stars_elegant"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.thankyou_elegant"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.wtf"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.test"><![CDATA[Test]]></item>
+  <item name="av.flybyitem.unlock_message"><![CDATA[Acquisto immediato con Aircash oppure raggiungi il livello {required_level}]]></item>
+  <item name="av.flybyitem.effect"><![CDATA[Invia fuochi d'artificio di capodanno ai tuoi amici]]></item>
+  <item name="av.flybyitem.bday_champagne"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.birthday_girly"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.birthday_ufo"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.cheers_text"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.fluffy_heart"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.smiley_cool"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.smiley_kitten"><![CDATA[Striscione volante]]></item>
+  <item name="av.flybyitem.smiley_surprised"><![CDATA[Striscione volante]]></item>
+ </category>
+ <category name="av.selectcountry">
+  <item name="av.selectcountry.hint"><![CDATA[Scegli il paese per il tuo aeroporto]]></item>
+  <item name="av.flightmap.selectContinent"><![CDATA[Seleziona il tuo continente]]></item>
+  <item name="av.selectcountry.next"><![CDATA[Avanti]]></item>
+ </category>
+ <category name="av.topbar">
+  <item name="av.topbar.tooltip.aircoins"><![CDATA[Aircoin]]></item>
+  <item name="av.topbar.tooltip.aircash"><![CDATA[Aircash]]></item>
+  <item name="av.topbar.tooltip.xp"><![CDATA[PE]]></item>
+  <item name="av.topbar.tooltip.dutyfree"><![CDATA[Duty free]]></item>
+  <item name="av.topbar.tooltip.passengers"><![CDATA[Passeggeri (rimangono max 5 giorni)]]></item>
+  <item name="av.topbar.tooltip.addcash"><![CDATA[Compra Aircash]]></item>
+  <item name="av.topbar.addcash"><![CDATA[Compra Aircash]]></item>
+ </category>
+ <category name="av.dashboard">
+  <item name="av.dashboard.airportname"><![CDATA[Aeroporto di {name}]]></item>
+  <item name="av.dashboard.store"><![CDATA[Negozio]]></item>
+  <item name="av.dashboard.tool"><![CDATA[Tool]]></item>
+  <item name="av.dashboard.storage"><![CDATA[Inventario]]></item>
+  <item name="av.dashboard.souvenir"><![CDATA[Raccolte]]></item>
+  <item name="av.dashboard.flight"><![CDATA[Voli]]></item>
+  <item name="av.dashboard.store_cat"><![CDATA[Negozio: {category}]]></item>
+  <item name="av.dashboard.movetostorage"><![CDATA[Sposta nell'inventario]]></item>
+  <item name="av.dashboard.mirror"><![CDATA[Ruota]]></item>
+  <item name="av.dashboard.move"><![CDATA[Sposta]]></item>
+  <item name="av.dashboard.incoming_flights"><![CDATA[Arrivi]]></item>
+  <item name="av.dashboard.buddy_flights"><![CDATA[Arrivi (amici)]]></item>
+  <item name="av.dashboard.new_flights"><![CDATA[Nuovi voli]]></item>
+  <item name="av.dashboard.minimize"><![CDATA[Riduci]]></item>
+  <item name="av.dashboard.maximize"><![CDATA[Ingrandisci]]></item>
+  <item name="av.dashboard.buddy_ping_title"><![CDATA[Richiedi aerei]]></item>
+  <item name="av.dashboard.buddy_ping_text"><![CDATA[Tempo restante (min):]]></item>
+ </category>
+ <category name="av.storepanel">
+  <item name="av.storepanel.passenger"><![CDATA[Aerei passeggeri]]></item>
+  <item name="av.storepanel.cargo"><![CDATA[Aerei da carico]]></item>
+  <item name="av.storepanel.helicopter"><![CDATA[Elicotteri]]></item>
+  <item name="av.storepanel.seaplane"><![CDATA[Idrovolanti]]></item>
+  <item name="av.storepanel.largeplane"><![CDATA[Aerei L]]></item>
+ </category>
+ <category name="av.visitairport">
+  <item name="av.visitairport.notification.title"><![CDATA[Hai avuto visite!]]></item>
+  <item name="av.visitairport.notification.text"><![CDATA[Il tuo aeroporto è stato visitato da:<br/><br/>{users}<br/><br/>Hai ricevuto {number} passeggero/i.]]></item>
+ </category>
+ <category name="av.multilogin">
+  <item name="av.multilogin.title"><![CDATA[Info]]></item>
+  <item name="av.multilogin.text"><![CDATA[Sei già connesso con questo account. Per prevenire inconvenienti dovuti al login doppio verrai disconnesso automaticamente!]]></item>
+ </category>
+ <category name="av.login_bonus">
+  <item name="av.login_bonus.title"><![CDATA[Bonus login]]></item>
+  <item name="av.login_bonus.button"><![CDATA[Nastro sorprese]]></item>
+  <item name="av.login_bonus.text"><![CDATA[Ti sei connesso per {days} giorni consecutivi! Perciò ricevi {number} tentativi gratis. Torna anche domani e riceverai altri tentativi gratis.]]></item>
+  <item name="av.login_bonus.spin"><![CDATA[Gira]]></item>
+  <item name="av.login_bonus.spin_count"><![CDATA[{count}]]></item>
+ </category>
+ <category name="av.quickservice">
+  <item name="av.quickservice.text"><![CDATA[Servizio rapido]]></item>
+  <item name="av.quickservice.offtitle"><![CDATA[Servizio rapido]]></item>
+  <item name="av.quickservice.offtext"><![CDATA[Vuoi davvero il servizio rapido per il tuo aereo?]]></item>
+ </category>
+ <category name="av.serverproblems">
+  <item name="av.serverproblems.timed_out"><![CDATA[Questo server è stato temporaneamente chiuso: ricarica il gioco per evitare futuri problemi.]]></item>
+ </category>
+ <category name="av.zeppelin">
+  <item name="av.zeppelin.title"><![CDATA[Hangar dirigibili]]></item>
+  <item name="av.zeppelin.buylanding"><![CDATA[Atterra]]></item>
+  <item name="av.zeppelin.buyfuel"><![CDATA[Riempi deposito carburante]]></item>
+  <item name="av.zeppelin.destination_1"><![CDATA[Giungla]]></item>
+  <item name="av.zeppelin.destination_2"><![CDATA[Polo Nord]]></item>
+  <item name="av.zeppelin.destination_3"><![CDATA[Deserto]]></item>
+  <item name="av.zeppelin.destination_4"><![CDATA[Montagna]]></item>
+  <item name="av.zeppelin.destination_5"><![CDATA[Vulcano]]></item>
+  <item name="av.zeppelin.flytodestination"><![CDATA[In volo verso:<br />{destination}]]></item>
+  <item name="av.zeppelin.returned_headline"><![CDATA[Congratulazioni]]></item>
+  <item name="av.zeppelin.youfound"><![CDATA[Hai trovato:]]></item>
+  <item name="av.zeppelin.take1more"><![CDATA[Prendi un altro souvenir]]></item>
+  <item name="av.zeppelin.returnhome"><![CDATA[Ora torna a casa]]></item>
+  <item name="av.zeppelin.readytoland"><![CDATA[Il dirigibile è pronto all'atterraggio!]]></item>
+  <item name="av.zeppelin.retrieving1more"><![CDATA[È in arrivo un altro souvenir...]]></item>
+  <item name="av.zeppelin.requiredfuel"><![CDATA[Carburante richiesto: {fuel}]]></item>
+ </category>
+ <category name="av.win.eng_bay">
+  <item name="av.win.eng_bay.title"><![CDATA[Officina aeronautica]]></item>
+  <item name="av.win.eng_bay.res.title"><![CDATA[Benvenuti nell'officina aeronautica]]></item>
+  <item name="av.win.eng_bay.res.intro"><![CDATA[È facilissimo: invia i velivoli e ricevi in ricompensa componenti per potenziarli!]]></item>
+  <item name="av.win.eng_bay.res.more"><![CDATA[Alcune componenti si ricevono solo con determinati aeromobili.<br/>Più lungo è il volo, maggiore è la ricompensa!]]></item>
+  <item name="av.win.eng_bay.cost"><![CDATA[Ti servono:]]></item>
+  <item name="av.win.eng_bay.reward"><![CDATA[Ricompensa]]></item>
+  <item name="av.win.eng_bay.btn.upgrade"><![CDATA[Potenzia]]></item>
+  <item name="av.win.eng_bay.btn.getRes"><![CDATA[Procurati le componenti!]]></item>
+  <item name="av.win.eng_bay.upgrading"><![CDATA[Potenziamento in corso...]]></item>
+  <item name="av.win.eng_bay.locked"><![CDATA[Puoi effettuare solo un ampliamento alla volta.]]></item>
+ </category>
+ <category name="av.tooltip.eng_bay">
+  <item name="av.tooltip.eng_bay.tab.0"><![CDATA[Info]]></item>
+  <item name="av.tooltip.eng_bay.tab.locked"><![CDATA[Non hai ancora {type}!]]></item>
+  <item name="av.tooltip.eng_bay.tab.empty"><![CDATA[Non hai {type} nell'hangar!]]></item>
+  <item name="av.tooltip.eng_bay.btn.notupgrade"><![CDATA[Componenti insufficienti!]]></item>
+ </category>
+ <category name="av.consumable">
+  <item name="av.consumable.1"><![CDATA[Componente]]></item>
+  <item name="av.consumable.2"><![CDATA[Componente de luxe]]></item>
+  <item name="av.consumable.3"><![CDATA[Componenti aereo passeggeri]]></item>
+  <item name="av.consumable.4"><![CDATA[Componenti aereo cargo]]></item>
+  <item name="av.consumable.5"><![CDATA[Componenti elicottero]]></item>
+  <item name="av.consumable.6"><![CDATA[Componenti idrovolante]]></item>
+  <item name="av.consumable.13"><![CDATA[Corona d'alloro]]></item>
+  <item name="av.consumable.14"><![CDATA[Disco]]></item>
+  <item name="av.consumable.15"><![CDATA[Bilanciere]]></item>
+  <item name="av.consumable.16"><![CDATA[Scarpa da corsa]]></item>
+  <item name="av.consumable.17"><![CDATA[Martello da lancio]]></item>
+  <item name="av.consumable.18"><![CDATA[Fiocco di neve]]></item>
+  <item name="av.consumable.19"><![CDATA[Antigelo piccolo]]></item>
+  <item name="av.consumable.20"><![CDATA[Antigelo medio]]></item>
+  <item name="av.consumable.21"><![CDATA[Antigelo elicotteri]]></item>
+  <item name="av.consumable.22"><![CDATA[Antigelo idrovolanti]]></item>
+  <item name="av.consumable.23"><![CDATA[Scatola di cioccolatini]]></item>
+  <item name="av.consumable.24"><![CDATA[Cioccolatino ripieno]]></item>
+  <item name="av.consumable.25"><![CDATA[Cioccolatino alle noci]]></item>
+  <item name="av.consumable.26"><![CDATA[Pralina glassata]]></item>
+  <item name="av.consumable.27"><![CDATA[Cremino all'arancia]]></item>
+ </category>
+ <category name="av.upgrade">
+  <item name="av.upgrade.1"><![CDATA[Motore]]></item>
+  <item name="av.upgrade.2"><![CDATA[Elica]]></item>
+  <item name="av.upgrade.3"><![CDATA[Sistema di navigazione]]></item>
+  <item name="av.upgrade.4"><![CDATA[Sedili VIP]]></item>
+  <item name="av.upgrade.5"><![CDATA[Più stiva]]></item>
+  <item name="av.upgrade.6"><![CDATA[Stabilizzatore]]></item>
+  <item name="av.upgrade.789"><![CDATA[Potenziamento]]></item>
+ </category>
+ <category name="av.crafting">
+  <item name="av.crafting.1"><![CDATA[Bulloni]]></item>
+  <item name="av.crafting.2"><![CDATA[Metallo]]></item>
+  <item name="av.crafting.3"><![CDATA[Materiale sintetico]]></item>
+  <item name="av.crafting.4"><![CDATA[Elettronica]]></item>
+  <item name="av.crafting.5"><![CDATA[Stracci]]></item>
+  <item name="av.crafting.6"><![CDATA[Vetro]]></item>
+ </category>
+ <category name="av.win.unlock.eng_bay">
+  <item name="av.win.unlock.eng_bay.title.levelup"><![CDATA[Sbloccato!]]></item>
+  <item name="av.win.unlock.eng_bay.title.overlevel"><![CDATA[Nuova funzionalità]]></item>
+  <item name="av.win.unlock.eng_bay.text.levelup"><![CDATA[Complimenti, hai raggiunto il livello {level}!]]></item>
+  <item name="av.win.unlock.eng_bay.text.overlevel"><![CDATA[La nostra nuova officina aeronautica: licenza di potenziamento!]]></item>
+  <item name="av.win.unlock.eng_bay.main"><![CDATA[Novità nel negozio: l'officina aeronautica!<br/> Scambia le componenti in risorse, equipaggia da esperto la tua flotta e falla diventare migliore delle altre!]]></item>
+  <item name="av.win.unlock.eng_bay.received"><![CDATA[Prendi al volo l'occasione e sfruttala al meglio!]]></item>
+ </category>
+ <category name="av.win.bundle">
+  <item name="av.win.bundle.title"><![CDATA[Il tuo set di componenti:]]></item>
+  <item name="av.win.bundle.text"><![CDATA[Benissimo! Le nuove componenti sono eccellenti!<br/>Ora non resta che mettersi al lavoro sui velivoli...]]></item>
+  <item name="av.win.bundle.received"><![CDATA[La tua selezione:]]></item>
+ </category>
+ <category name="av.win.logout">
+  <item name="av.win.logout.title"><![CDATA[Logout]]></item>
+  <item name="av.win.logout.text"><![CDATA[Vuoi davvero uscire dal gioco?]]></item>
+ </category>
+ <category name="av.win.buy_conf">
+  <item name="av.win.buy_conf.title"><![CDATA[Conferma]]></item>
+  <item name="av.win.buy_conf.buy.text"><![CDATA[Vuoi davvero comprare la risorsa?]]></item>
+  <item name="av.win.buy_conf.del.text"><![CDATA[Vuoi davvero eliminare la risorsa dall'inventario?]]></item>
+  <item name="av.win.buy_conf.sell.text"><![CDATA[Vuoi davvero vendere questa risorsa per {x} {money}?]]></item>
+ </category>
+ <category name="av.win.error">
+  <item name="av.win.error.global.title"><![CDATA[Ops!]]></item>
+  <item name="av.win.error.global.text"><![CDATA[A causa di un problema tecnico il gioco è stato chiuso.]]></item>
+  <item name="av.win.error.connection.title"><![CDATA[Connessione interrotta]]></item>
+  <item name="av.win.error.connection.text"><![CDATA[Hai problemi con la connessione a Internet.]]></item>
+  <item name="av.win.error.reload.text"><![CDATA[Vuoi ricaricare il gioco?]]></item>
+ </category>
+ <category name="av.win.eventBaskets">
+  <item name="av.win.eventBaskets.title"><![CDATA[Il non plus ultra!]]></item>
+  <item name="av.win.eventBaskets.text"><![CDATA[Successo su tutta la linea aerea: approfitta di questa occasione!]]></item>
+ </category>
+ <category name="av.storage.deleteItems">
+  <item name="av.storage.deleteItems.title"><![CDATA[Vendita]]></item>
+  <item name="av.storage.deleteItems.warning"><![CDATA[Desideri davvero vendere questa risorsa per {value} Aircoin?]]></item>
+  <item name="av.storage.deleteItems.sellbtn"><![CDATA[Vendi]]></item>
+ </category>
+ <category name="av.win.happyhour">
+  <item name="av.win.happyhour.title"><![CDATA[Happy hour]]></item>
+  <item name="av.win.happyhour.info"><![CDATA[Promozione happy hour: {prozent}% extra per i volatori migliori!]]></item>
+  <item name="av.win.happyhour.plustext1"><![CDATA[Ad esempio, se comprerai 100 Aircash nell'happy hour, otterrai {calcvalue}!]]></item>
+  <item name="av.win.happyhour.plustext2"><![CDATA[Rompi il muro del suono e amplia il tuo aeroporto!]]></item>
+  <item name="av.win.happyhour.plustext3"><![CDATA[Approfittane, prima che sia troppo tardi!]]></item>
+  <item name="av.win.happyhour.button"><![CDATA[Compra]]></item>
+ </category>
+ <category name="av.win.recycling_building">
+  <item name="av.win.recycling_building.title"><![CDATA[Centro di riciclaggio]]></item>
+  <item name="av.win.recycling_building.res.title"><![CDATA[Benvenuto nel centro di riciclaggio]]></item>
+  <item name="av.win.recycling_building.res.intro"><![CDATA[Crea il nuovo dal vecchio! Hai bisogno di più spazio nell'hangar o di altri componenti per creare nuovi aerei? Allora sei capitato al posto giusto!]]></item>
+  <item name="av.win.recycling_building.res.more"><![CDATA[Smonta qui i tuoi vecchi aerei. Ogni aereo ti darà la possibilità di ottenere diversi componenti con i quali potrai assemblare nuovi fantastici aerei nell'officina di montaggio.]]></item>
+  <item name="av.win.recycling_building.level"><![CDATA[Il tuo livello di riciclaggio]]></item>
+  <item name="av.win.recycling_building.level_up"><![CDATA[Hai raggiunto il livello di riciclaggio {x}]]></item>
+  <item name="av.win.recycling_building.tooltip.small_planes"><![CDATA[Numero di aerei piccoli nell'hangar]]></item>
+  <item name="av.win.recycling_building.tooltip.medium_planes"><![CDATA[Numero di aerei medi nell'hangar]]></item>
+  <item name="av.win.recycling_building.tooltip.material1"><![CDATA[Aircoin]]></item>
+  <item name="av.win.recycling_building.tooltip.material7"><![CDATA[Bulloni]]></item>
+  <item name="av.win.recycling_building.tooltip.material8"><![CDATA[Metallo]]></item>
+  <item name="av.win.recycling_building.tooltip.material9"><![CDATA[Materiale sintetico]]></item>
+  <item name="av.win.recycling_building.tooltip.material10"><![CDATA[Elettronica]]></item>
+  <item name="av.win.recycling_building.tooltip.material11"><![CDATA[Stracci]]></item>
+  <item name="av.win.recycling_building.tooltip.material12"><![CDATA[Vetro]]></item>
+  <item name="av.win.recycling_building.btn.ok"><![CDATA[OK]]></item>
+  <item name="av.win.recycling_building.gears"><![CDATA[Avanzamento]]></item>
+  <item name="av.win.recycling_building.option.info"><![CDATA[Smonta gli aerei e raccogli i componenti. A sinistra puoi vedere le tue possibilità di successo!]]></item>
+  <item name="av.win.recycling_building.option.time"><![CDATA[Tempo di riciclaggio : {x} h]]></item>
+  <item name="av.win.recycling_building.option.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.recycling_building.btn.dissemble"><![CDATA[Smonta]]></item>
+  <item name="av.win.recycling_building.btn.collect"><![CDATA[Raccogli]]></item>
+  <item name="av.win.recycling_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.recycling_building.btn.sideflag2"><![CDATA[Velivoli piccoli]]></item>
+  <item name="av.win.recycling_building.btn.sideflag3"><![CDATA[Velivoli medi]]></item>
+  <item name="av.win.recycling_building.btn.sideflag.disabled"><![CDATA[Aerei insufficienti]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.title"><![CDATA[Liberatene!]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.msg"><![CDATA[Vuoi davvero smontare questo aereo?]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.title"><![CDATA[Termina]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.msg"><![CDATA[Finire subito lo smontaggio?]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.title"><![CDATA[Non hai abbastanza Aircoin!]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.msg"><![CDATA[Non hai abbastanza Aircash!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.title"><![CDATA[Livello di riciclaggio superiore!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.msg"><![CDATA[Complimenti! Hai raggiunto il livello di riciclaggio successivo. Le tue possibilità di trovare componenti migliori sono aumentate!]]></item>
+  <item name="av.win.recycling_building.popup.yes"><![CDATA[OK]]></item>
+  <item name="av.win.recycling_building.popup.no"><![CDATA[Annulla]]></item>
+  <item name="av.win.recycling_building.popup.recycling_done.title"><![CDATA[Ti vengono assegnati:]]></item>
+ </category>
+ <category name="av.win.crafting_building">
+  <item name="av.win.crafting_building.title"><![CDATA[Officina di montaggio]]></item>
+  <item name="av.win.crafting_building.res.title"><![CDATA[Officina terrestre]]></item>
+  <item name="av.win.crafting_building.res.intro"><![CDATA[Nell'officina di montaggio potrai costruire aerei unici a partire dai tuoi componenti!]]></item>
+  <item name="av.win.crafting_building.res.more"><![CDATA[Con quattro parti adatte ottenute dal centro di riciclaggio potrai creare un nuovo aereo. Vuoi aumentare la produzione? Basta affittare un edificio aggiuntivo.]]></item>
+  <item name="av.win.crafting_building.level"><![CDATA[Il tuo livello di costruzione]]></item>
+  <item name="av.win.crafting_building.tooltip.cockpit"><![CDATA[Cabina di pilotaggio]]></item>
+  <item name="av.win.crafting_building.tooltip.body"><![CDATA[Fusoliera]]></item>
+  <item name="av.win.crafting_building.tooltip.wingunit"><![CDATA[Ala]]></item>
+  <item name="av.win.crafting_building.tooltip.powerunit"><![CDATA[Motore]]></item>
+  <item name="av.win.crafting_building.tooltip.time"><![CDATA[Completato entro]]></item>
+  <item name="av.win.crafting_building.gears"><![CDATA[Avanzamento]]></item>
+  <item name="av.win.crafting_building.btn.combine"><![CDATA[Crea]]></item>
+  <item name="av.win.crafting_building.btn.build"><![CDATA[Costruisci]]></item>
+  <item name="av.win.crafting_building.btn.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.crafting_building.btn.collect"><![CDATA[Raccogli]]></item>
+  <item name="av.win.crafting_building.btn.ok"><![CDATA[OK]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.title"><![CDATA[Vuoi affittare un'officina di montaggio?]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.msg"><![CDATA[Un'altra officina per 24 ore. Ti bastano {x} Aircash!]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.msg"><![CDATA[Non hai abbastanza Aircash per affittare un'altra officina di montaggio.]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.title"><![CDATA[Poca grana, eh?]]></item>
+  <item name="av.win.crafting_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.crafting_building.btn.sideflag2"><![CDATA[Officina di montaggio 1]]></item>
+  <item name="av.win.crafting_building.btn.sideflag3"><![CDATA[Officina di montaggio 2]]></item>
+  <item name="av.win.crafting_building.btn.sideflag4"><![CDATA[Officina di montaggio 3]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.title"><![CDATA[Non hai abbastanza Aircoin!]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.msg"><![CDATA[Non hai abbastanza Aircash!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.title"><![CDATA[Non hai abbastanza spazio nell'hangar!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.msg"><![CDATA[Devi prima ampliare il tuo hangar!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.title"><![CDATA[Completa!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.msg"><![CDATA[Completare ora?]]></item>
+  <item name="av.win.crafting_building.popup.crafting_done.title"><![CDATA[Ti vengono assegnati:]]></item>
+  <item name="av.win.crafting_building.popup.levelup.title"><![CDATA[Livello di costruzione +]]></item>
+  <item name="av.win.crafting_building.popup.levelup.msg"><![CDATA[Fantastico! Hai raggiunto un nuovo livello di costruzione e sbloccato nuovi aerei!]]></item>
+  <item name="av.win.crafting_building.popup.yes"><![CDATA[OK]]></item>
+  <item name="av.win.crafting_building.popup.no"><![CDATA[Annulla]]></item>
+ </category>
+ <category name="av.win.material_event">
+  <item name="av.win.material_event.res.intro"><![CDATA[Pronti, ai posti, via! Fai il pieno di risorse delle Aerolimpiadi per ottenere in cambio splendidi aerei dell'evento!]]></item>
+  <item name="av.win.material_event.res.title"><![CDATA[Che i giochi abbiano inizio!]]></item>
+  <item name="av.win.material_event.res.more"><![CDATA[Ogni aereo è disponibile in cambio di una serie di risorse uniche. Consegnale e goditi i potenti aerei dell'evento!]]></item>
+  <item name="av.win.material_event.btn.side_flag1"><![CDATA[Info evento]]></item>
+  <item name="av.win.material_event.btn.side_flag2"><![CDATA[Ricompense evento]]></item>
+  <item name="av.win.material_event.btn.redeem"><![CDATA[Riscatta]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.title"><![CDATA[Risorse insufficienti]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.msg"><![CDATA[Non hai abbastanza risorse per ottenere questa ricompensa.]]></item>
+  <item name="av.win.material_event.popup.more_hangar.title"><![CDATA[Devi avere l'hangar corrispondente!]]></item>
+  <item name="av.win.material_event.popup.more_hangar.msg"><![CDATA[È necessario più spazio nell'hangar!]]></item>
+ </category>
+</language>

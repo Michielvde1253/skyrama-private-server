@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Fundbüroulette]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Ein Freidreh]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[{number}x Freidreh]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1x Drehen: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Drehen]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Nichts geht mehr? Von wegen! Alle 24 Stunden ein Freidreh und tolle Preise!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Preis:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Applaus!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Du hast gewonnen!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Hey, Wahnsinn! Ein Spitzenpreis, oder? Unglaublich, was unsere Fluggäste hier vergessen. Lust auf einen weiteren Versuch? Es lohnt sich!]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[Tag {day}:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[Tag {day}: {spins}x Freidreh]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Überspringen]]></item>
+ </category>
+</language>

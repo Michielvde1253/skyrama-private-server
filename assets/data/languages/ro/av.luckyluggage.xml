@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Loterie de bagaje]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Învârtire gratuită]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[{number}x învârtiri gratuite]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1 încercare: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Învârtire]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Verifică la fiecare 24 de ore, primeşti o învârtire gratuită şi câştigă!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Câştigă:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Felicitări!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Tu câştigi!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Felicitări! Cu siguranță îți va fi de folos. Nu ezita să învârţi banda cu bagaje din nou!]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[Ziua{day}:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[Ziua{day}: {spins}x Învârtire gratuită]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Sari]]></item>
+ </category>
+</language>

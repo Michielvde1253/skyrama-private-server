@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.easy_event">
+  <item name="av.easy_events.countdown.tooltip"><![CDATA[Evento in arrivo!]]></item>
+  <item name="av.easy_event.coin_storm.title"><![CDATA[Pioggia di denaro!]]></item>
+  <item name="av.easy_event.coin_storm.text"><![CDATA[Abbiamo ricevuto un'offerta speciale dal nostro fornitore di carburante. Oggi facendo la manutenzione degli aerei ricevi il 20% di Aircoin in più.]]></item>
+  <item name="av.easy_event.crazysale.title"><![CDATA[Vendite strabilianti!]]></item>
+  <item name="av.easy_event.crazysale.text"><![CDATA[Oggi ricevi il doppio di Aircoin per le vendite duty free!]]></item>
+  <item name="av.easy_event.knowhowday.title"><![CDATA[Giornata del know-how!!]]></item>
+  <item name="av.easy_event.knowhowday.text"><![CDATA[I nostri piloti sono rientrati dall'addestramento professionale. Per oggi incassi il doppio di PE!]]></item>
+  <item name="av.easy_event.airshow.title"><![CDATA[Show aereo!]]></item>
+  <item name="av.easy_event.airshow.text"><![CDATA[Oggi ricevi il doppio di PE e di Aircoin per la manutenzione degli aerei!]]></item>
+  <item name="av.easy_event.passenger.title"><![CDATA[Giornata dei passeggeri!]]></item>
+  <item name="av.easy_event.passenger.text"><![CDATA[Il personale di terra prevede un gran numero di visitatori! Oggi puoi raccogliere il doppio dei visitatori da tutti gli edifici!]]></item>
+  <item name="av.easy_event.specialplane.title"><![CDATA[Invia l'aereo giusto!]]></item>
+  <item name="av.easy_event.specialplane.text"><![CDATA[Solo oggi, inviando {plane} ricevi il doppio di Aircoin e PE!]]></item>
+  <item name="av.easy_event.x_coins.title"><![CDATA[Vendite strabilianti!]]></item>
+  <item name="av.easy_event.x_coins.text"><![CDATA[Oggi per le vendite duty free la quantità di Aircoin che ricevi aumenta di {times} volte!]]></item>
+  <item name="av.easy_event.x_xp.title"><![CDATA[Giornata del know-how!!]]></item>
+  <item name="av.easy_event.x_xp.text"><![CDATA[I nostri piloti sono rientrati dall'addestramento professionale.  I loro cervelli stanno fumando ancor più dei motori degli aerei. Per oggi l'incasso di PE aumenta di {times} volte!]]></item>
+  <item name="av.easy_event.quickservice.title"><![CDATA[Mini-evento servizio rapido]]></item>
+  <item name="av.easy_event.quickservice.text"><![CDATA[Servizio rapido gratis!]]></item>
+ </category>
+</language>

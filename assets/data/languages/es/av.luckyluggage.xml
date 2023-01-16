@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Cinta del azar]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Vuelta gratis]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[{number} vuelta(s) gratis]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1 vuelta: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Vuelta]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[¡Factura cada 24 horas, consigue una vuelta gratis y gana!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Premio:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[¡Felicidades!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[¡Has ganado!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[¡Enhorabuena por tu victoria! Apuesto a que te vendrá muy bien. ¡No dudes en girar la cinta del azar de nuevo!]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[Día {day}:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[Día {day}: {spins} vuelta(s) gratis]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Saltar]]></item>
+ </category>
+</language>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.buddy">
+  <item name="av.buddy.title"><![CDATA[Πρόσθεσε φίλους!]]></item>
+  <item name="av.buddy.text"><![CDATA[Ως ομάδα έχουμε ακόμα μεγαλύτερη δύναμη! Προσκάλεσε τους φίλους σου!]]></item>
+  <item name="av.buddy.search"><![CDATA[Προσθήκη φίλου στην λίστα φίλων]]></item>
+  <item name="av.buddy.search.hint"><![CDATA[Όνομα χρήστη/ID χρήστη]]></item>
+  <item name="av.buddy.search.button"><![CDATA[Αναζήτηση]]></item>
+  <item name="av.buddy.search.results"><![CDATA[Αποτελέσματα]]></item>
+  <item name="av.buddy.search.searching"><![CDATA[Αναζήτηση...]]></item>
+  <item name="av.buddy.search.add"><![CDATA[Προσθήκη φίλου]]></item>
+  <item name="av.buddy.search.user_result"><![CDATA[{username} (ID: {id})]]></item>
+  <item name="av.buddy.search.user_notfound"><![CDATA[Ο παίκτης δεν βρέθηκε]]></item>
+  <item name="av.buddy.search.user_added"><![CDATA[Ο παίκτης προστέθηκε με επιτυχία]]></item>
+  <item name="av.buddy.search.user_notadded"><![CDATA[Ο παίκτης δεν είναι εφικτό να προστεθεί]]></item>
+  <item name="av.buddy.search.user_yourself"><![CDATA[Δεν μπορείς να προσθέσεις τον εαυτό σου]]></item>
+  <item name="av.buddy.search.user_already"><![CDATA[Ο χρήστης ανήκει ήδη στους φίλους σου]]></item>
+  <item name="av.buddy.email"><![CDATA[Πρόσκληλη μέσω e-mail]]></item>
+ </category>
+</language>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.news">
+  <item name="av.news.header"><![CDATA[Skyrama nyheder]]></item>
+  <item name="av.news.title"><![CDATA[Hej! Jeg er Cassandra din nye vandflyverpilot. Lad mig give dig et hurtigt overblik over det nye indhold og de nye features.]]></item>
+  <item name="av.news.text"><![CDATA[<li>Det nye fragtsystem er ankommet! I den nye tutorial lærer du mere, bliv der!</li><li><li>Passengerer, du har samlet på én dag, forlader din lufthavn efter 72 timer, hvis du ikke sneder dem på rejse! Hav altid det i baghovedet! </li>]]></item>
+  <item name="av.news.hint_title"><![CDATA[Hint:]]></item>
+  <item name="av.news.hint_text"><![CDATA[Hvis dine fly bliver serviceret i andre lufthavne vil du få den dobbelte belønnning!]]></item>
+  <item name="av.news.shop_title"><![CDATA[WonderQuicky!]]></item>
+  <item name="av.news.shop_text"><![CDATA[Saml flydele for at at færdiggøre WonderQuicky samlingen!!!]]></item>
+ </category>
+ <category name="av.santanews">
+  <item name="av.santanews.header"><![CDATA[Vinter nyheder]]></item>
+  <item name="av.santanews.title"><![CDATA[Hohoho! I vinterugerne glæder piloter, stewarder og passagerer til den store fest sidst på året. Mange nye ting venter på dig!]]></item>
+  <item name="av.santanews.text"><![CDATA[I løbet af vinterugerne flyver julemanden forbi! Hold øje -måske smider han nogle gaver -prøv at samle den og du bliver måske belønnet! Til rådighed fra d. 24.12 til d. 26.12!]]></item>
+  <item name="av.santanews.hint_title"><![CDATA[Fyrværkeri!!!]]></item>
+  <item name="av.santanews.hint_text"><![CDATA[Godt nytår! Send den spritnye fyrværkeri forbiflyvning til dine venner. Til rådighed fra d. 29.12 til d. 31.12!]]></item>
+  <item name="av.santanews.shop_title"><![CDATA[Alt du kan quickservice:]]></item>
+  <item name="av.santanews.shop_text"><![CDATA[Betal éngang og servicér så mange du kan indenfor 24 timer GRATIS.]]></item>
+ </category>
+ <category name="av.january12news">
+  <item name="av.january12news.header"><![CDATA[Nytårsnyheder]]></item>
+  <item name="av.january12news.title"><![CDATA[Godt nytår! Velkommen ind i 2012 - Må alle fly få en hurtig service, måtte du modtage mega mange passagerer til din lufthavn og måtte du bade i flymønter!]]></item>
+  <item name="av.january12news.text"><![CDATA[På grund af tekniske forbedringer, bliver alle fly nu flyttet til deres respektive ramper. Test det, og du vil opdage at det at sende fly er blevet mere komfortabelt, og at det er en sttor forbedring i dit arbejde som Lufthavnsdirektør.]]></item>
+  <item name="av.january12news.hint_title"><![CDATA[Opdateringer:]]></item>
+  <item name="av.january12news.hint_text"><![CDATA[Vi arbejder hårdt på et forbedre indlæsningstiden, og ydeevnen i spillet. Sand historie!]]></item>
+  <item name="av.january12news.shop_title"><![CDATA[Køb varer:]]></item>
+  <item name="av.january12news.shop_text"><![CDATA[Løbet tør for varer? Du kan købe flere i butikkens special kategori.]]></item>
+ </category>
+ <category name="av.modernizationnews">
+  <item name="av.modernizationnews.header"><![CDATA[De nye daglige quests]]></item>
+  <item name="av.modernizationnews.title"><![CDATA[Tid til takeoff! 21 helt nye eventyrer for lufthavnsbestyrer!]]></item>
+  <item name="av.modernizationnews.text"><![CDATA[Genmodellering af sådan en massiv lufthavn er ingen let opgave. Hele Skyrama besætningen har haft travlt som en B-52 i de seneste måneder, men nu er Tariq, Lin, Kurt og hele banden tilbage og klar til at komme i gang. Gå på den shoppingtur du altid har ønsket eller tag en romantisk tur med den eneste ene. Klik på stjernen i venstre side og spil løs før udløbsdatoen løber ud, da et nyt quest event vil erstatte dem om blot et par uger.]]></item>
+  <item name="av.modernizationnews.hint_title"><![CDATA[Opdateringer:]]></item>
+  <item name="av.modernizationnews.hint_text"><![CDATA[Sæt tech dekorationer ved siden af ramper, for at reducere service tiden med op til 40%.]]></item>
+  <item name="av.modernizationnews.shop_title"><![CDATA[Nye fly!]]></item>
+  <item name="av.modernizationnews.shop_text"><![CDATA[Check de splinternye prototyper og sikkerhedsfly i din butik.]]></item>
+ </category>
+ <category name="av.modernizationnews+mmo">
+  <item name="av.modernizationnews+mmo.header"><![CDATA[Fremtidens lufthavn!]]></item>
+  <item name="av.modernizationnews+mmo.title"><![CDATA[Fremtidens lufthavn er her! Vi kan se frem til fantastiske fly prototyper og smarte nye bygninger.]]></item>
+  <item name="av.modernizationnews+mmo.text"><![CDATA[Hør her piloter! Skyrama er blevet nomineret til "Best Tycoon Browser MMO"! Hurra!!! Brug linket herunder til at være med til at stemme på os! <br/><a href="http://mmooftheyear.com/" target="_blank"><u>Link to MMO-Votings</u></a><br/>Hjælp Skyrama til at nå nye højder! En stor overraskelse venter dig, hvis vi vinder!]]></item>
+  <item name="av.modernizationnews+mmo.hint_title"><![CDATA[Opdateringer:]]></item>
+  <item name="av.modernizationnews+mmo.hint_text"><![CDATA[Sæt tech dekorationer ved siden af ramper, for at reducere service tiden med op til 40%.]]></item>
+  <item name="av.modernizationnews+mmo.shop_title"><![CDATA[Nye fly!]]></item>
+  <item name="av.modernizationnews+mmo.shop_text"><![CDATA[Check de splinternye prototyper og sikkerhedsfly i din butik.]]></item>
+ </category>
+ <category name="av.modernizationnews+unlocking">
+  <item name="av.modernizationnews+unlocking.header"><![CDATA[Fremtidens lufthavn!]]></item>
+  <item name="av.modernizationnews+unlocking.title"><![CDATA[Fremtidens lufthavn er her! Vi kan se frem til fantastiske fly prototyper og smarte nye bygninger.]]></item>
+  <item name="av.modernizationnews+unlocking.text"><![CDATA[Hør her piloter!<br/>I kan nu følge med i flyvnings processen med det nye landekort for flyvninger.<br/>Besøg hvert enkelt land i et kontinent og modtag en belønning, vis dine fede fly til spillere hele verdenen rundt!]]></item>
+  <item name="av.modernizationnews+unlocking.hint_title"><![CDATA[Opdateringer:]]></item>
+  <item name="av.modernizationnews+unlocking.hint_text"><![CDATA[Sæt tech dekorationer ved siden af ramper, for at reducere service tiden med op til 40%.]]></item>
+  <item name="av.modernizationnews+unlocking.shop_title"><![CDATA[Nye fly!]]></item>
+  <item name="av.modernizationnews+unlocking.shop_text"><![CDATA[Check de splinternye prototyper og sikkerhedsfly i din butik.]]></item>
+ </category>
+ <category name="av.zeppelinexpedition">
+  <item name="av.zeppelinexpedition.header"><![CDATA[Nye funktioner]]></item>
+  <item name="av.zeppelinexpedition.title"><![CDATA[Lufthavnen er nu klar til at modtage den berømte Zeppelin ekspedition og landefrigørelse! Berømmelse, ære og nogle meget specielle belønninger, venter på alle de der deltager!]]></item>
+  <item name="av.zeppelinexpedition.text"><![CDATA[Du kan nu have en oversigt over din flyfremgang med det nye landefrigørelses flykort. Besøg hvert land i et af kontinenterne og mod en belønning, vis din luftflåde til spillere over hele verdenen!<br/><br/> Når du har fået din Zeppelin hangar, kan du begynde at samle brændstof til din ekspedition, ved at fuldføre minispillet LUFTSHOW. Når du har indsamlet brændstof nok, kan du sende Zeppelineren til eksotiske steder for at indsamle sjældne souvenirs. Saml souvenirs nok og veksel dem til en af de to helt nye og meget eksklusive fly. Check dit lager, måske findes Zeppelin hangaren der allerede!]]></item>
+  <item name="av.zeppelinexpedition.hint_title"><![CDATA[Zeppelin Ekspedition!]]></item>
+  <item name="av.zeppelinexpedition.hint_text"><![CDATA[Få Dedarama eller det fantastiske rumskib "One", som belønning for din ekspeditionsindsamling.]]></item>
+  <item name="av.zeppelinexpedition.shop_title"><![CDATA[Luftshow]]></item>
+  <item name="av.zeppelinexpedition.shop_text"><![CDATA[Luftshowet starter i din lufthavn i det øjeblik du har placeret din Zeppelin hangar. Klik i det rette øjeblik på de fly der passerer, for at finde brændstoffet!]]></item>
+ </category>
+ <category name="av.mmo">
+  <item name="av.mmo.header"><![CDATA[Årets bedste MMO!]]></item>
+  <item name="av.mmo.title"><![CDATA[Lad din mening blive hørt og måske er det dig der bliver vinderen! Takket være alle jeres stemmer, er det medarbejderne på Skyrama, der har modtaget MMO-prisen 2012.]]></item>
+  <item name="av.mmo.text"><![CDATA[I har stemt os frem til bedste tycoon online spil ved<br/><a href="http://mmooftheyear.com/" target="_blank"><u>"MMO of the Year 2012"</u></a><br/> konkurrencen! Nu er det tid til festivas, til tonerne fra Champagnegaloppen og poppende propper, vil du kunne vinde tre fantastiske gaver! Alle afhængige piloter har brug for lidt ekstra plads til at sprede vingerne ud. Derfor har jordpersonellet drønet rundt for at frigøre mere plads til dig i den lille hangar. Og det hele er noget vi giver dig!]]></item>
+  <item name="av.mmo.hint_title"><![CDATA[Din lykkestjerne]]></item>
+  <item name="av.mmo.hint_text"><![CDATA[Dette nye dekorative stykke vil få din lufthavn til at skinne døgnet rundt.]]></item>
+  <item name="av.mmo.shop_title"><![CDATA[Lykkenummeret er 10!]]></item>
+  <item name="av.mmo.shop_text"><![CDATA[9 er godt, men 10 er fantastisk! Derfor giver vi dig 10 gratis ture på Heldigt bagagen!]]></item>
+ </category>
+ <category name="av.superfuel">
+  <item name="av.superfuel.header"><![CDATA[Fyld dine fly op med super brændstof
+]]></item>
+  <item name="av.superfuel.title"><![CDATA[Bryd lydmuren
+ med det helt nye super brændstof!]]></item>
+  <item name="av.superfuel.text"><![CDATA[Er dine fly, helikoptere og jets formelig limet til jorden? Ikke i din lufthavn! Så fyld dem op med super brændstof og se din luftflåde summe gennem luften, for at besøge venner og levere uvurderlige råvarer til hele verdenen.
+]]></item>
+  <item name="av.superfuel.hint_title"><![CDATA[VIP landing]]></item>
+  <item name="av.superfuel.hint_text"><![CDATA[At holde i kø, er noget fra fortiden.
+ Land dit fly uden ventetider.]]></item>
+  <item name="av.superfuel.shop_title"><![CDATA[Fyld dem op!
+]]></item>
+  <item name="av.superfuel.shop_text"><![CDATA[Til alle over level 3: 50 dunke super brændstof, gratis!
+]]></item>
+ </category>
+ <category name="av.may_day">
+  <item name="av.may_day.header"><![CDATA[Dette er de glade majdage i Skyrama!]]></item>
+  <item name="av.may_day.title"><![CDATA[Forskellige ting er ved at blive varmet op på sommerhimlen i Skyrama! Så er det tid for et cocktailparty på stranden!
+]]></item>
+  <item name="av.may_day.text"><![CDATA[Kom maj du søde milde..!  ... og kåben kastes væk! Brug blomstermønterne til at frigive eksklusive items og fejre Morsdag og Farsdag plus alle andre forårsdage. Til den stormfri lufthavn!]]></item>
+  <item name="av.may_day.hint_title"><![CDATA[Lad blomster mønterne springe (ud).
+]]></item>
+  <item name="av.may_day.hint_text"><![CDATA[Indsamling lønner sig: Jo flere blomster, desto flere items!
+]]></item>
+  <item name="av.may_day.shop_title"><![CDATA[Shoppefeber!
+]]></item>
+  <item name="av.may_day.shop_text"><![CDATA[Forårsudsalg! Alt skal væk!
+]]></item>
+ </category>
+ <category name="av.eng_bay">
+  <item name="av.eng_bay.header"><![CDATA[Ingeniør værksted]]></item>
+  <item name="av.eng_bay.title"><![CDATA[Det hamrer derudaf: Fin justering af din flåde!]]></item>
+  <item name="av.eng_bay.text"><![CDATA[Det helt nye ingeniør værkstedet er nu tilgængelig i "Airside bygningen" af butikken. I det nye ingeniør værksted, kan du turbo-tune hele din flåde med dele fra hele verden. Opgrader dine fly og ramacoptere med nye navigationssystemer, ekstra last rum og bedre turbiner. For bare 100 aircoins kan du få din egen tuning central. Factory-udstyret fly er ude, specialfremstillede fly er inde!]]></item>
+  <item name="av.eng_bay.hint_title"><![CDATA[Lad os gå i gang!]]></item>
+  <item name="av.eng_bay.hint_text"><![CDATA[Nu 24 timers service: Skrot fly gratis!]]></item>
+  <item name="av.eng_bay.shop_title"><![CDATA[Fly(t) dele]]></item>
+  <item name="av.eng_bay.shop_text"><![CDATA[Ikke tid til at samle udvidelses dele? I shoppen fås udvidelses dele til lavtflyvende priser!]]></item>
+  <item name="av.eng_bay.buy_title"><![CDATA[Fragtet på hjul]]></item>
+  <item name="av.eng_bay.buy_text"><![CDATA[Sæt tech dekorationer ved siden af ramper, for at reducere service tiden med op til 40%.]]></item>
+  <item name="av.eng_bay.skin_title"><![CDATA[Flyvernes trumfkort]]></item>
+  <item name="av.eng_bay.skin_text"><![CDATA[Forfriskning til dine fly. Nå nye højder med nyt udseene fra flyværkstedet!]]></item>
+ </category>
+ <category name="av.announcement">
+  <item name="av.announcement.header"><![CDATA[Skyrama-omvisning]]></item>
+  <item name="av.announcement.title"><![CDATA[Få et glimt af i morgen, i dag! Find ud af her først, hvad der er ved at ske næste!]]></item>
+  <item name="av.announcement.text"><![CDATA[Det er turistsæson, og tingene flyver sky-højt i Skyrama. Vi har en kæmpe event linet op, som kommer med måneds udgang for aspirerende og etablerede atleter lige ens. Eksklusive fly, helt nye bygninger og meget mere vil få solen til at skinne som guld. Ydermere, er vi ved at modernisere alt bag kulisserne ved at tilbageringe det bedste hold af udryddere som vi har i kuben til at få fjernet alle fejl en gang for alle.]]></item>
+  <item name="av.announcement.hint_title"><![CDATA[Nære venner]]></item>
+  <item name="av.announcement.hint_text"><![CDATA[Bedre, hurtigere, lettere! Den helt ny invitations funktion vil snart gå til opsendelse.]]></item>
+  <item name="av.announcement.shop_title"><![CDATA[Gammelt og gråt var for igår.]]></item>
+  <item name="av.announcement.shop_text"><![CDATA[Daglige quests som du aldrig har set før - kommer snart!]]></item>
+ </category>
+ <category name="av.friends">
+  <item name="av.friends.header"><![CDATA[Socialt luftfartnetværk]]></item>
+  <item name="av.friends.title"><![CDATA[Modtag fuld oversigt over alt lufttrafik gennem den nye venneplanlægger!]]></item>
+  <item name="av.friends.text"><![CDATA[Som en lufthavns bestyrer, bliver du nød til at holde tæt kontakt med dine venner - ellers, glemmer de alt om dig, og det er skadeligt for forretningen. Vores jordpersonale fortalte os om de problemer, du har haft med din online status, og vi har arbejdet på at løse dem, så kast ikke håndklædet i ringen endnu. Vi har udviklet et nyt flysignal, der vil give dig mulighed for at koordinere dine flyveplaner med dine venner! Bare klik på tårn-symbolet i øverste venstre hjørne af menulinjen og signaler at du har fri kapacitet. I de næste 30 minutter rykker vil dit navn stå helt øverst i dine venners venneliste. Hvad venter du på? Giv det en chance og lad dine partnere vide, at du er klar til forretning!]]></item>
+  <item name="av.friends.hint_title"><![CDATA[Opdateringer:]]></item>
+  <item name="av.friends.hint_text"><![CDATA[Sæt tech dekorationer ved siden af ramper, for at reducere service tiden med op til 40%.]]></item>
+  <item name="av.friends.shop_title"><![CDATA[Bliv i et stykke tid!]]></item>
+  <item name="av.friends.shop_text"><![CDATA[Føl dig selv hjemme! Snart vil dine passagerer blive i 5 dage i terminalen.]]></item>
+ </category>
+ <category name="av.10mi">
+  <item name="av.10mi.header"><![CDATA[10 millioner registrerede brugere!]]></item>
+  <item name="av.10mi.title"><![CDATA[Vi popper flasker i Skyrama! En beskeden fest for at markere en vigtig milepæl!]]></item>
+  <item name="av.10mi.text"><![CDATA[For at vise vores taknemmelighed, vil vi give dig 5 gratis spins på den Heldige Bagage, 10 enheder af Super Brændstof og dele til dit flyværksted. Også, tjek shoppen for eksklusive dekorationer og den ædle MillionAir X. Sæt kursen for Millioner Eventet! ]]></item>
+  <item name="av.10mi.hint_title"><![CDATA[Nye begyndelser er en brise]]></item>
+  <item name="av.10mi.hint_text"><![CDATA[10 millioner spillere! Vi fejre med en storfest fra den 10.12. - 17.12.2012!]]></item>
+  <item name="av.10mi.shop_title"><![CDATA[Der var en gang...]]></item>
+  <item name="av.10mi.shop_text"><![CDATA[Croydon Lufthavn verdens første internationale lufthavn, åbnede sine porte i marts 1920.]]></item>
+ </category>
+ <category name="av.dark_orbit">
+  <item name="av.dark_orbit.header"><![CDATA[Dark Airport: Besøg fra Orbit!]]></item>
+  <item name="av.dark_orbit.title"><![CDATA[Med lys-hastigheden inde i fremtiden, hvem har så brug for et normalt fly da?]]></item>
+  <item name="av.dark_orbit.text"><![CDATA[Nyt og eksklusivt: Fremover i en kort periode nu, kommer den mægtige kampcrusier Goliath til at lave en gæsteoptræden hos din lufthavn. Du kan købe denne flyvende fæstning, vise dine konkurrenter hvad ren frygt er og bevis for alle at lufttrafikkens fremtid står fremdeles skrevet i stjernerne.]]></item>
+  <item name="av.dark_orbit.hint_title"><![CDATA[Igår var det David, idag Goliath!]]></item>
+  <item name="av.dark_orbit.hint_text"><![CDATA[DarkOrbit 6 år! Den 11.12. gik startskuddet for det store verdensrum-eventyr.]]></item>
+  <item name="av.dark_orbit.shop_title"><![CDATA[Engangstilbud]]></item>
+  <item name="av.dark_orbit.shop_text"><![CDATA[Nu eller aldrig: Udnyt chancen for at sikre dig en Goliath!]]></item>
+ </category>
+ <category name="av.high_level">
+  <item name="av.high_level.header"><![CDATA[Landingstilladelse for eliteflyvere]]></item>
+  <item name="av.high_level.title"><![CDATA[Vores nye eliteflyvere har landet!]]></item>
+  <item name="av.high_level.text"><![CDATA[Hvorfor bare flyve højt, når du kan være blandt de bedste af de bedste? Snart får du mulighed for at udvide din flåde med det bedste indenfor den internationale lufttransport. Hvilke legendariske fly, vil være de næste som ankommer til din lufthavn? Vent og se!]]></item>
+  <item name="av.high_level.hint_title"><![CDATA[Må lykken være med dig]]></item>
+  <item name="av.high_level.hint_text"><![CDATA[Ønsker du at få fat i nogle gode gevinster? Den store jackpot venter!]]></item>
+  <item name="av.high_level.shop_title"><![CDATA[Take off]]></item>
+  <item name="av.high_level.shop_text"><![CDATA[Nye fly, direkte fra fabrikken og klar til afgang.]]></item>
+ </category>
+ <category name="av.newquests">
+  <item name="av.newquests.header"><![CDATA[Quest-O-Rama]]></item>
+  <item name="av.newquests.title"><![CDATA[Startbane for nye opgaver!]]></item>
+  <item name="av.newquests.text"><![CDATA[Nye historier, nye karakterer, og en hel række spændende udfordringer! I de kommende uger, kommer der til at ske en masse ved lufthavnen. Efter en ganske lang pause fra de primære og historie quests, er Tariq, Lin og vennerne tilbage og klar til at blande tingene op i lufthavnen. Alene i denne uge, vil vi frigive 10 nye opgaver for alle spillere, som har lavet deres vej gennem deres quest lister. Flere vil komme i de næste par uger. Mange flere! Hold øje med nye quest-opdateringer og de andre ting, vi har på lageret!]]></item>
+  <item name="av.newquests.hint_title"><![CDATA[Nye bygninger i shoppen]]></item>
+  <item name="av.newquests.hint_text"><![CDATA[Der er noget for enhver smag, uanset om du leder efter en bølgemaskine eller et sikkerheds-apparat.]]></item>
+  <item name="av.newquests.shop_title"><![CDATA[WonderQuicky!]]></item>
+  <item name="av.newquests.shop_text"><![CDATA[Saml flydele for at at færdiggøre WonderQuicky samlingen!!!]]></item>
+ </category>
+ <category name="av.recyclingnews">
+  <item name="av.recyclingnews.header"><![CDATA[Genbrugs skrotning: Genbrug dine fly!]]></item>
+  <item name="av.recyclingnews.title"><![CDATA[Grønnere bliver det ikke!]]></item>
+  <item name="av.recyclingnews.text"><![CDATA[Overfyldte hangarer, støv på landingsbanen og frustration i tårnet? Intet problem! Sig farvel til din gamle gamle rust-spande og send dem ud på deres sidste flyvetur i vores helt nye genbrugscenter og lad helt nye komponenter løbe af båndet. I montagehallen svinger vores flittige mekanikere skruenøglen, for at fremtrylle helt nye materialer til den ultimative superflyver for dig. Fremtiden begynder i dag. Klar til at lette?]]></item>
+  <item name="av.recyclingnews.hint_title"><![CDATA[Nye dele]]></item>
+  <item name="av.recyclingnews.hint_text"><![CDATA[Uanset om det er glas, bolte eller metal - uden disse dele bliver der ingen flyvere.]]></item>
+  <item name="av.recyclingnews.shop_title"><![CDATA[Nye eliteflyvere]]></item>
+  <item name="av.recyclingnews.shop_text"><![CDATA[Lynhurtig og ultra strømlinet: Så du gør din flåde fantastisk!]]></item>
+ </category>
+</language>

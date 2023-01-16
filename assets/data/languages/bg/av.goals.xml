@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.goal">
+  <item name="av.goals.tooltip.main"><![CDATA[Основен куест]]></item>
+  <item name="av.goals.tooltip.daily"><![CDATA[Ежедневен куест]]></item>
+  <item name="av.goals.tooltip.story"><![CDATA[Сюжетен куест]]></item>
+  <item name="av.goals.tooltip.world"><![CDATA[Посети всички страни!]]></item>
+  <item name="av.finishGoal.message"><![CDATA[Актуален куест]]></item>
+  <item name="av.requirements.text.default"><![CDATA[Необходими:]]></item>
+  <item name="av.requirements.text.mediumPlanes"><![CDATA[За стартирането на средно големи самолети ти трябват:]]></item>
+  <item name="av.requirements.text.heliCopter"><![CDATA[Изисква се за изпращането на ramacopter-и:]]></item>
+  <item name="av.requirements.text.seaPlanes"><![CDATA[Изисква се за изпращане на водни самолети:]]></item>
+  <item name="av.requirements.text.largePlanes"><![CDATA[Um Große Flugzeuge zu starten brauchst Du:]]></item>
+ </category>
+ <category name="av.task">
+  <item name="av.task.buy"><![CDATA[Купи {amount} {item} ]]></item>
+  <item name="av.task.collect"><![CDATA[Събери {amount} {item} ]]></item>
+  <item name="av.task.fillShop"><![CDATA[Презареди магазина си]]></item>
+  <item name="av.task.land"><![CDATA[Приземи {amount} {item}]]></item>
+  <item name="av.task.place"><![CDATA[Постави {amount} {item} ]]></item>
+  <item name="av.task.quickStart"><![CDATA[Обслужи самолета.]]></item>
+  <item name="av.task.return"><![CDATA[Върни {amount} {item} ]]></item>
+  <item name="av.task.returnToCountry"><![CDATA[Върни  {amount} {item} в {country} ]]></item>
+  <item name="av.task.sellProducts"><![CDATA[Продавай стоки]]></item>
+  <item name="av.task.send"><![CDATA[Изпрати {amount} {item} ]]></item>
+  <item name="av.task.sendToCountry"><![CDATA[Изпрати {amount} {item}в {country} ]]></item>
+  <item name="av.task.sendToStranger"><![CDATA[Изпрати {amount} самолети на непознат]]></item>
+  <item name="av.task.store"><![CDATA[Постави стария си {item} в склада]]></item>
+  <item name="av.task.storeInventory"><![CDATA[Добре сортиран инвентар]]></item>
+ </category>
+</language>

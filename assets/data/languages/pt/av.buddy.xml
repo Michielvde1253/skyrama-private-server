@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.buddy">
+  <item name="av.buddy.title"><![CDATA[Adiciona amigos!]]></item>
+  <item name="av.buddy.text"><![CDATA[A união faz a força: convida os teus amigos para jogarem contigo!]]></item>
+  <item name="av.buddy.search"><![CDATA[Adicionar à lista de amigos]]></item>
+  <item name="av.buddy.search.hint"><![CDATA[Nome/ID de utilizador]]></item>
+  <item name="av.buddy.search.button"><![CDATA[Procurar]]></item>
+  <item name="av.buddy.search.results"><![CDATA[Resultados]]></item>
+  <item name="av.buddy.search.searching"><![CDATA[A procurar...]]></item>
+  <item name="av.buddy.search.add"><![CDATA[Adicionar amigo]]></item>
+  <item name="av.buddy.search.user_result"><![CDATA[{username} (ID: {id})]]></item>
+  <item name="av.buddy.search.user_notfound"><![CDATA[Jogador não encontrado]]></item>
+  <item name="av.buddy.search.user_added"><![CDATA[Jogador adicionado com sucesso]]></item>
+  <item name="av.buddy.search.user_notadded"><![CDATA[Não foi possível adicionar o jogador]]></item>
+  <item name="av.buddy.search.user_yourself"><![CDATA[Não podes adicionar-te a ti próprio]]></item>
+  <item name="av.buddy.search.user_already"><![CDATA[Este utilizador já é teu amigo]]></item>
+  <item name="av.buddy.email"><![CDATA[Convite por e-mail]]></item>
+ </category>
+</language>

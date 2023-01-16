@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Багажная лотерея]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Прокрутка]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[Бесплатная прокрутка {number} шт.]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1 прокрутка: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Прокрутка]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Каждые 24 часа по бесплатной прокрутке! Выиграй приз!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Выигрыш:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Поздравляю, командир!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Ты выиграл приз!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Поздравляем с победой! Приз наверняка тебе пригодится. Может, крутанёшь ещё разок?]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[День {day}:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[День {day}: {spins} х прокрутка]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Пропустить]]></item>
+ </category>
+</language>

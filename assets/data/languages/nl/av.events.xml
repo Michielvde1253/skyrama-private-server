@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.event_pumpkin">
+  <item name="av.event_pumpkin.title"><![CDATA[Pompoenweken]]></item>
+  <item name="av.event_pumpkin.text"><![CDATA[Het is weer de tijd voor pompoenen! Dus is het de moeite waard er zoveel mogelijk te verzamelen. Je hoeft daarvoor alleen maar vliegtuigen af te wikkelen. Als je er genoeg hebt, kun je een paar speciale vliegtuigen en gebouwen scoren; slechts voor korte tijd! Schiet dus maar op en verzamel er zoveel als je maar kunt!]]></item>
+  <item name="av.event_pumpkin.mouseover"><![CDATA[Pompoenweken]]></item>
+ </category>
+ <category name="av.event_winter">
+  <item name="av.event_winter.title"><![CDATA[Winterweken]]></item>
+  <item name="av.event_winter.text"><![CDATA[Eindelijk! De mooiste tijd van het jaar is begonnen!  Het witte, glanzende sneeuwtapijt lijkt wel een beetje op poedersuiker dat iemand boven ons heeft uitgestrooid. Ik hoor steeds meer verhalen over vliegende sleeën in de buurt van de poolcirkel.<br/>Tijdens de Winterweken krijg je voor het afwikkelen van vliegtuigen extra cadeaus.  Met deze cadeaus kun je unieke vliegtuigen en exclusieve gebouwen scoren!]]></item>
+  <item name="av.event_winter.mouseover"><![CDATA[Winterweken]]></item>
+ </category>
+ <category name="av.valentines_week">
+  <item name="av.valentines_week.title"><![CDATA[Romantische weken]]></item>
+  <item name="av.valentines_week.text"><![CDATA[Het is hier allemaal rozegeur en maneschijn!<br/>In februari trekt er een roze wolk over je luchthaven. Onze piloten melden dat ze een knaap hebben rond zien vliegen met pijl en boog ... die zich hartstochtelijk op jouw centrale wil storten! Wie weet, misschien richt hij wel op je hart ... <br/>Als jij nu vliegtuigen afwikkelt, word je belond met rozen ... die kun je dan weer inwisselen tegen unieke items! Maar vergeet niet: alles heeft z'n tijd ... dat geldt voor de liefde maar ook voor dit aanbod. <br/>Ben jij ook al op Skyrama?]]></item>
+  <item name="av.valentines_week.mouseover"><![CDATA[Romantische weken]]></item>
+ </category>
+ <category name="av.easter_week">
+  <item name="av.easter_week.title"><![CDATA[Grappige Eierdagen op het vliegveld!]]></item>
+  <item name="av.easter_week.text"><![CDATA[Skyrama brengt je de lente! Van 30 maart tot 15 april 2012, kun je exclusieve items, vliegtuigen en een achtergrond vrijspelen - Vlieg met ons mee!]]></item>
+  <item name="av.easter_week.mouseover"><![CDATA[Kom in actie en doe mee met dit heerlijke Paasfestijn!]]></item>
+ </category>
+ <category name="av.may_days">
+  <item name="av.may_days.title"><![CDATA[Meidagen bij Skyrama!]]></item>
+  <item name="av.may_days.text"><![CDATA[De Mei-Dagen gaan onverminderd voort: omdat het zo leuk was, lopen we vandaag en morgen nog een extra rondje om de meiboom. Kijk snel of het weer goed is!]]></item>
+  <item name="av.may_days.mouseover"><![CDATA[Stort je nu in het feest van de maand. Meidagen bij Skyrama!]]></item>
+ </category>
+ <category name="av.bday">
+  <item name="av.bday.title"><![CDATA[Een jaar Skyrama!]]></item>
+  <item name="av.bday.text"><![CDATA[Gefeliciteerd, Skyrama! We zijn nu alweer een heel jaar online. Zonder jullie was dat nooit gelukt ... en daarom gaat tussen 06 - 17-06 het dak eraf. Speel met stukken eventtaart, een exclusief toestel bij elkaar ... of scoor de gloednieuwe verjaardagsachtergrond. Nu gaan we met volle kracht vooruit een fantastische zomer tegemoet!]]></item>
+  <item name="av.bday.mouseover"><![CDATA[Feest!]]></item>
+ </category>
+ <category name="av.olympic">
+  <item name="av.olympic.title"><![CDATA[Skyrama - luchtig zomertoernooi]]></item>
+  <item name="av.olympic.text"><![CDATA[Hier bereiken alleen de allerbesten grote hoogten. Tussen 27 juli en 12 augustus zijn we allemaal sportfanaten. Exclusieve vliegtuigen, gelimiteerde deco en nog veel meer! Wij laten onze piloten stralen! Laat zien dat niemand toestellen af kan wikkelen als jij, win gouden medailles ... en verzilver die vervolgens in de eventwinkel voor nieuwe items!]]></item>
+  <item name="av.olympic.mouseover"><![CDATA[Op uw plaatsen, klaar, af: oefening baart kunst!]]></item>
+ </category>
+ <category name="av.pirate">
+  <item name="av.pirate.title"><![CDATA[Vlieg als een piraat!]]></item>
+  <item name="av.pirate.text"><![CDATA[Sinds een week wordt er geplunderd en brand gestookt op het vliegveld. Reden genoeg om het kleine uitstapje naar de piratenwereld spontaan met 7 dagen te verlengen. Tot 16.09. knallen de kurken en kanonnen. Wie nu al zin heeft in het eiland, kan zich in de winkel een tropische Caribische achtergrond kapen.  Trek je wapens!]]></item>
+  <item name="av.pirate.mouseover"><![CDATA[De Luchtige Zomerweken gaan doorrrr!]]></item>
+ </category>
+ <category name="av.event2">
+  <item name="av.event2.title"><![CDATA[Oktoberfeest bij Skyrama]]></item>
+  <item name="av.event2.text"><![CDATA[Witte wolken, blauwe lucht - tijd voor een overdadig Oktoberfeest op je vliegveld. Met Beierse items, Duitse toestellen en koninklijke quests ... het zal me een witte worst wezen, het wordt gewoon heel gezellig! Niet alleen in München staat een brouwerij!<br/>(Drank maakt meer kapot dan je lief is)]]></item>
+  <item name="av.event2.mouseover"><![CDATA[Een, twee, hupsakee: de Oktober wordt 1 groot feest]]></item>
+ </category>
+ <category name="av.event3">
+  <item name="av.event3.title"><![CDATA[Griezelweken bij Skyrama]]></item>
+  <item name="av.event3.text"><![CDATA[Op het vliegveld is de hel losgebroken ... en wel in letterlijke betekenis. Van 25 oktober tot 11 november 2012 tref je de volgelingen van Beëlzebub op de startbaan, in de verkeerstoren en in de hangars. Zelfs uit de stille plekjes aan de verste rand van de parkeerplaats stroomt een 'aura van kwaad' Duivelse terreur zo ver als je kunt kijken! Toch nog een lichtpuntje aan de horizon... Met exclusieve items, zoals de griezelig klepperende Rama M Magere Hein, het muffe Slot Frankenvlieg en de Mummycopter ben je op ieder gevaar voorbereid. Mis het niet en ervaar in onze exclusieve Halloweenquests, hoe de bemanning hun ergste demonen overwinnen!]]></item>
+  <item name="av.event3.mouseover"><![CDATA[Je tijd is gekomen ... muahahahahaha!
+   ]]></item>
+ </category>
+ <category name="av.event4">
+  <item name="av.event4.title"><![CDATA[Sci-Fi-Rama: Ruimteweken op de luchthaven!]]></item>
+  <item name="av.event4.text"><![CDATA[De toekomst komt sneller dan je denkt. Moderner dan het jaar 2000, mooier dan een oude startbaan: Skyrama presenteert de luchthaven van de toekomst.  Ervaar top-momenten in het luchtverkeer en breid je vloot uit met het watervliegtuig DrieRama, de innovatieve heli Star Wolf, de White Orbit en andere futuristische vliegtuigen.  De ruimtevliegtuigen komen na 24 uren terug met een extra lading EP en Aircoins. Verzamel dus snel Ufo-munten, decoreer je vliegveld en neem een kijkje in de toekomst.  3 ... 2 ... 1 ... Opstijgen!]]></item>
+  <item name="av.event4.mouseover"><![CDATA[Het is tijd ... voor de toekomst!]]></item>
+ </category>
+ <category name="av.event5">
+  <item name="av.event5.title"><![CDATA[Vrolijke Skynachten: Poolevent op het vliegveld!]]></item>
+  <item name="av.event5.text"><![CDATA[Hoog uit de hemel, daar komen ze vandaan: piloten, stewardessen en zelfs je buddy's vieren de leukste tijd van het jaar. De komende weken worden vrolijk en zaligmakend op de luchthaven. Bemachtig spannende eventvliegtuigen, zoals de gigantische SkiRama Cargo of de wendbare Flyathlon en decoreer je luchthaven met witte winterdennen of coole iglo's. Zelfs de sneeuwwitte sneeuwpop Heer Vlokstra heeft zich aangemeld als gast. Kom dus langs, vergeet het sneeuwscheppen even en wens je piloten een goede jaarwisseling.]]></item>
+  <item name="av.event5.mouseover"><![CDATA[Oh landingsbaan, oh landingsbaan, wat heb je mooie lichtjes aan! Vier mee!]]></item>
+ </category>
+ <category name="av.history">
+  <item name="av.history.title"><![CDATA[Luchthavenkroniek: Historisch event bij Skyrama]]></item>
+  <item name="av.history.text"><![CDATA[Die goede, oude tijd ... toen zaten er nog echte mannen in hun vliegende kisten en al het goede kwam van boven. Om de geschiedenis van de luchtvaart te vieren, werpen we in de komende weken een blik terug op de beginperiode van de aeronautiek. Klassieke gebouwen, vliegers van de eerste generatie en ballons uit het gouden tijdperk komen voorbij op je luchthaven. Van Schiphol tot Maastricht - de toekomst is gisteren.]]></item>
+  <item name="av.history.mouseover"><![CDATA[Geen tijd voor getreuzel. Tempo, piloot!]]></item>
+ </category>
+ <category name="av.vip">
+  <item name="av.vip.title"><![CDATA[High society: VIP-event bij Skyrama]]></item>
+  <item name="av.vip.text"><![CDATA[Nu gaan de bobo's de lucht in: Bij het grote Skyrama-VIP-event blijft er geen champagneglas leeg! In de komende weken jetten en setten de VIP's exclusief naar je vliegveld. Hoogdravende high society-deco, pompeuze pronkstukken en eersteklas luxe vliegtuigen zijn te bewonderen. Wees er bij, als Hendrik, Fiona en consorten zich in dagelijkse event-questen door de cameraflitsen op je vliegveld navigeren. Bij zoveel actie raak je zelfs de crème de la crème... van vreugde!]]></item>
+  <item name="av.vip.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.emergency">
+  <item name="av.emergency.title"><![CDATA[Helden van de lucht: SOS-dagen bij Skyrama]]></item>
+  <item name="av.emergency.text"><![CDATA[In geval van nood, vreet de duivel vliegers. Dus, hup in de schietstoelen: Van 27-03 tot 14-04-2013 eert Skyrama alle dappere hulpverleners. Boven, op en zelfs onder onze luchthavens.   Leuke event-questen onthullen de actuele noodgevallen van het luchthavenpersoneel, indrukwekkende paniek-deco zorgt voor de juiste sfeer en exclusieve vliegtuigen uit de restbestanden van onze hulpdiensten zorgen voor een echte heldenstemming. Leun lekker achterover en wees erbij! Hier valt meer plezier te beleven dan dat de politie goedkeurt! <br/><br/>(We wachten nog op een commentaar van de brandweer.)]]></item>
+  <item name="av.emergency.mouseover"><![CDATA[Feesten, feesten, feesten! Zo weert men het gevaar af...]]></item>
+ </category>
+ <category name="av.flashback">
+  <item name="av.flashback.title"><![CDATA[Terug naar het verleden: de tweede Flashback-weken!]]></item>
+  <item name="av.flashback.text"><![CDATA[Kriskras door het assortiment. Jullie hebben gestemd, wij hebben uitgezocht. Van 18 juli tot 4 augustus 2013 gaan we een tijdreis door de eventgeschiedenis van Skyrama maken. Zo'n kans krijg je niet vaak.  Mis 'm dus niet en bemachtig die gewilde vliegtuig-klassiekers en oude gebouwen, zolang de voorraad strekt en verheug je vast op een hernieuwde kennismaking met historische event-missies. Binnenkort kunnen jullie een heleboel nieuws verwachten. Vanzelfsprekend hebben we nieuwe levels en missies voor jullie in petto. Stoelriemen vast dus! De toekomst werpt haar schaduw vooruit....]]></item>
+  <item name="av.flashback.mouseover"><![CDATA[Vandaag, gisteren, morgen - GAAN!]]></item>
+ </category>
+ <category name="av.science2013">
+  <item name="av.science2013.title"><![CDATA[Science-Fiction-Rama: Wetenschapsweken op de luchthaven]]></item>
+  <item name="av.science2013.text"><![CDATA[Vandaag start de toekomst! Van 23-05 tot 09-06-2013 luiden we op aerodynamische wijze een nieuw tijdperk in de luchtvaart in. Futuristische vliegtuigen, baanbrekende gebouwen en unieke eventquesten staan voor je klaar. Verzamel event-elixers en bemachtig de nieuwste uitvindingen van de luchtvaarttechniek. Wie heeft er nog een wereldtentoonstelling nodig, als de hele wereld al aan je voeten ligt?]]></item>
+  <item name="av.science2013.mouseover"><![CDATA[Iedere tijd kent een einde ... zelfs de toekomst ...]]></item>
+ </category>
+ <category name="av.summer2013">
+  <item name="av.summer2013.title"><![CDATA[De hitte stijgt ons naar het hoofd: Skyrama-Zomerfeest 2013! ]]></item>
+  <item name="av.summer2013.text"><![CDATA[Strakblauwe lucht, verzengende hitte en zonnebrandcrème tot de arts erbij moet komen. Als er hamburgers worden gebakken op de vliegtuigvleugels en de piloten een strandtent binnenvliegen, kan dat maar 1 ding betekenen: van 20-06 tot 07-07 2013 heerst er de grootste hittegolf van deze eeuw op de luchthavens. Maar geen probleem, want met exclusieve vliegtuigen, coole gebouwen en een extra portie Gouwe-Ouwe-questen, hoef jij je zeker niet te vervelen.  ]]></item>
+  <item name="av.summer2013.mouseover"><![CDATA[Zoveel tijd heb je nog...]]></item>
+ </category>
+ <category name="av.golden50ies">
+  <item name="av.golden50ies.title"><![CDATA[Retro op de luchthaven: De Gouden Vijftiger Jaren!]]></item>
+  <item name="av.golden50ies.text"><![CDATA[Pak je leren jas en glitterbroek, dames en heren! Voor het grote Fifties Feest hijsen de piloten en stewardessen zich in leer en petticoats en laten ze de jukeboxen dreunen! Verzamel elpees, bemachtig coole vliegtuigen en versier je luchthaven met retro-decoraties! Bij Skyrama tellen vijftigers mee!]]></item>
+  <item name="av.golden50ies.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.japan2013">
+  <item name="av.japan2013.title"><![CDATA[Japanse weken bij Skyrama]]></item>
+  <item name="av.japan2013.text"><![CDATA[Rode zon, blauwe hemel! In de komende weken vindt er een event in overtreffende trap plaats in Skyrama - zonder fratsen, maar met een heleboel Nippon. We presenteren klassieke vliegtuigen, watervaste huizen en moderne deco uit het verre eilandenrijk. Vlieg met de beste vliegtuigen van Azië boven de wolken en verfraai je luchthaven met de perfecte mix van traditie en moderniteit. Wie voldoende kersenbloesem verzamelt, wordt beloond!<br><br>We hebben natuurlijk ook iets leuks georganiseerd voor de mensen met heimwee naar eigen land. In onze nieuwe High-level-hoofdquesten staat je een grote "JA" te wachten - maar geen "pan". Vluchtleider Fiona en werktuigkundige Karel trouwen een in spectaculaire questreeks met gave beloningen. Dus, start de questen en verTROUW op een goede afloop! ]]></item>
+  <item name="av.japan2013.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.halloween2013">
+  <item name="av.halloween2013.title"><![CDATA[Griezelweken 2: horror, griezelen, feest!]]></item>
+  <item name="av.halloween2013.text"><![CDATA[Al het goede komt van boven - al het slechte ook! Donkere wolken trekken over de luchthaven, huiveringwekkende bliksemschichten flitsen boven de hangars en ergens, in de verre verte, klinkt een duivelse lach. Reserveer nu je vlucht naar het Halloweenfeest van het jaar.  Bestemming: Het paradijs van goed en kwaad! Maar wie is er bang, als het snoepjes uit de hemel regent?  Verzamel een heleboel snoep en investeer je zuur verdiende buit in snelle event-vliegtuigen, horror-huizen en deco met kippenvel-effect. Van de stormwaardige kabouter-jet tot de gigantische Wal-o-Maat: alles om je concurrenten bang te maken. Angst geeft je vleugels...]]></item>
+  <item name="av.halloween2013.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.winter2013">
+  <item name="av.winter2013.title"><![CDATA[Winterweken]]></item>
+  <item name="av.winter2013.text"><![CDATA[Pak een dekentje en schenk wat warme chocolademelk in - het is tijd voor de winterweken bij Skyrama! Tijd voor een feestje dit seizoen. Fijne feestdagen, luchthavenmanagers!]]></item>
+  <item name="av.winter2013.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.flashback3">
+  <item name="av.flashback3.title"><![CDATA[Wees er snel bij: Flashback nr. 3!]]></item>
+  <item name="av.flashback3.text"><![CDATA[Oude vrienden in het nieuwe jaar: van 16-01 tot 02-02 2014 komen jullie favorieten terug. Van de luxe „Jet-Set-jet“ tot de klassieke „Oudwat-air“: er is vast wel een vliegtuig bij dat helemaal jouw smaak is. Wie graag zijn luchthaven wil decoreren valt ook met z'n neus in de boter: Deco-toppers als 'Heins palmenbos", de geluidsdichte „Skyrama-Airena“ en onze wintergast "Meneer Vlokstra' zijn ook weer van de partij.   Flashback-weken bij Skyrama: zo lijkt het wachten op de lente minder lang!]]></item>
+  <item name="av.flashback3.mouseover"><![CDATA[Vandaag, gisteren, morgen - GAAN!]]></item>
+ </category>
+ <category name="av.xplanes2014">
+  <item name="av.xplanes2014.title"><![CDATA[Spyrama: Top-Secret-weken op de luchthaven]]></item>
+  <item name="av.xplanes2014.text"><![CDATA[Hallo, geheim agent!<br><br>In de laatste maanden hebben onze informanten verontrustende activiteiten gemeld. Opdringerige piloten, verstrooide techneuten en grote kastekorten kunnen maar 1 ding betekenen: er is iets niet pluis op de luchthaven! Observeer de dubieuze activiteiten van het personeel in de dagelijkse eventquesten en zoek het complot tot de bodem uit ... als er een complot is, tenminste. Om undercover te blijven, krijg je de beschikking over een serie exclusieve supertoestellen en high-tech-gebouwen, geïnspireerd op de onlangs bemachtigde blauwdrukken van onze 'bondgenoten'. Geen zorgen, deze experimentele vliegtuigen zijn een beetje getest en vormen slechts nog een klein risico voor de piloten en zijn omgeving. Als jij of iemand anders van deze speciale eenheid wordt gevangen of gedood, zal de minister alle betrokkenheid bij deze operatie ontkennen. Veel succes!]]></item>
+  <item name="av.xplanes2014.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.airlineweeks1_042014">
+  <item name="av.airlineweeks1_042014.title"><![CDATA[Club Skyrama: Frequent Flyer Weken op de luchthaven ]]></item>
+  <item name="av.airlineweeks1_042014.text"><![CDATA[Van de melkboer tot aan de minister - het nieuwe Skyrama-bonusprogramma heeft voor elk wat wils! Meedoen is simpel: verzamel Travel-Air-Cheques van bezoekende vliegtuigen, spaar ze op en wissel ze in voor exclusieve Airplus-vliegtuigen, leuke decoraties of de achtergrond Lentewei "Turbo-lente". Nog meer gratis vluchten?<br/><br/>Pilotenregel #23: speel dagelijkse event-missies en start onze nieuwe hoofdquesten (vanaf nu weer regelmatig updates!) - dan wordt het verzamelen van de Travel-Air-Cheques een makkie! Dankzij onze nieuwe sorteerfunctie kun je de vliegtuigen nog sneller vinden en rond de wereld sturen!]]></item>
+  <item name="av.airlineweeks1_042014.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.flashback4">
+  <item name="av.flashback4.title"><![CDATA[Terug naar het verleden: Flashback-weken, deel 4!]]></item>
+  <item name="av.flashback4.text"><![CDATA[Kriskras door het assortiment. Jullie hebben gestemd, wij hebben gesorteerd - in de komende weken nemen we jullie mee op een tijdreis door Skyrama's event-geschiedenis. Zo'n kans krijg je niet vaak. Mis 'm dus niet en bemachtig die gewilde vliegtuig-klassiekers en oude gebouwen, zolang de voorraad strekt en verheug je vast op een hernieuwde kennismaking met historische event-missies. Binnenkort kunnen jullie een heleboel nieuws verwachten. De volgende nieuwe questen voor hoge levels staan ook alweer op de planning. Stoelriemen vast dus! De toekomst werpt haar schaduw vooruit....]]></item>
+  <item name="av.flashback4.mouseover"><![CDATA[Vandaag, gisteren, morgen - GAAN!]]></item>
+ </category>
+ <category name="av.airlineweeks2_062014">
+  <item name="av.airlineweeks2_062014.title"><![CDATA[Club Skyrama: Comeback van de Veelvliegers]]></item>
+  <item name="av.airlineweeks2_062014.text"><![CDATA[Goed nieuws voor Veelviegers: Ons nieuwe Club-Skyrama programma heeft supersonische aanbiedingen voor iedereen. Verzamel dus zoveel mogelijk Travel-Air-Cheques en zet je hangar vol met de fantastische aanbiedingen uit de Jumbo-lijn. Van de wereldberoemde "Bogus 737" tot de Jumbo-vlag "Fladder maar": alles wat een pilotenhart begeert. Spannende eventquesten, nieuwe missies voor hoge levels en een zomers loyaliteitsprogramma!]]></item>
+  <item name="av.airlineweeks2_062014.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.conceptplanes_072014">
+  <item name="av.conceptplanes_072014.title"><![CDATA[Grootse ideeën: Wetenschapsweken 2014]]></item>
+  <item name="av.conceptplanes_072014.text"><![CDATA[Blik op de toekomst: baanbrekende nieuwtjes, idiote vindingen en geen enkele losse flodder. Skyrama viert de grootste vernieuwingen in de luchtvaart. Vergeet de feiten maar. Met vernieuwende prototypes van vliegtuigen en hypermoderne versieringen verander je je luchthaven in de ultieme tussenstop op weg naar een nieuw luchtvaarttijdperk. Verzamel blauwdrukken, ruil ze in tegen de nieuwste uitvindingen, speel spannende dagmissies en ontdek de nieuwe horizon in de luchtvaart.]]></item>
+  <item name="av.conceptplanes_072014.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.goldenageofaviation_092014">
+  <item name="av.goldenageofaviation_092014.title"><![CDATA[Klassiek-Air: Skyrama viert de "Gouden tijden uit de luchtvaart"]]></item>
+  <item name="av.goldenageofaviation_092014.text"><![CDATA[Van anno-nul naar anno-nu: vroeger was alles beter? Dat zullen we dan nog weleens zien! In de komende weken gaan oud en nieuw hand-in-hand: antieke vliegende kisten  zorgen voor een frisse wind op de luchthaven. Van de legendarische Lepelsmid tot de smakelijke Rozijnenwerper: in dit uitgebreide event vind je alle vliegtuigen die de Europeanen ooit kippenvel bezorgden. Spannende eventquesten, historische gebouwen en vliegtuigen om je ogen bij uit te kijken. Dit alles en nog veel meer staat je te wachten in de komende Skyrama-weken - live en in kleur!]]></item>
+  <item name="av.goldenageofaviation_092014.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.halloween2014">
+  <item name="av.halloween2014.title"><![CDATA[Griezelweken 3: vrachtmerrie 2019! ]]></item>
+  <item name="av.halloween2014.text"><![CDATA["Trick or treat!" - riemen vast voor het echt griezelig wordt! Trek de gordijnen dicht, sluit de deuren, doof de lichten en verstop je! In de komende weken gaat het er griezelig aan toe op de luchthaven: met vliegtuigen waar je kippenvel van krijgt, griezelige gebouwen en onheilspellende decoraties.  Dans op de graven van je voorouders - vrolijke Halloween!]]></item>
+  <item name="av.halloween2014.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.xmas2014">
+  <item name="av.xmas2014.title"><![CDATA[Polarama Weken 2014]]></item>
+  <item name="av.xmas2014.text"><![CDATA[De kou daalt neer op het vliegveld: met wollen mutsen, wanten en skikleding de lucht in. Après Sky tot je er warm van wordt. De nachten worden lang en koud, dus sla alvast maar een voorraad anti-vries in. Met coole vliegtuigen en ijzige deco ben je 100% klaar voor de winter. Coole eventquesten, een feestelijke sfeer en antislip-landingsbanen - de perfecte combinatie voor een knallend einde van het jaar!]]></item>
+  <item name="av.xmas2014.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.flashback5">
+  <item name="av.flashback5.title"><![CDATA[Ga terug in de tijd met ons vijfde Flashback Event!  ]]></item>
+  <item name="av.flashback5.text"><![CDATA[Te weinig tijd? Geen probleem! Voor een supersonische start van 2015 halen we onze beste vliegtuigen weer van stal. Van de Skyrantula tot de Big Bang: we hebben alles wat een pilotenhart begeert.<br> <br>Verzamel trofeeën, speel klassieke eventquesten en kijk terug in de geschiedenis, voordat het weer voorbij is!]]></item>
+  <item name="av.flashback5.mouseover"><![CDATA[Vandaag, gisteren, morgen - GAAN!]]></item>
+ </category>
+ <category name="av.mostwanted022015">
+  <item name="av.mostwanted022015.title"><![CDATA[Heet versus koud: Skyrama Most Wanted ]]></item>
+  <item name="av.mostwanted022015.text"><![CDATA[Bereik supersonische snelheden: zelfs met bevroren startbanen stijgen wij op! Onze premiejagers hebben de allerpopulairste jets gezocht, om jou het allerbeste van de oude en de nieuwe wereld te kunnen bieden. Verzamel camera's en wissel ze om voor vliegtuigen, zoals bv. de legendarische Super Yuppy en voltooi spannende eventquesten!]]></item>
+  <item name="av.mostwanted022015.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.emergency042015">
+  <item name="av.emergency042015.title"><![CDATA[Alarmfase Rood: SOS-dagen 2015]]></item>
+  <item name="av.emergency042015.text"><![CDATA[Een ongeluk zit in een klein hoekje!  Bereid je voor! Het kan de meest ervaren piloot overkomen, dus tref de nodige voorbereidingen! Maak van de nood een deugd en bereid je luchthaven voor op een mogelijke catastrofe: stoere reddingstoestellen, koele blustoestellen en bevingsbestendige decoraties. "Wij zijn op alles voorbereid!" Natuurlijk staan er ook dit keer weer spannende eventquesten op het programma - verzamel reddingsboeien, scoor gave prijzen en begin het voorjaar crisisbestendig!]]></item>
+  <item name="av.emergency042015.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.flashback6">
+  <item name="av.flashback6.title"><![CDATA[Wij blijven thuis-weken]]></item>
+  <item name="av.flashback6.text"><![CDATA[Hoopte je al dat je favoriete artikelen weer terug zouden komen in de winkel? Nou, dan heb je mazzel, want het is weer Flashback-week in Skyrama! Vergaap je aan al die geweldige speciale vliegtuigen, watervliegtuigen, helikopters en decoraties. Niet treuzelen dus, maar sla gelijk toe en haal die oude knallers binnen en geniet van historische event-missies. Deze kans om terug te reizen in de tijd mag je niet missen!]]></item>
+  <item name="av.flashback6.mouseover"><![CDATA[Vandaag, gisteren, morgen - GAAN!]]></item>
+ </category>
+ <category name="av.airshow072015">
+  <item name="av.airshow072015.title"><![CDATA[Kijk daar! Airshow-weken bij Skyrama]]></item>
+  <item name="av.airshow072015.text"><![CDATA[Luchtacrobaten opgelet: met volle vaart door de lucht, dat kun je toch niet weerstaan? Gordels vast om de beste airshow-vliegtuigen bemachtigen. Word meest-air in de luchtacrobatiek!]]></item>
+  <item name="av.airshow072015.mouseover"><![CDATA[Kom hier, ik wil plezier!]]></item>
+ </category>
+ <category name="av.waterplanes082015">
+  <item name="av.waterplanes082015.title"><![CDATA[Hup, water, hup! Watervliegtuig-weken bij Skyrama]]></item>
+  <item name="av.waterplanes082015.text"><![CDATA[Te land, te water of in de lucht: bij dit event vindt iedere piloot een passend vliegtuig. Een duikvlucht over het water, een looping met de helikopter of als gezagvoerder van een luxe vliegtuig. Daarbij nog eens een paar verfrissende event-questen voltooien en een heleboel eendjes vangen. Dan blijft geen enkel vliegtuig droog!]]></item>
+  <item name="av.waterplanes082015.mouseover"><![CDATA[Pas op, nat!]]></item>
+ </category>
+ <category name="av.flashback7">
+  <item name="av.flashback7.title"><![CDATA[Terug  naar het verleden: flashback-weken bij Skyrama]]></item>
+  <item name="av.flashback7.text"><![CDATA[Kriskras door het assortiment. Jullie hebben gestemd, wij hebben gesorteerd - in de komende weken nemen we jullie mee op een tijdreis door Skyrama's event-geschiedenis. Zo'n kans krijg je niet vaak. Mis 'm dus niet en bemachtig die gewilde vliegtuig-klassiekers en oude gebouwen, zolang de voorraad strekt en verheug je vast op een hernieuwde kennismaking met historische event-missies. Binnenkort kunnen jullie een heleboel nieuws verwachten. De volgende nieuwe questen voor hoge levels staan ook alweer op de planning. Stoelriemen vast dus! De toekomst werpt haar schaduw vooruit....]]></item>
+  <item name="av.flashback7.mouseover"><![CDATA[Vandaag, gisteren, morgen - GAAN!]]></item>
+ </category>
+ <category name="av.ufoevent102015">
+  <item name="av.ufoevent102015.title"><![CDATA[UFO-weken bij Skyrama]]></item>
+  <item name="av.ufoevent102015.text"><![CDATA[Er was eens, heel lang geleden, op een vliegveld heel ver weg:<br><br>Het volgende Skyrama-event is in volle gang. Ruimteschepen uit het universum zijn via de Melkweg naar dit grote spektakel gevlogen.  Machtige ruimteschepen, futuristische gebouwen en sky-tastische eventquesten helpen een eenzame luchthavendirecteur in de strijd tegen het onbekende kwaad. Maar de premiejagers van het imperium vragen een hoge prijs... alleen als hij genoeg aliënschedels verzamelt, kan hij de vrijheid van het heelal herstellen...]]></item>
+  <item name="av.ufoevent102015.mouseover"><![CDATA[Resterende tijd:]]></item>
+ </category>
+ <category name="av.polarevent122015">
+  <item name="av.polarevent122015.title"><![CDATA[Vorstweken]]></item>
+  <item name="av.polarevent122015.text"><![CDATA[Krakende kou, glimmende vliegtuigen en nul graden tussen jou en het grootste event aan deze kant van de Aurora Borealis. Ontdooi de motoren, strooi de landingsbaan en zet een groot vat antivries klaar voor het laatste feest van het jaar. 2015 wordt met een grote knal afgesloten!]]></item>
+  <item name="av.polarevent122015.mouseover"><![CDATA[Snelweg naar GevaAir]]></item>
+ </category>
+ <category name="av.futureevent012016">
+  <item name="av.futureevent012016.title"><![CDATA[Toekomst Weken]]></item>
+  <item name="av.futureevent012016.text"><![CDATA[Het is tijd ... voor de toekomst! Skyrama presenteert... het Vliegveld van de Toekomst! Wees getuige van de toekomst in de luchtvaart, met alle technologie van morgen! Klik je gordel vast en stijg met de snelheid van het licht op naar de toekomst, met idealistische piloten, de allernieuwste gebouwen en baanbrekende questen. Schrijf jij geschiedenis in de luchtvaart?]]></item>
+  <item name="av.futureevent012016.mouseover"><![CDATA[De toekomst begint vandaag!]]></item>
+ </category>
+ <category name="av.movieevent022016">
+  <item name="av.movieevent022016.title"><![CDATA[Filmster Weken]]></item>
+  <item name="av.movieevent022016.text"><![CDATA[Ontmoet de sterren van het zilveren doek! Nee, niet de acteurs.... de echte sterren uit de films: de vliegtuigen! Een aantal iconische vliegtuigen uit de filmwereld bezoeken de komende weken het vliegveld van Skyrama. Hoeveel kun jij er herkennen?]]></item>
+  <item name="av.movieevent022016.mouseover"><![CDATA[Kan een vliegtuig handtekeningen uitdelen?]]></item>
+ </category>
+ <category name="av.wildlifeevent042016">
+  <item name="av.wildlifeevent042016.title"><![CDATA[Wildlife Weken]]></item>
+  <item name="av.wildlifeevent042016.text"><![CDATA[Kun je brullen? Speciale dierenvliegtuigen bezoeken de luchthaven in de komende weken, dus pak je tropenhelm, stap in de safari-jeep en ga dieren spotten! Geniet van nieuwe gebouwen, decoratie en achtergronden met een wildlife-thema en speciale event-questen. Kun jij ze allemaal vangen?]]></item>
+  <item name="av.wildlifeevent042016.mouseover"><![CDATA[Zullen er vliegende varkens voorbijkomen?]]></item>
+ </category>
+ <category name="av.emevent052016">
+  <item name="av.emevent052016.title"><![CDATA[Voetbalweken]]></item>
+  <item name="av.emevent052016.text"><![CDATA[Kijk uit naar speciale vliegtuigen die je luchthaven aandoen – twee per deelnemend team aan het EK. Voor iedere gewonnen wedstrijd krijgen de corresponderende vliegtuigen een trofee bij hun iconen en een buff op ervaring of opbrengst. Hoe meer gewonnen wedstrijden, hoe beter de buffs worden! Maar de prijs van het vliegtuig stijgt ook, maak dus al vroeg je keuze voor de teams waarvan jij denkt dat ze een goede kans maken!]]></item>
+  <item name="av.emevent052016.mouseover"><![CDATA[En vergeet niet wat buitenspel is!]]></item>
+ </category>
+ <category name="av.flashback8">
+  <item name="av.flashback8.title"><![CDATA[Terug  naar het verleden: flashback-weken bij Skyrama]]></item>
+  <item name="av.flashback8.text"><![CDATA[Kriskras door het assortiment. Jullie hebben gestemd, wij hebben gesorteerd - in de komende weken nemen we jullie mee op een tijdreis door Skyrama's event-geschiedenis. Zo'n kans krijg je niet vaak. Mis 'm dus niet en bemachtig die gewilde vliegtuig-klassiekers en oude gebouwen, zolang de voorraad strekt en verheug je vast op een hernieuwde kennismaking met historische event-missies. Binnenkort kunnen jullie een heleboel nieuws verwachten. De volgende nieuwe questen voor hoge levels staan ook alweer op de planning. Stoelriemen vast dus! De toekomst werpt haar schaduw vooruit....]]></item>
+  <item name="av.flashback8.mouseover"><![CDATA[Vandaag, gisteren, morgen - GAAN!]]></item>
+ </category>
+ <category name="av.olympicevent092016">
+  <item name="av.olympicevent092016.title"><![CDATA[Gouden Medaille Weken]]></item>
+  <item name="av.olympicevent092016.text"><![CDATA[Het lijkt deze zomer wel alsof de hele wereld dol is op sport! De luchthaven organiseert zijn eigen "Airlympics"! Kun jij een medaille - of twee - winnen? Bemachtig de speciale event-vliegtuigen en verzamel sportuitrusting om ze te verbeteren!]]></item>
+  <item name="av.olympicevent092016.mouseover"><![CDATA[Bemachtig een plaats op het erepodium!]]></item>
+ </category>
+ <category name="av.halloweenevent102016">
+  <item name="av.halloweenevent102016.title"><![CDATA[Nachtvlucht Weken]]></item>
+  <item name="av.halloweenevent102016.text"><![CDATA[Wie heeft er een vliegtuig nodig als je ook op een bezemsteel kunt vliegen? Ik de komende weken viert het vliegveld een spookachtig Halloween! Scoor nieuwe vliegtuigen, gebouwen en decoraties en vlieg er 's nachts op los!]]></item>
+  <item name="av.halloweenevent102016.mouseover"><![CDATA[Is het een vogel of een vliegtuig? Nee, het is een vliegende bezemsteel!]]></item>
+ </category>
+ <category name="av.arcticevent122016">
+  <item name="av.arcticevent122016.title"><![CDATA[Arctische Luchtweken]]></item>
+  <item name="av.arcticevent122016.text"><![CDATA[Het wordt buiten erg koud, dus hebben de techneuten de antivries tevoorschijn gehaald om de vliegtuigen veilig te laten vliegen! Doe mee met ons event vol ijs en sneeuw en geniet van het winterthema met eventvliegtuigen, gebouwen en decoraties voor je luchthaven!]]></item>
+  <item name="av.arcticevent122016.mouseover"><![CDATA[Pak je sjaal en muts, want het is buiten erg koud!]]></item>
+ </category>
+ <category name="av.flashback9">
+  <item name="av.flashback9.title"><![CDATA[Terug naar het verleden: Flashback-weken bij Skyrama]]></item>
+  <item name="av.flashback9.text"><![CDATA[Hoopte je al dat je favoriete artikelen weer terug zouden komen in de winkel? Nou, dan heb je mazzel, want het is weer Flashback-week in Skyrama! Vergaap je aan al die geweldige speciale vliegtuigen, watervliegtuigen, helikopters en decoraties. Niet treuzelen dus, maar sla gelijk toe en haal die oude knallers binnen. Deze kans om terug te reizen in de tijd mag je niet missen!]]></item>
+  <item name="av.flashback9.mouseover"><![CDATA[We gaan alles dunnetjes overdoen!]]></item>
+ </category>
+ <category name="av.valentinesevent022017">
+  <item name="av.valentinesevent022017.title"><![CDATA[Liefde in de Lucht-weken]]></item>
+  <item name="av.valentinesevent022017.text"><![CDATA[Voel je de romantiek in de lucht hangen? Iedereen op de luchthaven is in een romantische stemming. Doe mee met ons event en bemachtig de nieuwe serie Cupido-vliegtuigen, gebouwen en decoraties! Geniet van de liefde!]]></item>
+  <item name="av.valentinesevent022017.mouseover"><![CDATA[Wat is je favoriete liefdeslied?]]></item>
+ </category>
+ <category name="av.skyrace2017">
+  <item name="av.skyrace2017.title"><![CDATA[Skyrace Weken]]></item>
+  <item name="av.skyrace2017.text"><![CDATA[Heb je zin om hoog te vliegen? Doe mee met de Skyrace en bewijs iedereen dat jij de beste piloot van Skyrama bent!]]></item>
+  <item name="av.skyrace2017.mouseover"><![CDATA[Tijd voor de Skyrace! Zet die snelheidshendel maar helemaal open!]]></item>
+ </category>
+</language>

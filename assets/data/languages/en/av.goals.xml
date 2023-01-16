@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.goal">
+  <item name="av.goals.tooltip.main"><![CDATA[Main goal]]></item>
+  <item name="av.goals.tooltip.daily"><![CDATA[Daily goal]]></item>
+  <item name="av.goals.tooltip.story"><![CDATA[Story goal]]></item>
+  <item name="av.goals.tooltip.world"><![CDATA[Visit every country!]]></item>
+  <item name="av.finishGoal.message"><![CDATA[Finish goal]]></item>
+  <item name="av.requirements.text.default"><![CDATA[Requirements:]]></item>
+  <item name="av.requirements.text.mediumPlanes"><![CDATA[Required for sending medium planes:]]></item>
+  <item name="av.requirements.text.heliCopter"><![CDATA[Required for sending ramacopters:]]></item>
+  <item name="av.requirements.text.seaPlanes"><![CDATA[Required for sending sea planes:]]></item>
+  <item name="av.requirements.text.largePlanes"><![CDATA[Um Große Flugzeuge zu starten brauchst Du:]]></item>
+ </category>
+ <category name="av.task">
+  <item name="av.task.buy"><![CDATA[Purchase {amount} {item}]]></item>
+  <item name="av.task.collect"><![CDATA[Collect {amount} {item}]]></item>
+  <item name="av.task.fillShop"><![CDATA[Refill your shop]]></item>
+  <item name="av.task.land"><![CDATA[Land {amount} {item}]]></item>
+  <item name="av.task.place"><![CDATA[Place {amount} {item}]]></item>
+  <item name="av.task.quickStart"><![CDATA[Perform instant service]]></item>
+  <item name="av.task.return"><![CDATA[Return {amount} {item}]]></item>
+  <item name="av.task.returnToCountry"><![CDATA[Return {amount} {item} to {country}]]></item>
+  <item name="av.task.sellProducts"><![CDATA[Sell {amount} products]]></item>
+  <item name="av.task.send"><![CDATA[Send {amount} {item}]]></item>
+  <item name="av.task.sendToCountry"><![CDATA[Send {amount} {item} to {country}]]></item>
+  <item name="av.task.sendToStranger"><![CDATA[Send {amount} planes to a stranger]]></item>
+  <item name="av.task.store"><![CDATA[Place your old {item} in storage]]></item>
+  <item name="av.task.storeInventory"><![CDATA[Use your storage]]></item>
+ </category>
+</language>

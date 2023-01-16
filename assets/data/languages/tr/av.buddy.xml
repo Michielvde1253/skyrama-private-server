@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.buddy">
+  <item name="av.buddy.title"><![CDATA[Arkadaşları ekle!]]></item>
+  <item name="av.buddy.text"><![CDATA[Birlikte daha güçlüyüz: Oyuna arkadaş davet et!]]></item>
+  <item name="av.buddy.search"><![CDATA[Arkadaş listesine arkadaş ekle]]></item>
+  <item name="av.buddy.search.hint"><![CDATA[Kullanıcı adı/Kullanıcı ID]]></item>
+  <item name="av.buddy.search.button"><![CDATA[Ara]]></item>
+  <item name="av.buddy.search.results"><![CDATA[Sonuçlar]]></item>
+  <item name="av.buddy.search.searching"><![CDATA[Aranıyor ...]]></item>
+  <item name="av.buddy.search.add"><![CDATA[Arkadaş ekle]]></item>
+  <item name="av.buddy.search.user_result"><![CDATA[{username} (ID: {id})]]></item>
+  <item name="av.buddy.search.user_notfound"><![CDATA[Oyuncu bulunamadı]]></item>
+  <item name="av.buddy.search.user_added"><![CDATA[Oyuncu eklendi]]></item>
+  <item name="av.buddy.search.user_notadded"><![CDATA[Oyuncu eklenemedi]]></item>
+  <item name="av.buddy.search.user_yourself"><![CDATA[Kendi kendini ekleyemezsin]]></item>
+  <item name="av.buddy.search.user_already"><![CDATA[Bu kullanıcı zaten arkadaşın]]></item>
+  <item name="av.buddy.email"><![CDATA[E-postayla davet]]></item>
+ </category>
+</language>

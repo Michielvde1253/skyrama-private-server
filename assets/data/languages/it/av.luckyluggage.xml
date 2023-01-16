@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Nastro sorprese]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Tentativo gratis]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[{number} tentativi gratis]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1 tentativo: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Gira]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Check in ogni 24 ore: un tentativo gratis e vinci!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Vinci:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Congratulazioni!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Hai vinto!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Congratulazioni! Sicuramente ti sarà utile. Torna presto a fare un altro tentativo con il nastro bagagli!]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[Giorno {day}:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[Giorno {day}: {spins} tentativi gratis]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Salta]]></item>
+ </category>
+</language>

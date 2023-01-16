@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.website">
+  <item name="av.website.registered"><![CDATA[Registered:]]></item>
+  <item name="av.website.language"><![CDATA[Language:]]></item>
+  <item name="av.website.gametour"><![CDATA[Game - Tour ]]></item>
+  <item name="av.website.freeregister"><![CDATA[REGISTER<br>FOR FREE]]></item>
+  <item name="av.website.forum"><![CDATA[Forum]]></item>
+  <item name="av.website.username"><![CDATA[Name:]]></item>
+  <item name="av.website.userId"><![CDATA[User ID:]]></item>
+  <item name="av.website.forgotPassword"><![CDATA[Forgot your password?]]></item>
+  <item name="av.website.imprint"><![CDATA[Legal information]]></item>
+  <item name="av.website.regHeader"><![CDATA[Registration]]></item>
+  <item name="av.website.back"><![CDATA[Back]]></item>
+  <item name="av.website.downloadClientHeadline"><![CDATA[Skyrama Launcher]]></item>
+  <item name="av.website.downloadClientText"><![CDATA[Dear Airport Managers! Support for Adobe Flash is ending in December 2020, after which you’ll need the Skyrama Launcher to keep playing! Click here for installing your Launcher.]]></item>
+  <item name="av.website.Windows32Bit"><![CDATA[Win-32Bit-Launcher]]></item>
+  <item name="av.website.Windows64Bit"><![CDATA[Win-64Bit-Launcher]]></item>
+  <item name="av.website.RememberMe"><![CDATA[RememberMe]]></item>
+ </category>
+ <category name="av.website.technicalError">
+  <item name="av.website.technicalError.header"><![CDATA[Technical Error]]></item>
+  <item name="av.website.technicalError.desc"><![CDATA[Oh, a technical error has occurred. Please reload the game!]]></item>
+  <item name="av.website.technicalError.reload"><![CDATA[Reload Skyrama]]></item>
+ </category>
+ <category name="av.website.multipleLoginError">
+  <item name="av.website.multipleLoginError.header"><![CDATA[Multiple login]]></item>
+  <item name="av.website.multipleLoginError.desc"><![CDATA[You can only play if you have an active account. Please close the other account and restart the game.]]></item>
+ </category>
+ <category name="av.website.blocked">
+  <item name="av.website.blocked.title"><![CDATA[Access denied]]></item>
+  <item name="av.website.blocked.until"><![CDATA[We detected you were using a tool to manipulate Skyrama and therefore we will not grant you access to the game until: %s.]]></item>
+  <item name="av.website.blocked.warning"><![CDATA[If we detect this again, we may permanently ban this account!]]></item>
+ </category>
+ <category name="av.website.gametour">
+  <item name="av.website.gametour.1"><![CDATA[Welcome to the cute airport game, SkyRama! A buzzing airport game that offers a new way to play with your friends and travel the world. ]]></item>
+  <item name="av.website.gametour.2"><![CDATA[Welcome to the cute airport game, SkyRama! A buzzing airport game that offers a new way to play with your friends and travel the world.]]></item>
+  <item name="av.website.gametour.3"><![CDATA[SkyRama emphasises cooperative gameplay – with players sharing flights, cargo, and air shows on an MMO scale. ]]></item>
+  <item name="av.website.gametour.4"><![CDATA[SkyRama emphasises cooperative gameplay – with players sharing flights, cargo, and air shows on an MMO scale.]]></item>
+  <item name="av.website.gametour.5"><![CDATA[SkyRama provides casual strategy – with multiple resources, airport micromanagement, and flight planning to keep you challenged.]]></item>
+  <item name="av.website.gametour.6"><![CDATA[SkyRama provides casual strategy – with multiple resources, airport micromanagement, and flight planning to keep you challenged.]]></item>
+  <item name="av.website.gametour.7"><![CDATA[SkyRama provides casual strategy – with multiple resources, airport micromanagement, and flight planning to keep you challenged.]]></item>
+  <item name="av.website.gametour.8"><![CDATA[SkyRama offers lots of cool aircraft, landscapes, decorations, and souvenirs to keep you busy collecting and customizing.]]></item>
+  <item name="av.website.gametour.9"><![CDATA[SkyRama offers lots of cool aircraft, landscapes, decorations, and souvenirs to keep you busy collecting and customizing.]]></item>
+  <item name="av.website.gametour.10"><![CDATA[SkyRama’s graphics and story immerse you in a fascinating world - with cute animations and engaging characters.]]></item>
+  <item name="av.website.gametour.11"><![CDATA[SkyRama’s graphics and story immerse you in a fascinating world - with cute animations and engaging characters.]]></item>
+ </category>
+ <category name="av.website.seo">
+  <item name="av.website.seo.title"><![CDATA[Skyrama | Free game fun in an airport manager game]]></item>
+  <item name="av.website.seo.keywords"><![CDATA[SkyRama, Sky Rama, online airport game, airport game]]></item>
+  <item name="av.website.seo.description"><![CDATA[The sky’s the limit in Skyrama - the fun new free games experience. Build up your own virtual airport from a small landing strip into an international hub ]]></item>
+  <item name="av.website.seo.text"><![CDATA[<p>Clear the runway, set your doors to manual and prepare for takeoff as the best free games sim lands in your browser!<p>
+<p>In Skyrama build up your airport from a small landing strip into a major international hub as you dispatch planes around the world, managing every aspect of running a busy airport.</p>
+<p>In one of the best free games around, send your planes off to the far corners of the globe – including your friend’s airports, as you handle baggage, manage your duty-free stocks with exotic imported goods and build up an airport empire.</p>
+<p>What’s more the free games fun includes choosing from a selection of passenger and cargo planes, helicopters and sea planes, adding more runways to cope with demand and decorating your airport buildings to attract more and more passengers. Free games don’t come better!</p> ]]></item>
+  <item name="av.website.seo.seoText.short"><![CDATA[<h1>Reach for the skies in the fun new airport game Skyrama</h1>]]></item>
+  <item name="av.website.seo.open"><![CDATA[Read more]]></item>
+  <item name="av.website.seo.close"><![CDATA[Minimize]]></item>
+  <item name="av.website.seo.titleAid"><![CDATA[SkyRama: Your online airport management game]]></item>
+  <item name="av.website.seo.descriptionAid"><![CDATA[Service planes, take care of passengers and build your airport. In the online game Skyrama, you’re the boss of your own airport. Get ready for takeoff and play now!]]></item>
+ </category>
+ <category name="av.website.errors">
+  <item name="av.website.errors.title"><![CDATA[Error message]]></item>
+  <item name="av.website.errors.login"><![CDATA[Login error; incorrect username or password.]]></item>
+  <item name="av.website.errors.1"><![CDATA[Login error; incorrect username or password.]]></item>
+  <item name="av.website.errors.2"><![CDATA[Login error; incorrect username or password.]]></item>
+  <item name="av.website.errors.3"><![CDATA[Login error; account not found.]]></item>
+  <item name="av.website.errors.10"><![CDATA[Login error; account not yet activated.]]></item>
+  <item name="av.website.errors.11"><![CDATA[Login error; no blocked accounts.]]></item>
+  <item name="av.website.errors.99"><![CDATA[Technical problem during login; please contact support.]]></item>
+  <item name="av.website.errors.noClient"><![CDATA[Client currently unavailable]]></item>
+ </category>
+ <category name="av.website.desc">
+  <item name="av.website.desc.1"><![CDATA[Online browser fun! Set up your own mega airport!]]></item>
+  <item name="av.website.desc.2"><![CDATA[Your online airport! Take control of the skies and dispatch your fleet around the world!]]></item>
+  <item name="av.website.desc.3"><![CDATA[Dispatch your planes to locales far and wide, and drop by friends' airports.]]></item>
+ </category>
+ <category name="av.website.prelayer">
+  <item name="av.website.prelayer.headline1"><![CDATA[TNT plane]]></item>
+  <item name="av.website.prelayer.topcontent1"><![CDATA[Awesome prizes await you with this fleet!]]></item>
+  <item name="av.website.prelayer.botcontent1"><![CDATA[Complete the tutorial and get three exclusive airplanes from TNT!]]></item>
+ </category>
+</language>

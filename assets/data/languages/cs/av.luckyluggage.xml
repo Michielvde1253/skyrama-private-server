@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Zábava se zavazadly]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Jedno kolo zdarma]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[{number}x zatočení zdarma]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1x zatočení: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Vývrtka]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Zkontroluj každých 24 hodin, zatoč si zdarma a vyhraj!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Cena:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Gratulace!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Vyhrál jsi!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Gratuluji k tvojí výhře! Vsadím se že se to bude hodit. Neváhej a roztoč zavazadlový pás!]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[Den {day}:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[Den {day}: {spins}x Vývrtka gratis]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Přeskočit]]></item>
+ </category>
+</language>

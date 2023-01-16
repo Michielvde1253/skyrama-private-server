@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Matkatavara-bingo]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Ilmainen pyöräytys]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[{number}x ilmainen pyöräytys]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1x pyöräytys: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Pyöräytä]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Käy joka päivä katsomassa, saat ilmaisen pyöräytyksen ja voiton!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Palkinto:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Onnea!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Sinä voitit!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Onnea voitosta! Se osoittautuu varmasti hyödylliseksi. Älä epäröi pyöräyttää laukkuhihnaa uudestaan!]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[Päivä {day}:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[Päivä {day}: {spins}x ilmainen pyöräytys]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Skippaa]]></item>
+ </category>
+</language>

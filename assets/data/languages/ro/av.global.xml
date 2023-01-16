@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.global">
+  <item name="av.global.gametitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.pagetitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.Label.buy"><![CDATA[Cumpără]]></item>
+  <item name="av.global.ok"><![CDATA[OK]]></item>
+  <item name="av.global.cancel"><![CDATA[Anulează]]></item>
+  <item name="av.global.minute"><![CDATA[minut]]></item>
+  <item name="av.global.minutes"><![CDATA[minute]]></item>
+  <item name="av.global.hour"><![CDATA[oră]]></item>
+  <item name="av.global.hours"><![CDATA[ore]]></item>
+  <item name="av.global.day"><![CDATA[zi]]></item>
+  <item name="av.global.days"><![CDATA[zile]]></item>
+  <item name="av.global.passenger"><![CDATA[Pasager]]></item>
+  <item name="av.global.passengers"><![CDATA[Pasageri]]></item>
+  <item name="av.global.loading"><![CDATA[încarcă date]]></item>
+  <item name="av.global.send"><![CDATA[Trimite]]></item>
+  <item name="av.global.land"><![CDATA[Aterizează]]></item>
+  <item name="av.global.logout"><![CDATA[Logout]]></item>
+  <item name="av.global.open"><![CDATA[Deschide]]></item>
+  <item name="av.global.close"><![CDATA[Închide]]></item>
+  <item name="av.global.select"><![CDATA[Alege]]></item>
+  <item name="av.global.maintenance"><![CDATA[Lucrări de întreţinere]]></item>
+  <item name="av.global.maintenance_countdown"><![CDATA[Lucrări de întreţinere în:]]></item>
+  <item name="av.global.quickservice"><![CDATA[Service expres]]></item>
+  <item name="av.global.superfuel"><![CDATA[Combustibil Turbo]]></item>
+  <item name="av.global.superfuelboost_selectiontab"><![CDATA[Clichează aici pentru a seta valoarea de accelerare.]]></item>
+  <item name="av.global.superfuel.warningmessage"><![CDATA[Chiar doreşti să utilizezi combustibil Turbo?]]></item>
+  <item name="av.global.instantlanding"><![CDATA[Aterizare VIP ]]></item>
+  <item name="av.global.comingsoon"><![CDATA[În curând...]]></item>
+  <item name="av.global.planes.small"><![CDATA[Avioane mici]]></item>
+  <item name="av.global.planes.medium"><![CDATA[Avioane medii]]></item>
+  <item name="av.global.planes.large"><![CDATA[Avioane mari]]></item>
+  <item name="av.global.plane"><![CDATA[Avion]]></item>
+  <item name="av.global.click"><![CDATA[Cumpără]]></item>
+ </category>
+ <category name="av.instantlanding">
+  <item name="av.instantlanding.shortdesc"><![CDATA[Aterizare imediată cu doar un clic!]]></item>
+  <item name="av.instantlanding.warningmessage"><![CDATA[Chiar vrei să aterizezi imediat?]]></item>
+ </category>
+ <category name="av.xpoffer">
+  <item name="av.xpoffer.title"><![CDATA[Ofertă specială!]]></item>
+  <item name="av.xpoffer.offer"><![CDATA[Aceste elemente îţi vor îmbunătăţi aeroportul. Ele sunt special selecţionate pentru nivelul tău curent, şi îţi sunt disponibile acum, şi doar acum, într-un pachet pentru acest preţ foarte foarte mic!]]></item>
+  <item name="av.xpoffer.only"><![CDATA[doar pentru]]></item>
+ </category>
+ <category name="av.dutyfree">
+  <item name="av.dutyfree.title"><![CDATA[Duty Free]]></item>
+  <item name="av.dutyfree.buystorage"><![CDATA[Măreşte inventar]]></item>
+  <item name="av.dutyfree.buygoods"><![CDATA[Adaugă {number} bun(uri)]]></item>
+ </category>
+ <category name="av.hangar">
+  <item name="av.hangar.title"><![CDATA[Hangar]]></item>
+  <item name="av.hangar.buyslot"><![CDATA[Măreşte spaţiu hangar]]></item>
+  <item name="av.hangar.scrapplane"><![CDATA[Casează avion]]></item>
+  <item name="av.hangar.security.title"><![CDATA[Casezi avionul?]]></item>
+  <item name="av.hangar.security"><![CDATA[Chiar vrei să casezi acest avion?]]></item>
+  <item name="av.hangar.outofhangar"><![CDATA[În afara hangarului]]></item>
+ </category>
+ <category name="av.landsidebuilding">
+  <item name="av.landsidebuilding.passenger"><![CDATA[{passenger}/{max}]]></item>
+ </category>
+ <category name="av.settings">
+  <item name="av.settings.show"><![CDATA[Vezi setări]]></item>
+  <item name="av.settings.hide"><![CDATA[Ascunde setări]]></item>
+  <item name="av.settings.soundOn"><![CDATA[sunet pornit]]></item>
+  <item name="av.settings.soundOff"><![CDATA[sunet oprit]]></item>
+  <item name="av.settings.soundFxOn"><![CDATA[efecte sonore pornite]]></item>
+  <item name="av.settings.soundFxOff"><![CDATA[efecte sonore oprite]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Schimbă date]]></item>
+  <item name="av.settings.animationOff"><![CDATA[Animaţii OFF]]></item>
+  <item name="av.settings.animationOn"><![CDATA[Animaţii ON]]></item>
+  <item name="av.settings.quickServiceOn"><![CDATA[Service expres /Clichează pentru a dezactiva service expres]]></item>
+  <item name="av.settings.quickServiceOff"><![CDATA[Service expres / Clichează pentru a activa service expres]]></item>
+  <item name="av.settings.superFuelOn"><![CDATA[Activează combustibil Turbo ]]></item>
+  <item name="av.settings.superFuelOff"><![CDATA[Dezactivează combustibil Turbo ]]></item>
+  <item name="av.settings.fullscreenOn"><![CDATA[Activează ecran întreg]]></item>
+  <item name="av.settings.fullscreenOff"><![CDATA[Dezactivează ecran întreg]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Schimbă date]]></item>
+  <item name="av.settings.evoucher"><![CDATA[Răscumpărare e-Voucher]]></item>
+ </category>
+ <category name="av.buddy">
+  <item name="av.buddy.label.flyby"><![CDATA[Salutare]]></item>
+  <item name="av.buddy.label.visit"><![CDATA[Vizitează]]></item>
+  <item name="av.buddy.exit.visit"><![CDATA[Ieşi din aeroport]]></item>
+  <item name="av.buddy.label.send"><![CDATA[Trimite]]></item>
+  <item name="av.buddy.label.add_buddy"><![CDATA[Adaugă prieten]]></item>
+  <item name="av.buddy.label.delete"><![CDATA[Suprimă]]></item>
+  <item name="av.buddy.delete_confirmation.title"><![CDATA[Suprimă prieten]]></item>
+  <item name="av.buddy.delete_confirmation.text"><![CDATA[Eşti sigur că vrei să suprimi {buddy} de pe lista de prieteni?]]></item>
+ </category>
+ <category name="av.rewardwindow">
+  <item name="av.rewardwindow.headline"><![CDATA[Felicitări, ai atins obiectivul "{goal_name}".]]></item>
+ </category>
+ <category name="av.flightmap">
+  <item name="av.flightmap.welcome"><![CDATA[Bine ai venit în ţara mea!]]></item>
+  <item name="av.flightmap.back"><![CDATA[Înapoi]]></item>
+  <item name="av.flightmap.worldmap"><![CDATA[Hartă]]></item>
+ </category>
+ <category name="av.souvenirwidget">
+  <item name="av.souvenirwidget.title"><![CDATA[Colecţii]]></item>
+ </category>
+ <category name="av.flybywidget">
+  <item name="av.flybywidget.title"><![CDATA[Colecţie bannere zburătoare]]></item>
+  <item name="av.flybywidget.entertext"><![CDATA[Scrie textul aici:]]></item>
+ </category>
+ <category name="av.levelupwidget">
+  <item name="av.levelupwidget.title"><![CDATA[+ 1 nivel]]></item>
+  <item name="av.levelupwidget.message"><![CDATA[<b>Felicitări! Ai ajuns la nivelul {level}.<br>Ia bonusul şi du-te la cumpărături!</b>]]></item>
+  <item name="av.levelupwidget.unlocked"><![CDATA[Ai descuiat:]]></item>
+ </category>
+ <category name="av.fullscreen">
+  <item name="av.fullscreen.title"><![CDATA[Ieşi din modul ecran complet]]></item>
+  <item name="av.fullscreen.message"><![CDATA[Din păcate, trebuie să ieşi din modul ecran complet pentru a utiliza acest feature.]]></item>
+  <item name="av.fullscreen.label"><![CDATA[Ieşi din modul ecran complet]]></item>
+ </category>
+ <category name="av.paymentwidget">
+  <item name="av.paymentwidget.title"><![CDATA[Fonduri insuficiente]]></item>
+  <item name="av.paymentwidget.message"><![CDATA[Nu ai fonduri suficiente pentru acest item.]]></item>
+  <item name="av.paymentwidget.label.add_cash"><![CDATA[IA-ŢI AIRCASH]]></item>
+ </category>
+ <category name="av.addfriendswidget">
+  <item name="av.addfriendswidget.title"><![CDATA[Invită un prieten!]]></item>
+  <item name="av.addfriendswidget.description"><![CDATA[Introdu adresa de e-mail sau pseudonimul (numele de utilizator) prietenului pe care doreşti să-l inviţi la Skyrama!]]></item>
+  <item name="av.addfriendswidget.info.emails"><![CDATA[Introdu adresa de e-mail aici (separând cu ;)]]></item>
+  <item name="av.addfriendswidget.info.usernames"><![CDATA[Introdu numele de utilizator aici (separând cu ;)]]></item>
+  <item name="av.addfriendswidget.error.emails"><![CDATA[Te rugăm să verifici adresele de e-mail.]]></item>
+  <item name="av.addfriendswidget.error.usernames"><![CDATA[Te rugăm să verifici numele de utilizator.]]></item>
+  <item name="av.addfriendswidget.label.send"><![CDATA[Trimite]]></item>
+ </category>
+ <category name="av.viewfriendswidget">
+  <item name="av.viewfriendswidget.title"><![CDATA[Invitaţii]]></item>
+  <item name="av.viewfriendswidget.description_invites"><![CDATA[Ai primit {number} invitaţie(i).]]></item>
+  <item name="av.viewfriendswidget.description_no_invites"><![CDATA[Nicio invitaţie.]]></item>
+  <item name="av.viewfriendswidget.accept_invitation"><![CDATA[Acceptă]]></item>
+  <item name="av.viewfriendswidget.decline_invitation"><![CDATA[Refuză]]></item>
+ </category>
+ <category name="av.evoucherwidget">
+  <item name="av.evoucherwidget.title"><![CDATA[Ai un cod de bonus?]]></item>
+  <item name="av.evoucherwidget.input.text"><![CDATA[Atunci răscumpără-l aici.]]></item>
+  <item name="av.evoucherwidget.input.hint"><![CDATA[e-Voucher]]></item>
+  <item name="av.evoucherwidget.input.error"><![CDATA[Introdu codul aici.]]></item>
+  <item name="av.evoucherwidget.progress"><![CDATA[Verificare....]]></item>
+  <item name="av.evoucherwidget.success.discount"><![CDATA[e-Voucher răscumpărat. Cu doar un clic vei ajunge la]]></item>
+  <item name="av.evoucherwidget.success.discount.link"><![CDATA[secţiunea de plată!]]></item>
+  <item name="av.evoucherwidget.success.ingameitems"><![CDATA[e-Voucher răscumpărat. Loghează-te pentru a primi recompensa!]]></item>
+  <item name="av.evoucherwidget.error"><![CDATA[e-Voucher invalid]]></item>
+ </category>
+ <category name="av.passwordwidget">
+  <item name="av.passwordwidget.title"><![CDATA[Schimbă parola]]></item>
+  <item name="av.passwordwidget.message"><![CDATA[Introdu noua parolă.]]></item>
+  <item name="av.passwordwidget.old"><![CDATA[Introdu vechia parolă.]]></item>
+  <item name="av.passwordwidget.info.old"><![CDATA[parolă veche]]></item>
+  <item name="av.passwordwidget.new"><![CDATA[Introdu noua parolă.]]></item>
+  <item name="av.passwordwidget.info.new"><![CDATA[parolă nouă]]></item>
+  <item name="av.passwordwidget.confirm"><![CDATA[Confirmă noua parolă.]]></item>
+  <item name="av.passwordwidget.info.confirm"><![CDATA[Confirmă parola]]></item>
+  <item name="av.passwordwidget.save"><![CDATA[Save]]></item>
+  <item name="av.passwordwidget.cancel"><![CDATA[Anulează]]></item>
+ </category>
+ <category name="av.flybyitem">
+  <item name="av.flybyitem.dummy"><![CDATA[Test]]></item>
+  <item name="av.flybyitem.sms_ownmessage"><![CDATA[Textul tău!]]></item>
+  <item name="av.flybyitem.banner1"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner2"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner3"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner4"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner5"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner6"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner7"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner8"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner9"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner10"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner11"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner22"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner23"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner24"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner25"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner26"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.banner27"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.bff"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.cargo"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.coffee"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.friends1"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.friends2"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.greetings"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.ican"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.lol"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.love"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.medium"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.missu"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.music_hearts"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.omn"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.pinup_girl"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.planes"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.stars_elegant"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.thankyou_elegant"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.wtf"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.test"><![CDATA[Test]]></item>
+  <item name="av.flybyitem.unlock_message"><![CDATA[Cumpără acum cu AirCash sau ajungi la nivelul {required_level}]]></item>
+  <item name="av.flybyitem.effect"><![CDATA[Trimite prietenilor tăi focuri de artificii de Revelion]]></item>
+  <item name="av.flybyitem.bday_champagne"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.birthday_girly"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.birthday_ufo"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.cheers_text"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.fluffy_heart"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.smiley_cool"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.smiley_kitten"><![CDATA[Banner zburător]]></item>
+  <item name="av.flybyitem.smiley_surprised"><![CDATA[Banner zburător]]></item>
+ </category>
+ <category name="av.selectcountry">
+  <item name="av.selectcountry.hint"><![CDATA[În ce ţară vrei să-ţi amplasezi aeroportul?]]></item>
+  <item name="av.flightmap.selectContinent"><![CDATA[Selectează continentul tău]]></item>
+  <item name="av.selectcountry.next"><![CDATA[Înainte]]></item>
+ </category>
+ <category name="av.topbar">
+  <item name="av.topbar.tooltip.aircoins"><![CDATA[Aircoinuri]]></item>
+  <item name="av.topbar.tooltip.aircash"><![CDATA[AirCash]]></item>
+  <item name="av.topbar.tooltip.xp"><![CDATA[PE]]></item>
+  <item name="av.topbar.tooltip.dutyfree"><![CDATA[Fără taxe]]></item>
+  <item name="av.topbar.tooltip.passengers"><![CDATA[Pasageri (rămân max. 5 zile)]]></item>
+  <item name="av.topbar.tooltip.addcash"><![CDATA[Ia-ţi Aircash]]></item>
+  <item name="av.topbar.addcash"><![CDATA[Ia-ţi Aircash]]></item>
+ </category>
+ <category name="av.dashboard">
+  <item name="av.dashboard.airportname"><![CDATA[Aeroportul lui {name}]]></item>
+  <item name="av.dashboard.store"><![CDATA[Shop]]></item>
+  <item name="av.dashboard.tool"><![CDATA[Tools]]></item>
+  <item name="av.dashboard.storage"><![CDATA[Inventar]]></item>
+  <item name="av.dashboard.souvenir"><![CDATA[Colecţii]]></item>
+  <item name="av.dashboard.flight"><![CDATA[Zboruri]]></item>
+  <item name="av.dashboard.store_cat"><![CDATA[Shop: {category}]]></item>
+  <item name="av.dashboard.movetostorage"><![CDATA[Mută în Inventar]]></item>
+  <item name="av.dashboard.mirror"><![CDATA[Învârte]]></item>
+  <item name="av.dashboard.move"><![CDATA[Mută]]></item>
+  <item name="av.dashboard.incoming_flights"><![CDATA[Avioane sosite]]></item>
+  <item name="av.dashboard.buddy_flights"><![CDATA[Avioane amice sosite]]></item>
+  <item name="av.dashboard.new_flights"><![CDATA[Avioane noi]]></item>
+  <item name="av.dashboard.minimize"><![CDATA[Minimizează]]></item>
+  <item name="av.dashboard.maximize"><![CDATA[Maximizează]]></item>
+  <item name="av.dashboard.buddy_ping_title"><![CDATA[Solicită avioane]]></item>
+  <item name="av.dashboard.buddy_ping_text"><![CDATA[Timp rămas (min.):]]></item>
+ </category>
+ <category name="av.storepanel">
+  <item name="av.storepanel.passenger"><![CDATA[Avioane de pasageri]]></item>
+  <item name="av.storepanel.cargo"><![CDATA[Avioane cargo]]></item>
+  <item name="av.storepanel.helicopter"><![CDATA[Ramacoptere]]></item>
+  <item name="av.storepanel.seaplane"><![CDATA[Hidroplane]]></item>
+  <item name="av.storepanel.largeplane"><![CDATA[Avioane mari]]></item>
+ </category>
+ <category name="av.visitairport">
+  <item name="av.visitairport.notification.title"><![CDATA[Ai fost vizitat!]]></item>
+  <item name="av.visitairport.notification.text"><![CDATA[Aeroportul tău a fost vizitat de:<br/><br/>{users}<br/><br/>Ai primit {number} pasageri.]]></item>
+ </category>
+ <category name="av.multilogin">
+  <item name="av.multilogin.title"><![CDATA[Info]]></item>
+  <item name="av.multilogin.text"><![CDATA[Eşti deja logat cu acest cont. Pentru a preveni problemele de login dublu, vei fi deconectat în mod automat!]]></item>
+ </category>
+ <category name="av.login_bonus">
+  <item name="av.login_bonus.title"><![CDATA[Bonus login]]></item>
+  <item name="av.login_bonus.button"><![CDATA[Loterie de bagaje]]></item>
+  <item name="av.login_bonus.text"><![CDATA[Te-ai logat {days} zile zile la rând! Şi, prin urmare, vei obţine {number} încercări gratuite. Loghează-te şi mâine pentru a învârti din nou gratis.]]></item>
+  <item name="av.login_bonus.spin"><![CDATA[Învârtire]]></item>
+  <item name="av.login_bonus.spin_count"><![CDATA[{count}x]]></item>
+ </category>
+ <category name="av.quickservice">
+  <item name="av.quickservice.text"><![CDATA[Service expres]]></item>
+  <item name="av.quickservice.offtitle"><![CDATA[Service expres]]></item>
+  <item name="av.quickservice.offtext"><![CDATA[Chiar doreşti service expres pentru avionul tău?]]></item>
+ </category>
+ <category name="av.serverproblems">
+  <item name="av.serverproblems.timed_out"><![CDATA[Conexiunea cu serverul a expirat. Pentru a preveni alte probleme, te rugăm să reîncarci jocul]]></item>
+ </category>
+ <category name="av.zeppelin">
+  <item name="av.zeppelin.title"><![CDATA[Hangar de zepeline]]></item>
+  <item name="av.zeppelin.buylanding"><![CDATA[Aterizează imediat]]></item>
+  <item name="av.zeppelin.buyfuel"><![CDATA[Umple rezervorul de combustibil]]></item>
+  <item name="av.zeppelin.destination_1"><![CDATA[Junglă]]></item>
+  <item name="av.zeppelin.destination_2"><![CDATA[Polul Nord]]></item>
+  <item name="av.zeppelin.destination_3"><![CDATA[Deşert]]></item>
+  <item name="av.zeppelin.destination_4"><![CDATA[Munte]]></item>
+  <item name="av.zeppelin.destination_5"><![CDATA[Vulcan]]></item>
+  <item name="av.zeppelin.flytodestination"><![CDATA[Zboară la:<br />{destination}]]></item>
+  <item name="av.zeppelin.returned_headline"><![CDATA[Felicitări]]></item>
+  <item name="av.zeppelin.youfound"><![CDATA[Ai găsit:]]></item>
+  <item name="av.zeppelin.take1more"><![CDATA[Ia încă 1 suvenir]]></item>
+  <item name="av.zeppelin.returnhome"><![CDATA[Întoarce-te acasă]]></item>
+  <item name="av.zeppelin.readytoland"><![CDATA[Expediţia zepelin gata de aterizare!]]></item>
+  <item name="av.zeppelin.retrieving1more"><![CDATA[O, încă un suvenir...]]></item>
+  <item name="av.zeppelin.requiredfuel"><![CDATA[Combustibil necesar: {fuel}]]></item>
+ </category>
+ <category name="av.win.eng_bay">
+  <item name="av.win.eng_bay.title"><![CDATA[Atelier aeronautic]]></item>
+  <item name="av.win.eng_bay.res.title"><![CDATA[Bine ai venit la atelierul aeronautic!]]></item>
+  <item name="av.win.eng_bay.res.intro"><![CDATA[Iată cum funcţionează: trimite avioane şi vei fi recompensat cu piese de schimb pentru accesoriile de tuning!]]></item>
+  <item name="av.win.eng_bay.res.more"><![CDATA[Unele piese pot fi obţinute numai cu anumite tipuri de aeronave.<br/> Cu cât zborul este mai lung, cu atât mai semnificativ va fi câştigul!]]></item>
+  <item name="av.win.eng_bay.cost"><![CDATA[Ai nevoie de:]]></item>
+  <item name="av.win.eng_bay.reward"><![CDATA[Bonus]]></item>
+  <item name="av.win.eng_bay.btn.upgrade"><![CDATA[Tuning]]></item>
+  <item name="av.win.eng_bay.btn.getRes"><![CDATA[Obţine mai multe piese de construcţie!]]></item>
+  <item name="av.win.eng_bay.upgrading"><![CDATA[Upgrade în proces ...]]></item>
+  <item name="av.win.eng_bay.locked"><![CDATA[Nu poţi efectua mai multe upgrade-uri simultan.]]></item>
+ </category>
+ <category name="av.tooltip.eng_bay">
+  <item name="av.tooltip.eng_bay.tab.0"><![CDATA[Info]]></item>
+  <item name="av.tooltip.eng_bay.tab.locked"><![CDATA[Nu ai încă {type}!]]></item>
+  <item name="av.tooltip.eng_bay.tab.empty"><![CDATA[Nu ai încă {type} în hangar! ]]></item>
+  <item name="av.tooltip.eng_bay.btn.notupgrade"><![CDATA[Prea puţine piese de schimb!]]></item>
+ </category>
+ <category name="av.consumable">
+  <item name="av.consumable.1"><![CDATA[Kit de construcţii]]></item>
+  <item name="av.consumable.2"><![CDATA[Kit de lux ]]></item>
+  <item name="av.consumable.3"><![CDATA[Piese avion de pasageri]]></item>
+  <item name="av.consumable.4"><![CDATA[Piese de avion cargo]]></item>
+  <item name="av.consumable.5"><![CDATA[Piese de elicopter]]></item>
+  <item name="av.consumable.6"><![CDATA[Piese de hidroplan]]></item>
+  <item name="av.consumable.13"><![CDATA[Coroană de lauri]]></item>
+  <item name="av.consumable.14"><![CDATA[Disc]]></item>
+  <item name="av.consumable.15"><![CDATA[Halteră]]></item>
+  <item name="av.consumable.16"><![CDATA[Pantof de sport]]></item>
+  <item name="av.consumable.17"><![CDATA[Ciocan aruncări]]></item>
+  <item name="av.consumable.18"><![CDATA[Fulg de nea]]></item>
+  <item name="av.consumable.19"><![CDATA[Antigel mic]]></item>
+  <item name="av.consumable.20"><![CDATA[Antigel mediu]]></item>
+  <item name="av.consumable.21"><![CDATA[Antigel de elicopter]]></item>
+  <item name="av.consumable.22"><![CDATA[Antigel Aqua]]></item>
+  <item name="av.consumable.23"><![CDATA[Cutie de ciocolată]]></item>
+  <item name="av.consumable.24"><![CDATA[Gustare caramelizată]]></item>
+  <item name="av.consumable.25"><![CDATA[Vârtejul nucilor]]></item>
+  <item name="av.consumable.26"><![CDATA[Pasiunea pralinelor]]></item>
+  <item name="av.consumable.27"><![CDATA[Deliciu de portocale]]></item>
+ </category>
+ <category name="av.upgrade">
+  <item name="av.upgrade.1"><![CDATA[Reactor]]></item>
+  <item name="av.upgrade.2"><![CDATA[Elice]]></item>
+  <item name="av.upgrade.3"><![CDATA[Sistem de navigare]]></item>
+  <item name="av.upgrade.4"><![CDATA[Locuri VIP ]]></item>
+  <item name="av.upgrade.5"><![CDATA[Mai mult spaţiu de marfă]]></item>
+  <item name="av.upgrade.6"><![CDATA[Stabilizator]]></item>
+  <item name="av.upgrade.789"><![CDATA[Upgrade]]></item>
+ </category>
+ <category name="av.crafting">
+  <item name="av.crafting.1"><![CDATA[Bulon]]></item>
+  <item name="av.crafting.2"><![CDATA[Metal]]></item>
+  <item name="av.crafting.3"><![CDATA[Material sintetic]]></item>
+  <item name="av.crafting.4"><![CDATA[Componentă electronică]]></item>
+  <item name="av.crafting.5"><![CDATA[Material]]></item>
+  <item name="av.crafting.6"><![CDATA[Sticlă]]></item>
+ </category>
+ <category name="av.win.unlock.eng_bay">
+  <item name="av.win.unlock.eng_bay.title.levelup"><![CDATA[Bravo! ]]></item>
+  <item name="av.win.unlock.eng_bay.title.overlevel"><![CDATA[O nouă funcţiune!]]></item>
+  <item name="av.win.unlock.eng_bay.text.levelup"><![CDATA[Felicitări, ai ajuns la nivelul {level}! ]]></item>
+  <item name="av.win.unlock.eng_bay.text.overlevel"><![CDATA[Noul nostru atelier aeronautic: Ia-ţi o licenţă de sudare!]]></item>
+  <item name="av.win.unlock.eng_bay.main"><![CDATA[Noutate la magazin: atelierul aeronautic!<br/> Schimbă piesele cu accesorii şi tunează-ţi avioanele!]]></item>
+  <item name="av.win.unlock.eng_bay.received"><![CDATA[Nu te codi prea mult, apucă-te de tuning!]]></item>
+ </category>
+ <category name="av.win.bundle">
+  <item name="av.win.bundle.title"><![CDATA[Setul tău de piese:]]></item>
+  <item name="av.win.bundle.text"><![CDATA[Super, aceste piese de schimb vor face diferenţa!<br/>Suflecă-ţi mânecile, ia ciocanul şi şurubelniţa şi apucă-te de treabă!]]></item>
+  <item name="av.win.bundle.received"><![CDATA[Alegerea ta:]]></item>
+ </category>
+ <category name="av.win.logout">
+  <item name="av.win.logout.title"><![CDATA[Logout]]></item>
+  <item name="av.win.logout.text"><![CDATA[Chiar vrei să ieşi din joc?]]></item>
+ </category>
+ <category name="av.win.buy_conf">
+  <item name="av.win.buy_conf.title"><![CDATA[Confirmă]]></item>
+  <item name="av.win.buy_conf.buy.text"><![CDATA[Eşti sigur că vrei să cumperi?]]></item>
+  <item name="av.win.buy_conf.del.text"><![CDATA[Chiar vrei să elimini din inventar?]]></item>
+  <item name="av.win.buy_conf.sell.text"><![CDATA[Chiar vrei să vinzi acest item pentru {x} {money}?]]></item>
+ </category>
+ <category name="av.win.error">
+  <item name="av.win.error.global.title"><![CDATA[Ups!]]></item>
+  <item name="av.win.error.global.text"><![CDATA[Jocul a fost întrerupt din cauza unor probleme tehnice.]]></item>
+  <item name="av.win.error.connection.title"><![CDATA[Conexiune întreruptă]]></item>
+  <item name="av.win.error.connection.text"><![CDATA[Ai probleme de conectare la Internet.]]></item>
+  <item name="av.win.error.reload.text"><![CDATA[Vrei să reîncarci jocul?]]></item>
+ </category>
+ <category name="av.win.eventBaskets">
+  <item name="av.win.eventBaskets.title"><![CDATA[Super ultra plus!]]></item>
+  <item name="av.win.eventBaskets.text"><![CDATA[Succes pe toată linia de zbor: nu rata aceste oferte!]]></item>
+ </category>
+ <category name="av.storage.deleteItems">
+  <item name="av.storage.deleteItems.title"><![CDATA[Vinde]]></item>
+  <item name="av.storage.deleteItems.warning"><![CDATA[Sigur vrei să vinzi acest obiect cu {value} Aircoinuri?]]></item>
+  <item name="av.storage.deleteItems.sellbtn"><![CDATA[Vinde]]></item>
+ </category>
+ <category name="av.win.happyhour">
+  <item name="av.win.happyhour.title"><![CDATA[Happy Hour]]></item>
+  <item name="av.win.happyhour.info"><![CDATA[Ofertă Happy Hour: {prozent}% în plus pentru piloţii de mare înălţime!]]></item>
+  <item name="av.win.happyhour.plustext1"><![CDATA[Extra Aircash în intervalul Happy-Hour! Cumpără, de exemplu, 100 Aircash şi vei primi {calcvalue}!]]></item>
+  <item name="av.win.happyhour.plustext2"><![CDATA[Depăşeşte viteza sunetului şi extinde-ţi aeroportul!]]></item>
+  <item name="av.win.happyhour.plustext3"><![CDATA[Acţionează până nu e prea târziu!]]></item>
+  <item name="av.win.happyhour.button"><![CDATA[Cumpără]]></item>
+ </category>
+ <category name="av.win.recycling_building">
+  <item name="av.win.recycling_building.title"><![CDATA[Centru de reciclare]]></item>
+  <item name="av.win.recycling_building.res.title"><![CDATA[Bine ai venit la centrul de reciclare]]></item>
+  <item name="av.win.recycling_building.res.intro"><![CDATA[Tot ce-i vechi se înnoieşte! Dacă ai nevoie de spaţiu în hangar sau de componente pentru avioane noi, ai venit la locul potrivit!]]></item>
+  <item name="av.win.recycling_building.res.more"><![CDATA[Aici poţi să demontezi avioane vechi. Vei obţine componente de la toate avioanele, pentru a asambla avioane noi în hala de montaj!]]></item>
+  <item name="av.win.recycling_building.level"><![CDATA[Nivel de reciclare]]></item>
+  <item name="av.win.recycling_building.level_up"><![CDATA[Ai atins nivelul de reciclare {x}!]]></item>
+  <item name="av.win.recycling_building.tooltip.small_planes"><![CDATA[Avioane mici în hangar:]]></item>
+  <item name="av.win.recycling_building.tooltip.medium_planes"><![CDATA[Avioane medii în hangar:]]></item>
+  <item name="av.win.recycling_building.tooltip.material1"><![CDATA[Aircoin-uri]]></item>
+  <item name="av.win.recycling_building.tooltip.material7"><![CDATA[Bulon]]></item>
+  <item name="av.win.recycling_building.tooltip.material8"><![CDATA[Metal]]></item>
+  <item name="av.win.recycling_building.tooltip.material9"><![CDATA[Material sintetic]]></item>
+  <item name="av.win.recycling_building.tooltip.material10"><![CDATA[Componentă electronică]]></item>
+  <item name="av.win.recycling_building.tooltip.material11"><![CDATA[Material]]></item>
+  <item name="av.win.recycling_building.tooltip.material12"><![CDATA[Sticlă]]></item>
+  <item name="av.win.recycling_building.btn.ok"><![CDATA[OK]]></item>
+  <item name="av.win.recycling_building.gears"><![CDATA[Progres]]></item>
+  <item name="av.win.recycling_building.option.info"><![CDATA[Demontează avioane şi vei primi componente. În partea stângă a ecranului poţi să vezi şansele de succes.]]></item>
+  <item name="av.win.recycling_building.option.time"><![CDATA[Timp de reciclare: {x} h]]></item>
+  <item name="av.win.recycling_building.option.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.recycling_building.btn.dissemble"><![CDATA[Demontează]]></item>
+  <item name="av.win.recycling_building.btn.collect"><![CDATA[Colectează]]></item>
+  <item name="av.win.recycling_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.recycling_building.btn.sideflag2"><![CDATA[Avioane mici]]></item>
+  <item name="av.win.recycling_building.btn.sideflag3"><![CDATA[Avioane medii]]></item>
+  <item name="av.win.recycling_building.btn.sideflag.disabled"><![CDATA[Avioane insuficiente]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.title"><![CDATA[Aruncă asta]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.msg"><![CDATA[Sigur vrei să demontezi acest avion?]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.title"><![CDATA[Finalizează]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.msg"><![CDATA[Demontare imediată?]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.title"><![CDATA[Aircoin-uri insuficiente!]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.msg"><![CDATA[Aircash insuficient!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.title"><![CDATA[Nivel de reciclare superior!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.msg"><![CDATA[Bravo! Ai avansat la un nou nivel de reciclare. Şansele tale la componente mai bune au crescut.]]></item>
+  <item name="av.win.recycling_building.popup.yes"><![CDATA[OK]]></item>
+  <item name="av.win.recycling_building.popup.no"><![CDATA[Anulează]]></item>
+  <item name="av.win.recycling_building.popup.recycling_done.title"><![CDATA[Primeşti:]]></item>
+ </category>
+ <category name="av.win.crafting_building">
+  <item name="av.win.crafting_building.title"><![CDATA[Hală de montaj]]></item>
+  <item name="av.win.crafting_building.res.title"><![CDATA[Hală pe Pământ]]></item>
+  <item name="av.win.crafting_building.res.intro"><![CDATA[În hala de montaj poţi să rupi gura târgului, asamblând avioane unice!]]></item>
+  <item name="av.win.crafting_building.res.more"><![CDATA[Foloseşte patru componente diferite de la centrul de reciclare pentru a crea un avion nou. Vrei să accelerezi producţia? Nicio problemă. Poţi oricând să închiriezi o hală suplimentară.]]></item>
+  <item name="av.win.crafting_building.level"><![CDATA[Nivelul tău de meşter]]></item>
+  <item name="av.win.crafting_building.tooltip.cockpit"><![CDATA[Cockpit]]></item>
+  <item name="av.win.crafting_building.tooltip.body"><![CDATA[Fuselaj]]></item>
+  <item name="av.win.crafting_building.tooltip.wingunit"><![CDATA[Aripă]]></item>
+  <item name="av.win.crafting_building.tooltip.powerunit"><![CDATA[Reactor]]></item>
+  <item name="av.win.crafting_building.tooltip.time"><![CDATA[Finalizare în]]></item>
+  <item name="av.win.crafting_building.gears"><![CDATA[Progres]]></item>
+  <item name="av.win.crafting_building.btn.combine"><![CDATA[Confecţionează]]></item>
+  <item name="av.win.crafting_building.btn.build"><![CDATA[Construieşte]]></item>
+  <item name="av.win.crafting_building.btn.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.crafting_building.btn.collect"><![CDATA[Colectează]]></item>
+  <item name="av.win.crafting_building.btn.ok"><![CDATA[OK]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.title"><![CDATA[Ai nevoie de o hală de montaj?]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.msg"><![CDATA[Investeşte {x} Aircash şi închiriază o altă hală pentru 24 de ore.]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.msg"><![CDATA[Mai ai nevoie de Aircash pentru a închiria o hală de montaj.]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.title"><![CDATA[Ai ajuns la fundul sacului?]]></item>
+  <item name="av.win.crafting_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.crafting_building.btn.sideflag2"><![CDATA[Hală de montaj 1]]></item>
+  <item name="av.win.crafting_building.btn.sideflag3"><![CDATA[Hală de montaj 2]]></item>
+  <item name="av.win.crafting_building.btn.sideflag4"><![CDATA[Hală de montaj 3]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.title"><![CDATA[Aircoin-uri insuficiente!]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.msg"><![CDATA[Aircash insuficient!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.title"><![CDATA[Nu mai ai loc liber în hangar!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.msg"><![CDATA[Trebuie să-ţi extinzi mai întâi hangarul!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.title"><![CDATA[Gata!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.msg"><![CDATA[Finalizare imediată?]]></item>
+  <item name="av.win.crafting_building.popup.crafting_done.title"><![CDATA[Primeşti:]]></item>
+  <item name="av.win.crafting_building.popup.levelup.title"><![CDATA[Nivel de meşter + ]]></item>
+  <item name="av.win.crafting_building.popup.levelup.msg"><![CDATA[Fantastic! Ai atins un nou nivel de meşter şi ai acces la noi avioane!]]></item>
+  <item name="av.win.crafting_building.popup.yes"><![CDATA[OK]]></item>
+  <item name="av.win.crafting_building.popup.no"><![CDATA[Anulează]]></item>
+ </category>
+ <category name="av.win.material_event">
+  <item name="av.win.material_event.res.intro"><![CDATA[Eşti gata de start? Colectează cât mai multe obiecte Aer-olimpice şi preschimbă-le cu avioane de event fabuloase!]]></item>
+  <item name="av.win.material_event.res.title"><![CDATA[Să înceapă Jocurile!]]></item>
+  <item name="av.win.material_event.res.more"><![CDATA[Pentru fiecare tip de avion există obiecte unice de colectat. Preschimbă-le cu avioane de event îmbunătăţite!]]></item>
+  <item name="av.win.material_event.btn.side_flag1"><![CDATA[Info event]]></item>
+  <item name="av.win.material_event.btn.side_flag2"><![CDATA[Recompense event]]></item>
+  <item name="av.win.material_event.btn.redeem"><![CDATA[Valorifică]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.title"><![CDATA[Obiecte insuficiente]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.msg"><![CDATA[Nu ai colectat încă suficiente obiecte pentru a le valorifica prin preschimbare cu acest item.]]></item>
+  <item name="av.win.material_event.popup.more_hangar.title"><![CDATA[Ai nevoie de un hangar!]]></item>
+  <item name="av.win.material_event.popup.more_hangar.msg"><![CDATA[Trebuie să ai mai mult spaţiu în hangar!]]></item>
+ </category>
+</language>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.buddy">
+  <item name="av.buddy.title"><![CDATA[Barátok hozzáadása]]></item>
+  <item name="av.buddy.text"><![CDATA[Együtt még szórakoztatóbb és izgalmasabb: hívd meg a barátaidat a játékba!]]></item>
+  <item name="av.buddy.search"><![CDATA[Barát hozzáadása a barátlistához]]></item>
+  <item name="av.buddy.search.hint"><![CDATA[Felhasználónév /User ID]]></item>
+  <item name="av.buddy.search.button"><![CDATA[Keresés]]></item>
+  <item name="av.buddy.search.results"><![CDATA[Eredmények]]></item>
+  <item name="av.buddy.search.searching"><![CDATA[Keresés folyamatban...]]></item>
+  <item name="av.buddy.search.add"><![CDATA[Barát hozzáadása]]></item>
+  <item name="av.buddy.search.user_result"><![CDATA[{username} (ID: {id})]]></item>
+  <item name="av.buddy.search.user_notfound"><![CDATA[Ilyen játékos nem található.]]></item>
+  <item name="av.buddy.search.user_added"><![CDATA[Felvetted a játékost.]]></item>
+  <item name="av.buddy.search.user_notadded"><![CDATA[A játékost nem lehetett hozzáadni.]]></item>
+  <item name="av.buddy.search.user_yourself"><![CDATA[Saját magadat nem adhatod hozzá a listához.]]></item>
+  <item name="av.buddy.search.user_already"><![CDATA[Ez a játékos már a barátod.]]></item>
+  <item name="av.buddy.email"><![CDATA[E-mail meghívás]]></item>
+ </category>
+</language>

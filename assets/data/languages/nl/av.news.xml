@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.news">
+  <item name="av.news.header"><![CDATA[Skyrama Nieuws]]></item>
+  <item name="av.news.title"><![CDATA[Hallo! Ik ben Cassandra en ik bestuur de nieuwe watervliegtuigen. Ik zal je dat allemaal eens laten zien.]]></item>
+  <item name="av.news.text"><![CDATA[<li>We presenteren het nieuwe vrachtsysteem! In het nieuwe tutorial kom je alles te weten!</li><li>Passagiers die je op een dag hebt verzameld, verlaten je vliegveld na 72 uur ... als hun vliegtuig niet vertrekt. Dat mag je nooit vergeten!</li>]]></item>
+  <item name="av.news.hint_title"><![CDATA[Tip:]]></item>
+  <item name="av.news.hint_text"><![CDATA[Als jouw vliegtuigen op andere vliegvelden worden afgewikkeld, wordt je winst verdubbeld!]]></item>
+  <item name="av.news.shop_title"><![CDATA[Wonderexpress!]]></item>
+  <item name="av.news.shop_text"><![CDATA[Verzamel vliegtuigonderdelen en maak je "Wonderexpress-verzameling" compleet!]]></item>
+ </category>
+ <category name="av.santanews">
+  <item name="av.santanews.header"><![CDATA[Winternieuws]]></item>
+  <item name="av.santanews.title"><![CDATA[Ho ho ho! Tijdens de winterweken bereiden piloten, stewardessen en passagiers zich voor op het feest van het jaar! Er staan je vele nieuwe verrassingen te wachten!]]></item>
+  <item name="av.santanews.text"><![CDATA[De Kerstman gaat tijdens de Winterweken ook niet stilletjes aan ons vliegveld voorbij. Houd je ogen dus maar open - af en toe laat hij een cadeautje vallen. Verzamel ze en scoor lekkere prijzen! Beschikbaar van 24-12 tot 26-12!]]></item>
+  <item name="av.santanews.hint_title"><![CDATA[Vuurwerk!!!]]></item>
+  <item name="av.santanews.hint_text"><![CDATA[Gelukkig Nieuwjaar! Stuur je vrienden een spectaculaire nieuwjaarsgroet! Beschikbaar van 29-12 tot 31-12!]]></item>
+  <item name="av.santanews.shop_title"><![CDATA[Kant en klaar - Spoedafwikkeling:]]></item>
+  <item name="av.santanews.shop_text"><![CDATA[Een keer betalen en binnen 24 uur zoveel mogelijk vliegtuigen GRATIS afwikkelen.]]></item>
+ </category>
+ <category name="av.january12news">
+  <item name="av.january12news.header"><![CDATA[Nieuwjaarverrassingen]]></item>
+  <item name="av.january12news.title"><![CDATA[Gelukkig nieuw jaar! Ook in 2012 zal Skyrama niet stilzitten! We wensen je busladingen vol met passagiers, goede zaken met je vrienden ... moge de Aircoin je gunstig gezind blijven!]]></item>
+  <item name="av.january12news.text"><![CDATA[Technische verbeteringen hebben ervoor gezorgd dat je vliegtuigen nu automatisch worden geparkeerd. Gewoon proberen! Hier hebben vele managers al heel lang opgewacht! Nog nooit is een kist zo lekker afgewikkeld!]]></item>
+  <item name="av.january12news.hint_title"><![CDATA[Updates:]]></item>
+  <item name="av.january12news.hint_text"><![CDATA[We proberen nu de laadtijden te verkorten en de performance te verbeteren. Volle kracht vooruit!]]></item>
+  <item name="av.january12news.shop_title"><![CDATA[Producten kopen:]]></item>
+  <item name="av.january12news.shop_text"><![CDATA[Is alles op? Je kunt nu in de winkel een nieuwe voorraad regelen.]]></item>
+ </category>
+ <category name="av.modernizationnews">
+  <item name="av.modernizationnews.header"><![CDATA[De nieuwe dagopdrachten!]]></item>
+  <item name="av.modernizationnews.title"><![CDATA[Heb je zin in vette actie? Stort je in 21 nieuwe avonturen]]></item>
+  <item name="av.modernizationnews.text"><![CDATA[Zo'n opknapbeurt is best veel werk. Geen wonder dat de jongens van Skyrama, in de afgelopen tijd nog niets eens tijd voor een praatje hadden. Maar nu zitten Hendrik en z'n vrienden gewoon weer op hun plekje. Ga met ze mee ontspannen winkelen ... misschien wordt het zelfs wel romatisch. Kom snel eens kijken! Klik op de ster links in beeld en stort je in het spel ... kom dus maar op als je durft! Want al binnen een paar weken kun je alweer compleet nieuwe eventquests hier verwachten.]]></item>
+  <item name="av.modernizationnews.hint_title"><![CDATA[Updates:]]></item>
+  <item name="av.modernizationnews.hint_text"><![CDATA[Plaats tech-deco bij de parkeerplekken en versnel de afwikkeling (max. 40%)!]]></item>
+  <item name="av.modernizationnews.shop_title"><![CDATA[Nieuwe vliegtuigen!]]></item>
+  <item name="av.modernizationnews.shop_text"><![CDATA[Check in de winkel de modernste en veiligste toestellen van dit moment!]]></item>
+ </category>
+ <category name="av.modernizationnews+mmo">
+  <item name="av.modernizationnews+mmo.header"><![CDATA[Het vliegveld van de toekomst!]]></item>
+  <item name="av.modernizationnews+mmo.title"><![CDATA[Verwelkom het vliegveld van de toekomst! De modernste vliegtuigen en mooie leuke nieuwe gebouwen. Kom snel kijken!]]></item>
+  <item name="av.modernizationnews+mmo.text"><![CDATA[Goed nieuws, piloten! Skyrama is genomineerd voor de prijs "Best Tycoon Browser MMO"! Hoera! Klik nu vlug op de volgende link! <br/><a href="http://mmooftheyear.com/" target="_blank"><u>Link to MMO-Votings</u></a><br/>Help Skyrama om tot grote hoogtes te stijgen! Als we de prijs winnen, zullen we jou natuurlijk ook trakteren op een hele speciale verrassing!]]></item>
+  <item name="av.modernizationnews+mmo.hint_title"><![CDATA[Updates:]]></item>
+  <item name="av.modernizationnews+mmo.hint_text"><![CDATA[Plaats tech-deco bij de parkeerplekken en versnel de afwikkeling (max. 40%)!]]></item>
+  <item name="av.modernizationnews+mmo.shop_title"><![CDATA[Nieuwe vliegtuigen!]]></item>
+  <item name="av.modernizationnews+mmo.shop_text"><![CDATA[Check in de winkel de modernste en veiligste toestellen van dit moment!]]></item>
+ </category>
+ <category name="av.modernizationnews+unlocking">
+  <item name="av.modernizationnews+unlocking.header"><![CDATA[Het vliegveld van de toekomst!]]></item>
+  <item name="av.modernizationnews+unlocking.title"><![CDATA[Verwelkom het vliegveld van de toekomst! De modernste vliegtuigen en mooie leuke nieuwe gebouwen. Kom snel kijken!]]></item>
+  <item name="av.modernizationnews+unlocking.text"><![CDATA[Piloten, opgelet!<br/>Speel op deze vliegkaart steeds weer nieuwe landen vrij en maak carrière.<br/>Bezoek ieder land van een continent ... scoor mooie beloningen en laat iedereen ter wereld je coole vliegtuigen zien!]]></item>
+  <item name="av.modernizationnews+unlocking.hint_title"><![CDATA[Updates:]]></item>
+  <item name="av.modernizationnews+unlocking.hint_text"><![CDATA[Plaats tech-deco bij de parkeerplekken en versnel de afwikkeling (max. 40%)!]]></item>
+  <item name="av.modernizationnews+unlocking.shop_title"><![CDATA[Nieuwe vliegtuigen!]]></item>
+  <item name="av.modernizationnews+unlocking.shop_text"><![CDATA[Check in de winkel de modernste en veiligste toestellen van dit moment!]]></item>
+ </category>
+ <category name="av.zeppelinexpedition">
+  <item name="av.zeppelinexpedition.header"><![CDATA[Nieuwe features!]]></item>
+  <item name="av.zeppelinexpedition.title"><![CDATA[Our airport is ready to host the famous Zeppelin Expedition and Country Unlocking! Fame, honor and some very special rewards await all attendees!]]></item>
+  <item name="av.zeppelinexpedition.text"><![CDATA[You can now track your flight-progress with the new country-unlocking flightmap.Visit each country in a continent to get a reward and show your awesome planes to players all over the world!<br/><br/>Once you got your zeppelin hangar you can start to collect fuel for your expedition by completing the AIRSHOW mini game. When you collected enough fuel you can send your zeppelin to exotic places to collect rare souvenirs. Collect enough souvenirs and you can trade them for one of two very exclusive planes. Check your storage, maybe your zeppelin hangar is allready there!]]></item>
+  <item name="av.zeppelinexpedition.hint_title"><![CDATA[Zeppelin Expedition!]]></item>
+  <item name="av.zeppelinexpedition.hint_text"><![CDATA[Get the Dedarama or the incredible Spaceship-One as a reward for the expedition collection.]]></item>
+  <item name="av.zeppelinexpedition.shop_title"><![CDATA[Luchtshow]]></item>
+  <item name="av.zeppelinexpedition.shop_text"><![CDATA[The Airshow appears on your airport as soon as you have a zeppelin hangar. Click on the planes passing by in the right moment to get your fuel!]]></item>
+ </category>
+ <category name="av.mmo">
+  <item name="av.mmo.header"><![CDATA[MMO van het jaar!]]></item>
+  <item name="av.mmo.title"><![CDATA[Wie stemt die wint! Dankzij jullie stemmen is de bemanning van Skyrama onlangs met de MMO Award 2012 naar huis gevlogen.]]></item>
+  <item name="av.mmo.text"><![CDATA[Jullie hebben ons gekozen als de beste tycoon browsergame bij de uitreiking van de <br/><a href="http://mmooftheyear.com/" target="_blank"><u>MMO van het jaar 2012</u></a><br/> Nu laten we kurken knallen ... en trakteren jullie op 3 leuke nieuwe cadeaus! Echte toppiloten hebben ruimte nodig om hun vleugels uit te slaan. Daarom heeft ons bodempersoneel dag en nacht gezwoegd om jullie kleine hanger uit te bouwen. De volgende plek is al ingericht. Dat is van het huis ... natuurlijk!]]></item>
+  <item name="av.mmo.hint_title"><![CDATA[Je geluksster]]></item>
+  <item name="av.mmo.hint_text"><![CDATA[Deze exclusieve deco schittert gezellig boven je vliegveld. En dat niet alleen 's nachts ...]]></item>
+  <item name="av.mmo.shop_title"><![CDATA[10 is je geluksgetal!]]></item>
+  <item name="av.mmo.shop_text"><![CDATA[9 is goed ... 10 is beter! We doen graag iets extra .... en je mag bij Blije Baggage 10 keer gratis spelen!]]></item>
+ </category>
+ <category name="av.superfuel">
+  <item name="av.superfuel.header"><![CDATA[Zet de turbo er maar op!]]></item>
+  <item name="av.superfuel.title"><![CDATA[Break the speed of sound with the brand new Super Fuel!]]></item>
+  <item name="av.superfuel.text"><![CDATA[Are your planes, helicopters and jets seemingly glued to the ground? Not at your airport! Fill up on Super Fuel and watch your fleet zoom through the air visiting friends and delivering invaluable commodities all around the world.]]></item>
+  <item name="av.superfuel.hint_title"><![CDATA[VIP-landing]]></item>
+  <item name="av.superfuel.hint_text"><![CDATA[Nooit meer wachten. Je vliegtuigen landen zonder vertraging!]]></item>
+  <item name="av.superfuel.shop_title"><![CDATA[Gooi 'm vol!]]></item>
+  <item name="av.superfuel.shop_text"><![CDATA[For everyone above level 3 - 50 units of Super Fuel for free!]]></item>
+ </category>
+ <category name="av.may_day">
+  <item name="av.may_day.header"><![CDATA[Meidagen bij Skyrama!]]></item>
+  <item name="av.may_day.title"><![CDATA[Things are heating up in the summer skies of Skyrama! Time to sip on a cocktail and party in the sand!]]></item>
+  <item name="av.may_day.text"><![CDATA[Oh what a wonderful may!  The tower is bumping while we ring in the spring! Use the festive coinage to unlock exclusive items and celebrate Mother's Day, Father's Day and Spring Break all in one fell swoop. Now let's hope the turbulence stays away from the runway!]]></item>
+  <item name="av.may_day.hint_title"><![CDATA[Let your coins do the talking]]></item>
+  <item name="av.may_day.hint_text"><![CDATA[Get out and start collecting! The more coins you have, the more items you'll get!]]></item>
+  <item name="av.may_day.shop_title"><![CDATA[Shopping fever!]]></item>
+  <item name="av.may_day.shop_text"><![CDATA[Spring sale! Everything must go!]]></item>
+ </category>
+ <category name="av.eng_bay">
+  <item name="av.eng_bay.header"><![CDATA[Werkplaats voor hoogvliegers!]]></item>
+  <item name="av.eng_bay.title"><![CDATA[Is dat niet geweldig? Dit is echt de kers op de taart!]]></item>
+  <item name="av.eng_bay.text"><![CDATA[Ga in de winkel naar de "Airside-gebouwen": In de werkplaats kun je je vloot een persoonlijk tintje geven. Hier rusten managers hun toestelllen uit met navigatiesystemen, extra laadruim en betere motoren. Voor 100 Aircoins kun je nu direct aan de slag gaan. Eigendesign heeft de toekomst!]]></item>
+  <item name="av.eng_bay.hint_title"><![CDATA[Vers geknutseld!]]></item>
+  <item name="av.eng_bay.hint_text"><![CDATA[Nu een keer per etmaal: gratis vliegtuigen afdanken!]]></item>
+  <item name="av.eng_bay.shop_title"><![CDATA[Over jets en sets]]></item>
+  <item name="av.eng_bay.shop_text"><![CDATA[Geen tijd om te verzamelen? In de winkel is het materiaal in de aanbieding!]]></item>
+  <item name="av.eng_bay.buy_title"><![CDATA[Advies gevraagd]]></item>
+  <item name="av.eng_bay.buy_text"><![CDATA[Plaats tech-deco bij de parkeerplekken en versnel de afwikkeling (max. 40%)!]]></item>
+  <item name="av.eng_bay.skin_title"><![CDATA[Zet je troef in]]></item>
+  <item name="av.eng_bay.skin_text"><![CDATA[De vrieskistkuur voor onze piloten. Met de nieuwe look uit de werklplaats bereik je grote hoogten!]]></item>
+ </category>
+ <category name="av.announcement">
+  <item name="av.announcement.header"><![CDATA[Het Skyrama Overzicht]]></item>
+  <item name="av.announcement.title"><![CDATA[Een lekker voorproefje: hier lees je nu alles over de verrassingen van morgen!]]></item>
+  <item name="av.announcement.text"><![CDATA[In het hoogseizoen wordt het spannend bij Skyrama! Tegen het einde van de maand organiseren we een groots event ... speciaal voor onze topsporters en iedereen die het wil worden. Met o.a. exclusieve toestellen en gloednieuwe gebouwen scoor je misschien wel een gouden medaille. Bovendien zijn we achter de schermen begonnen met het groot onderhoud: we hebben de vakantietoestellen van onze beste bug-jagers teruggefloten ... zodat deze jongens en meisjes, tot de tanden toe bewapend, op jacht kunnen gaan. Zij zullen onze bugs te grazen nemen, reken maar!]]></item>
+  <item name="av.announcement.hint_title"><![CDATA[Boezemvrienden]]></item>
+  <item name="av.announcement.hint_text"><![CDATA[Comfortabeler, sneller, beter: binnenkort gaat de nieuwe vrienden-feature van start!]]></item>
+  <item name="av.announcement.shop_title"><![CDATA[Doe normaal? Echt niet!]]></item>
+  <item name="av.announcement.shop_text"><![CDATA[Spannende dagelijkse quests: binnenkort komen er gloednieuwe opdrachten!]]></item>
+ </category>
+ <category name="av.friends">
+  <item name="av.friends.header"><![CDATA[Sociaal Vluchtnetwerk]]></item>
+  <item name="av.friends.title"><![CDATA[Een volledig overzicht van het vliegverkeer: de nieuwe buddyplanner!]]></item>
+  <item name="av.friends.text"><![CDATA[Uit het oog, uit het hart! Als je je vrienden niet in de gaten houdt, is dat slecht voor je luchthaven. Het grondpersoneel heeft ons onlangs verteld dat er nogal wat problemen met je online-status waren. Zelfs de manager wilde de handdoek al werpen... Dat is nu voorgoed voorbij! Dankzij ons nieuwe vluchtsignaal kun je voortaan je vliegtuigen perfect op alle leden van je buddylijst afstemmen. Je hoeft alleen maar op het torentje linksboven de menulijst te klikken en je laat zien dat je plaatsen vrij hebt. De volgende 30 minuten sta je bovenaan in de buddylijst van je vrienden. Werk aan de winkel dus!! Zorg dat je op de hoogte blijft en laat je 'zakenpartners' zien wanneer je online bent!]]></item>
+  <item name="av.friends.hint_title"><![CDATA[Updates:]]></item>
+  <item name="av.friends.hint_text"><![CDATA[Plaats tech-deco bij de parkeerplekken en versnel de afwikkeling (max. 40%)!]]></item>
+  <item name="av.friends.shop_title"><![CDATA[Blijvertjes]]></item>
+  <item name="av.friends.shop_text"><![CDATA[Doe alsof je thuis bent! Binnenkort blijven je passagiers wel 5 dagen in de wachtruimte.]]></item>
+ </category>
+ <category name="av.10mi">
+  <item name="av.10mi.header"><![CDATA[Tien miljoen geregistreerde spelers!]]></item>
+  <item name="av.10mi.title"><![CDATA[Een klein event om dit grote record te vieren. Laat de kurken maar knallen!]]></item>
+  <item name="av.10mi.text"><![CDATA[Als dank voor jullie trouw, ontvang je 5 gratis draaien, 10 eenheden turbobrandstof en bouwmateriaal voor de werkplaats. In de winkel kun je bovendien een exclusief deco-item en het supervliegtuig MiljoenAirX bemachtigen.]]></item>
+  <item name="av.10mi.hint_title"><![CDATA[Al het begin is moeilijk]]></item>
+  <item name="av.10mi.hint_text"><![CDATA[10 Miljoen spelers, een hele week feest - vier mee van 10 - 17 december 2012!]]></item>
+  <item name="av.10mi.shop_title"><![CDATA[Er was eens ...]]></item>
+  <item name="av.10mi.shop_text"><![CDATA[Croydon Airport, het allereerste internationale vliegveld ter wereld, opende in maart 1920 haar deuren.]]></item>
+ </category>
+ <category name="av.dark_orbit">
+  <item name="av.dark_orbit.header"><![CDATA[Dark Luchthaven: Bezoek ons uit de ruimte!]]></item>
+  <item name="av.dark_orbit.title"><![CDATA[Met supersonische knal in de toekomst - wie heeft er nog behoefte aan vliegtuigen?]]></item>
+  <item name="av.dark_orbit.text"><![CDATA[Nu gloednieuw en exclusief: in de volgende uren landt de machtige gevechtskruiser Goliath voor een korte gastrol op je luchthaven. Haal deze vliegende vesting, maak de concurrentie bang en bewijs dat de toekomst van de luchtvaart in de sterren staat...]]></item>
+  <item name="av.dark_orbit.hint_title"><![CDATA[Gisteren David, vandaag Goliath!]]></item>
+  <item name="av.dark_orbit.hint_text"><![CDATA[6 jaar DarkOrbit - op 11.12. werd groen licht gegeven aan de grote space opera]]></item>
+  <item name="av.dark_orbit.shop_title"><![CDATA[Unieke aanbieding]]></item>
+  <item name="av.dark_orbit.shop_text"><![CDATA[Nu of nooit: Benut uw kans op de Goliath!]]></item>
+ </category>
+ <category name="av.high_level">
+  <item name="av.high_level.header"><![CDATA[Landingspermissie voor de vliegtuig-elite]]></item>
+  <item name="av.high_level.title"><![CDATA[Onze nieuwe vliegtuigen zijn er!]]></item>
+  <item name="av.high_level.text"><![CDATA[Goede piloten willen hoog vliegen, de beste piloten willen aan de top! In de toekomst kunnen jullie je vloot uitbreiden met de crème de la crème van het internationale luchtverkeer. Laat je verrassen en ontdek welke legendarische vlieger als volgende je luchthaven aandoet!]]></item>
+  <item name="av.high_level.hint_title"><![CDATA[Rien ne va plus ]]></item>
+  <item name="av.high_level.hint_text"><![CDATA[In de stemming om te winnen? Het grote lot wacht op je.]]></item>
+  <item name="av.high_level.shop_title"><![CDATA[Nu doorstarten]]></item>
+  <item name="av.high_level.shop_text"><![CDATA[De nieuwe vliegtuigen - op voorraad en glimmend gepoetst.]]></item>
+ </category>
+ <category name="av.newquests">
+  <item name="av.newquests.header"><![CDATA[Quest-O-Rama]]></item>
+  <item name="av.newquests.title"><![CDATA[Startpermissie voor nieuwe missies!]]></item>
+  <item name="av.newquests.text"><![CDATA[Nieuwe verhalen, nieuwe karakters en een heleboel spannende opdrachten: In de komende weken is er altijd iets te doen op je luchthaven. Na een lange afwezigheid van hoofd- en storyquesten, zijn Hendrik, Lisa & co. nu weer volop aanwezig in de dagelijkse luchthavenchaos. Alleen al deze week hebben we 10 nieuwe missies voor alle spelers, die hun quest-lijst al hadden afgewerkt. En in de daarop volgende weken komen er nog meer. Veel meer! Bereid je voor op nieuwe quest-updates en ontdek wat we verder nog voor jullie in petto hebben.]]></item>
+  <item name="av.newquests.hint_title"><![CDATA[Nieuwe gebouwen in de winkel]]></item>
+  <item name="av.newquests.hint_text"><![CDATA[Kleuterbad of veiligheid - er is voor ieder wat wils.]]></item>
+  <item name="av.newquests.shop_title"><![CDATA[Wonderexpress!]]></item>
+  <item name="av.newquests.shop_text"><![CDATA[Verzamel vliegtuigonderdelen en maak je "Wonderexpress-verzameling" compleet!]]></item>
+ </category>
+ <category name="av.recyclingnews">
+  <item name="av.recyclingnews.header"><![CDATA[Sloop-tastisch: recycle je vliegtuigen!]]></item>
+  <item name="av.recyclingnews.title"><![CDATA[Milieuvriendelijkheid ten top!]]></item>
+  <item name="av.recyclingnews.text"><![CDATA[Volle hangar, file op de landingsbaan en frustratie in de verkeerstoren? Geen probleem! Zeg maar dag tegen je oude roestbakken, stuur ze naar het nieuwe recyclingscentrum en zie hoe de nieuwe onderdelen van de band rollen. In de montagehal gaan de slimste techneuten ermee aan de slag en maken uit de materialen fantastische supervliegtuigen. Zorg dat je erbij bent en vlieg de toekomst tegemoet! ]]></item>
+  <item name="av.recyclingnews.hint_title"><![CDATA[Nieuwe onderdelen]]></item>
+  <item name="av.recyclingnews.hint_text"><![CDATA[Glas, pinnen of metaal - zonder deze onderdelen kun je geen vliegtuig bouwen.]]></item>
+  <item name="av.recyclingnews.shop_title"><![CDATA[De Jet-Set]]></item>
+  <item name="av.recyclingnews.shop_text"><![CDATA[Bliksemsnel en ultrasonisch: je nieuwe vloot heeft stijl! ]]></item>
+ </category>
+</language>

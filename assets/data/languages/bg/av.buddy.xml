@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.buddy">
+  <item name="av.buddy.title"><![CDATA[Добавяне на приятели]]></item>
+  <item name="av.buddy.text"><![CDATA[Заедно сме силни: покани приятелите си да играят!]]></item>
+  <item name="av.buddy.search"><![CDATA[Добавяне на приятели към списъка с приятели]]></item>
+  <item name="av.buddy.search.hint"><![CDATA[Никнейм/идент. номер на потребителя]]></item>
+  <item name="av.buddy.search.button"><![CDATA[Търси]]></item>
+  <item name="av.buddy.search.results"><![CDATA[Резултати]]></item>
+  <item name="av.buddy.search.searching"><![CDATA[Извършва се търсене...]]></item>
+  <item name="av.buddy.search.add"><![CDATA[Добавяне на приятел]]></item>
+  <item name="av.buddy.search.user_result"><![CDATA[{username} (ID: {id})]]></item>
+  <item name="av.buddy.search.user_notfound"><![CDATA[Играчът не е намерен]]></item>
+  <item name="av.buddy.search.user_added"><![CDATA[Приятелят беше успешно добавен]]></item>
+  <item name="av.buddy.search.user_notadded"><![CDATA[Приятелят не можеше да бъде добавен]]></item>
+  <item name="av.buddy.search.user_yourself"><![CDATA[Не можеш да се добавиш сам(а)]]></item>
+  <item name="av.buddy.search.user_already"><![CDATA[Запитаният потребител вече е твой приятел]]></item>
+  <item name="av.buddy.email"><![CDATA[Покана по имейл]]></item>
+ </category>
+</language>

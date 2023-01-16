@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.buddy">
+  <item name="av.buddy.title"><![CDATA[Lisää kavereita!]]></item>
+  <item name="av.buddy.text"><![CDATA[Yhdessä olemme vahvoja: Kutsu kavereita peliin!]]></item>
+  <item name="av.buddy.search"><![CDATA[Lisää kaveri kaverilistalle]]></item>
+  <item name="av.buddy.search.hint"><![CDATA[Käyttäjänimi/ID]]></item>
+  <item name="av.buddy.search.button"><![CDATA[Haku]]></item>
+  <item name="av.buddy.search.results"><![CDATA[Tulokset]]></item>
+  <item name="av.buddy.search.searching"><![CDATA[Haetaan...]]></item>
+  <item name="av.buddy.search.add"><![CDATA[Lisää kaveri]]></item>
+  <item name="av.buddy.search.user_result"><![CDATA[{username} (ID: {id})]]></item>
+  <item name="av.buddy.search.user_notfound"><![CDATA[Pelaajaa ei löytynyt]]></item>
+  <item name="av.buddy.search.user_added"><![CDATA[Pelaaja lisättiin]]></item>
+  <item name="av.buddy.search.user_notadded"><![CDATA[Pelaajaa ei voitu lisätä]]></item>
+  <item name="av.buddy.search.user_yourself"><![CDATA[Et voi lisätä itseäsi]]></item>
+  <item name="av.buddy.search.user_already"><![CDATA[Pelaaja on jo kaverisi]]></item>
+  <item name="av.buddy.email"><![CDATA[Sähköpostikutsu]]></item>
+ </category>
+</language>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.news">
+  <item name="av.news.header"><![CDATA[Новости Skyrama]]></item>
+  <item name="av.news.title"><![CDATA[Всем привет! Я - Кассандра, пилот гидроплана. Давайте я кратко расскажу о новых особенностях в игре.]]></item>
+  <item name="av.news.text"><![CDATA[<li>Введена новая система грузов! Воспользуйтесь новым обучением, чтобы разобраться в деталях!</li><li>Пассажиры, собранные в течение одного дня, покинут аэропорт через 72 часа, если не дождутся отправки самолётом. Не забывайте про то, что терпение у них не резиновое!</li>]]></item>
+  <item name="av.news.hint_title"><![CDATA[Подсказка:]]></item>
+  <item name="av.news.hint_text"><![CDATA[Если ваши самолёты обслуживаются в других аэропортах, вы получаете двойную прибыль!]]></item>
+  <item name="av.news.shop_title"><![CDATA[МегаСкорый!]]></item>
+  <item name="av.news.shop_text"><![CDATA[Собирайте части самолёта, чтобы дополнить коллекцию «МегаСкорый».]]></item>
+ </category>
+ <category name="av.santanews">
+  <item name="av.santanews.header"><![CDATA[Зимние новости]]></item>
+  <item name="av.santanews.title"><![CDATA[Хо-хо-хо! Skyrama запорошил белый снежок, а это значит, что все пилоты, пассажиры и стюардессы с нетерпением ждут весёлой новогодней вечеринки. Пристёгивайтесь и ждите головокружительных сюрпризов!]]></item>
+  <item name="av.santanews.text"><![CDATA[В последние недели уходящего года к нам в гости залетит Дед Мороз. Смотрите в оба - иногда он будет раскидывать подарки прямо сверху. Собирайте их и получайте награды! Акция пройдёт с 24.12. по 26.12.]]></item>
+  <item name="av.santanews.hint_title"><![CDATA[Фейерверки!]]></item>
+  <item name="av.santanews.hint_text"><![CDATA[С Новым Годом! Поздравьте друзей с наступающими праздниками, отправив им баннер с фейерверками! Акция пройдёт с 29.12. по 31.12.]]></item>
+  <item name="av.santanews.shop_title"><![CDATA[Экспресс-обслуживание]]></item>
+  <item name="av.santanews.shop_text"><![CDATA[Заплатите один раз и обслужите как можно больше самолётов БЕСПЛАТНО за следующие 24 часа!]]></item>
+ </category>
+ <category name="av.january12news">
+  <item name="av.january12news.header"><![CDATA[Новогодние новости]]></item>
+  <item name="av.january12news.title"><![CDATA[С Новым годом! Удачных полётов в 2012-ом! Только мягких посадок, нескончаемого потока пассажиров и чтобы аэромонеты звенели в кассе!]]></item>
+  <item name="av.january12news.text"><![CDATA[Благодаря одной технической оптимизации самолёты теперь автоматически перемещаются в соответствующий бокс. Испытайте новую систему и убедитесь, что с ней отправка рейсов стала намного удобнее - работа любого аэроменеджера значительно упростилась!]]></item>
+  <item name="av.january12news.hint_title"><![CDATA[Апдейты:]]></item>
+  <item name="av.january12news.hint_text"><![CDATA[Мы усердно работаем над сокращением времени загрузки и улучшением функциональности. Спасибо вам за терпение!]]></item>
+  <item name="av.january12news.shop_title"><![CDATA[Покупка товаров:]]></item>
+  <item name="av.january12news.shop_text"><![CDATA[Кончились товары? Ты можешь в любое время докупить их в магазине.]]></item>
+ </category>
+ <category name="av.modernizationnews">
+  <item name="av.modernizationnews.header"><![CDATA[Новые ежедневые квесты!]]></item>
+  <item name="av.modernizationnews.title"><![CDATA[21 новое приключение для персонала аэропорта!]]></item>
+  <item name="av.modernizationnews.text"><![CDATA[Да уж, перестройка аэропорта - дело трудоёмкое. Неудивительно, что за последние месяцы о команде Skyrama мало что было слышно. Однако теперь Тарик, Лина, Курт и остальные снова готовы штурмовать заоблачные высоты! Отправляйтесь вместе с этой весёлой командой на шопинг-тур, наблюдайте за любовными приключениями Тарика и улыбайтесь! Нажмите на звезду слева и стартуйте квесты, пока время не вышло. Ведь через пару недель на этом месте появятся совершенно новые задания!]]></item>
+  <item name="av.modernizationnews.hint_title"><![CDATA[Апдейты:]]></item>
+  <item name="av.modernizationnews.hint_text"><![CDATA[Размещайте тех. декор возле боксов, чтобы сократить время обслуживания вплоть до 40%.]]></item>
+  <item name="av.modernizationnews.shop_title"><![CDATA[Новые самолёты!]]></item>
+  <item name="av.modernizationnews.shop_text"><![CDATA[Загляните в магазин - там Вы найдёте новые прототипы авиалайнеров и спасательные самолёты!]]></item>
+ </category>
+ <category name="av.modernizationnews+mmo">
+  <item name="av.modernizationnews+mmo.header"><![CDATA[Аэропорт будущего!]]></item>
+  <item name="av.modernizationnews+mmo.title"><![CDATA[Добро пожаловать в аэропорт будущего! Теперь у нас в распоряжении есть супермодели самолётов и шикарные новые постройки!]]></item>
+  <item name="av.modernizationnews+mmo.text"><![CDATA[Хорошие новости, пилоты! Skyrama номинирована на премию «Best Tycoon Browser MMO»! Ур-р-р-а! Пожалуйста, проголосуйте за нас по ссылке ниже: <br/><a href="http://mmooftheyear.com/" target="_blank"><u>Ссылка на голосование</u></a><br/>Помогите Skyrama достичь новых высот! Если мы выиграем премию, мы вручим вам особенный сюрприз!]]></item>
+  <item name="av.modernizationnews+mmo.hint_title"><![CDATA[Апдейты:]]></item>
+  <item name="av.modernizationnews+mmo.hint_text"><![CDATA[Размещайте тех. декор возле боксов, чтобы сократить время обслуживания вплоть до 40%.]]></item>
+  <item name="av.modernizationnews+mmo.shop_title"><![CDATA[Новые самолёты!]]></item>
+  <item name="av.modernizationnews+mmo.shop_text"><![CDATA[Загляните в магазин - там Вы найдёте новые прототипы авиалайнеров и спасательные самолёты!]]></item>
+ </category>
+ <category name="av.modernizationnews+unlocking">
+  <item name="av.modernizationnews+unlocking.header"><![CDATA[Аэропорт будущего!]]></item>
+  <item name="av.modernizationnews+unlocking.title"><![CDATA[Добро пожаловать в аэропорт будущего! Теперь у нас в распоряжении есть супермодели самолётов и шикарные новые постройки!]]></item>
+  <item name="av.modernizationnews+unlocking.text"><![CDATA[Внимание всем пилотам!<br/>Теперь в вашем распоряжении есть карта полётов, на которой отображается статус полёта и активированные страны.<br/>Отправьте рейсы во все страны континента, чтобы получить ценную награду. Демонстрируйте свой воздушный флот всем друзьям!]]></item>
+  <item name="av.modernizationnews+unlocking.hint_title"><![CDATA[Апдейты:]]></item>
+  <item name="av.modernizationnews+unlocking.hint_text"><![CDATA[Размещайте тех. декор возле боксов, чтобы сократить время обслуживания вплоть до 40%.]]></item>
+  <item name="av.modernizationnews+unlocking.shop_title"><![CDATA[Новые самолёты!]]></item>
+  <item name="av.modernizationnews+unlocking.shop_text"><![CDATA[Загляните в магазин - там Вы найдёте новые прототипы авиалайнеров и спасательные самолёты!]]></item>
+ </category>
+ <category name="av.zeppelinexpedition">
+  <item name="av.zeppelinexpedition.header"><![CDATA[Новые функции!]]></item>
+  <item name="av.zeppelinexpedition.title"><![CDATA[Объявляем о начале экспедиций на дирижабле и открытии новых стран! Всех участников ждёт слава, честь и особые награды!]]></item>
+  <item name="av.zeppelinexpedition.text"><![CDATA[Теперь вы можете следить за статусом полёта на карте, открывающей доступ к новым странам. Посетите каждую страну на континенте, чтобы получить награду, и похвалитесь друзьям своим шикарным воздушным флотом!<br/><br/>Как только вы обзаведётесь ангаром для дирижаблей, вы можете приступить к сбору топлива для экспедиции. Для этого сыграйте в мини-игру «АВИАШОУ». Если вы не накопили достаточно топлива, отправьте дирижабль в экзотические места, чтобы собрать редкие сувениры. Как только вы добудете достаточно сувениров, вы сможете обменять их на один из двух эксклюзивных самолётов. Проверьте хранилище - возможно, ангар для дирижаблей уже там!]]></item>
+  <item name="av.zeppelinexpedition.hint_title"><![CDATA[Экспедиция на дирижабле!]]></item>
+  <item name="av.zeppelinexpedition.hint_text"><![CDATA[Привезите из экспедиции коллекцию сувениров и получите в награду Дедараму или невероятный Spaceship-One.]]></item>
+  <item name="av.zeppelinexpedition.shop_title"><![CDATA[Авиашоу]]></item>
+  <item name="av.zeppelinexpedition.shop_text"><![CDATA[Авиашоу активируется в аэропорту, как только у вас будет ангар для дирижаблей. Нажимайте на пролетающие самолёты в нужный момент, чтобы собирать топливо.]]></item>
+ </category>
+ <category name="av.mmo">
+  <item name="av.mmo.header"><![CDATA[MMO года!]]></item>
+  <item name="av.mmo.title"><![CDATA[Кто голосует, тот выигрывает! Благодаря вашим голосам экипаж Skyrama прилетел в родной аэропорт с наградой MMO Award 2012!]]></item>
+  <item name="av.mmo.text"><![CDATA[Вы отдали свои голоса за Skyrama, и она выиграла премию <br/><a href="http://mmooftheyear.com/" target="_blank"><u>MMO года 2012</u></a><br/> в номинации «Лучший браузерный экономический симулятор»! Мы празднуем победу, пробки от шампанского летят в потолок, а вам достанется три замечательных подарка! Пилотам-асам нужно место, чтобы расправить крылья, поэтому наземный персонал денно и нощно корпел над тем, чтобы расширить ваш небольшой ангар. И вот теперь в нём наконец-то больше места - само собой, за счёт заведения!]]></item>
+  <item name="av.mmo.hint_title"><![CDATA[Счастливая звезда]]></item>
+  <item name="av.mmo.hint_text"><![CDATA[С этим эксклюзивным декором аэропорт будет сверкать не только ночью, но и днём!]]></item>
+  <item name="av.mmo.shop_title"><![CDATA[В десяточку]]></item>
+  <item name="av.mmo.shop_text"><![CDATA[9 попыток хорошо, а 10 ещё лучше. Поэтому мы дарим вам 10 бесплатных попыток в багажной лотерее!]]></item>
+ </category>
+ <category name="av.superfuel">
+  <item name="av.superfuel.header"><![CDATA[Залей полные баки турбо-топлива!]]></item>
+  <item name="av.superfuel.title"><![CDATA[В пол педаль и полный вперёд - с новым турбо-топливом!]]></item>
+  <item name="av.superfuel.text"><![CDATA[Самолёты прилипли к земле, а вертолёты еле ворочают винтами? С этим покончено! Заливай полные баки инновативного турбо-топлива и проносись, словно молния, над улицами, городами, странами и континентами!]]></item>
+  <item name="av.superfuel.hint_title"><![CDATA[VIP-посадка]]></item>
+  <item name="av.superfuel.hint_text"><![CDATA[Очереди на посадку в прошлом. Обслуживай самолёты без промедления!]]></item>
+  <item name="av.superfuel.shop_title"><![CDATA[На заправку!]]></item>
+  <item name="av.superfuel.shop_text"><![CDATA[Для всех с 3-го уровня: 50 литров турбо-топлива бесплатно!]]></item>
+ </category>
+ <category name="av.may_day">
+  <item name="av.may_day.header"><![CDATA[Майские улёт в Skyrama!]]></item>
+  <item name="av.may_day.title"><![CDATA[Пора скинуть тесные туфли и отправиться на пляж потягивать коктейли!]]></item>
+  <item name="av.may_day.text"><![CDATA[Ах, май, этот май!  Весной и дышится легче, и энергия плещет! Меняйте цветочные монеты на эксклюзивные предметы и празднуйте весну, жару и хорошее настроение! Попутного вам ветра!]]></item>
+  <item name="av.may_day.hint_title"><![CDATA[Позвени монетами]]></item>
+  <item name="av.may_day.hint_text"><![CDATA[Скорее собирай цветочные монеты - чем больше монет, тем больше призов!]]></item>
+  <item name="av.may_day.shop_title"><![CDATA[Майская шопомания!]]></item>
+  <item name="av.may_day.shop_text"><![CDATA[Весенняя распродажа - сногсшибательные скидки!]]></item>
+ </category>
+ <category name="av.eng_bay">
+  <item name="av.eng_bay.header"><![CDATA[Авиамастерская!]]></item>
+  <item name="av.eng_bay.title"><![CDATA[Прогресс не остановить - модернизируйте свой флот!]]></item>
+  <item name="av.eng_bay.text"><![CDATA[Новинка в разделе магазина «Службы аэропорта»: в новой авиамастерской Вы можете сделать капитальный ремонт своих машин и нашпиговать их супер-инновативными деталями! Оснащайте самолёты и вертолёты новыми навигационными системами, огромными грузовыми отсеками и улучшенными двигателями. За 100 аэромонет авиамастерская станет Вашей! Долой самолёты с конвейера - даёшь стране единичные экземпляры!]]></item>
+  <item name="av.eng_bay.hint_title"><![CDATA[За работу!]]></item>
+  <item name="av.eng_bay.hint_text"><![CDATA[Каждые 24 часа - бесплатная утилизация самолётов!]]></item>
+  <item name="av.eng_bay.shop_title"><![CDATA[Джеты, как ракеты!]]></item>
+  <item name="av.eng_bay.shop_text"><![CDATA[Нет времени на сбор деталей? Тогда покупайте их наборами по спецценам в магазине!]]></item>
+  <item name="av.eng_bay.buy_title"><![CDATA[Первый грузовой вертолёт]]></item>
+  <item name="av.eng_bay.buy_text"><![CDATA[Размещайте тех. декор возле боксов, чтобы сократить время обслуживания вплоть до 40%. ]]></item>
+  <item name="av.eng_bay.skin_title"><![CDATA[Щегольнуть новым корпусом]]></item>
+  <item name="av.eng_bay.skin_text"><![CDATA[Полная реконструкция самолётов. Ваш самолёт покинет мастерскую в совем новом облике!]]></item>
+ </category>
+ <category name="av.announcement">
+  <item name="av.announcement.header"><![CDATA[Вестник Skyrama]]></item>
+  <item name="av.announcement.title"><![CDATA[Что день грядущий нам готовит или взгляд в будущее]]></item>
+  <item name="av.announcement.text"><![CDATA[В горячий летний сезон в Skyrama кипят дела. К концу месяца всех спортсменов и диванных атлетов ждёт увлекательнейшая акция. Выигрывайте золотые медали и получайте новейшие самолёты, эксклюзивные постройки и другие призы! Кроме того, вооружившись масками и халатами, мы активно боремся с вредными насекомыми, прокравшимися в программный код и вылавливаем их по одному и целыми стаями! Долой вредителей - даёшь чистую и бесперебойную игру!]]></item>
+  <item name="av.announcement.hint_title"><![CDATA[Закадычные друзья]]></item>
+  <item name="av.announcement.hint_text"><![CDATA[Совсем скоро: удобная и динамичная функция приглашения друзей!]]></item>
+  <item name="av.announcement.shop_title"><![CDATA[Новые испытания]]></item>
+  <item name="av.announcement.shop_text"><![CDATA[Ежедневные квесты пополнятся новыми заданиями!]]></item>
+ </category>
+ <category name="av.friends">
+  <item name="av.friends.header"><![CDATA[Социальная авиасеть]]></item>
+  <item name="av.friends.title"><![CDATA[Полный контроль свободных мест: представляем новую сигнальную систему!]]></item>
+  <item name="av.friends.text"><![CDATA[С глаз долой - из сердца вон? Как бы не так! В воздушном сообщении важно держать друзей в поле зрения. В последнее время наземный персонал всё чаще сообщает о перебоях онлайн-статусов, при которых бессильны даже самые профессиональные авиаменеджеры. С этим наконец-то покончено! Благодаря новой сигнальной системе вы сможете без проблем согласовывать действия со всеми друзьями из своего списка. Для этого нажмите на символ башни слева вверху на полоске меню и дайте знать, что у вас есть свободные места. На следующие 30 минут вы окажетесь в самом начале списка у своих друзей. Итак, за работу! Держите друг друга в курсе дел и сигнализируйте авиаколлегам, когда вы онлайн.]]></item>
+  <item name="av.friends.hint_title"><![CDATA[Апдейты:]]></item>
+  <item name="av.friends.hint_text"><![CDATA[Размещайте тех. декор возле боксов, чтобы сократить время обслуживания вплоть до 40%.]]></item>
+  <item name="av.friends.shop_title"><![CDATA[Желанные гости]]></item>
+  <item name="av.friends.shop_text"><![CDATA[Лучше, чем дома: в будущем пассажиры будут оставаться в зале ожидания целых 5 дней.]]></item>
+ </category>
+ <category name="av.10mi">
+  <item name="av.10mi.header"><![CDATA[10 миллионов зарегистрированных игроков!]]></item>
+  <item name="av.10mi.title"><![CDATA[Небольшая акция в честь БОЛЬШОГО рекорда. Ура рекордсменам!]]></item>
+  <item name="av.10mi.text"><![CDATA[В знак благодарности за Вашу верность авиаделу мы дарим вам 5 бесплатных прокруток в багажной лотерее, 10 ед. турбо-топлива и детали для авиамастерской. Кроме того, в магазине Вы найдёте эксклюзивный спецдекор и элитный самолёт «Миллион-Air X».]]></item>
+  <item name="av.10mi.hint_title"><![CDATA[Первый раз в первый полёт]]></item>
+  <item name="av.10mi.hint_text"><![CDATA[Недельная вечеринка с 10 по 17.12.2012 в честь 10 миллионов игроков Skyrama!]]></item>
+  <item name="av.10mi.shop_title"><![CDATA[Давным-давно...]]></item>
+  <item name="av.10mi.shop_text"><![CDATA[Первый международный аэропорт в мире Кройдон открылся в марте 1920 года.]]></item>
+ </category>
+ <category name="av.dark_orbit">
+  <item name="av.dark_orbit.header"><![CDATA[Dark Airport: гости из космоса!]]></item>
+  <item name="av.dark_orbit.title"><![CDATA[Со скоростью света в будущее! И кому ещё нужны эти самолёты?]]></item>
+  <item name="av.dark_orbit.text"><![CDATA[Эксклюзивная новинка: в течение следующих часов в Вашем аэропорту приземлится мощный боевой крейсер Голиаф. Завладейте этой летучей крепостью, внушите страх конкурентам и докажите, что будущее авиации среди звёзд...]]></item>
+  <item name="av.dark_orbit.hint_title"><![CDATA[Вчера Давид, сегодня Голиаф!]]></item>
+  <item name="av.dark_orbit.hint_text"><![CDATA[DarkOrbit празднует 6-летие - 11.12. вышел в свет этот орбитальный эпос!]]></item>
+  <item name="av.dark_orbit.shop_title"><![CDATA[Уникальное предложение]]></item>
+  <item name="av.dark_orbit.shop_text"><![CDATA[Сейчас или никогда: не упустите красавца Голиафа!]]></item>
+ </category>
+ <category name="av.high_level">
+  <item name="av.high_level.header"><![CDATA[Разрешение на посадку для VIP-авиафлота]]></item>
+  <item name="av.high_level.title"><![CDATA[Представляем новые супер-самолёты!]]></item>
+  <item name="av.high_level.text"><![CDATA[Хорошие пилоты стремятся ввысь, а лучшие - на самые высокие вершины! Отныне вы сможете украсить свой флот элитой международного самолётостроения. Интересно, какая легендарная машина приземлится в вашем аэропорту следующей?]]></item>
+  <item name="av.high_level.hint_title"><![CDATA[Лучшие из лучших]]></item>
+  <item name="av.high_level.hint_text"><![CDATA[Хотите в элиту? Вас ждёт жирный куш!]]></item>
+  <item name="av.high_level.shop_title"><![CDATA[Стартовать]]></item>
+  <item name="av.high_level.shop_text"><![CDATA[Новые начищенные до блеска самолёты дожидаются Вас на складе.]]></item>
+ </category>
+ <category name="av.newquests">
+  <item name="av.newquests.header"><![CDATA[Квест-о-рама]]></item>
+  <item name="av.newquests.title"><![CDATA[Разрешение начать новые миссии!]]></item>
+  <item name="av.newquests.text"><![CDATA[Новые истории, новые персонажи и много интересных заданий: в ближайшие недели в аэропорту вас будут радовать новые захватывающие события. После длительного перерыва Тарик, Лина и их друзья снова будут сопровождать вас в главных и сюжетных квестах. Вы готовы оказать им помощь в борьбе с ежедневным хаосом аэропорта? Уже только на этой неделе всех игроков, готовых начать новые квесты, ждут 10 новых миссий. А в ближайшие недели их будет ещё больше. Намного больше! Приготовьтесь к регулярным обновлениям заданий и узнавайте, что мы для вас приготовили ещё.]]></item>
+  <item name="av.newquests.hint_title"><![CDATA[Новые здания в магазине]]></item>
+  <item name="av.newquests.hint_text"><![CDATA[От бассейна с волнами до аварийных принадлежностей - здесь есть всё и на любой вкус.]]></item>
+  <item name="av.newquests.shop_title"><![CDATA[МегаСкорый!]]></item>
+  <item name="av.newquests.shop_text"><![CDATA[Собирайте части самолёта, чтобы дополнить коллекцию «МегаСкорый».]]></item>
+ </category>
+ <category name="av.recyclingnews">
+  <item name="av.recyclingnews.header"><![CDATA[Новинка: вторпереработка самолётов!]]></item>
+  <item name="av.recyclingnews.title"><![CDATA[И вам приятно, и природе полезно!]]></item>
+  <item name="av.recyclingnews.text"><![CDATA[На взлётно-посадочной полосе не развернуться, ангар трещит по швам, а экипаж бастует? Не беда! Теперь вы с лёгкостью можете навести порядок в аэропорту, отправить старые, отжившие свой век самолёты в наш новенький центр вторпереработки и разобрать их на необходимые запчасти. После этого отвезите запчасти в сборочный цех, передайте их в руки наших умелых механиков - и вы получите новый, потрясный самолёт буквально в мгновение ока. Вперёд, в будущее! К взлёту готовы?]]></item>
+  <item name="av.recyclingnews.hint_title"><![CDATA[Новые запчасти]]></item>
+  <item name="av.recyclingnews.hint_text"><![CDATA[Стекло, болты или металл? Неважно! Без запчастей ни один самолёт не взлетит!]]></item>
+  <item name="av.recyclingnews.shop_title"><![CDATA[Супер-самолёты]]></item>
+  <item name="av.recyclingnews.shop_text"><![CDATA[Стремительные и ультра-обтекаемые: таких стильных самолётов вы ещё не видали!]]></item>
+ </category>
+</language>

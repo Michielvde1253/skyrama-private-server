@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.event_pumpkin">
+  <item name="av.event_pumpkin.title"><![CDATA[Kurpitsaviikot]]></item>
+  <item name="av.event_pumpkin.text"><![CDATA[On kurpitsa-aika! Sinulle se tarkoittaa kurpitsojen keräämistä. Saat niitä koneiden palvelemisesta. Kun sinulla on tarpeeksi, voit ostaa niillä uniikkeja koneita ja rakennuksia, jotka ovat saatavilla vain vähän aikaa! Kiirehdi ja hanki niin monta kurpitsaa, kuin pystyt!]]></item>
+  <item name="av.event_pumpkin.mouseover"><![CDATA[Kurpitsaviikot]]></item>
+ </category>
+ <category name="av.event_winter">
+  <item name="av.event_winter.title"><![CDATA[Talviviikot]]></item>
+  <item name="av.event_winter.text"><![CDATA[Vuoden kaunein aika on saapunut!  Kimaltavan valkoiset lumihiutaleet satelevat hiljalleen lentokentälle, ja yhä useampi pilotti kertoo Lapin suunnassa näkyneestä lentävästä reestä.<br/>Talviviikkojen aikana voit saada lahjoja palvelemiltasi koneilta.  Osta lahjoilla uniikkeja koneita tai rakennuksia!]]></item>
+  <item name="av.event_winter.mouseover"><![CDATA[Talviviikot]]></item>
+ </category>
+ <category name="av.valentines_week">
+  <item name="av.valentines_week.title"><![CDATA[Romanttiset viikot]]></item>
+  <item name="av.valentines_week.text"><![CDATA[Rakkautta ilmassa!<br/>Pilotit raportoivat lentävistä objekteista. He ovat nähneet jonkin ampumassa pienillä nuolilla. Varo, ettet saa osumaa! <br/>Palvele koneita kerätäksesi ruusuja ja käytä niitä uniikkien tuotteiden ostamiseen! Vain vähän aikaa! <br/>Can you feel the love?]]></item>
+  <item name="av.valentines_week.mouseover"><![CDATA[Romanttiset viikot]]></item>
+ </category>
+ <category name="av.easter_week">
+  <item name="av.easter_week.title"><![CDATA[Munabileet lentokentällä!]]></item>
+  <item name="av.easter_week.text"><![CDATA[Skyramassa tiedetään, miten kukko munii! 30.3.-15.4.2012 voit pelata itsellesi upeita tuotteita, taustoja ja koneita - tule mukaan!]]></item>
+  <item name="av.easter_week.mouseover"><![CDATA[Ole mukana munakkaassa juhlassa!]]></item>
+ </category>
+ <category name="av.may_days">
+  <item name="av.may_days.title"><![CDATA[Tropical party Skyramassa!]]></item>
+  <item name="av.may_days.text"><![CDATA[Trooppiset bileet jatkuvat! Piditte juhlasta niin kovin, että tänään ja huomenna vuorossa on vielä kunniakierros kentällä. Tropiikki kutsuu!]]></item>
+  <item name="av.may_days.mouseover"><![CDATA[Juhlakuukausi alkoi! Tropical party Skyramassa!]]></item>
+ </category>
+ <category name="av.bday">
+  <item name="av.bday.title"><![CDATA[Vuosi täynnä Skyramaa!]]></item>
+  <item name="av.bday.text"><![CDATA[Eläköön Skyrama! Peli on ollut olemassa jo kokonaisen vuoden. Ilman teitä emme olisi pystyneet tähän suoritukseen, ja siksi 6. - 17.6. juhlitaan lennokkaasti. Pelatkaa kakunpaloilla itsellenne tapahtumakoneita tai hankkikaa itsellenne upouusi synttäritausta. Nyt lähdetään kunnolla liitoon!]]></item>
+  <item name="av.bday.mouseover"><![CDATA[Party-time!]]></item>
+ </category>
+ <category name="av.olympic">
+  <item name="av.olympic.title"><![CDATA[Skyrama-kesäturnaus]]></item>
+  <item name="av.olympic.text"><![CDATA[Täällä vain korkealentoisimmat pääsevät palkintokorokkeelle. 27.7.-12.8.2012 ilmassa on urheiluhenkeä. Upeita lentokoneita, harvinaisia koristeita ja muuta. Täällä lennetään voitosta! Ole valmistelun mestari, varmista kultamitalit ja hanki niillä tapahtumakaupasta uusia tuotteita!]]></item>
+  <item name="av.olympic.mouseover"><![CDATA[Paikoillenne, valmiit, hep: Urheile itsesi maailmankartalle!]]></item>
+ </category>
+ <category name="av.pirate">
+  <item name="av.pirate.title"><![CDATA[Lennä kuin merirosvo!]]></item>
+  <item name="av.pirate.text"><![CDATA[Jo viikon ajan lentokentällä on ryöstetty ja poltettu, mihin on puujaloilta pystytty. Siinä on syytä tarpeeksi pidentää vilkaisua merirosvojen maailmaan spontaanisti seitsemällä päivällä. 16.9. saakka kanuunat jylisevät ja rommilaulut soivat. Lisäksi vieläkin enemmän merellistä tunnelmaa kaipaavat voivat hankkia kaupasta trooppisen Karibia-taustan. Tarttukaa aseisiin!]]></item>
+  <item name="av.pirate.mouseover"><![CDATA[Merirosvoviikot tuovat aallokkoa!]]></item>
+ </category>
+ <category name="av.event2">
+  <item name="av.event2.title"><![CDATA[Oktoberfest Skyramassa]]></item>
+  <item name="av.event2.text"><![CDATA[Valkoiset pilvet, sininen taivas - on aika järjestää lentokentällä iloinen Oktoberfest. Baijerilaisilla tuotteilla, monilitraisilla lentokoneilla ja nahkahousuisilla tehtävillä lennämme rinkeliä maapallon ympäri. Tunnettuja panimoja on pian muuallakin kuin Münchenissä!<br/>(Alkoholi on vaaraksi terveydelle)]]></item>
+  <item name="av.event2.mouseover"><![CDATA[Skyraman lokakuu on ankeuden vastakohta]]></item>
+ </category>
+ <category name="av.event3">
+  <item name="av.event3.title"><![CDATA[Skyraman kammotusviikot]]></item>
+  <item name="av.event3.text"><![CDATA[Lentokentällä on helvetti irti... sanan todenmukaisessa merkityksessä. 25.10.-11.11.2012 manalan joukot riehuvat kiitoradalla, tornissa, tullitiskeillä ja hangaarissa. Jopa parkkipaikan perällä olevasta saniteettitilasta virtaa pahan aura. Jopa parkkipaikan perällä olevasta saniteettitilasta virtaa pahan aura. Pirunmoista kauhua silmän kantamattomiin! Mutta vielä ei ole maailman lopun aika. Erityisillä tuotteilla kuten karmivasti kolisevalla Rama-M-Viikatemiehellä, lahoavalla Frankenflyn linnalla ja roottorimuumio FaaraHelillä olet varustautunut joka vaaraan. Ole mukana ja koe ainutlaatuisissa Halloween-tehtävissä, miten miehistö aikoo selättää pahimmat demonit!]]></item>
+  <item name="av.event3.mouseover"><![CDATA[Aikasi kuluu... BuHaHaHaHaHaa!]]></item>
+ </category>
+ <category name="av.event4">
+  <item name="av.event4.title"><![CDATA[Scifi-Rama: Avaruusviikot lentokentällä!]]></item>
+  <item name="av.event4.text"><![CDATA[Tulevaisuus häämöttää. Nyt se ei ole valovuosien päässä, sillä Skyrama esittelee jo nyt uuden ajan lentokentän. Tiedossa on lentoliikenteen tähtihetkiä! Lisätkää laivastoonne vesitasokone TriRama, innovatiivinen helikopteri StarWolf, upea White Orbit ja muita futuristisia lentokoneita. Avaruuslentokoneet palaavat ilman kiertoteitä kentällesi 24 tunnin kuluttua mukanaan ekstralasti KP:itä ja lentopennejä. Kerätkää siis UFO-kolikot, koristelkaa lentokenttänne ja lähtekää huomisen maailmaan jo tänään.  3 ... 2 ... 1 ... Lähtö!]]></item>
+  <item name="av.event4.mouseover"><![CDATA[On tulevaisuuden aika!]]></item>
+ </category>
+ <category name="av.event5">
+  <item name="av.event5.title"><![CDATA[Oi, sää ulkona on kammottava, mutta Talvitapahtuma on hauska!]]></item>
+  <item name="av.event5.text"><![CDATA[Pilotit, heidän miehistönsä ja kaverisi ovat pääsemässä iloisen pienen Talvitapahtuman tunnelmiin. Seuraavat viikot tulevat olemaan yhtä juhlaa - hanki jännittäviä tapahtumakoneita, kuten suuri Skirama Cargo tai nopea Flyathlon, ja koristele kenttäsi lumihuippuisilla kuusilla tai tosi kylmillä igluilla. Jopa tuo nenäkäs lumiukko Herra L. Hiutale tekee cameon tänä vuonna. Jätä murheet kotiin ja tule alas toivottamaan piloteillesi Hyvää Joulua!]]></item>
+  <item name="av.event5.mouseover"><![CDATA[Tule, he käskivät minua ... katsomaan, kuinka hurmaavalta ja kodikkaalta lentokenttäsi näyttää! Juhli kanssamme Skyrama Talvitapahtumaa!]]></item>
+ </category>
+ <category name="av.history">
+  <item name="av.history.title"><![CDATA[Lentokentän Aikakirjat: Historia Tapahtuma Skyramassa]]></item>
+  <item name="av.history.text"><![CDATA[Kuka ei tahdo mennä alas muistojen syövereihin ... tai tässä tapauksessa lentää alas muistojen syövereihin? Juhlimme lentämisen historiaa seuraavat viikot, mikä tarkoittaa, että voit oppia lisää ilmailun historiasta! Rakennusten klassikot, lentokoneiden ensimmäinen sukupolvi ja entisaikojen kuumailmapallot tulevat saataville lentokentällesi. Ota osaa ja katso kuinka ilmailun historia paljastuu silmiesi edessä.]]></item>
+  <item name="av.history.mouseover"><![CDATA[Aika ei odota ketään, joten pistä heti toimeksi lentäjä!]]></item>
+ </category>
+ <category name="av.vip">
+  <item name="av.vip.title"><![CDATA[Skyrama VIP Tapahtuma - Kunnianhimoisille piloteille!]]></item>
+  <item name="av.vip.text"><![CDATA[Huippuluokan julkimot valtaavat Skyraman taivaat VIP tapahtumassa eikä tyhjiä samppanjalaseja näy. Seuraavat viikot lentokenttäsi vilisee valkokankaan upeita tähtiä. Ylelliset koristeet, rikkaat rakennukset ja upeimmat koneet, mitä rahalla saa, luovat kulissit seurapiirien ylemmille. Auta Tarmoa, Fionaa ja muita taktikoimaan tiensä läpi päivittäisten tapahtumatehtävien kentälläsi ja ole osa tähtitoimintaa. Äläkä unohda olla valmiina lähikuvaan!]]></item>
+  <item name="av.vip.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.emergency">
+  <item name="av.emergency.title"><![CDATA[Suojele ja palvele - SOS Päivät Skyramassa]]></item>
+  <item name="av.emergency.text"><![CDATA[27.3. - 14.4. tarkistamme pulssin Skyramassa. Arvasit - on turvallisuus-tapahtuman aika, joten kerää ensiapupakkaukset ja hoitajan asusi! Muista, turvallisuus vaatii valppautta ja antaumusta, joten pidä vahtivat silmäsi kentälläsi! Jollet ole vielä tunnelmissa, ei hätää! Erityiset tapahtumatehtävät, koristeet ja koneet herättävät sisäisen samarialaisesi! Älkää hyvät johtajat menkö sokkiin - turvallisuudesta ei ole vaaraa, vain hauskuutta! <br/><br/>Olemme mukana kelloinemme - ja kumihanskat - kädessä!]]></item>
+  <item name="av.emergency.mouseover"><![CDATA[Jollemme lakkaa juhlimasta, ei ole aikaa hätätilanteille. Järkevää, eikö?]]></item>
+ </category>
+ <category name="av.flashback">
+  <item name="av.flashback.title"><![CDATA[Paluu tulevaisuuteen - Skyrama Takaumaviikot, osa 2!]]></item>
+  <item name="av.flashback.text"><![CDATA[Oletko koskaan toivonut näkeväsi lemppari tapahtumaesineitä ilmestyvän kauppaan uudelleen? Onnenpäiväsi on koittanut, sillä Takaumaviikko saapuu Skyramaan! Pidä silmällä tähtinäyttelijöitä; tapahtumakoneita, vesitasoja, helikoptereita ja koristeita. Sinulla on 18.7. - 4.8.2013 aikaa saada käsiisi nämä välähdykset menneisyydestä ja nauttia klassisista tapahtumatehtävistä. Ethän jätä väliin tätä mahdollisuutta matkata ajassa taaksepäin!]]></item>
+  <item name="av.flashback.mouseover"><![CDATA[Déjà vu yhä uudelleen!]]></item>
+ </category>
+ <category name="av.science2013">
+  <item name="av.science2013.title"><![CDATA[Sci-Fi Rama: Tiedeviikot lentokentälläsi]]></item>
+  <item name="av.science2013.text"><![CDATA[Tulevaisuus on täällä lentokenttäjohtajat! 23.5. - 9.6.2013 tutkimme ilmailun uutta ajanjaksoa - odota futuristisia koneita, uraauurtavia rakennuksia ja täysin uniikkeja tapahtumatehtäviä. Kerää tapahtuma eliksiirejä ja käy kaupassa vilkaisemassa uusimpia ilmailun innovaatioita. Ole valmistautunut hämmästymään - lentämisen tulevaisuus ei ole koskaan ollut näin kirkas.]]></item>
+  <item name="av.science2013.mouseover"><![CDATA[Kaikki hyvä loppuu aikanaan.]]></item>
+ </category>
+ <category name="av.summer2013">
+  <item name="av.summer2013.title"><![CDATA[Asiat kuumenevat - on Skyraman Kesätapahtuman 2013 aika!]]></item>
+  <item name="av.summer2013.text"><![CDATA[Siniset taivaat, tulikuuma helle ja tuhti loraus aurinkorasvaa - kesä on täällä ja Skyrama haluaa juhlia 20.6. - 7.7.! Kun on niin kuuma, että voisit paistaa munan jalkakäytävällä, kirjaudu Skyramaan vilvoittelemaan ainutlaatuisista koneista, upeista rakennuksista ja lempitehtävien kokoavalla avulla. Pidä hauskaa helteessä!]]></item>
+  <item name="av.summer2013.mouseover"><![CDATA[Kristallin kirkkaat taivat - sukella aurinkoon kun vielä voit!]]></item>
+ </category>
+ <category name="av.golden50ies">
+  <item name="av.golden50ies.title"><![CDATA[Lentokentällä on kultaisen 50-luvun retrojamit!]]></item>
+  <item name="av.golden50ies.text"><![CDATA[Nyt rikomme äänivallin tukka villisti pystyssä tai siististi bombadourilla. Suurten 50-luvun jamien kunniaksi pilotit ja lentoemännät pukeutuvat nahkakledjuihin ja laittavat jukeboksin koville, sillä heissä kaikissa asuu nuori kapinallinen. Kerää vinyylilevyjä, hanki tyylikkäitä koneita talousihmeen ajoilta ja laita lentokenttäsi kapinalliseen kuosiin. Skyraman koneisiin kelpaavat vain aidot fiftarit!]]></item>
+  <item name="av.golden50ies.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.japan2013">
+  <item name="av.japan2013.title"><![CDATA[Japani-viikot Skyramassa]]></item>
+  <item name="av.japan2013.text"><![CDATA[Lähde mukaan matkallemme Japaniin, nousevan auringon maahan - on Skyraman Japani-tapahtuman aika! Meillä on klassisia koneita, rakennuksia jokaiselta kaudelta ja taidekoristeita auttamassa sinua pääsemään tunnelmaan. Liidä pilvien yli läpi sinitaivaan ja laskeudu maailman laidalle, missä perinteinen ja moderni teknologia sekoittuu. Kerää tarpeeksi Kirsikan kukkia ja nauti upeista palkinnoista!<br><br>Heille, jotka mieluummin pysyttelevät kotona, meillä on jotain mehukasta varastossa! Paljastamatta liikaa, sillä on tekemistä kaikkien uusien korkeiden tasojen tehtävien kanssa, äksy, mutta rakastettava Kurtimme, hieman hajamielinen Fiona ja suuri kysymys. Otitpa sitten osaa tapahtumaan tai uusiin tehtäviin, et voi lentää harhaan!]]></item>
+  <item name="av.japan2013.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.halloween2013">
+  <item name="av.halloween2013.title"><![CDATA[Kauhuviikot osa 2 - kepposia, herkkuja ja hauskaa!]]></item>
+  <item name="av.halloween2013.text"><![CDATA[Uhkaavat pilvet kerääntyvät lentokenttäsi päälle. Myrkylliset kaasut nousevat kuin kummitukset hangaarista. Jossain kaukana vertahyytävä kaakatus kovenee ja kovenee. Tämä voi tarkoittaa vain yhtä asiaa - varaa lippusi vuoden Halloween juhliin! Päämäärä? Skyrama tietenkin! Tuo pelottavin pukusi ja lujin pussisi - keräät herkkuja ja tutkit niitä hiuksia nostattavissa tapahtumakoneissa, kammottavissa rakennuksissa ja myrkyllisissä koristeissa. Ei ole väliä lennätkö pois Klepto-Jetillä tai Hinderburgilla - säikäytät kilpailijat ohi lipuessasi. Karkki tai kepponen, lentokenttäjohtajat!]]></item>
+  <item name="av.halloween2013.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.winter2013">
+  <item name="av.winter2013.title"><![CDATA[Talviviikot]]></item>
+  <item name="av.winter2013.text"><![CDATA[Kääriydy vilttiin ja ota kuppi kuumaa kaakaota käteen – Skyramassa vietetään talviviikkoja. Hyviä joulupyhiä kaikille lentokentän johtajille!]]></item>
+  <item name="av.winter2013.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.flashback3">
+  <item name="av.flashback3.title"><![CDATA[Aikainen kone matkustajan nappaa: Takaumaviikot nro 3!]]></item>
+  <item name="av.flashback3.text"><![CDATA[Tammikuun 16. Helmikuun 2. 2014, herättelemme henkiin suosikki takautumanne Skyraman tapahtumahistoriasta. Tuomme takaisin jotakin jokaiselle, korkealuokkaisesta Jetset-jetistä maalaisempaan Vanhavesi-Airiin. Haluatko tyylitellä lentokenttäsi? Valitse perinteisistä maisemista ja koristeista, kuten Palmun katveessa, Skyrama-Airena tai Herra L. Hiutale. Skyraman Takaumaviikot ovat täällä - valon pilkahduksesi ennen kevättä saapuu!]]></item>
+  <item name="av.flashback3.mouseover"><![CDATA[Déjà vu yhä uudelleen!]]></item>
+ </category>
+ <category name="av.xplanes2014">
+  <item name="av.xplanes2014.title"><![CDATA[Spyrama: Huippusalaiset huomiot lentokentällä]]></item>
+  <item name="av.xplanes2014.text"><![CDATA[Tervehdys Agentti!<br><br>Muutaman viime kuukauden aikana tietolähteemme ovat huomanneet huolestuttavaa toimintaa. Utelevista piloteista ja hajamielisiltä navigaattoreista puuttuviin pikkurahoihin. Johtopäätös: jotain hämärää on menossa lentokentällä! Seuraa arveluttavaa työntekijöiden toimintaa päivittäisissä tapahtumatehtävissä ja selvitä salaliiton ydin... siis, jos sellainen on olemassa. Auttaaksemme sinua peitetehtävissäsi, tuotekehitysosastomme on rakentanut saataville sarjan ainutlaatuisia superkoneita ja huipputeknisiä rakennuksia, joita "liittolaistemme" piirrustukset ovat inspiroineet.  Ei huolta, nämä kokeilevat koneet on testattu ja ne muodostavat vain lievän uhan lentäjille ja ympäröiville alueille. Mikäli sinut tai joku tiimistäsi jää kiinni tai eliminoidaan, virasto kiistää tämän operaation tiedot. Onnea matkaan!]]></item>
+  <item name="av.xplanes2014.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.airlineweeks1_042014">
+  <item name="av.airlineweeks1_042014.title"><![CDATA[Club Skyrama: Usein lentävien viikot lentokentällä]]></item>
+  <item name="av.airlineweeks1_042014.text"><![CDATA[Skyraman uusi ohjelma usein lentäville saa jokaisen innostumaan! Osallistuminen on helppoa: kerää travel-air-sekkejä koneiden ohilennoilta, tunge ne varastoosi ja vaihda ne hienoihin Airplus-koneisiin, upeisiin koristeisiin tai "Turbo-lenssi" lempeä niitty -maisemaan. Tarvitsetko lisää vapaalentoja?<br/><br/>Lentäjäsääntö #23: pelaa läpi päivittäiset tapahtumatehtävät ja kokeile onneasi uusissa päämäärätehtävissä (päivitetään säännöllisesti tästä lähin!). Keräilet travel-air-sekkejä ääntä nopeammin! Kiitos uuden järjestelytoimintomme, voit löytää koneesi ja lähettää ne ympäri maailmaa nopeammin!]]></item>
+  <item name="av.airlineweeks1_042014.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.flashback4">
+  <item name="av.flashback4.title"><![CDATA[Paluu tulevaisuuteen: Skyrama Takaumaviikko, osa 4!]]></item>
+  <item name="av.flashback4.text"><![CDATA[Oletko koskaan toivonut näkeväsi lemppari tapahtumaesineitä ilmestyvän kauppaan uudelleen? Tänään on onnenpäiväsi, koska Takaumaviikot ovat palanneet Skyramaan! Pidä katseesi tapahtuman tähtikoneissa, vesitasoissa, helikoptereissa ja koristeissa. Älä vetelehdi! Hommaa käsiisi nämä menneisyyden tähdet ja nauti vanhoista tapahtumatehtävistä. Ylätasojen pelaajat voivat myös odottaa innolla muutamaa uutta päämäärätehtävää. Ethän jätä väliin tätä mahdollisuutta matkata ajassa taaksepäin!]]></item>
+  <item name="av.flashback4.mouseover"><![CDATA[Déjà vu yhä uudelleen!]]></item>
+ </category>
+ <category name="av.airlineweeks2_062014">
+  <item name="av.airlineweeks2_062014.title"><![CDATA[Club Skyrama: Paljon lentävän paluu]]></item>
+  <item name="av.airlineweeks2_062014.text"><![CDATA[Taivaat ovat selkeät kaikille usein lentäville! Uudessa Club Skyrama -ohjelmassa on ääntänopeampia tarjouksia kaikille. Kerää niin monta travel-air-sekkiä kuin mahdollista ja varusta hangaarisi katosta lattiaan elefantastisilla tarjouksilla Jumbo Linesilta. Maailmankuulusta "Bogus 737" aina Jumbolippu "Lippu-lenssiin", jokaiselle on jotakin Joten laita pilottisi koetukselle ja kokeile jännittäviä uusia tapahtumatehtäviä, uusia ylätasojen tehtäviä ja vaikuttavaa uskollisuusohjelmaamme.]]></item>
+  <item name="av.airlineweeks2_062014.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.conceptplanes_072014">
+  <item name="av.conceptplanes_072014.title"><![CDATA[Suuret ideat: Tiedeviikot 2014]]></item>
+  <item name="av.conceptplanes_072014.text"><![CDATA[Heitä kristallipallosi pois, tulevaisuus on täällä! Innovatiiviset suunnitelmat, hullut yhdistelmät, eikä ainuttakaan sutta seassa. Liity Skyraman historian suurimman ilmailun tulevaisuuden saavutuksen juhlintaan! Vilkaise koneiden prototyyppeja ja utopistisia koristeita sekä muuta lentokenttäsi suoraan vuodelle 2525. Kerää sinikopioita, vaihda ne viimeisimpiin keksintöihin, pelaa jännittäviä päivittäisiä tapahtumatehtäviä, ja tutki tulevaisuuden horisonttia!]]></item>
+  <item name="av.conceptplanes_072014.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.goldenageofaviation_092014">
+  <item name="av.goldenageofaviation_092014.title"><![CDATA[Klassikko-Air: Skyrama juhlii "Ilmailun kulta-aikaa"]]></item>
+  <item name="av.goldenageofaviation_092014.text"><![CDATA[Aikojen alusta viime päiviin: menneisyydessä kaikki oli paremmin? Katsotaanpa! Tulevina viikkoina, vanha ja uusi maailma törmäävät: menneisyyden lentävät muistot herättävät uutta elämää lentokentän elämässä. Legendaarisesta Meikäläisestä Rusinapommittajaan, unohtamatta konetta, jolla iso-isoisä lensi, jokainen kone on asetettu näyttäytymään tämän valtavan tapahtuman aikana. Jännittävät tapahtumatehtävät, historialliset rakennukset ja koneet aikojen alusta! Kaikki tämä ja paljon enemmän odottaa sinua Skyramassa seuraavien viikkojen aikana - livenä ja väreissä!]]></item>
+  <item name="av.goldenageofaviation_092014.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.halloween2014">
+  <item name="av.halloween2014.title"><![CDATA[Kauhuviikot osa 3: Painajainen 2019!]]></item>
+  <item name="av.halloween2014.text"><![CDATA[Karkki vai kepponen! Kiinnitä turvavyö ja palauta istuimesi ja tarjottimesi täysin pystyasentoon. Luvassa pelottavan hauska ja villi kyyti. Seuraavat viikot tulevat olemaan täynnä kammottavia yllätyksiä, sisältäen: kummituskoneita, noiduttuja koristeita, pirullisia rakennuksia ja paljon yöllisiä asioita! Valmistaudu kauhuviikkoihin Skyramassa. Hallow-kiljaisutakuu!]]></item>
+  <item name="av.halloween2014.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.xmas2014">
+  <item name="av.xmas2014.title"><![CDATA[Polaramaviikot 2014]]></item>
+  <item name="av.xmas2014.text"><![CDATA[Hae lapasesi ja pukeudu lämpimästi! Pakkasrintama suuntaa kohti lentokenttää ja se tarkoittaa vain yhtä asiaa: on talviriehan aika! Polaramaviikot Skyramassa alkavat. Yöt ovat pitkiä ja kylmiä, mutta sinä ja koneesi pysytte lämpiminä jääneston avulla. Nauti viileistä tehtävistä ja chillaa koko lentokentän porukan kanssa ja arktiset palkinnot ja koristukset voivat olla sinun!]]></item>
+  <item name="av.xmas2014.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.flashback5">
+  <item name="av.flashback5.title"><![CDATA[Käännä kelloa taaksepäin viidettä takaumaa varten!]]></item>
+  <item name="av.flashback5.text"><![CDATA[Aika lopussa? Ei enää! 2015 lähtee käyntiin äänen nopeudella; on aika toivottaa tervetulleiksi joitakin parhaimpia koneitamme muutamilta viime vuosilta. Skyrantulan araknoihmeestä mullistukselliseen Big Bangiin, jokaiselle lentäjälle on jotakin.<br><br>Kerää siis pokaaleja ja pelaa läpi klassikkotehtäviä. Pyyhällä menneisyyteen ennen kuin mahdollisuus menee menojaan!]]></item>
+  <item name="av.flashback5.mouseover"><![CDATA[Déjà vu yhä uudelleen!]]></item>
+ </category>
+ <category name="av.mostwanted022015">
+  <item name="av.mostwanted022015.title"><![CDATA[Kuuma jälki kylmästä huolimatta: Skyraman Halutuin]]></item>
+  <item name="av.mostwanted022015.text"><![CDATA[Lämmitys yliääninopeudella: Näillä kiitoteillä ei ole jäätä! Palkkionmetsästäjämme ovat jäljittäneen suosituimmat koneet kaukaa antaakseen sinulle parhaan valikoiman huippulennokkeja vanhasta ja uudesta maailmasta. Kerää kameroita, vaihda ne kaupassa koneisiin, kuten legendaarinen Super Juppi. Pelaa läpi jännittävät tapahtumatehtävät kunnes asfaltilla on keskipäivä!]]></item>
+  <item name="av.mostwanted022015.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.emergency042015">
+  <item name="av.emergency042015.title"><![CDATA[Punainen hälyytys: SOS päivät 2015]]></item>
+  <item name="av.emergency042015.text"><![CDATA[Ensin tulee vahinko, sitten velvollisuus? Mitä vielä! Kokeneelle lentäjälle lentokoneonnettomuus ei ole vaihtoehto, ei kiitoradalla tai muutenkaan! Käännä kauhea tilanne positiiviseksi: juhli kunnes hälytys soi ja valmista lentokenttäsi seuraavaan suureen katastrofiin. Aerodynamiset pelastuskoneet, punatulinen palonsammutuskone ja maanjäristyksen kestävät koristeet ovat selvä merkki huligaaneille - "Älä edes yritä!" Tietenkin, myös tällä kerralla on jännittäviä tapahtumatehtäviä - kerää siis pelastusrenkaita, hanki käsiisi upeat palkinnot ja potkaise käyntiin kevät varautuneena pahimpaan!]]></item>
+  <item name="av.emergency042015.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.flashback6">
+  <item name="av.flashback6.title"><![CDATA[Kotiviikot]]></item>
+  <item name="av.flashback6.text"><![CDATA[Oletko koskaan toivonut näkeväsi lempparitapahtumaesineittesi ilmestyvän uudelleen kauppaan? Tänään on onnenpäiväsi, sillä takaumaviikot ovat palanneet Skyramaan. Pidä silmät auki tapahtuman tähtikoneiden, vesitasojen, helikoptereiden ja koristeiden varalta. Ei kannata aikailla, vaan hommata nämä menneisyyden tähdet ja nauttia vanhoista tapahtumatehtävistä. Älä jätä väliin tätä mahdollisuutta matkata ajassa taaksepäin!]]></item>
+  <item name="av.flashback6.mouseover"><![CDATA[Déjà vu yhä uudelleen!]]></item>
+ </category>
+ <category name="av.airshow072015">
+  <item name="av.airshow072015.title"><![CDATA[Valmiina, paikoillanne, lennä! Skyramassa on Lentoshow-viikko!]]></item>
+  <item name="av.airshow072015.text"><![CDATA[Huomio lentäjät: Kuka voi vastustaa lentämistä taivaalla täydessä vauhdissa? Ryhdy toimeen nyt ja palkkaa parhaat lentoshowpilotit. Tule ilmaakrobatian MestAIRiksi!]]></item>
+  <item name="av.airshow072015.mouseover"><![CDATA[Kaasua! On hauskanpidon aika!]]></item>
+ </category>
+ <category name="av.waterplanes082015">
+  <item name="av.waterplanes082015.title"><![CDATA[Iloinen liplatus! Vesitasoviikko Skyramassa]]></item>
+  <item name="av.waterplanes082015.text"><![CDATA[Tämän tapahtuman aikana jokaiselle huippupilotille on jotakin niin maassa, ilmassa kuin vedessäkin. Koe matalalento veden yllä lentäen silmukoita helikopterilla tai ohjaten luksuslentokonetta edes kerran elämässäsi. Kaiken lisäksi muutama uusi tapahtumatehtävä ja kauho muutama ankka kyytiin myös. Hyppää läiskähtäen mukaan!]]></item>
+  <item name="av.waterplanes082015.mouseover"><![CDATA[Vaara! Märkänä liukas!]]></item>
+ </category>
+ <category name="av.flashback7">
+  <item name="av.flashback7.title"><![CDATA[Takaumaviikot Skyramassa]]></item>
+  <item name="av.flashback7.text"><![CDATA[Oletko koskaan toivonut näkeväsi lemppari tapahtumaesineitä ilmestyvän kauppaan uudelleen? Tänään on onnenpäiväsi, koska Takaumaviikot ovat palanneet Skyramaan! Pidä katseesi tapahtuman tähtikoneissa, vesitasoissa, helikoptereissa ja koristeissa. Älä vetelehdi! Hommaa käsiisi nämä menneisyyden tähdet Ethän jätä väliin tätä tilaisuutta Ylätasojen pelaajat voivat myös odottaa innolla muutamaa uutta päämäärätehtävää. menneisyydestä ja nauttia klassisista tapahtumatehtävistä. väliin tätä mahdollisuutta matkata ajassa taaksepäin!]]></item>
+  <item name="av.flashback7.mouseover"><![CDATA[Déjà vu yhä uudelleen!]]></item>
+ </category>
+ <category name="av.ufoevent102015">
+  <item name="av.ufoevent102015.title"><![CDATA[UFO viikot Skyramassa]]></item>
+  <item name="av.ufoevent102015.text"><![CDATA[Kauan sitten kaukaisella lentokentällä:<br><br>Seuraava suuri Skyrama-tapahtuma kytee kaikissa sylintereissä. Tähtilaivat kaikkialta multiversumista ovat kisanneet yhdessä linnunradalle todistamaan galaktisten osien loisteliasta esitystä. Uljaat avaruusalukset, futuristiset rakenteet ja mielettömät tapahtumatehtävät auttavat yksinäistä lentokenttäjohtajaa karkottamaan pahan tiloistaan. Mutta imperiumin palkkionmetsästäjät vaativat korkeaa hintaa... vain keräämällä tarpeeksi Alien-päitä hän voi palauttaa galaksin vapauden...]]></item>
+  <item name="av.ufoevent102015.mouseover"><![CDATA[Aikaa jäljellä:]]></item>
+ </category>
+ <category name="av.polarevent122015">
+  <item name="av.polarevent122015.title"><![CDATA[Pakkasviikot]]></item>
+  <item name="av.polarevent122015.text"><![CDATA[Ratisevan kylmä, säihkyvät koneet ja pakkasasteet erottavat sinut suurimmasta tapahtumasta revontulten tällä puolen. Kiihdytä moottoreitasi, suolaa kiitorata ja hanki suuri kulho jäänestoa valmiiksi vuoden viimeisiä juhlia varten. Vuosi 2015 päättyy paukauksen kera!]]></item>
+  <item name="av.polarevent122015.mouseover"><![CDATA[Ilmojen valtatie]]></item>
+ </category>
+ <category name="av.futureevent012016">
+  <item name="av.futureevent012016.title"><![CDATA[Tulevaisuusviikot]]></item>
+  <item name="av.futureevent012016.text"><![CDATA[On tulevaisuuden aika! Skyrama esittelee... Tulevaisuuden lentokenttä! Todista ilmailun tulevaisuus kaikkine huomisen teknologineen! Kiinnitä turvavyö ja valmistaudu lähtöön tulevaisuuteen valonnopeudella yhdessä visionääristen pilottiemme, taiteellisten rakennusten ja pioneeristen tehtävien kanssa, ehkä olet lähellä jopa kolmatta yhteyttä!]]></item>
+  <item name="av.futureevent012016.mouseover"><![CDATA[On tulevaisuuden aika!]]></item>
+ </category>
+ <category name="av.movieevent022016">
+  <item name="av.movieevent022016.title"><![CDATA[Filmitähtiviikot]]></item>
+  <item name="av.movieevent022016.text"><![CDATA[Tule tapaamaan hopearuudun tähdet! Ei, ei näyttelijöitä… oikeat tähdet elokuvista: lentokoneet! Suuri määrä ikonisia lentäviä laitteita maailman elokuvista ilmestyy Skyraman lentokentälle muutaman seuraavan viikon ajaksi. Kuinka monta voit tunnistaa?]]></item>
+  <item name="av.movieevent022016.mouseover"><![CDATA[Voiko lentokone antaa nimmarin?]]></item>
+ </category>
+ <category name="av.wildlifeevent042016">
+  <item name="av.wildlifeevent042016.title"><![CDATA[Villieläinviikot]]></item>
+  <item name="av.wildlifeevent042016.text"><![CDATA[Oletko valmis karjumaan? Erityiset eläinaiheiset koneet käyvät lentokentällä seuraavien muutaman viikon aikana, joten nappaa safarikypäräsi, mene safariautoon ja katso, kuinka monta voit bongata! Nauti uusista villieläinaiheisista rakennuksista, koristeista ja taustasta sekä erityisistä tapahtumatehtävistä. Pystytkö nappaamaan ne kaikki?]]></item>
+  <item name="av.wildlifeevent042016.mouseover"><![CDATA[Onko siellä lentäviä possujaki?]]></item>
+ </category>
+ <category name="av.emevent052016">
+  <item name="av.emevent052016.title"><![CDATA[Jalkapalloviikot]]></item>
+  <item name="av.emevent052016.text"><![CDATA[Pidä silmällä lentokentälle saapuvia erikoiskoneita - kaksi per EM-kisojen tiimi. Jokaista voitettua ottelua kohti vastaava kone pelissä saa pokaalin ikoniinsa ja tehosteen kokemuksen tai rahan ansaintaan. Mitä enemmän otteluita voitetaan, sitä paremmiksi nuo tehosteet tulevat! Valitse ajoissa ne tiimit, joiden luulet pärjäävän, sillä myös koneiden hinnat nousevat!]]></item>
+  <item name="av.emevent052016.mouseover"><![CDATA[Älä unohda paitsio-sääntöä!]]></item>
+ </category>
+ <category name="av.flashback8">
+  <item name="av.flashback8.title"><![CDATA[Takaumaviikot Skyramassa]]></item>
+  <item name="av.flashback8.text"><![CDATA[Oletko koskaan toivonut näkeväsi lemppari tapahtumaesineitä ilmestyvän kauppaan uudelleen? Tänään on onnenpäiväsi, koska Takaumaviikot ovat palanneet Skyramaan! Pidä katseesi tapahtuman tähtikoneissa, vesitasoissa, helikoptereissa ja koristeissa. Älä vetelehdi! Hommaa käsiisi nämä menneisyyden tähdet Ethän jätä väliin tätä tilaisuutta Ylätasojen pelaajat voivat myös odottaa innolla muutamaa uutta päämäärätehtävää. menneisyydestä ja nauttia klassisista tapahtumatehtävistä. väliin tätä mahdollisuutta matkata ajassa taaksepäin!]]></item>
+  <item name="av.flashback8.mouseover"><![CDATA[Déjà vu yhä uudelleen!]]></item>
+ </category>
+ <category name="av.olympicevent092016">
+  <item name="av.olympicevent092016.title"><![CDATA[Kultamitaliviikot]]></item>
+  <item name="av.olympicevent092016.text"><![CDATA[Tuntuuko siltä, että koko maailma on tullut urheiluhulluksi tänä kesänä? Lentokenttä on päättänyt järjestää omat "Ilmalympialaiset"! Unelmoitko mahdollisuudesta voittaa mitali tai pari? Valitse erikoistapahtumakoneet ja kerää urheiluvälineitä niiden parantamiseksi!]]></item>
+  <item name="av.olympicevent092016.mouseover"><![CDATA[Valmistaudu astumaan korokkeelle!]]></item>
+ </category>
+ <category name="av.halloweenevent102016">
+  <item name="av.halloweenevent102016.title"><![CDATA[Yölento-viikot]]></item>
+  <item name="av.halloweenevent102016.text"><![CDATA[Kuka tarvitsee konetta, kun voit lentää luudalla? Seuraavien viikkojen ajaksi lentokentästä tulee pelottava Halloweenia varten! Iske käpäläsi uusiin koneisiin, rakennuksiin ja koristeisiin ja valmistaudu yölentoon!]]></item>
+  <item name="av.halloweenevent102016.mouseover"><![CDATA[Onko se lintu vai kone? Ei, se on lentävä luuta!]]></item>
+ </category>
+ <category name="av.arcticevent122016">
+  <item name="av.arcticevent122016.title"><![CDATA[Arktisten taivaiden viikot]]></item>
+  <item name="av.arcticevent122016.text"><![CDATA[Ulkoilma on käymässä hyvin kylmäksi, joten lentomekaanikot ovat avanneet jääneston pitääkseen koneet ilmassa turvallisesti! Liity jään ja lumen tapahtumaan ja nauti uusista talviaiheisista koneista, rakennuksista ja koristeista lentokentälläsi!]]></item>
+  <item name="av.arcticevent122016.mouseover"><![CDATA[Pue huivisi ja hattusi, koska ulkona on kylmä!]]></item>
+ </category>
+ <category name="av.flashback9">
+  <item name="av.flashback9.title"><![CDATA[Takaumaviikot Skyramassa]]></item>
+  <item name="av.flashback9.text"><![CDATA[Oletko koskaan toivonut, että lemppari tapahtumaesineitä ilmestyisi taas kauppaan? Onnenpäiväsi on tullut, sillä on Skyraman Takaumaviikon aika! Pidä katseesi tapahtuman tähtikoneissa, vesitasoissa, helikoptereissa ja koristeissa. Älä vetelehdi, hanki käsiisi nämä tuulahdukset menneestä. Älä missaa tätä mahdolllisuutta matkustaa ajassa taaksepäin!]]></item>
+  <item name="av.flashback9.mouseover"><![CDATA[Déjà vu yhä uudelleen!]]></item>
+ </category>
+ <category name="av.valentinesevent022017">
+  <item name="av.valentinesevent022017.title"><![CDATA[Rakkautta Skyssa Viikot]]></item>
+  <item name="av.valentinesevent022017.text"><![CDATA[Voitko tuntea romanssin ilmassa? Kaikki lentokentällä ovat rakastavalla mielellä. Liity tapahtumaamme ja nauti uusista Amor-sarjan koneista sekä rakennuksista ja koristeista! Tunne rakkaus tänä yönä!]]></item>
+  <item name="av.valentinesevent022017.mouseover"><![CDATA[Mikä on lempirakkauslaulusi?]]></item>
+ </category>
+ <category name="av.skyrace2017">
+  <item name="av.skyrace2017.title"><![CDATA[Skykisaviikot]]></item>
+  <item name="av.skyrace2017.text"><![CDATA[Oletko valmis lentämään korkealla? Kilpaile Skykisassa ja todista kaikille, että olet Skyraman paras lentäjä!]]></item>
+  <item name="av.skyrace2017.mouseover"><![CDATA[Skykisat ovat täällä! On aika laittaa hypervauhti päälle!]]></item>
+ </category>
+</language>

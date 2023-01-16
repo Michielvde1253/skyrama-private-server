@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title>Register</title>
+		<link rel="stylesheet" type="text/css" href="/templates/styles/styles.css"></link>
+		<div align="center" style="margin:0%; border:0%;">
+			<img src="/templates/styles/skyrama_header.png" alt="Header" style="margin-top: 0; border-top: 0; height:150px;">
+		</div>
+	</head>
+	<body>
+		<div align="center">
+			<style>
+				body {
+				  background-image: url('/templates/styles/background.jpg');
+				  margin-bottom: 0;
+				  border-bottom: 0;
+				}
+				</style> 
+			<div align="center" class="border">
+				<div class="header">
+					<h1 class="word" style="align-content: center; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Register</h1>
+				</div>
+				<h2 class="word">
+					<form action="/register" method="POST">
+						<div class="msg" style="align-content: center; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">{{msg}}</div>
+						<input id="username" name="username" type="text" placeholder="Enter your username" class="textbox"/> </br> </br>
+						<input id="password" name="password" type="password" placeholder="Enter your password" class="textbox"/> </br> </br>
+						<input id="email" name="email" type="text" placeholder="Enter your e-mail" class="textbox"/> </br> </br>
+						<input type="submit" value="Sign Up" class="btn"/> </br> </br>
+						</form>
+				</h2>
+				<p class="bottom" style="align-content: center; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> Already have account? <a class="bottom" href="/login"> Sign In here </a> 
+				</p> 
+				
+			</div>
+		</div>
+	</body>
+</html>

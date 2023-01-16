@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.news">
+  <item name="av.news.header"><![CDATA[Новини за Skyrama]]></item>
+  <item name="av.news.title"><![CDATA[Здравей! Аз съм Катя, твоят нов пилот на воден самолет. Нека да ти представя накратко новото съдържание и функции.]]></item>
+  <item name="av.news.text"><![CDATA[<li>Новата система за товари е активирана! Отиди в туториума и научи повече за нея!</li><li>Пътниците, събрани на един ден, ще останат на летището ти само 72 часа - в случай, че не ги изпратиш нанякъде по-рано! Не забравяй това!</li>]]></item>
+  <item name="av.news.hint_title"><![CDATA[Съвет:]]></item>
+  <item name="av.news.hint_text"><![CDATA[Ако самолетите ти се обслужват от чужди летища, ще спечелиш двойна награда!]]></item>
+  <item name="av.news.shop_title"><![CDATA[WonderQuicky!]]></item>
+  <item name="av.news.shop_text"><![CDATA[Събирай части за самолети, за да попълниш своята колекция "WonderQuicky"!!!]]></item>
+ </category>
+ <category name="av.santanews">
+  <item name="av.santanews.header"><![CDATA[Зимни новини]]></item>
+  <item name="av.santanews.title"><![CDATA[Хоу-хоу-хоу! Още със започването на зимата пилоти, стюардеси и пътници с нетърпение очакват партито за посрещане на Новата Година! Очакват те много изненади!]]></item>
+  <item name="av.santanews.text"><![CDATA[В предновогодишните дни и седмици, Дядо Коледа ще лети насам-натам! Отваряй си очите - може да ти пусне подаръци с хубави награди! Ще се активира от 24.12. до 26.12.11!]]></item>
+  <item name="av.santanews.hint_title"><![CDATA[Фойерверки!!!]]></item>
+  <item name="av.santanews.hint_text"><![CDATA[Честита Нова Година! Изпрати най-новите фойерверки на своите приятели! Ще се активира от 29.12. до 31.12.11!]]></item>
+  <item name="av.santanews.shop_title"><![CDATA[Всичко, което можеш да обслужиш бързо:]]></item>
+  <item name="av.santanews.shop_text"><![CDATA[Плати веднъж и обслужвай самолети в рамките на 24 часа БЕЗ ДА ДОПЛАЩАШ повече.]]></item>
+ </category>
+ <category name="av.january12news">
+  <item name="av.january12news.header"><![CDATA[Първи новини за годината]]></item>
+  <item name="av.january12news.title"><![CDATA[За много години! Приветстваме ви в новата 2012! Нека самолетите ви се обслужват навреме, нека много пътници посетят летищата ви и аеромонетите напълнят касите ви!]]></item>
+  <item name="av.january12news.text"><![CDATA[След направените технически подобрения самолетите вече автоматично ще бъдат прибирани по депата. Пробвай опцията, за да видиш колко по-лесно ще обслужваш машините си. Това е огромно улеснение за всеки летищен мениджър.]]></item>
+  <item name="av.january12news.hint_title"><![CDATA[Ъпдейти:]]></item>
+  <item name="av.january12news.hint_text"><![CDATA[Работим усилено, за да подобрим времето за зареждане на играта и някои графични проблеми. Обещано!]]></item>
+  <item name="av.january12news.shop_title"><![CDATA[Купи стоки:]]></item>
+  <item name="av.january12news.shop_text"><![CDATA[Нямаш достатъчно стоки? Можеш винаги да си ги закупиш в съответната категория в магазина.]]></item>
+ </category>
+ <category name="av.modernizationnews">
+  <item name="av.modernizationnews.header"><![CDATA[Новите ежедневни куестове!]]></item>
+  <item name="av.modernizationnews.title"><![CDATA[Да полетим! Имаме 21 нови предизвикателства за вас]]></item>
+  <item name="av.modernizationnews.text"><![CDATA[Преструктурирането на едно летище не е лесна работа. Затова не е чудно, че наземният екип на Skyrama през последните месеци по-скоро отсъстваше. Сега обаче, Тео, Лиляна и Кръстьо отново ще поемат задачите си. От релаксиращ шопинг до бурен израз на чувства с вълнуващо аварийно приземяване - няма да ви липсват изживявания. Кликнете в ляво върху звездичката и започнете игра! Само след няколко седмици на същото място ще ви очакват нови специални куестове.]]></item>
+  <item name="av.modernizationnews.hint_title"><![CDATA[Ъпдейти:]]></item>
+  <item name="av.modernizationnews.hint_text"><![CDATA[Постави тех-декорации до стоянките на самолетите, за да намалиш времето за обслужване с до 40%.]]></item>
+  <item name="av.modernizationnews.shop_title"><![CDATA[Нови самолети!]]></item>
+  <item name="av.modernizationnews.shop_text"><![CDATA[Разгледай съвсем новите прототипи и безопасни самолети в магазина си.]]></item>
+ </category>
+ <category name="av.modernizationnews+mmo">
+  <item name="av.modernizationnews+mmo.header"><![CDATA[Летището на бъдещето!]]></item>
+  <item name="av.modernizationnews+mmo.title"><![CDATA[Летището на бъдещето е тук! Пред нас са страхотни прототипи на самолети и модерни нови сгради.]]></item>
+  <item name="av.modernizationnews+mmo.text"><![CDATA[Пилоти, чуйте! Skyrama е номинирана за "Best Tycoon Browser MMO"! Ура!!! Моля, гласувайте за нас, като използвате линка по-долу! <br/><a href="http://mmooftheyear.com/" target="_blank"><u>Връзка към гласуването за MMO</u></a><br/>Помогнете на Skyrama да се издигне още по-високо!! Очаква ви изненада, ако спечелим тази награда!]]></item>
+  <item name="av.modernizationnews+mmo.hint_title"><![CDATA[Ъпдейти:]]></item>
+  <item name="av.modernizationnews+mmo.hint_text"><![CDATA[Постави тех-декорации до стоянките на самолетите, за да намалиш времето за обслужване с до 40%.]]></item>
+  <item name="av.modernizationnews+mmo.shop_title"><![CDATA[Нови самолети!]]></item>
+  <item name="av.modernizationnews+mmo.shop_text"><![CDATA[Разгледай съвсем новите прототипи и безопасни самолети в магазина си.]]></item>
+ </category>
+ <category name="av.modernizationnews+unlocking">
+  <item name="av.modernizationnews+unlocking.header"><![CDATA[Летището на бъдещето!]]></item>
+  <item name="av.modernizationnews+unlocking.title"><![CDATA[Летището на бъдещето е тук! Пред нас са страхотни прототипи на самолети и модерни нови сгради.]]></item>
+  <item name="av.modernizationnews+unlocking.text"><![CDATA[Слушайте, пилоти!<br/>Вече можете да проследявате полетите си чрез новата летателна карта, отключваща държави.<br/>Посетете всяка държава на континента, за да получите награда и да покажете прекрасните си самолети на играчите от целия свят!]]></item>
+  <item name="av.modernizationnews+unlocking.hint_title"><![CDATA[Ъпдейти:]]></item>
+  <item name="av.modernizationnews+unlocking.hint_text"><![CDATA[Постави тех-декорации до стоянките на самолетите, за да намалиш времето за обслужване с до 40%.]]></item>
+  <item name="av.modernizationnews+unlocking.shop_title"><![CDATA[Нови самолети!]]></item>
+  <item name="av.modernizationnews+unlocking.shop_text"><![CDATA[Разгледай съвсем новите прототипи и безопасни самолети в магазина си.]]></item>
+ </category>
+ <category name="av.zeppelinexpedition">
+  <item name="av.zeppelinexpedition.header"><![CDATA[Нови функции!]]></item>
+  <item name="av.zeppelinexpedition.title"><![CDATA[Летището ни е готово да посрещне прочутата експедиция "Цепелин" и отключването на държави! Слава, чест и много специални награди очакват всички присъстващи!]]></item>
+  <item name="av.zeppelinexpedition.text"><![CDATA[Вече можете да проследявате полетите си чрез новата летателна карта, отключваща държави. Посети всяка държава на даден континент, за да спечелиш награда и да покажеш прекрасните си самолети на играчите от целия свят!<br/><br/>След като получиш хангар за цепелини, можеш да започнеш да събираш гориво за експедицията си, като преминеш през минииграта ВЪЗДУШНО ШОУ. Когато събереш достатъчно гориво, можеш да изпратиш цепелина си на екзотични места, за да събира редки сувенири. Събери достатъчно сувенири и ги замени за един или два много специални самолета. Провери инвентара си, може би твоят цепелин е вече там!]]></item>
+  <item name="av.zeppelinexpedition.hint_title"><![CDATA[Експедиция "Цепелин"!]]></item>
+  <item name="av.zeppelinexpedition.hint_text"><![CDATA[Получи Dedarama или невероятния Космически кораб - Едно като награда за колекцията от експедицията.]]></item>
+  <item name="av.zeppelinexpedition.shop_title"><![CDATA[Въздушно шоу]]></item>
+  <item name="av.zeppelinexpedition.shop_text"><![CDATA[Въздушното шоу ще се състои на твоето летище, когато имаш хангар за цепелини. Кликни върху преминаващите самолети в точния момент, за да получиш гориво!]]></item>
+ </category>
+ <category name="av.mmo">
+  <item name="av.mmo.header"><![CDATA[MMO of the year!]]></item>
+  <item name="av.mmo.title"><![CDATA[Който гласува, той печели! Благодарение на вашата подкрепа екипът на Skyrama грабна "MMO Award 2012"!]]></item>
+  <item name="av.mmo.text"><![CDATA[Вие ни избрахте за най-добрата икономическа онлайн симулация в надпреварата <br/><a href="http://mmooftheyear.com/" target="_blank"><u>"MMO of the Year 2012"</u></a><br/>! Ние ще гърмим бутилките с шампанско, а вие ще спечелите един от нашите три неповторими подаръка! Всеки истински пилот има нужда от пространство, за да размаха криле. Затова наземният състав неспирно се труди да освободи допълнително място в малкия хангар! И всичко това безплатно!]]></item>
+  <item name="av.mmo.hint_title"><![CDATA[Късметлия]]></item>
+  <item name="av.mmo.hint_text"><![CDATA[Тази нова декорация ще грее на летището ти ден и нощ.]]></item>
+  <item name="av.mmo.shop_title"><![CDATA[10 е щастливото число!]]></item>
+  <item name="av.mmo.shop_text"><![CDATA[9 е добре, но 10 е прекрасно! Затова ви даваме 10 безплатни завъртания на Багажната лотария!]]></item>
+ </category>
+ <category name="av.superfuel">
+  <item name="av.superfuel.header"><![CDATA[Зареди с турбо гориво! ]]></item>
+  <item name="av.superfuel.title"><![CDATA[Премини скоростта на звука! С турбо горивото!]]></item>
+  <item name="av.superfuel.text"><![CDATA[Бавни самолети, пъркащи хеликоптери и изнервени пътници? Не и на твоето летище! Зареди сега нашето ново турбо гориво и засвести с машините си през атмосферата!]]></item>
+  <item name="av.superfuel.hint_title"><![CDATA[VIP-приземяване]]></item>
+  <item name="av.superfuel.hint_text"><![CDATA[Кръженето над летището е минало! Който иска, може да се приземява веднага!]]></item>
+  <item name="av.superfuel.shop_title"><![CDATA[Напред да заредиш!]]></item>
+  <item name="av.superfuel.shop_text"><![CDATA[За всички играчи от 30-то ниво: 50 ед. турбо гориво безплатно!]]></item>
+ </category>
+ <category name="av.may_day">
+  <item name="av.may_day.header"><![CDATA[Майски празници в Skyrama!]]></item>
+  <item name="av.may_day.title"><![CDATA[Нека да празнуваме до припадък!]]></item>
+  <item name="av.may_day.text"><![CDATA[Колко е прекрасно през май!  Контролната кула ще се разтърси от радостното ни посрещане на майските празници! Използвай цветните монети, за да си отваряш достъпа до ексклузивни предмети и празнувай с нас през май! Напред към летището!]]></item>
+  <item name="av.may_day.hint_title"><![CDATA[Звън на цветни монети]]></item>
+  <item name="av.may_day.hint_text"><![CDATA[Събирай цветни монети: Колкото повече имаш от тях, толкова повече предмети ще си вземеш!]]></item>
+  <item name="av.may_day.shop_title"><![CDATA[Във вихъра на пазаруването!]]></item>
+  <item name="av.may_day.shop_text"><![CDATA[Всичко за пролетта - докато все още има нещо на склад!]]></item>
+ </category>
+ <category name="av.eng_bay">
+  <item name="av.eng_bay.header"><![CDATA[Фабрика за самолети!]]></item>
+  <item name="av.eng_bay.title"><![CDATA[Това е върхът! Сега може да се сформира перфектната флота!]]></item>
+  <item name="av.eng_bay.text"><![CDATA[Сега в отдел "Летищни сгради" на магазина: с новата фабрика за самолети и части ще направиш от машините си истински ракети! Оборудвай машините си с навигационни с-ми, с по-голям трюм и по-добри двигатели. Срещу 100 аеромонети ще можеш веднага да си набавиш център за тунинговане. Бъдещето принадлежи на изобретателните!]]></item>
+  <item name="av.eng_bay.hint_title"><![CDATA[Направо от фабриката!]]></item>
+  <item name="av.eng_bay.hint_text"><![CDATA[Сега на всеки 24 часа: предаване на стари самолети за скрап!]]></item>
+  <item name="av.eng_bay.shop_title"><![CDATA[Богати и модерни]]></item>
+  <item name="av.eng_bay.shop_text"><![CDATA[Нямаш време да събираш части? В магазина можеш да си купиш комплекти на ниска цена!]]></item>
+  <item name="av.eng_bay.buy_title"><![CDATA[Първи товарен хеликоптер]]></item>
+  <item name="av.eng_bay.buy_text"><![CDATA[Постави тех-декорации до стоянките на самолетите, за да намалиш времето за обслужване с до 40%.]]></item>
+  <item name="av.eng_bay.skin_title"><![CDATA[Разиграване на картата на корпуса]]></item>
+  <item name="av.eng_bay.skin_text"><![CDATA[Процедури за освежаване на самолети. След подновяването в работилницата ще се издигне нависоко!]]></item>
+ </category>
+ <category name="av.announcement">
+  <item name="av.announcement.header"><![CDATA[Преглед на Skyrama]]></item>
+  <item name="av.announcement.title"><![CDATA[Поглед напред: Първо тук ще научите какво предстои в скоро време! ]]></item>
+  <item name="av.announcement.text"><![CDATA[Във пика на сезона е горещо в Skyrama. В края на месеца в програмата е предвидено голямо събитие за всички най-добри спортисти и за тези, които искат да станат такива. Специални самолети, напълно нови постройки и други неща ще се погрижат за шампионско настроение. Освен това зад кулисите цари усилено обновяване: събрахме отново ваканционните самолети на нашите най-добри ловци на насекоми, за да изпратим на лов въоръжените до зъби момчета и момичета. Сега ще им покажем на буболечките!]]></item>
+  <item name="av.announcement.hint_title"><![CDATA[Най-добри приятели]]></item>
+  <item name="av.announcement.hint_text"><![CDATA[По-удобна, по-бърза, по-добра: Скоро стартираме нова функция за покани!]]></item>
+  <item name="av.announcement.shop_title"><![CDATA[0815 беше вчера]]></item>
+  <item name="av.announcement.shop_text"><![CDATA[Дневни куестове, каквито е нямало досега: Съвсем скоро ще има напълно нови задачи!]]></item>
+ </category>
+ <category name="av.friends">
+  <item name="av.friends.header"><![CDATA[Социална летателна мрежа]]></item>
+  <item name="av.friends.title"><![CDATA[Пълен поглед върху въздушния транспорт: новият инструмент за планиране е тук!]]></item>
+  <item name="av.friends.text"><![CDATA[Далеч от очите, далеч от ума! Който не поддържа връзка с приятелите си, среща трудности в дейността около въздушния транспорт. В последно време наземният персонал често ни информира за повтарящи се нарушения на онлайн състоянието, при които дори се стига до кръстосване на шпаги от страна на мениджърите. Но... Има светлинка в тунела! С новите ни сигнали за самолети ще можете в бъдеще да координирате идеално своите летателни планове с всички членове на списъка с приятели. Просто кликнете върху символа на кула в горната лява част над лентата с менюто и дайте сигнал, че имате свободен капацитет. За следващите 30 минути ще се придвижите най-отпред на списъка с приятели на вашите приятели. Хайде на работа! Информирайте се взаимно и показвайте на бизнес партньорите си кога сте онлайн!]]></item>
+  <item name="av.friends.hint_title"><![CDATA[Ъпдейти:]]></item>
+  <item name="av.friends.hint_text"><![CDATA[Постави тех-декорации до стоянките на самолетите, за да намалиш времето за обслужване с до 40%.]]></item>
+  <item name="av.friends.shop_title"><![CDATA[Редовни гости]]></item>
+  <item name="av.friends.shop_text"><![CDATA[По-добре отколкото вкъщи: в бъдеще пътниците ви ще остават цели 5 дни в чакалнята.]]></item>
+ </category>
+ <category name="av.10mi">
+  <item name="av.10mi.header"><![CDATA[Десет милиона регистрирани играчи!]]></item>
+  <item name="av.10mi.title"><![CDATA[Малко събитие за големия рекорд. Нека отворим шампанското!]]></item>
+  <item name="av.10mi.text"><![CDATA[В знак на благодарност за верността ви ще раздаваме 5 безплатни завъртания на Багажната лотария, 10 единици турбо гориво и строителни части за фабриката за самолети. Освен това в магазина ще намерите ексклузивни специални декорации и благородния самолет MillionAir X.]]></item>
+  <item name="av.10mi.hint_title"><![CDATA[Всяко начало е лесно]]></item>
+  <item name="av.10mi.hint_text"><![CDATA[10 милиона играчи, цяла седмица веселие - ще празнуваме от 10.12 до 17.12.2012 г.!]]></item>
+  <item name="av.10mi.shop_title"><![CDATA[Имало едно време...]]></item>
+  <item name="av.10mi.shop_text"><![CDATA[През март 1920 г. отваря врати летището в Кройдън, първото международно летище в света.]]></item>
+ </category>
+ <category name="av.dark_orbit">
+  <item name="av.dark_orbit.header"><![CDATA[Летище Dark: Посещение от Вселената!]]></item>
+  <item name="av.dark_orbit.title"><![CDATA[Към бъдещето с ултразвукова скорост - на кого са му нужни самолети?]]></item>
+  <item name="av.dark_orbit.text"><![CDATA[Извънредни новини! Голиат, могъщият линеен крътосвач, ще гостува на твоето летище през следващите няколко часа. Вземи летящата крепост, всей страх сред конкуренцията и докажи, че бъдещето на въздушния транспорт е сред звездите... Вземи летящата крепост, всей страх сред конкуренцията и докажи, че бъдещето на въздушния транспорт е сред звездите...]]></item>
+  <item name="av.dark_orbit.hint_title"><![CDATA[Вчера Давид, днес - Goliath!]]></item>
+  <item name="av.dark_orbit.hint_text"><![CDATA[6 години DarkOrbit - на 11.12 бе даден началният старт на голямото космическо преживяване]]></item>
+  <item name="av.dark_orbit.shop_title"><![CDATA[Еднократно предложение]]></item>
+  <item name="av.dark_orbit.shop_text"><![CDATA[Сега или никога: Не пропускай шанса си за  Goliath!]]></item>
+ </category>
+ <category name="av.high_level">
+  <item name="av.high_level.header"><![CDATA[Разрешение за кацане за елитните самолети]]></item>
+  <item name="av.high_level.title"><![CDATA[Нашите нови първенци са тук!]]></item>
+  <item name="av.high_level.text"><![CDATA[Добрите пилоти искат да се издигат нависоко, а най-добрите - да бъдат на върха! В бъдеще ще можете да разширите флотата си с елита на международния въздушен транспорт. Подгответе се да бъдете изненадани от това, кой ще бъде следващият легендарен самолет, който ще се появи на летището ви!]]></item>
+  <item name="av.high_level.hint_title"><![CDATA[Край на залаганията]]></item>
+  <item name="av.high_level.hint_text"><![CDATA[Искате декорации за победители? Големият жребий ви очаква.]]></item>
+  <item name="av.high_level.shop_title"><![CDATA[Започване сега]]></item>
+  <item name="av.high_level.shop_text"><![CDATA[Новите самолети - на склад и лъснати до блясък.]]></item>
+ </category>
+ <category name="av.newquests">
+  <item name="av.newquests.header"><![CDATA[Куест-О-Rama ]]></item>
+  <item name="av.newquests.title"><![CDATA[Направете път на новите мисии!]]></item>
+  <item name="av.newquests.text"><![CDATA[Нови истории, нови герои и много вълнуващи предизвикателства! През следващите седмици на летището ще се случват много неща. След доста дълга пауза от основните и сюжетни куестове, Тарик, Лин и приятели отново са тук и са готови да объркат нещата на летището. Само тази седмица ще пуснем 10 нови мисии за всички играчи, успели да се справят със своите списъци с куестове. През следващите няколко седмици предстои още. Още много! Оглеждайте се за ъпдейти за новите куестове и други неща, които сме ви подготвили!]]></item>
+  <item name="av.newquests.hint_title"><![CDATA[Нови сгради в магазина]]></item>
+  <item name="av.newquests.hint_text"><![CDATA[Има по нещо за всеки, независимо дали търсите машина за вълни или охранително устройство.]]></item>
+  <item name="av.newquests.shop_title"><![CDATA[WonderQuicky!]]></item>
+  <item name="av.newquests.shop_text"><![CDATA[Събирай части за самолети, за да попълниш своята колекция "WonderQuicky"!!!]]></item>
+ </category>
+ <category name="av.recyclingnews">
+  <item name="av.recyclingnews.header"><![CDATA[Тактика за скрап: рециклирай своите самолети!]]></item>
+  <item name="av.recyclingnews.title"><![CDATA[Обнови старите самолети!]]></item>
+  <item name="av.recyclingnews.text"><![CDATA[Пистата е задръстена, хангарът се пръска по шевовете, а твоят екипаж кипи от гняв?  Няма проблем! От сега нататък лесно ще можеш да разчистваш летището, да се отървеш от резервните самолети в чисто новия център за рециклиране, като в замяна получиш няколко редки части за двигател.  Отиди в строителното хале, дай ги на най-умните ни механици и самолетът на мечтите ти ще бъде сглобен пред очите ти. Бъдещето започва днес. Готов ли си за излитане?]]></item>
+  <item name="av.recyclingnews.hint_title"><![CDATA[Нови части]]></item>
+  <item name="av.recyclingnews.hint_text"><![CDATA[Стъкло, болтове, метал и още: вземи резервните си части, докато още парят!]]></item>
+  <item name="av.recyclingnews.shop_title"><![CDATA[Висшата лига]]></item>
+  <item name="av.recyclingnews.shop_text"><![CDATA[Светкавично бързи и супер плавни: покажи стил с новите си самолети!]]></item>
+ </category>
+</language>

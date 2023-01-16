@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.friend">
+  <item name="av.friend.title"><![CDATA[Freundesliste]]></item>
+  <item name="av.friend.text"><![CDATA[TODO: Lorem ipsum dolor...]]></item>
+  <item name="av.friend.reward"><![CDATA[Belohnungen für Freunde]]></item>
+  <item name="av.friend.invite"><![CDATA[TODO: Invite Friend]]></item>
+  <item name="av.friend.list.country"><![CDATA[TODO: Country]]></item>
+  <item name="av.friend.list.status"><![CDATA[TODO: Status]]></item>
+  <item name="av.friend.list.name"><![CDATA[TODO: Name]]></item>
+  <item name="av.friend.list.level"><![CDATA[TODO: Level]]></item>
+  <item name="av.friend.list.bpoints"><![CDATA[TODO: Buddy Points]]></item>
+  <item name="av.friend.search.hint"><![CDATA[TODO: Username / ID]]></item>
+  <item name="av.friend.search.clear"><![CDATA[TODO: Clear Search]]></item>
+  <item name="av.friend.search.button"><![CDATA[TODO: Search]]></item>
+  <item name="av.friend.rewards"><![CDATA[TODO: {current}/{max} Rewards]]></item>
+  <item name="av.friend.reward.claim"><![CDATA[TODO: claim]]></item>
+  <item name="av.friend.reward.got"><![CDATA[TODO: reward already claimed]]></item>
+ </category>
+ <category name="av.friend.invite">
+  <item name="av.friend.invite.title"><![CDATA[TODO: Invite your friends]]></item>
+  <item name="av.friend.invite.text"><![CDATA[TODO: Why play alone when you can play together? Invite your friends to your game.]]></item>
+  <item name="av.friend.invite.to"><![CDATA[TODO: To:]]></item>
+  <item name="av.friend.invite.email"><![CDATA[TODO: e-mail]]></item>
+  <item name="av.friend.invite.hint"><![CDATA[TODO: Separate multiple e-mail addrewsses with commas]]></item>
+  <item name="av.friend.invite.error"><![CDATA[TODO: Please, check the correct spelling of the e-mail address]]></item>
+  <item name="av.friend.invite.send"><![CDATA[TODO: Send Message:]]></item>
+ </category>
+</language>

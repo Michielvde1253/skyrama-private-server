@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.global">
+  <item name="av.global.gametitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.pagetitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.Label.buy"><![CDATA[Купи]]></item>
+  <item name="av.global.ok"><![CDATA[ОК]]></item>
+  <item name="av.global.cancel"><![CDATA[Прекъсни]]></item>
+  <item name="av.global.minute"><![CDATA[мин.]]></item>
+  <item name="av.global.minutes"><![CDATA[мин.]]></item>
+  <item name="av.global.hour"><![CDATA[час]]></item>
+  <item name="av.global.hours"><![CDATA[часа]]></item>
+  <item name="av.global.day"><![CDATA[ден]]></item>
+  <item name="av.global.days"><![CDATA[дни]]></item>
+  <item name="av.global.passenger"><![CDATA[Пътник]]></item>
+  <item name="av.global.passengers"><![CDATA[Пътници]]></item>
+  <item name="av.global.loading"><![CDATA[Зареждане на данните...]]></item>
+  <item name="av.global.send"><![CDATA[Изпрати]]></item>
+  <item name="av.global.land"><![CDATA[Приземи]]></item>
+  <item name="av.global.logout"><![CDATA[Изход]]></item>
+  <item name="av.global.open"><![CDATA[Отвори]]></item>
+  <item name="av.global.close"><![CDATA[Затвори]]></item>
+  <item name="av.global.select"><![CDATA[Избери]]></item>
+  <item name="av.global.maintenance"><![CDATA[Дейности по поддръжката]]></item>
+  <item name="av.global.maintenance_countdown"><![CDATA[Дейности по поддръжката след:]]></item>
+  <item name="av.global.quickservice"><![CDATA[Обслужвай самолети колкото можеш]]></item>
+  <item name="av.global.superfuel"><![CDATA[Турбо гориво]]></item>
+  <item name="av.global.superfuelboost_selectiontab"><![CDATA[Кликни, за да определиш какво да е ускорението.]]></item>
+  <item name="av.global.superfuel.warningmessage"><![CDATA[Искаш ли наистина да заредиш с турбо гориво?]]></item>
+  <item name="av.global.instantlanding"><![CDATA[VIP-приземяване]]></item>
+  <item name="av.global.comingsoon"><![CDATA[Очаквайте...]]></item>
+  <item name="av.global.planes.small"><![CDATA[Малки самолети]]></item>
+  <item name="av.global.planes.medium"><![CDATA[Средноголеми самолети]]></item>
+  <item name="av.global.planes.large"><![CDATA[Големи самолети]]></item>
+  <item name="av.global.plane"><![CDATA[самолет]]></item>
+  <item name="av.global.click"><![CDATA[Купи]]></item>
+ </category>
+ <category name="av.instantlanding">
+  <item name="av.instantlanding.shortdesc"><![CDATA[Незабавно приземяване. Само с едно кликване!]]></item>
+  <item name="av.instantlanding.warningmessage"><![CDATA[Наистина ли искаш да приземиш самолета веднага?]]></item>
+ </category>
+ <category name="av.xpoffer">
+  <item name="av.xpoffer.title"><![CDATA[Специално предложение!]]></item>
+  <item name="av.xpoffer.offer"><![CDATA[Тези предмети ще подобрят летището ти. Те са подбрани според актуалното ниво, на което си, и достъпът до тях е отворен единствено и само сега на тази изключително ниска цена!]]></item>
+  <item name="av.xpoffer.only"><![CDATA[само за]]></item>
+ </category>
+ <category name="av.dutyfree">
+  <item name="av.dutyfree.title"><![CDATA[Duty Free]]></item>
+  <item name="av.dutyfree.buystorage"><![CDATA[Увеличи своя инвентар]]></item>
+  <item name="av.dutyfree.buygoods"><![CDATA[Добави стоки: {number}]]></item>
+ </category>
+ <category name="av.hangar">
+  <item name="av.hangar.title"><![CDATA[Хангар]]></item>
+  <item name="av.hangar.buyslot"><![CDATA[Увеличи мястото в хангара си]]></item>
+  <item name="av.hangar.scrapplane"><![CDATA[Бракувай самолета]]></item>
+  <item name="av.hangar.security.title"><![CDATA[Да се бракува ли самолета?]]></item>
+  <item name="av.hangar.security"><![CDATA[Наистина ли искаш да бракуваш самолета?]]></item>
+  <item name="av.hangar.outofhangar"><![CDATA[Не е в хангара]]></item>
+ </category>
+ <category name="av.landsidebuilding">
+  <item name="av.landsidebuilding.passenger"><![CDATA[{passenger}/{max}]]></item>
+ </category>
+ <category name="av.settings">
+  <item name="av.settings.show"><![CDATA[Покажи настройките]]></item>
+  <item name="av.settings.hide"><![CDATA[Скрий настройките]]></item>
+  <item name="av.settings.soundOn"><![CDATA[Включи музиката]]></item>
+  <item name="av.settings.soundOff"><![CDATA[Изключи музиката]]></item>
+  <item name="av.settings.soundFxOn"><![CDATA[Включи звуковите ефекти]]></item>
+  <item name="av.settings.soundFxOff"><![CDATA[Изключи звуковите ефекти]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Промени данните]]></item>
+  <item name="av.settings.animationOff"><![CDATA[Изключи анимациите]]></item>
+  <item name="av.settings.animationOn"><![CDATA[Включи анимациите]]></item>
+  <item name="av.settings.quickServiceOn"><![CDATA[Бързо обслужване/Кликни, за да деактивираш опцията]]></item>
+  <item name="av.settings.quickServiceOff"><![CDATA[Бързо обслужване/Кликни, за да активираш опцията]]></item>
+  <item name="av.settings.superFuelOn"><![CDATA[Вкл. на турбото]]></item>
+  <item name="av.settings.superFuelOff"><![CDATA[Изкл. на турбото]]></item>
+  <item name="av.settings.fullscreenOn"><![CDATA[Включи на цял екран]]></item>
+  <item name="av.settings.fullscreenOff"><![CDATA[Изкл. големия екран]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Промени данните]]></item>
+  <item name="av.settings.evoucher"><![CDATA[Плащане с бонус-код]]></item>
+ </category>
+ <category name="av.buddy">
+  <item name="av.buddy.label.flyby"><![CDATA[Флайер]]></item>
+  <item name="av.buddy.label.visit"><![CDATA[Посети]]></item>
+  <item name="av.buddy.exit.visit"><![CDATA[Излез от летището]]></item>
+  <item name="av.buddy.label.send"><![CDATA[Изпрати]]></item>
+  <item name="av.buddy.label.add_buddy"><![CDATA[Добави приятел]]></item>
+  <item name="av.buddy.label.delete"><![CDATA[Изтрий]]></item>
+  <item name="av.buddy.delete_confirmation.title"><![CDATA[Изтрий приятеля]]></item>
+  <item name="av.buddy.delete_confirmation.text"><![CDATA[Наистина ли искаш да изтриеш приятеля си {buddy}?]]></item>
+ </category>
+ <category name="av.rewardwindow">
+  <item name="av.rewardwindow.headline"><![CDATA[Поздравления! Изпълни задачата "{goal_name}"!]]></item>
+ </category>
+ <category name="av.flightmap">
+  <item name="av.flightmap.welcome"><![CDATA[Привет, в моята страна!]]></item>
+  <item name="av.flightmap.back"><![CDATA[Назад]]></item>
+  <item name="av.flightmap.worldmap"><![CDATA[Карта]]></item>
+ </category>
+ <category name="av.souvenirwidget">
+  <item name="av.souvenirwidget.title"><![CDATA[Сувенири]]></item>
+ </category>
+ <category name="av.flybywidget">
+  <item name="av.flybywidget.title"><![CDATA[Колекция "Скай банер"]]></item>
+  <item name="av.flybywidget.entertext"><![CDATA[Въведи тук своя текст:]]></item>
+ </category>
+ <category name="av.levelupwidget">
+  <item name="av.levelupwidget.title"><![CDATA[Качване на ниво]]></item>
+  <item name="av.levelupwidget.message"><![CDATA[<b>Поздравления! Качи се на ниво {level}.<br>Вземи своя бонус и отивай на пазар!</b>]]></item>
+  <item name="av.levelupwidget.unlocked"><![CDATA[Ти отвори:]]></item>
+ </category>
+ <category name="av.fullscreen">
+  <item name="av.fullscreen.title"><![CDATA[Изключване на целия екран]]></item>
+  <item name="av.fullscreen.message"><![CDATA[За съжаление, трябва да изключиш модуса за цял екран, за да използваш тази опция.]]></item>
+  <item name="av.fullscreen.label"><![CDATA[Изключи режима на цял екран]]></item>
+ </category>
+ <category name="av.paymentwidget">
+  <item name="av.paymentwidget.title"><![CDATA[Нямаш достатъчно пари]]></item>
+  <item name="av.paymentwidget.message"><![CDATA[Нямаш с какво да платиш за този предмет!]]></item>
+  <item name="av.paymentwidget.label.add_cash"><![CDATA[ЗАРЕДИ АК]]></item>
+ </category>
+ <category name="av.addfriendswidget">
+  <item name="av.addfriendswidget.title"><![CDATA[Покани приятел(ка)!]]></item>
+  <item name="av.addfriendswidget.description"><![CDATA[Въведи E-mail адреса или никнейма на своя(та) приятел(ка) и изпрати поканата си за Skyrama!]]></item>
+  <item name="av.addfriendswidget.info.emails"><![CDATA[Въведи E-mail адресите тук (разделяй ги с ;)]]></item>
+  <item name="av.addfriendswidget.info.usernames"><![CDATA[Въведи тук никнеймите на играчите (разделяй ги с ;)]]></item>
+  <item name="av.addfriendswidget.error.emails"><![CDATA[Провери E-mail адресите]]></item>
+  <item name="av.addfriendswidget.error.usernames"><![CDATA[Провери никнеймите на играчите]]></item>
+  <item name="av.addfriendswidget.label.send"><![CDATA[Изпрати]]></item>
+ </category>
+ <category name="av.viewfriendswidget">
+  <item name="av.viewfriendswidget.title"><![CDATA[Покани]]></item>
+  <item name="av.viewfriendswidget.description_invites"><![CDATA[Получи {number} покана(и)]]></item>
+  <item name="av.viewfriendswidget.description_no_invites"><![CDATA[Няма повече покани]]></item>
+  <item name="av.viewfriendswidget.accept_invitation"><![CDATA[Приеми]]></item>
+  <item name="av.viewfriendswidget.decline_invitation"><![CDATA[Откажи]]></item>
+ </category>
+ <category name="av.evoucherwidget">
+  <item name="av.evoucherwidget.title"><![CDATA[Разполагаш ли с бонус код?]]></item>
+  <item name="av.evoucherwidget.input.text"><![CDATA[Въведи го, за да вземеш наградата си!]]></item>
+  <item name="av.evoucherwidget.input.hint"><![CDATA[Бонус-код]]></item>
+  <item name="av.evoucherwidget.input.error"><![CDATA[Въведи тук своя код.]]></item>
+  <item name="av.evoucherwidget.progress"><![CDATA[Проверка...]]></item>
+  <item name="av.evoucherwidget.success.discount"><![CDATA[Бонус-кодът е използван успешно. С едно кликване влизаш в]]></item>
+  <item name="av.evoucherwidget.success.discount.link"><![CDATA[Плащане!]]></item>
+  <item name="av.evoucherwidget.success.ingameitems"><![CDATA[Бонус-кодът е използван успешно. Влез отново, получи награда!]]></item>
+  <item name="av.evoucherwidget.error"><![CDATA[Бонус-кодът е невалиден]]></item>
+ </category>
+ <category name="av.passwordwidget">
+  <item name="av.passwordwidget.title"><![CDATA[Промени паролата]]></item>
+  <item name="av.passwordwidget.message"><![CDATA[Въведи новата парола.]]></item>
+  <item name="av.passwordwidget.old"><![CDATA[Въведи старата парола.]]></item>
+  <item name="av.passwordwidget.info.old"><![CDATA[стара парола]]></item>
+  <item name="av.passwordwidget.new"><![CDATA[Въведи новата парола.]]></item>
+  <item name="av.passwordwidget.info.new"><![CDATA[нова парола]]></item>
+  <item name="av.passwordwidget.confirm"><![CDATA[Потвърди новата парола.]]></item>
+  <item name="av.passwordwidget.info.confirm"><![CDATA[потвърждение на паролата]]></item>
+  <item name="av.passwordwidget.save"><![CDATA[Съхрани]]></item>
+  <item name="av.passwordwidget.cancel"><![CDATA[Прекъсни]]></item>
+ </category>
+ <category name="av.flybyitem">
+  <item name="av.flybyitem.dummy"><![CDATA[Dummy]]></item>
+  <item name="av.flybyitem.sms_ownmessage"><![CDATA[Твой собствен текст!]]></item>
+  <item name="av.flybyitem.banner1"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner2"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner3"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner4"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner5"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner6"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner7"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner8"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner9"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner10"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner11"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner22"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner23"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner24"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner25"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner26"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.banner27"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.bff"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.cargo"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.coffee"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.friends1"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.friends2"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.greetings"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.ican"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.lol"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.love"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.medium"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.missu"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.music_hearts"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.omn"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.pinup_girl"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.planes"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.stars_elegant"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.thankyou_elegant"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.wtf"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.test"><![CDATA[Тест]]></item>
+  <item name="av.flybyitem.unlock_message"><![CDATA[Плати сега с аеромонети или се качи на ниво {required_level}!]]></item>
+  <item name="av.flybyitem.effect"><![CDATA[Изпрати фойерверки на приятелите си по случай Нова Година]]></item>
+  <item name="av.flybyitem.bday_champagne"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.birthday_girly"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.birthday_ufo"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.cheers_text"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.fluffy_heart"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.smiley_cool"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.smiley_kitten"><![CDATA[Скай банер]]></item>
+  <item name="av.flybyitem.smiley_surprised"><![CDATA[Скай банер]]></item>
+ </category>
+ <category name="av.selectcountry">
+  <item name="av.selectcountry.hint"><![CDATA[Избери си страната, в която ще се намира твоето летище!]]></item>
+  <item name="av.flightmap.selectContinent"><![CDATA[Избери си континент]]></item>
+  <item name="av.selectcountry.next"><![CDATA[Напред]]></item>
+ </category>
+ <category name="av.topbar">
+  <item name="av.topbar.tooltip.aircoins"><![CDATA[Аеромонети]]></item>
+  <item name="av.topbar.tooltip.aircash"><![CDATA[Аерокеш]]></item>
+  <item name="av.topbar.tooltip.xp"><![CDATA[Опит]]></item>
+  <item name="av.topbar.tooltip.dutyfree"><![CDATA[Duty free]]></item>
+  <item name="av.topbar.tooltip.passengers"><![CDATA[Пътници (остават макс. 5 дни)]]></item>
+  <item name="av.topbar.tooltip.addcash"><![CDATA[Зареди АК]]></item>
+  <item name="av.topbar.addcash"><![CDATA[Зареди АК]]></item>
+ </category>
+ <category name="av.dashboard">
+  <item name="av.dashboard.airportname"><![CDATA[Летището на {name}]]></item>
+  <item name="av.dashboard.store"><![CDATA[Запасни складове и магазин]]></item>
+  <item name="av.dashboard.tool"><![CDATA[Тулове]]></item>
+  <item name="av.dashboard.storage"><![CDATA[Инвентар]]></item>
+  <item name="av.dashboard.souvenir"><![CDATA[Сувенири]]></item>
+  <item name="av.dashboard.flight"><![CDATA[Полети]]></item>
+  <item name="av.dashboard.store_cat"><![CDATA[Магазин: {category}]]></item>
+  <item name="av.dashboard.movetostorage"><![CDATA[В инвентара]]></item>
+  <item name="av.dashboard.mirror"><![CDATA[Завъртане]]></item>
+  <item name="av.dashboard.move"><![CDATA[Преместване]]></item>
+  <item name="av.dashboard.incoming_flights"><![CDATA[Пристигащи полети]]></item>
+  <item name="av.dashboard.buddy_flights"><![CDATA[Полети на приятели]]></item>
+  <item name="av.dashboard.new_flights"><![CDATA[Нови полети]]></item>
+  <item name="av.dashboard.minimize"><![CDATA[Минимирай]]></item>
+  <item name="av.dashboard.maximize"><![CDATA[Максимирай]]></item>
+  <item name="av.dashboard.buddy_ping_title"><![CDATA[Поръчване на самолети]]></item>
+  <item name="av.dashboard.buddy_ping_text"><![CDATA[Оставащо време (мин):]]></item>
+ </category>
+ <category name="av.storepanel">
+  <item name="av.storepanel.passenger"><![CDATA[Пътнически самолети]]></item>
+  <item name="av.storepanel.cargo"><![CDATA[Товарани самолети]]></item>
+  <item name="av.storepanel.helicopter"><![CDATA[Рамакоптер]]></item>
+  <item name="av.storepanel.seaplane"><![CDATA[Водни самолети]]></item>
+  <item name="av.storepanel.largeplane"><![CDATA[Големи самолети]]></item>
+ </category>
+ <category name="av.visitairport">
+  <item name="av.visitairport.notification.title"><![CDATA[Имаше посещение!]]></item>
+  <item name="av.visitairport.notification.text"><![CDATA[Следните играчи посетиха твоето летище:<br/><br/>{users}<br/><br/>Пристигна(ха) още {number} пътник(а).]]></item>
+ </category>
+ <category name="av.multilogin">
+  <item name="av.multilogin.title"><![CDATA[Инфо]]></item>
+  <item name="av.multilogin.text"><![CDATA[Вече си логнат(а) в Skayrama с този акаунт. За да предотвратим евентуални проблеми, ще те извадим автоматично от играта.]]></item>
+ </category>
+ <category name="av.login_bonus">
+  <item name="av.login_bonus.title"><![CDATA[Бонус за влизане в играта]]></item>
+  <item name="av.login_bonus.button"><![CDATA[Лотария]]></item>
+  <item name="av.login_bonus.text"><![CDATA[Ти влезе в играта в {days} последователни дни! Затова печелиш {number} своб. завъртане(ия). Влез утре отново в играта и спечели още!]]></item>
+  <item name="av.login_bonus.spin"><![CDATA[Завъртане]]></item>
+  <item name="av.login_bonus.spin_count"><![CDATA[{count}x]]></item>
+ </category>
+ <category name="av.quickservice">
+  <item name="av.quickservice.text"><![CDATA[Обслужвай самолети колкото можеш]]></item>
+  <item name="av.quickservice.offtitle"><![CDATA[Бързо обслужване]]></item>
+  <item name="av.quickservice.offtext"><![CDATA[Наистина ли искаш да облужваш самолетите си бързо?]]></item>
+ </category>
+ <category name="av.serverproblems">
+  <item name="av.serverproblems.timed_out"><![CDATA[Сесията за игра изтече. Моля презареди играта наново, за да избегнеш появата на проблеми.]]></item>
+ </category>
+ <category name="av.zeppelin">
+  <item name="av.zeppelin.title"><![CDATA[Хангар за цепелини]]></item>
+  <item name="av.zeppelin.buylanding"><![CDATA[Приземи се веднага]]></item>
+  <item name="av.zeppelin.buyfuel"><![CDATA[Напълни резервоара]]></item>
+  <item name="av.zeppelin.destination_1"><![CDATA[Джунгла]]></item>
+  <item name="av.zeppelin.destination_2"><![CDATA[Северен полюс]]></item>
+  <item name="av.zeppelin.destination_3"><![CDATA[Камуфлажни панталони за пустинята]]></item>
+  <item name="av.zeppelin.destination_4"><![CDATA[Планина]]></item>
+  <item name="av.zeppelin.destination_5"><![CDATA[Вулкан]]></item>
+  <item name="av.zeppelin.flytodestination"><![CDATA[Полет към:<br />{destination}]]></item>
+  <item name="av.zeppelin.returned_headline"><![CDATA[Поздравления]]></item>
+  <item name="av.zeppelin.youfound"><![CDATA[Намери:]]></item>
+  <item name="av.zeppelin.take1more"><![CDATA[Вземи още 1 сувенир]]></item>
+  <item name="av.zeppelin.returnhome"><![CDATA[Върни се вкъщи]]></item>
+  <item name="av.zeppelin.readytoland"><![CDATA[Експедиция "Цепелин" готова за приземяване!]]></item>
+  <item name="av.zeppelin.retrieving1more"><![CDATA[Извличане на друг сувенир...]]></item>
+  <item name="av.zeppelin.requiredfuel"><![CDATA[Необходимо гориво: {fuel}]]></item>
+ </category>
+ <category name="av.win.eng_bay">
+  <item name="av.win.eng_bay.title"><![CDATA[Фабрика за самолети]]></item>
+  <item name="av.win.eng_bay.res.title"><![CDATA[Привет в работилницата!]]></item>
+  <item name="av.win.eng_bay.res.intro"><![CDATA[Толкова лесно става: изпращай самолети и печели части за тунинговане!]]></item>
+  <item name="av.win.eng_bay.res.more"><![CDATA[Някои части ще получаваш само за определени самолети.<br/>Колкото по-дълъг е полетът, толкова по-голяма ще е печалбата!]]></item>
+  <item name="av.win.eng_bay.cost"><![CDATA[Необходими са ти:]]></item>
+  <item name="av.win.eng_bay.reward"><![CDATA[Бонус]]></item>
+  <item name="av.win.eng_bay.btn.upgrade"><![CDATA[Тунинговай]]></item>
+  <item name="av.win.eng_bay.btn.getRes"><![CDATA[Набави си части!]]></item>
+  <item name="av.win.eng_bay.upgrading"><![CDATA[Ъпгрейдът тече...]]></item>
+  <item name="av.win.eng_bay.locked"><![CDATA[В момента можеш да направиш само един ъпгрейт.]]></item>
+ </category>
+ <category name="av.tooltip.eng_bay">
+  <item name="av.tooltip.eng_bay.tab.0"><![CDATA[Инфо]]></item>
+  <item name="av.tooltip.eng_bay.tab.locked"><![CDATA[Все още нямаш {type}!]]></item>
+  <item name="av.tooltip.eng_bay.tab.empty"><![CDATA[Нямаш {type} в хангара!]]></item>
+  <item name="av.tooltip.eng_bay.btn.notupgrade"><![CDATA[Нямаш достатъчно части!]]></item>
+ </category>
+ <category name="av.consumable">
+  <item name="av.consumable.1"><![CDATA[Инструменти]]></item>
+  <item name="av.consumable.2"><![CDATA[Инструменти "делукс"]]></item>
+  <item name="av.consumable.3"><![CDATA[Части за пътнически самолет]]></item>
+  <item name="av.consumable.4"><![CDATA[Части за товарен самолет]]></item>
+  <item name="av.consumable.5"><![CDATA[Части за хеликоптер]]></item>
+  <item name="av.consumable.6"><![CDATA[Части за воден самолет]]></item>
+  <item name="av.consumable.13"><![CDATA[Лавров венец]]></item>
+  <item name="av.consumable.14"><![CDATA[Диск]]></item>
+  <item name="av.consumable.15"><![CDATA[Щанга]]></item>
+  <item name="av.consumable.16"><![CDATA[Маратонка]]></item>
+  <item name="av.consumable.17"><![CDATA[Чук за хвърляне]]></item>
+  <item name="av.consumable.18"><![CDATA[Снежинка]]></item>
+  <item name="av.consumable.19"><![CDATA[S Антифриз]]></item>
+  <item name="av.consumable.20"><![CDATA[M Антифриз]]></item>
+  <item name="av.consumable.21"><![CDATA[Антифриз за хеликоптери]]></item>
+  <item name="av.consumable.22"><![CDATA[Aqua Антифриз]]></item>
+  <item name="av.consumable.23"><![CDATA[Кутия шоколадови бонбони]]></item>
+  <item name="av.consumable.24"><![CDATA[Тофи десерт]]></item>
+  <item name="av.consumable.25"><![CDATA[Орехов вихър]]></item>
+  <item name="av.consumable.26"><![CDATA[Пралинова страст]]></item>
+  <item name="av.consumable.27"><![CDATA[Портокалова наслада]]></item>
+ </category>
+ <category name="av.upgrade">
+  <item name="av.upgrade.1"><![CDATA[Двигател]]></item>
+  <item name="av.upgrade.2"><![CDATA[Перка]]></item>
+  <item name="av.upgrade.3"><![CDATA[Навигационна с-ма]]></item>
+  <item name="av.upgrade.4"><![CDATA[VIP-места]]></item>
+  <item name="av.upgrade.5"><![CDATA[Повече място за товари]]></item>
+  <item name="av.upgrade.6"><![CDATA[Стабилизатор]]></item>
+  <item name="av.upgrade.789"><![CDATA[Ъпгрейд]]></item>
+ </category>
+ <category name="av.crafting">
+  <item name="av.crafting.1"><![CDATA[Болт]]></item>
+  <item name="av.crafting.2"><![CDATA[Метал]]></item>
+  <item name="av.crafting.3"><![CDATA[Пластмаса]]></item>
+  <item name="av.crafting.4"><![CDATA[Електроника]]></item>
+  <item name="av.crafting.5"><![CDATA[Платове]]></item>
+  <item name="av.crafting.6"><![CDATA[Стъкло]]></item>
+ </category>
+ <category name="av.win.unlock.eng_bay">
+  <item name="av.win.unlock.eng_bay.title.levelup"><![CDATA[Спечелено!]]></item>
+  <item name="av.win.unlock.eng_bay.title.overlevel"><![CDATA[Нова опция!]]></item>
+  <item name="av.win.unlock.eng_bay.text.levelup"><![CDATA[Честито! Вече си на ниво {level}!]]></item>
+  <item name="av.win.unlock.eng_bay.text.overlevel"><![CDATA[Нашата нова самолетна фабрика: набави си всичко необходимо!]]></item>
+  <item name="av.win.unlock.eng_bay.main"><![CDATA[Ново в магазина: фабрика за самолети!<br/> Обменяй части срещу други самолетни принадлежности, оборудвай машините си и задмини всички свои конкуренти!]]></item>
+  <item name="av.win.unlock.eng_bay.received"><![CDATA[Набави си сега и работи!]]></item>
+ </category>
+ <category name="av.win.bundle">
+  <item name="av.win.bundle.title"><![CDATA[Твоят комплект с части:]]></item>
+  <item name="av.win.bundle.text"><![CDATA[Страхотно! Новите части са страхотни!<br/>Вече ще се поправя и подобрява каквото и колкото може...]]></item>
+  <item name="av.win.bundle.received"><![CDATA[Твоят избор:]]></item>
+ </category>
+ <category name="av.win.logout">
+  <item name="av.win.logout.title"><![CDATA[Изход]]></item>
+  <item name="av.win.logout.text"><![CDATA[Искаш ли да излезеш наистина?]]></item>
+ </category>
+ <category name="av.win.buy_conf">
+  <item name="av.win.buy_conf.title"><![CDATA[Потвърди]]></item>
+  <item name="av.win.buy_conf.buy.text"><![CDATA[Наистина ли искаш да купиш?]]></item>
+  <item name="av.win.buy_conf.del.text"><![CDATA[Да се отстрани ли от инвентара?]]></item>
+  <item name="av.win.buy_conf.sell.text"><![CDATA[Наистина ли искаш да продадеш този предмет за {x} {money}?]]></item>
+ </category>
+ <category name="av.win.error">
+  <item name="av.win.error.global.title"><![CDATA[Внимание!]]></item>
+  <item name="av.win.error.global.text"><![CDATA[Играта беше прекъсната поради технически проблеми!]]></item>
+  <item name="av.win.error.connection.title"><![CDATA[Връзката прекъсната]]></item>
+  <item name="av.win.error.connection.text"><![CDATA[Имаш проблеми с интернет връзката.]]></item>
+  <item name="av.win.error.reload.text"><![CDATA[Искаш ли да заредиш играта отново?]]></item>
+ </category>
+ <category name="av.win.eventBaskets">
+  <item name="av.win.eventBaskets.title"><![CDATA[Голямото предимство!]]></item>
+  <item name="av.win.eventBaskets.text"><![CDATA[Стигни до края, като се възползваш от тези невероятни оферти!]]></item>
+ </category>
+ <category name="av.storage.deleteItems">
+  <item name="av.storage.deleteItems.title"><![CDATA[Продай]]></item>
+  <item name="av.storage.deleteItems.warning"><![CDATA[Ще продадеш ли предмета за {value}аеромонети?]]></item>
+  <item name="av.storage.deleteItems.sellbtn"><![CDATA[Продай]]></item>
+ </category>
+ <category name="av.win.happyhour">
+  <item name="av.win.happyhour.title"><![CDATA[Хепи ауър]]></item>
+  <item name="av.win.happyhour.info"><![CDATA[Оферта "Хепи ауър": Допълнителен{prozent}% за първокласни пилоти!]]></item>
+  <item name="av.win.happyhour.plustext1"><![CDATA[Спести аерокеш по време на Хепи ауър! Напр. 100 ти дава {calcvalue}! ]]></item>
+  <item name="av.win.happyhour.plustext2"><![CDATA[Премини звуковата бариера и разшири летището си!]]></item>
+  <item name="av.win.happyhour.plustext3"><![CDATA[Действай, преди да е станало твърде късно!]]></item>
+  <item name="av.win.happyhour.button"><![CDATA[Купи]]></item>
+ </category>
+ <category name="av.win.recycling_building">
+  <item name="av.win.recycling_building.title"><![CDATA[Център за рециклиране]]></item>
+  <item name="av.win.recycling_building.res.title"><![CDATA[Добре дошъл в центъра за рециклиране]]></item>
+  <item name="av.win.recycling_building.res.intro"><![CDATA[Старото вече е ново! Ако ти трябва още място в хангара или нови части за следващата вълна от самолети, си попаднал на точното място!]]></item>
+  <item name="av.win.recycling_building.res.more"><![CDATA[Тук ще разглобяваш старите самолети. Можеш да получиш различни части от всеки самолет. Използвай ги, за да построиш нови в строителното хале!]]></item>
+  <item name="av.win.recycling_building.level"><![CDATA[Твоето ниво на рециклиране]]></item>
+  <item name="av.win.recycling_building.level_up"><![CDATA[Достигнал си ниво на рециклиране {x}  ]]></item>
+  <item name="av.win.recycling_building.tooltip.small_planes"><![CDATA[Малки самолети в твоя хангар:]]></item>
+  <item name="av.win.recycling_building.tooltip.medium_planes"><![CDATA[Средноголеми самолети в твоя хангар:]]></item>
+  <item name="av.win.recycling_building.tooltip.material1"><![CDATA[Аеромонети]]></item>
+  <item name="av.win.recycling_building.tooltip.material7"><![CDATA[Болт]]></item>
+  <item name="av.win.recycling_building.tooltip.material8"><![CDATA[Метал]]></item>
+  <item name="av.win.recycling_building.tooltip.material9"><![CDATA[Пластмаса]]></item>
+  <item name="av.win.recycling_building.tooltip.material10"><![CDATA[Електроника]]></item>
+  <item name="av.win.recycling_building.tooltip.material11"><![CDATA[Платове]]></item>
+  <item name="av.win.recycling_building.tooltip.material12"><![CDATA[Стъкло]]></item>
+  <item name="av.win.recycling_building.btn.ok"><![CDATA[Ok]]></item>
+  <item name="av.win.recycling_building.gears"><![CDATA[Напредък]]></item>
+  <item name="av.win.recycling_building.option.info"><![CDATA[Разглобявай самолети, получавай части. Можеш да видиш шанса си за успех от лявата страна на този екран.]]></item>
+  <item name="av.win.recycling_building.option.time"><![CDATA[Време за рециклиране: {x} ч.]]></item>
+  <item name="av.win.recycling_building.option.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.recycling_building.btn.dissemble"><![CDATA[Демонтирай]]></item>
+  <item name="av.win.recycling_building.btn.collect"><![CDATA[Събери]]></item>
+  <item name="av.win.recycling_building.btn.sideflag1"><![CDATA[Информация]]></item>
+  <item name="av.win.recycling_building.btn.sideflag2"><![CDATA[Малки самолети]]></item>
+  <item name="av.win.recycling_building.btn.sideflag3"><![CDATA[Средноголеми самолети]]></item>
+  <item name="av.win.recycling_building.btn.sideflag.disabled"><![CDATA[Няма достатъчно самолети]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.title"><![CDATA[Изхвърли това]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.msg"><![CDATA[Ще разглобиш ли този самолет?]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.title"><![CDATA[Направи]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.msg"><![CDATA[Незабавно демонтиране?]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.title"><![CDATA[Нямаш достатъчно аеромонети!]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.msg"><![CDATA[Нямаш достатъчно аерокеш!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.title"><![CDATA[Повишаване на нивото на рециклиране!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.msg"><![CDATA[Браво! Достигна следващото ниво на рециклиране. Шансовете ти за по-добри части се увеличиха.]]></item>
+  <item name="av.win.recycling_building.popup.yes"><![CDATA[Ok]]></item>
+  <item name="av.win.recycling_building.popup.no"><![CDATA[Прекъсни]]></item>
+  <item name="av.win.recycling_building.popup.recycling_done.title"><![CDATA[Получаваш:]]></item>
+ </category>
+ <category name="av.win.crafting_building">
+  <item name="av.win.crafting_building.title"><![CDATA[Строително хале]]></item>
+  <item name="av.win.crafting_building.res.title"><![CDATA[Хале на земята]]></item>
+  <item name="av.win.crafting_building.res.intro"><![CDATA[Посети строителното хале, за да изработиш новаторски самолети.]]></item>
+  <item name="av.win.crafting_building.res.more"><![CDATA[Използвай четири различни материала от центъра за рециклиране, за да създадеш чисто нов самолет. Ако трябва да ускориш нещата, няма проблем! Винаги можеш да наемеш допълнително хале.]]></item>
+  <item name="av.win.crafting_building.level"><![CDATA[Твоето ниво на майсторство]]></item>
+  <item name="av.win.crafting_building.tooltip.cockpit"><![CDATA[Пилотска кабина]]></item>
+  <item name="av.win.crafting_building.tooltip.body"><![CDATA[Фюзелаж]]></item>
+  <item name="av.win.crafting_building.tooltip.wingunit"><![CDATA[Крило]]></item>
+  <item name="av.win.crafting_building.tooltip.powerunit"><![CDATA[Двигател]]></item>
+  <item name="av.win.crafting_building.tooltip.time"><![CDATA[Готов след:]]></item>
+  <item name="av.win.crafting_building.gears"><![CDATA[Напредък]]></item>
+  <item name="av.win.crafting_building.btn.combine"><![CDATA[Изработване]]></item>
+  <item name="av.win.crafting_building.btn.build"><![CDATA[Направи]]></item>
+  <item name="av.win.crafting_building.btn.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.crafting_building.btn.collect"><![CDATA[Събери]]></item>
+  <item name="av.win.crafting_building.btn.ok"><![CDATA[Ok]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.title"><![CDATA[Трябва ти строително хале?]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.msg"><![CDATA[Инвестирай {x} аерокеш, за да наемеш друго хале за 24 часа.]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.msg"><![CDATA[Трябва ти още аерокеш, за да наемеш друго строително хале!]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.title"><![CDATA[Нямаш пари, а?]]></item>
+  <item name="av.win.crafting_building.btn.sideflag1"><![CDATA[Информация]]></item>
+  <item name="av.win.crafting_building.btn.sideflag2"><![CDATA[Строително хале 1]]></item>
+  <item name="av.win.crafting_building.btn.sideflag3"><![CDATA[Строително хале 2]]></item>
+  <item name="av.win.crafting_building.btn.sideflag4"><![CDATA[Строително хале 3]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.title"><![CDATA[Нямаш достатъчно аеромонети!]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.msg"><![CDATA[Нямаш достатъчно аерокеш!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.title"><![CDATA[В хангара ти няма място!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.msg"><![CDATA[Най-напред ще трябва да разшириш хангара си.]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.title"><![CDATA[Край!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.msg"><![CDATA[Готово ли е вече?]]></item>
+  <item name="av.win.crafting_building.popup.crafting_done.title"><![CDATA[Получаваш:]]></item>
+  <item name="av.win.crafting_building.popup.levelup.title"><![CDATA[Ниво на майсторство+ ]]></item>
+  <item name="av.win.crafting_building.popup.levelup.msg"><![CDATA[Удивително! Като отключиш следващото ниво на майсторство, получаваш достъп до няколко нови самолета!]]></item>
+  <item name="av.win.crafting_building.popup.yes"><![CDATA[Ok]]></item>
+  <item name="av.win.crafting_building.popup.no"><![CDATA[Прекъсни]]></item>
+ </category>
+ <category name="av.win.material_event">
+  <item name="av.win.material_event.res.intro"><![CDATA[На старт, готови, бум! Събери колкото можеш повече предмети от Въздушната олимпиада и ги размени срещу няколко страхотни самолета за събитието!]]></item>
+  <item name="av.win.material_event.res.title"><![CDATA[Нека игрите започнат!]]></item>
+  <item name="av.win.material_event.res.more"><![CDATA[Всеки самолет има свой уникален колекционерски предмет. Размени го срещу някои от нашите подобрени самолети за събитието!]]></item>
+  <item name="av.win.material_event.btn.side_flag1"><![CDATA[Информация за събитието]]></item>
+  <item name="av.win.material_event.btn.side_flag2"><![CDATA[Награди от събитието]]></item>
+  <item name="av.win.material_event.btn.redeem"><![CDATA[Използвай]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.title"><![CDATA[Няма достатъчно предмети]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.msg"><![CDATA[Още не си събрал достатъчно предмети, за да използваш този артикул.]]></item>
+  <item name="av.win.material_event.popup.more_hangar.title"><![CDATA[Необходим ти е подходящ хангар!]]></item>
+  <item name="av.win.material_event.popup.more_hangar.msg"><![CDATA[Необходимо ти е повече място в хангара!]]></item>
+ </category>
+</language>

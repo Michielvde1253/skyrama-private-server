@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.event_pumpkin">
+  <item name="av.event_pumpkin.title"><![CDATA[Tekvicové týždne]]></item>
+  <item name="av.event_pumpkin.text"><![CDATA[Tekvicové týždne odštartovali! To znamená, že je na čase nazbierať pár tekvíc. Vďaka odbaveniu lietadiel si ich pár zaslúžiš. Pokiaľ ich budeš mať dosť, budeš si môcť kúpiť špeciálne lietadlá a budovy - len na krátky čas. Takže sa poponáhľaj a nazbieraj ich čo najviac!]]></item>
+  <item name="av.event_pumpkin.mouseover"><![CDATA[Tekvicové týždne]]></item>
+ </category>
+ <category name="av.event_winter">
+  <item name="av.event_winter.title"><![CDATA[Zimné týždne]]></item>
+  <item name="av.event_winter.text"><![CDATA[Konečne, najkrajšie ročné obdobie začalo!  Na našom letisku leží biela a lesklá snehová prikrývka. Viacerí piloti údajne zazreli letiace sane, keď boli neďaleko Severného pólu.<br/>Počas zimných týždňov dostaneš pre vybavenie letiska darčeky.  S týmito darčekmi si môžeš kúpiť jedinečné lietadlá a exkluzívne budovy!]]></item>
+  <item name="av.event_winter.mouseover"><![CDATA[Zimné týždne]]></item>
+ </category>
+ <category name="av.valentines_week">
+  <item name="av.valentines_week.title"><![CDATA[Romantické týždne]]></item>
+  <item name="av.valentines_week.text"><![CDATA[Láska je vo vzduchu!!<br/>Dostali sme veľa hlásení od pilotov! Videli niečo mihotať sa okolo ako strieľa šípy! Dávaj pozor, možno strelí aj do teba! <br/>Odbav lietadlá na zber ruží a použi ich na nákup jedinečných predmetov! Len na obmedzenú dobu! <br/>Cítiš tú romantiku?]]></item>
+  <item name="av.valentines_week.mouseover"><![CDATA[Romantické týždne]]></item>
+ </category>
+ <category name="av.easter_week">
+  <item name="av.easter_week.title"><![CDATA[Sviatok farebných vajíčok na letisku!]]></item>
+  <item name="av.easter_week.text"><![CDATA[Skyrama vie ako lieta zajac: od 30.03. do 15.04. 2012 si môžeš pomocou akciových vajec aktivovať exkluzívne predmety, pozadia a lietadlá. Tu nie je nič okrúhle ale OVÁLNE!]]></item>
+  <item name="av.easter_week.mouseover"><![CDATA[Buď pri tom: akcia a sviatočná atmosféra!]]></item>
+ </category>
+ <category name="av.may_days">
+  <item name="av.may_days.title"><![CDATA[Májové dni v hre Skyrama!]]></item>
+  <item name="av.may_days.text"><![CDATA[Májové dni pokračujú: Kedže sa vám to veľmi páčilo, ešte dnes a zajtra urobíme okolo mája čestné kolá. Ide sa na pokojné letisko!]]></item>
+  <item name="av.may_days.mouseover"><![CDATA[Tu začína party mesiaca! Májové dni v hre Skyrama!]]></item>
+ </category>
+ <category name="av.bday">
+  <item name="av.bday.title"><![CDATA[Prvé výročie hry Skyrama!]]></item>
+  <item name="av.bday.text"><![CDATA[Nech žije Skyrama! Už celý jeden rok sme online. Bez vás by sme to nedokázali a preto budeme od 06. - 17.06. oslavovať vo veľkom. Aktivuj si s akciovým kúskami koláčov exkluzívne lietadlá alebo získaj úplne nové darčekové pozadie. Takto na plný plyn sa začína leto plné superlatívov!]]></item>
+  <item name="av.bday.mouseover"><![CDATA[Čas na párty!]]></item>
+ </category>
+ <category name="av.olympic">
+  <item name="av.olympic.title"><![CDATA[Letný turnaj v hre Skyrama]]></item>
+  <item name="av.olympic.text"><![CDATA[Len piloti, ktorí lietajú vysoko pristanú na stupni víťazov. Od 27. júla do 12. augusta 2012 bude všade vo vzduchu športový duch. Exkluzívne lietadla, limitované dekorácie a mnoho iného! Tu sa stávajú lietadlá víťazmi! Staň sa majstrom v odbavovaní lietadiel, získaj zlatú medailu a vymeň ju v obchode za nové predmety!]]></item>
+  <item name="av.olympic.mouseover"><![CDATA[Pripraviť sa, pozor, štart: Nie je dôležité vyhrať, ale zúčastniť sa!]]></item>
+ </category>
+ <category name="av.pirate">
+  <item name="av.pirate.title"><![CDATA[Lietaj ako pirát!]]></item>
+  <item name="av.pirate.text"><![CDATA[Už celý jeden týždeň sa na letisku plieni a vypaľuje koľko sa len dá! Dostatočný dôvod na to, aby sa tento pirátsky svet predĺžil o 7 dní. Až do 16.09. budú strieľať korky a delá. Kto je zrelým pre ostrov, môže okrem toho v obchode získať čerstvé tropické karibské pozadie. Do zbrane!]]></item>
+  <item name="av.pirate.mouseover"><![CDATA[Pirátske týždne v hre Skyrama sú späť!]]></item>
+ </category>
+ <category name="av.event2">
+  <item name="av.event2.title"><![CDATA[Oktoberfest v hre Skyrama]]></item>
+  <item name="av.event2.text"><![CDATA[Biele oblaky, modrá obloha - čas pre nádherný Oktoberfest priamo na letisku. S bavorskými predmetmi, typickými lietadlami a kráľovskými úlohami vás dopravíme k rovníkovej klobáse a späť.  Nielen v Mníchove je dvorný pivovar!<br/>(alkohol ohrozuje Vaše zdravie)]]></item>
+  <item name="av.event2.mouseover"><![CDATA[Jeden, dva, odlet: bielo-modrý október v hre Skyrama]]></item>
+ </category>
+ <category name="av.event3">
+  <item name="av.event3.title"><![CDATA[Strašidelné týždne v hre Skyrama]]></item>
+  <item name="av.event3.text"><![CDATA[Na letisku je poriadny randál .. a to v pravom slova zmysle. Od 25. októbra až do 11. novembra 2012 budú na letisku, na veži a v hangároch vyčíňať potvory a strašidlá. Dokonca aj z pokojných miest parkovísk vyžaruje aura zloby. Diabolský teror široko, ďaleko, pokiaľ oči dovidia! Ale ešte nie je všetkému koniec. S exkluzívnymi predmetmi ako napr. strašidelne klepotajúcim Rama M-kostra, potuchlým zámkom Frankenfly a rototovou múmiou Imhovrtuľa si pripravený na každé nebezpečenstvo. Hraj a zisti v našich halloweenských úlohách, ako sa má tvoja posádka postaviť zoči voči najhorším démonom!]]></item>
+  <item name="av.event3.mouseover"><![CDATA[Tvoj čas beží .. muahahahahaha!]]></item>
+ </category>
+ <category name="av.event4">
+  <item name="av.event4.title"><![CDATA[Sci-Fi-Rama: Vesmírny týždeň na letisku! ]]></item>
+  <item name="av.event4.text"><![CDATA[Budúcnosť vrhá svoje tiene. Modernejšia ako rok 2000, ojazdenejšia ako stará dráha: Skyrama prezentuje letisko novoveku. Tešte sa na hviezdne časy letectva a vybavte svoju flotilu hydroplánom TrojRama, vynovenou helikoptérou Hviezdny vlk, elitným lietadlom White Orbit a ostatnými futuristickými lietadlami. Bez okľuky sa vesmírne lietadlá vrátia po 24 hodinách s extra dávkou BS a AirCentov naspäť. Zbierajte teda ufo-mince, vyzdobte svoje letiská a hor sa do sveta zajtrajška. 3 ... 2 ... 1 ... Odlet!]]></item>
+  <item name="av.event4.mouseover"><![CDATA[Je čas ...  na budúcnosť!]]></item>
+ </category>
+ <category name="av.event5">
+  <item name="av.event5.title"><![CDATA[Veselé Sky-Vianoce: Polárna akcia na letisku!]]></item>
+  <item name="av.event5.text"><![CDATA[Pohľad z výšky: Piloti, stewardky a dokonca aj tvoji priatelia sa pomaly naladili na najkrajší čas v roku. Počas najbližších týždňov bude na letisku vládnuť slávnostná nálada. Získaj napínavé akciové lietadlá ako je napr. gigantické nákladné lietadlo SkiRama Cargo alebo obratné lietadielko Flyathlon a vyzdob si priestory letiska jedličkami alebo coolovými iglú.   Dokonca aj čistobiely snehuliak Pán vločiek sa prihlásil do hry. Príď k nám, zabudni na odhŕňanie snehu a zaželaj pilotom všetko dobré do nového roku.]]></item>
+  <item name="av.event5.mouseover"><![CDATA[Ó letisko, ó letisko, aké krásne sú tvoje lietadlá. Oslavuj sa nami!]]></item>
+ </category>
+ <category name="av.history">
+  <item name="av.history.title"><![CDATA[Letisková kronika: Historická udalosť v hre Skyrama]]></item>
+  <item name="av.history.text"><![CDATA[Staré dobré časy ... vtedy sedeli ešte skutoční muži vo svojich lietajúcich mašinách a to najlepšie prišlo z hora. V nasledovných týždňoch budeme oslavovať dejiny lietania, čo znamená, že sa budeš môcť niečo naučiť o histórii letectva!  Klasické budovy, lietadlá prvej generácie a balóny sa predstavia na tvojom letisku.  Zúčastni sa a sleduj ako sa história letectva rozprestrie pred tvojimi očami. ]]></item>
+  <item name="av.history.mouseover"><![CDATA[Čas na nikoho nepočká.  Poponáhľaj sa, pilot!]]></item>
+ </category>
+ <category name="av.vip">
+  <item name="av.vip.title"><![CDATA[Horných desaťtisíc - Skyrama VIP akcia]]></item>
+  <item name="av.vip.text"><![CDATA[Celebrity si to namierili priamo do oblakov hry Skyrama: V akcii VIP nezostane ani jedna fľaša šampanského prázdna! Tvoje letisko bude v nasledujúcich týždňoch plné celebrít. Extravagantné dekorácie, lukrativne budovy a tie najlepšie lietadla prvej triede budú pripravené pre našu smotánku. Buď pri tom, keď Tariq, Fiona a spol. budú v denných akciových úlohách navigovať na letisku v žiare reflektorov a blýskaní bleskov. Toto bude akcia plná... radosti!]]></item>
+  <item name="av.vip.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.emergency">
+  <item name="av.emergency.title"><![CDATA[Hrdinovia z oblakov: SOS-dni v hre Skyrama]]></item>
+  <item name="av.emergency.text"><![CDATA[V núdzi ide všetko čertovsky rýchlo. Hor sa do záchranného vystreľovacieho kresla: Od 27.03. do 14.04.2013 oslavuje hra Skyrama všetkých vznešených záchrancov na našich letiskách a dokonca aj pod nimi. Skvelé akciové úlohy odkryjú aktuálny núdzový stav pozemného personálu a impozantná panik-dekorácia sa postará o tú správnu náladu a exkluzívne lietadlá zo zásob našich záchranných letiek urobia z každého hrdinu. Takže upevni svoju pozíciu a pohodlne sa usaď a hraj. Tu je viac zábavy ako povoľuje polícia! <br/><br/>(Čakáme ešte na stanovisko požiarnikov)]]></item>
+  <item name="av.emergency.mouseover"><![CDATA[Oslava, oslava, oslava! Toto je najlepší spôsob ako zahnať nebezpečenstvo ...]]></item>
+ </category>
+ <category name="av.flashback">
+  <item name="av.flashback.title"><![CDATA[Návrat do minulosti: Týždne spomienok, druhá časť!]]></item>
+  <item name="av.flashback.text"><![CDATA[Naprieč ponukou a späť. Vy ste si to želali, my sme vybrali - od 18.07. do 04.08.2013 sa vyberieme na cestu do minulosti, naprieč históriou akcií v hre Skyrama. Takáto šanca sa nebude vyskytovať často - využite to! Získajte obľúbené klasické lietadlá a budovy. Zásoby sú obmedzené, keď sa ponuka minie, už sa nebude opakovať. Tešte sa na opätovné stretnutie s historickými akciovými úlohami! Už onedlho sa môžete pripraviť na množstvo noviniek. A samozrejme, na pláne sú úlohy pre vysoké levely a ďalšie prekvapenia. Takže sa poriadne pripútajte. Budúcnosť predstavuje svoju minulosť ...]]></item>
+  <item name="av.flashback.mouseover"><![CDATA[Dnes, včera, zajtra - ŠTART!]]></item>
+ </category>
+ <category name="av.science2013">
+  <item name="av.science2013.title"><![CDATA[Sci-Fi-Rama: Vedecký týždeň na letisku]]></item>
+  <item name="av.science2013.text"><![CDATA[Budúcnosť je dnes! Od 23.05. do 09.06.2013 vhupneme nadzvukovou rýchlosťou do ďalšej éry letectva. Futuristické lietadlá, netradičné stavby a jedinečné akciové úlohy sú cestou do novej epochy aeronautiky.  Zbieraj akciové elixíry a zaobstaraj si najnovšie vymoženosti leteckej techniky priamo v obchode. Kto by už potreboval svetovú výstavu, keď mu celý svet leží pri nohách?]]></item>
+  <item name="av.science2013.mouseover"><![CDATA[Všetko má svoj koniec... dokonca aj budúcnosť...]]></item>
+ </category>
+ <category name="av.summer2013">
+  <item name="av.summer2013.title"><![CDATA[Teraz bude horúco: Letná akcia 2013 v hre Skyrama!]]></item>
+  <item name="av.summer2013.text"><![CDATA[Blankytné nebo, páľava a hrubá vrstva opaľovacieho krému. Keď sa na palube smažia hamburgery a piloti vylihujú v plážových košoch, môže to znamenať len jedno: Od 20.06. do 07.07.  2013 preletí ponad vaše letiská horúčava, aká tu ešte nebola. Ale bez obáv, s exkluzívnymi lietadlami, skvelými budovami a extra porciou nadčasových úloh nebudú vysoké teploty pre vás žiadny problém! ]]></item>
+  <item name="av.summer2013.mouseover"><![CDATA[Nad slnko jasnejšie - toľko času ešte ostáva...]]></item>
+ </category>
+ <category name="av.golden50ies">
+  <item name="av.golden50ies.title"><![CDATA[Retro-nálada na letisku: Zlaté 50. roky!]]></item>
+  <item name="av.golden50ies.text"><![CDATA[S bláznivými účesmi a nádhernými róbami prekonáme rýchlosť zvuku! Pri príležitosti osláv spomienok na 50. roky sa naši piloti a letušky obliekli do svojich kožených uniforiem a jukebox hrá na plný plyn... Zbierajte platne, zaobstarajte si elegantné lietadlá z čias hospodárskeho zázraku a vyzdobte vaše letiská retro-dekoráciou. V hre Skyrama lietajú len praví veteráni z 50. rokov!]]></item>
+  <item name="av.golden50ies.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.japan2013">
+  <item name="av.japan2013.title"><![CDATA[Japonské dni v hre Skyrama]]></item>
+  <item name="av.japan2013.text"><![CDATA[Červené slnko, modrá obloha! V nasledujúcich týždňoch sa koná v hre Skyrama akcia superlatívov - zavíta ku nám Japonsko!  Predstavíme vám klasické lietadlá, domy odolné voči vrtochom počasia a moderné dekorácie z tej ďalekej krajiny. Kĺžte sa s tými najlepšími lietadlami ponad oblaky a vybavte svoje teritórium perfektnou zmesou moderného i tradičného. Kto nazbiera dostatok čerešňových kvetov, bude odmenený!<br><br>Pre všetkých, ktorí medzitým tiahnu do vlasti, sme samozrejme tiež niečo zorganizovali. V našich nových High-Level hlavných úlohách na vás čaká veľké "Áno" - ale zaručene žiadne "Pan". Dispečerka Fiona a mechanik Kurt budú mať svadbu v spektakulárnej rade úloh so skvelými odmenami. Teda, nevynechajte ani jednu úlohu a verte si!]]></item>
+  <item name="av.japan2013.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.halloween2013">
+  <item name="av.halloween2013.title"><![CDATA[Strašidelné týždne, časť 2: Hororová hrôza a zábava!]]></item>
+  <item name="av.halloween2013.text"><![CDATA[Všetko dobré prichádza zhora - ale aj všetko zlé! Nad letiskom sa zbiehajú zlovestné temné mračná, do hangárov udierajú jedovaté blesky a niekde v diaľke je počuť zlovestný smiech pilotov. Získajte letenky na halloweensku párty roka! Konečná stanica: Zlo! Kto by sa už len bál, keď z neba padajú tony bonbónov? Pozbierajte sladké dobroty a investujte ich do strašidelne rýchlych akciových lietadiel, hororových domov a dekorácii, pri ktorých vám bude naskakovať husia koža. Tu nájdete všetko, čo vašu konkurenciu vystraší na smrť - od lietajúceho klabautera až po gigantický Wal-o-Mat. Strach ti dáva krídla ...]]></item>
+  <item name="av.halloween2013.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.winter2013">
+  <item name="av.winter2013.title"><![CDATA[Zimné týždne]]></item>
+  <item name="av.winter2013.text"><![CDATA[Zabaľ sa do deky a nalej si hrnček horúcej čokolády – v hre Skyrama prebiehajú zimné týždne! Je čas na najväčšiu párty ročného obdobia. Šťastné a veselé, správcovia letísk! ]]></item>
+  <item name="av.winter2013.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.flashback3">
+  <item name="av.flashback3.title"><![CDATA[Ranný letec doletí ďalej: Týždne spomienok č. 3!]]></item>
+  <item name="av.flashback3.text"><![CDATA[Starí priatelia v novom roku: Od 16.01. do 02.02. 2014 odštarujeme vašich favoritov v skvelej akcii návratov. Pre každého niečo - na vašich letiskách sa bude začínať ušľachtilým „Jet-Set-Jet“ a končiť rustikálnym „starodávnym hydroplánom“. A kto si chce nanovo vyzdobiť letisko nemusí stavať žiadne vzdušné zámky. Pri našich dekoráciách "Palmový háj" a "Skyrama - Airena" a od dojatia rozpustí aj náš zimný návštevník "Pán vločiek". Týždne spomienok v hre Skyrama: Vaše slnečné lúče pred príchodom jari!]]></item>
+  <item name="av.flashback3.mouseover"><![CDATA[Dnes, včera, zajtra - ŠTART!]]></item>
+ </category>
+ <category name="av.xplanes2014">
+  <item name="av.xplanes2014.title"><![CDATA[Spyrama: Týždne prísne tajných operácií na letisku]]></item>
+  <item name="av.xplanes2014.text"><![CDATA[Dobrý deň agent!<br><br>V posledných mesiacoch spozorovali naši informátori znepokojujúce aktivity. Dobiedzavých pilotov, roztržitých navigátorov a chýbajúce peniaze v pokladniciach: To znamená len jedno. Na tomto letisku sa deje niečo divné!  Sledujte zvláštne aktivity letiskového personálu počas denných úloh a zistite dôvod sprisahania ... ak vôbec nejaké je. Aby ste pracovali v maximálnom utajení, výskumné oddelenie Vám dá k dispozícii exkluzívne superlietadlo a high-tech budovy. Všetko vyrobené podľa plánov získaných od našich "spojencov". Nemajte strach, naše modely boli (v rámci možností) otestované a predstavujú pre pilota a jeho okolie malé riziko. Ak by ste boli Vy alebo niekto z vašej špeciálnej jednotky zajatý alebo zabitý, minister bude popierať akúkoľvek existenciu tejto operácie. Veľa šťastia!]]></item>
+  <item name="av.xplanes2014.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.airlineweeks1_042014">
+  <item name="av.airlineweeks1_042014.title"><![CDATA[Klub Skyrama: Frekventované letecké týždne na letisku]]></item>
+  <item name="av.airlineweeks1_042014.text"><![CDATA[Od mliekára po ministra - v novom bonusovom programe hry Skyrama si každý príde na svoje! Jednoducho takto: Zbierajte air-šeky z okolitých lietadiel, uskladnite si ich na svojom letiskovom konte a vymeňte tie kúsky papiera za exkluzívne značkové lietadlá firmy Airplus, skvelé dekorácie alebo za miernu lúku "Turbo-lencia". Kto by potreboval ešte voľné lety?<br/><br/>Pravidlá pilota #23: Hrajte denné akciové misie a zvládnite naše úplne nové hlavné úlohy (teraz opäť pravidelne nové!) - potom zbierajte air-šeky nadzvukovou rýchlosťou! Vďaka našej novej funkcii zbierania môžete teraz svoje lietadlá nájsť a poslať ich okolo sveta ešte rýchlejšie!]]></item>
+  <item name="av.airlineweeks1_042014.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.flashback4">
+  <item name="av.flashback4.title"><![CDATA[Návrat do minulosti: Týždne spomienok, štvrtá časť!]]></item>
+  <item name="av.flashback4.text"><![CDATA[Naprieč ponukou a späť. Zahlasovali ste a my sme urobili výber - v nadchádzajúcich týždňoch sa vydáme na cestu časom do dejín akcií v hre Skyrama. Takáto šanca sa nebude vyskytovať často - využite to! Získajte obľúbené klasické lietadlá a budovy. Zásoby sú obmedzené, keď sa ponuka minie, už sa nebude opakovať. Tešte sa na opätovné stretnutie s historickými akciovými úlohami! Už onedlho sa môžete pripraviť na množstvo noviniek. Ďalšie vysoko-levelové úlohy sú samozrejme tiež vo vývoji. Takže sa poriadne pripútajte. Budúcnosť predstavuje svoju minulosť ...]]></item>
+  <item name="av.flashback4.mouseover"><![CDATA[Dnes, včera, zajtra - ŠTART!]]></item>
+ </category>
+ <category name="av.airlineweeks2_062014">
+  <item name="av.airlineweeks2_062014.title"><![CDATA[Klub Skyrama: Návrat častých pasažierov]]></item>
+  <item name="av.airlineweeks2_062014.text"><![CDATA[Pekné vyhliadky pre častých pasažierov: Náš nový program "Klub Skyrama" štartuje s ultrazvukovou rýchlosťou do nízkych cien. Zbierajte toľko air-šekov, koľko sa len dá a pokryte svoje hangáre od vrchu až po spodok s mega-fantastickými ponukami z domu "Jumbo Lines". Od svetoznámeho "Bogusa 737" až po jumbo vlajku "Trepo-lencia" tu nájdete všetko, po čom prahne srdce pilota. Napínavé akčné úlohy, nové misie pre hráčov vysokých levelov a vernostný program, aký tu ešte nebol - všetko naznačuje, že leto sa blíži!]]></item>
+  <item name="av.airlineweeks2_062014.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.conceptplanes_072014">
+  <item name="av.conceptplanes_072014.title"><![CDATA[Veľké nápady: Vedecké týždne 2014]]></item>
+  <item name="av.conceptplanes_072014.text"><![CDATA[Všetko pre budúcnosť: Inovačné designy, bláznivé kombinácie a ani jedna napodobenina. Osláv spolu s nami tie najväčšie inovácie v leteckej histórii!  Objav lietadlové prototypy, utopistické dekorácie a vytvor si letisko budúcnosti v novej ére letectva. Zbieraj blueprinty a vymeň ich za najnovšie vynálezy. Hraj vzrušujúce denné úlohy a objav nové horizonty!]]></item>
+  <item name="av.conceptplanes_072014.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.goldenageofaviation_092014">
+  <item name="av.goldenageofaviation_092014.title"><![CDATA[Klasika vo vzduchu: Skyrama oslavuje "Zlaté časy letectva"]]></item>
+  <item name="av.goldenageofaviation_092014.text"><![CDATA[Od čias kráľa Mateja Korvína až po dnešok: Predtým bolo všetko lepšie? Tak na to sa pozrieme! V najbližších týždňoch si minulosť a dnešok podajú ruky: Lietajúce stroje z čias dávno minulých prinesú čerstvý vietor do každodenného letiskového ruchu. Od legendárneho Majstra Šmyka po voňavý hrozienkový plombovač. V tejto gigantickej akcii nájdete všetky lietadlá, ktoré v histórii letectva niečo znamenali a ktoré obdivovali už naši praotcovia. Napínavé akciové úlohy, historické budovy a lietadlá ako za starých čias. To všetko a ešte aj viac ťa čaká v nasledujúcich týždňoch v hre Skyrama  - naživo a vo farbe!]]></item>
+  <item name="av.goldenageofaviation_092014.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.halloween2014">
+  <item name="av.halloween2014.title"><![CDATA[Strašidelné týždne, 3. časť: Nočná mora 2019!]]></item>
+  <item name="av.halloween2014.text"><![CDATA["Sladké alebo kyslé?" - to by bolo pekné! Zatiahni závesy, zamkni dvere, vypni svetlá a otvor Pandorinu skrinku s bonbónmi! Počas nasledujúcich týždňov budeme na letisku poriadne divo oslavovať: So strašidelnými lietadlami, hrôzostrašnými dekoráciami a v diabolských budovách budú vyčíňať strašidlá. Tancuj na hroboch svojich predkov - veselé strašenie!]]></item>
+  <item name="av.halloween2014.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.xmas2014">
+  <item name="av.xmas2014.title"><![CDATA[Polárne týždne 2014]]></item>
+  <item name="av.xmas2014.text"><![CDATA[Navleč si rukavice a poriadne sa prikry dekou! Mrazivý vietor sa ženie smerom na letisko a to znamená len jediné: je čas na zimnú zábavu! Priprav sa na dlhé zimné večery pri PC a svoju centrálu na skvelé lietadlá a mrazivé dekorácie. Ak nazbieraš dostatok nemrznúcej zmesi, dokážeš si splniť každé zimné želanie. Parádne akciové úlohy, mrazivá párty nálada a protišmykové štartovacie dráhy - perfektná kombinácia pre vyvrcholenie konca roka!]]></item>
+  <item name="av.xmas2014.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.flashback5">
+  <item name="av.flashback5.title"><![CDATA[Zo starého je zasa nové: prichádza náš piaty týždeň spomienok!]]></item>
+  <item name="av.flashback5.text"><![CDATA[Všetko sa minulo? To hádam nie! Pri príležitosti štartu ultrarýchleho roku 2015 pripravili naši mechanici tie najlepšie lietadlá posledných rokov. Je tam všetko, čo len môže potešiť srdce pilota - od hrôzostrašnej Skyrantuly až k bláznivému Big Bang.<br><br>Tak zbierajte trofeje, hrajte klasické akciové úlohy a otočte sa na chvíľu späť. Neváhajte, lebo o chvíľu preletíme ultrazvukovou rýchlosťou do ďalšieho roka!]]></item>
+  <item name="av.flashback5.mouseover"><![CDATA[Dnes, včera, zajtra - ŠTART!]]></item>
+ </category>
+ <category name="av.mostwanted022015">
+  <item name="av.mostwanted022015.title"><![CDATA[Horlivo očakávaní aj pri mínusových teplotách: Najhľadanejší z hry Skyrama]]></item>
+  <item name="av.mostwanted022015.text"><![CDATA[Hviezdy s nadzvukovou rýchlosťou: Aj pri zamrznutej pristávacej dráhe idú naše lietadlá na plný plyn. Bez ohľadu na straty sa naši lovci zamerali na najpopulárnejšie lietadlá, aby sme vám mohli ponúknuť ten najlepší sortiment z Nového aj zo Starého sveta. Zbierajte fotoaparáty a vymeňte ich v obchode za lietadlá, napr. za legendárne lietadlo Supi Jupi. Vyriešte napínavé akciové úlohy, kým je akcia na letisku v plnom prúde!]]></item>
+  <item name="av.mostwanted022015.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.emergency042015">
+  <item name="av.emergency042015.title"><![CDATA[Poplach: SOS-dni 2015]]></item>
+  <item name="av.emergency042015.text"><![CDATA[Najprv nehoda a potom zásah? Jasnačka! U pilota, ktorý už zažil a skúsil všeličo, je bezpečné pristátie samozrejmosťou. Urobte z núdze cnosť a oslavujte dovtedy, kým na vaše letisku cikcakovým spôsobom nepristane záchranná letka a nepripraví ho na ďalšiu katastrofu: Obratné záchranné lietadlá, úplne nové hasičské lietadlá a dekorácia odolávajúca zemetraseniu vysielajú nepriateľom jasný signál: "S nami nie!". Samozrejme, že na programe sú opäť skvelé napínavé akciové úlohy - zbierajte záchranné kolesá, získajte skvelé prémie a odštartujte v ústrety jari!]]></item>
+  <item name="av.emergency042015.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.flashback6">
+  <item name="av.flashback6.title"><![CDATA[Týždne "Zostávame doma"]]></item>
+  <item name="av.flashback6.text"><![CDATA[Dúfal si vôbec niekedy, že v obchode opäť uvidíš svoje obľúbené akciové predmety? Tvoj šťastný deň je tu, pretože prichádza týždeň spomienok hry Skyrama! Maj oči otvorené a teš sa na hviezdne akciové lietadlá, hydroplány, helikoptéry a dekorácie. Tak teda neváhaj a uchmatni si tieto explózie minulosti a uži si niektoré klasické akciové úlohy. Nenechaj si ujsť šancu cestovať späť do minulosti!]]></item>
+  <item name="av.flashback6.mouseover"><![CDATA[Dnes, včera, zajtra - ŠTART!]]></item>
+ </category>
+ <category name="av.airshow072015">
+  <item name="av.airshow072015.title"><![CDATA[Pripraviť sa, pozor, štart! V hre Skyrama začína týždeň leteckej show.]]></item>
+  <item name="av.airshow072015.text"><![CDATA[Vzdušní akrobati pozor: Aspoň raz v živote letieť vzduchom obrovskou rýchlosťou. Kto by odolal tejto myšlienke? Tak sa pripútajte a získajte tie najlepšie lietadlá leteckej show. Staň sa majstAirom vo vzdušnej akrobatike!]]></item>
+  <item name="av.airshow072015.mouseover"><![CDATA[Pridaj plyn, ja sa chcem zabávať!]]></item>
+ </category>
+ <category name="av.waterplanes082015">
+  <item name="av.waterplanes082015.title"><![CDATA[Voda, lej sa! Týždne vodných lietadiel v hre Skyrama]]></item>
+  <item name="av.waterplanes082015.text"><![CDATA[Či na pevnine, vo vode alebo vo vzduchu, v tejto akcii si každé pilotské eso nájde svoj dopravný prostriedok. Aspoň raz v živote preletieť tesne nad vodnou hladinou, aspoň raz zažiť looping v helikoptére alebo byť kapitánom luxusného lietajúceho obra. Zvládni niekoľko osviežujúcich akciových úloh a získaj za to mnoho kačičiek. Tu neostane žiadne lietadlo suché - príjemné šmýkanie sa!]]></item>
+  <item name="av.waterplanes082015.mouseover"><![CDATA[Pozor! Klzký povrch!]]></item>
+ </category>
+ <category name="av.flashback7">
+  <item name="av.flashback7.title"><![CDATA[Návrat do minulosti: Týždne sppomienok hry Skyrama]]></item>
+  <item name="av.flashback7.text"><![CDATA[Naprieč ponukou a späť. Zahlasovali ste a my sme urobili výber - v nadchádzajúcich týždňoch sa vydáme na cestu časom do dejín akcií v hre Skyrama. Takáto šanca sa nebude vyskytovať často - využite to! Získajte obľúbené klasické lietadlá a budovy. Zásoby sú obmedzené, keď sa ponuka minie, už sa nebude opakovať. Tešte sa na opätovné stretnutie s historickými akciovými úlohami! Už onedlho sa môžete pripraviť na množstvo noviniek. Ďalšie vysoko-levelové úlohy sú samozrejme tiež vo vývoji. Takže sa poriadne pripútajte. Budúcnosť predstavuje svoju minulosť ...]]></item>
+  <item name="av.flashback7.mouseover"><![CDATA[Dnes, včera, zajtra - ŠTART!]]></item>
+ </category>
+ <category name="av.ufoevent102015">
+  <item name="av.ufoevent102015.title"><![CDATA[UFO-týždne v hre Skyrama]]></item>
+  <item name="av.ufoevent102015.text"><![CDATA[Kedysi, pred dávnymi vekmi, na ďalekom, preďalekom letisku:<br><br>Ďalšia akcia hry Skyrama odštartovala na plný plyn. Vesmírne lode z celého vesmíru sa kĺžu pozdĺž mliečnej dráhy aby boli svedkami fantastickej akcie. Osamelý riaditeľ letiska sa pokúša pomocou mocných kozmických lodí, futuristickych budov a akciových úloh zahnať a poraziť zlo. Ale lovci z Impéria požadujú vysokú cenu... len keď vyzbiera dostatok "hláv votrelcov", až vtedy bude môcť obnoviť slobodu v galaxii...]]></item>
+  <item name="av.ufoevent102015.mouseover"><![CDATA[Zostávajúci čas:]]></item>
+ </category>
+ <category name="av.polarevent122015">
+  <item name="av.polarevent122015.title"><![CDATA[Mrazivé týždne]]></item>
+  <item name="av.polarevent122015.text"><![CDATA[Treskúca zima, hučiace lietadlá teplota hlboko pod nulou ťa delia od najväčšej akcie na Aurora Borealis. Naštartuj motory, posyp pristávaciu dráhu soľou, získaj poriadnu dávku nemrznúcej kvapaliny a priprav sa na záverečnú párty roka. Rok 2015 sa skončí poriadnou oslavou!]]></item>
+  <item name="av.polarevent122015.mouseover"><![CDATA[Diaľnica k DangAir]]></item>
+ </category>
+ <category name="av.futureevent012016">
+  <item name="av.futureevent012016.title"><![CDATA[Týždne budúcnosti]]></item>
+  <item name="av.futureevent012016.text"><![CDATA[Budúcnosť je teraz! Skyrama vám predstavuje - letisko budúcnosti! Zažite budúcnosť podpory letectva so všetkými technológiami zajtrajška! Pripútajte sa a pripravte sa na vzlietnutie rýchlosťou svetla priamo do budúcnosti. Čakajú vás vizionárski piloti, moderné budovy a priekopnícke úlohy. A možno zažijete aj stretnutie tretieho druhu!]]></item>
+  <item name="av.futureevent012016.mouseover"><![CDATA[Budúcnosť je teraz!]]></item>
+ </category>
+ <category name="av.movieevent022016">
+  <item name="av.movieevent022016.title"><![CDATA[Týždne filmových hviezd]]></item>
+  <item name="av.movieevent022016.text"><![CDATA[Príď sa zoznámiť s hviezdami strieborného plátna! Nie, nie žiadni herci.... reálne filmové hviezdy: lietadlá! Počas najbližších týždňov sa na letiskách hry Skyrama predstaví rada kultových lietajúcich strojov zo sveta filmu. Koľko z nich poznáš?]]></item>
+  <item name="av.movieevent022016.mouseover"><![CDATA[Môže dať lietadlo autogram?]]></item>
+ </category>
+ <category name="av.wildlifeevent042016">
+  <item name="av.wildlifeevent042016.title"><![CDATA[Týždne zvierat]]></item>
+  <item name="av.wildlifeevent042016.text"><![CDATA[Si pripravený na rev? Špeciálne lietadlá na prevoz zvierat navštívia tvoje letisko v najbližších týždňoch. Tak si zober svoju prilbu, naskoč do safari-auta a uvidíš koľko zvierat sa ti ich podarí zahliadnuť! Vychutnaj si naše nové budovy, dekorácie, pozadia a špeciálne akciové úlohy - to všetko so zvieracími motívmi. Koľko z nich sa ti podarí chytiť?]]></item>
+  <item name="av.wildlifeevent042016.mouseover"><![CDATA[Budú tam aj lietajúce prasiatka?]]></item>
+ </category>
+ <category name="av.emevent052016">
+  <item name="av.emevent052016.title"><![CDATA[Futbalové týždne]]></item>
+  <item name="av.emevent052016.text"><![CDATA[Dávaj pozor na zvláštne lietadlá, pristávajúce na letisku - dve pre každý tím na majstrovstvách Európy. Za každý vyhratý zápas dostanú zodpovedajúce lietadlá trofej na ich ikony a získajú bonus na skúsenosti alebo peniaze. Čím viac vyhratých zápasov, tým lepšie bonusy! Avšak zvýši sa aj cena lietadiel, takže si včas rozmysli, ktorý tím je najlepší a má najlepšie šance!]]></item>
+  <item name="av.emevent052016.mouseover"><![CDATA[Nezabudni na pravidlá ofsajdu!]]></item>
+ </category>
+ <category name="av.flashback8">
+  <item name="av.flashback8.title"><![CDATA[Návrat do minulosti: Týždne sppomienok hry Skyrama]]></item>
+  <item name="av.flashback8.text"><![CDATA[Naprieč ponukou a späť. Zahlasovali ste a my sme urobili výber - v nadchádzajúcich týždňoch sa vydáme na cestu časom do dejín akcií v hre Skyrama. Takáto šanca sa nebude vyskytovať často - využite to! Získajte obľúbené klasické lietadlá a budovy. Zásoby sú obmedzené, keď sa ponuka minie, už sa nebude opakovať. Tešte sa na opätovné stretnutie s historickými akciovými úlohami! Už onedlho sa môžete pripraviť na množstvo noviniek. Ďalšie vysoko-levelové úlohy sú samozrejme tiež vo vývoji. Takže sa poriadne pripútajte. Budúcnosť predstavuje svoju minulosť ...]]></item>
+  <item name="av.flashback8.mouseover"><![CDATA[Dnes, včera, zajtra - ŠTART!]]></item>
+ </category>
+ <category name="av.olympicevent092016">
+  <item name="av.olympicevent092016.title"><![CDATA[Týždne zlatých medailí]]></item>
+  <item name="av.olympicevent092016.text"><![CDATA[Máš pocit, že celý svet sa toto leto zbláznil do športu? Letisko sa rozhodlo usporiadať svoje vlastnú "Airympiádu"! Máš chuť vyhrať jednu alebo dve medaily? Zadováž si špeciálne akciové lietadlá a pre ich vylepšenie zbieraj športovú výbavu!]]></item>
+  <item name="av.olympicevent092016.mouseover"><![CDATA[Priprav sa, o chvíľu ideš na pódium!]]></item>
+ </category>
+ <category name="av.halloweenevent102016">
+  <item name="av.halloweenevent102016.title"><![CDATA[Týždne nočných letov]]></item>
+  <item name="av.halloweenevent102016.text"><![CDATA[Kto už potrebuje lietadlo, keď môže lietať na metle? Najbližšie dva týždne sa bude na letisku oslavovať strašidlený Halloween! Získaj pre seba niekoľko nových lietadiel a dekorácií a priprav sa na nočné lety!]]></item>
+  <item name="av.halloweenevent102016.mouseover"><![CDATA[Je to vták alebo lietadlo? Nie, je to lietajúca metla!]]></item>
+ </category>
+ <category name="av.arcticevent122016">
+  <item name="av.arcticevent122016.title"><![CDATA[Týždne arktického neba]]></item>
+  <item name="av.arcticevent122016.text"><![CDATA[Vonku sa veľmi ochladilo a aby lietadlá bezpečne lietali, leteckí mechanici začali používať nemrznúcu zmes! Pridaj sa k nám v akcii plnej snehu a ľadu a uži si nové lietadlá, budovy a dekorácie pre tvoje letisko - všetko v novom, zimnom designe!]]></item>
+  <item name="av.arcticevent122016.mouseover"><![CDATA[Zober si šál a klobúk, pretože vonku je zima!]]></item>
+ </category>
+ <category name="av.flashback9">
+  <item name="av.flashback9.title"><![CDATA[Týždne spomienok hry Skyrama]]></item>
+  <item name="av.flashback9.text"><![CDATA[Dúfal si vôbec niekedy, že v obchode opäť uvidíš svoje obľúbené akciové predmety? Tvoj šťastný deň je tu, pretože prichádza týždeň spomienok hry Skyrama! Maj oči otvorené a teš sa na hviezdne akciové lietadlá, hydroplány, helikoptéry a dekorácie. Tak teda neváhaj a uchmatni si tieto explózie minulosti. Nenechaj si ujsť šancu cestovať späť do minulosti!]]></item>
+  <item name="av.flashback9.mouseover"><![CDATA[Toto je ako déjà vu - všetko odznova!]]></item>
+ </category>
+ <category name="av.valentinesevent022017">
+  <item name="av.valentinesevent022017.title"><![CDATA[Láska počas Sky-týždňov]]></item>
+  <item name="av.valentinesevent022017.text"><![CDATA[Cítiš vo vzduchu romantiku? Každý na letisku je naplnený láskou. Zapoj sa do našej akcie a vychutnaj si nové lietadlá Amor-série, ako aj nové budovy a dekorácie! Cíť lásku dnes večer!]]></item>
+  <item name="av.valentinesevent022017.mouseover"><![CDATA[Máš svoju obľúbenú ľúbostnú pieseň?]]></item>
+ </category>
+ <category name="av.skyrace2017">
+  <item name="av.skyrace2017.title"><![CDATA[Skyrace-týždne]]></item>
+  <item name="av.skyrace2017.text"><![CDATA[Si pripravený vyletieť vysoko do neba? Súťaž v akcii Skyrace a dokáž každému, že si najlepším pilotom v hre Skyrama!]]></item>
+  <item name="av.skyrace2017.mouseover"><![CDATA[Skyrace prichádza! Je čas zapnúť tvoj vysokorýchlostný spínač!]]></item>
+ </category>
+</language>

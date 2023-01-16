@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.event_pumpkin">
+  <item name="av.event_pumpkin.title"><![CDATA[Gresskaruke]]></item>
+  <item name="av.event_pumpkin.text"><![CDATA[Her kommer gresskarsesongen! Nå må du å samle noen gresskar! Du kan motta de når du gir service til flyfartøyene. Får du tak i mange nok, kan du kjøpe noen sjeldne fly og bygninger som bare er tilgjengelig i en kort periode! Så sett igang med å samle så mange gresskar du klarer!]]></item>
+  <item name="av.event_pumpkin.mouseover"><![CDATA[Gresskaruke]]></item>
+ </category>
+ <category name="av.event_winter">
+  <item name="av.event_winter.title"><![CDATA[Vinterukene]]></item>
+  <item name="av.event_winter.text"><![CDATA[Årets nydeligste tid har ankommet!  Glitrende snøflak legger seg som et teppe over flyplassen og vi mottar stadig flere rapporter fra piloter som har observert en flygende slede fra Nordpolen passerte dem og var på vei hit.<br/>Gjennom vinterukene kan du motta julegaver når du yter service til fly.  Kjøp unike fly og bygninger for julegavene!]]></item>
+  <item name="av.event_winter.mouseover"><![CDATA[Vinterukene]]></item>
+ </category>
+ <category name="av.valentines_week">
+  <item name="av.valentines_week.title"><![CDATA[Romantiske uker]]></item>
+  <item name="av.valentines_week.text"><![CDATA[Kjærligheten er i lufta!<br/>Det kommer massevis av rapporter fra pilotene igjen! De har alle sett noe rart fly forbi flyene sine - "tingen" skjøt piler! Vær forsiktig der ute, plutselig blir du truffet av noe! <br/>Gi service til luftfartøy for å samle roser. Rosene kan du bytte inn i unike enheter i en begrenset periode! <br/>Kjenner du sommerfuglene i magen?]]></item>
+  <item name="av.valentines_week.mouseover"><![CDATA[Romantiske uker]]></item>
+ </category>
+ <category name="av.easter_week">
+  <item name="av.easter_week.title"><![CDATA[Fargerike eggedager på flyplassen!]]></item>
+  <item name="av.easter_week.text"><![CDATA[Skyrama vet nøyaktig hvordan du kan dra nytte av våren! Fra 30. mars til 15. april, 2012, kan du frigjøre eksklusive enheter, gaver og fly. Hopp i det!]]></item>
+  <item name="av.easter_week.mouseover"><![CDATA[Spring inn i action og ta del i påskens festiviter!]]></item>
+ </category>
+ <category name="av.may_days">
+  <item name="av.may_days.title"><![CDATA[Maidager i Skyrama!]]></item>
+  <item name="av.may_days.text"><![CDATA[Maidagene fortsetter: Idag og imorgen vil vi fortsette å gi dere muligheten til å skaffe dere maimynter til å veksle inn i flotte maigaver. Ut på rullebanen og ta helt av nå!]]></item>
+  <item name="av.may_days.mouseover"><![CDATA[Månedens festligheter har begynt! Maidager i Skyrama!]]></item>
+ </category>
+ <category name="av.bday">
+  <item name="av.bday.title"><![CDATA[Skyrama 1 år!]]></item>
+  <item name="av.bday.text"><![CDATA[Lenge leve Skyrama! Vi har nå vært online i et helt år. Det hadde vi aldri kunne klart uten dere, og fra 06. - 17.06. skal vi feire med alle flykunstneriske regler. Spill med eventkakestykker med eksklusive luftfartøy eller skaff deg en splitter ny bursdagsbakgrunn. Vi er på full fart mot en riktig super sommerstid!]]></item>
+  <item name="av.bday.mouseover"><![CDATA[Party-Time!]]></item>
+ </category>
+ <category name="av.olympic">
+  <item name="av.olympic.title"><![CDATA[Skyrama sommer-luftturnering]]></item>
+  <item name="av.olympic.text"><![CDATA[Kun de beste pilotene som sikter mot stjernene, vil klatre opp på seierspallen. Fra 27.07. til 12.08.2012, vil luften bli full av konkurransefylt idrettsstemning. Eksklusive luftfartøy, begrensete dekorasjoner og mye mer! Vis stolt frem vinnerluftfartøyene dine! Bli en mester i å gi service til fly og sikre deg din egen gullmedalje, som du kan veksle inn i diverse enheter fra eventbutikken.]]></item>
+  <item name="av.olympic.mouseover"><![CDATA[På plass, klar... ferdig... GÅ: Ingen spill, ingen seier!]]></item>
+ </category>
+ <category name="av.pirate">
+  <item name="av.pirate.title"><![CDATA[Fly avgårde som pirater!]]></item>
+  <item name="av.pirate.text"><![CDATA[Den siste uken, har trebeinene plyndret og oppsamlet byttene sine på flyplassen din. Det er jo grunn i seg selv til å forlenge denne fantastiske piratverden for enda en uke. Frem til 16.09., vil kanoner og korkekuler smelle videre. De som allerede er klare for mer shopping, kan stikke innom butikken og hente den karibiske bakgrunnen med frisk saltsmakende sjøfølelse. Alle mann på dekk!]]></item>
+  <item name="av.pirate.mouseover"><![CDATA[Arr-arr, pirat-luftuken er her!]]></item>
+ </category>
+ <category name="av.event2">
+  <item name="av.event2.title"><![CDATA[Oktoberfest i Skyrama]]></item>
+  <item name="av.event2.text"><![CDATA[Hvite skyer, blå himmel: Grunn nok til å sette i gang en flott oktoberfest på flyplassen! Masser av bayerske enheter, frittflytende luftfartøy og kongelige oppdrag vil sende deg på flyturer ned til bratwürstens ekvatorlinje og tilbake igjen. Det er ikke bare Munchen som har et Hofbräuhus!<br/> (Alkohol kan være farlig for helsen din)]]></item>
+  <item name="av.event2.mouseover"><![CDATA[Ein, zwei, fly avsted: Hvitblå oktober i Skyrama]]></item>
+ </category>
+ <category name="av.event3">
+  <item name="av.event3.title"><![CDATA[Grøssuker i Skyrama]]></item>
+  <item name="av.event3.text"><![CDATA[På flyplassen har helvete brutt løs... og dette er nøyaktig ordet for det. Fra 25. oktober og frem til 11. november 2012, vil Fandens horder innta rullebanen, klatre opp i tårnet, overta tollkontrollen og svirre rundt i hangaren. Til og med over den rolige parkeringsplassen vil det svirre en ond aura rundt. Djevelsk terror så langt øye rekker! Men ikke vær redd, det finnes enda håp! Med eksklusive enheter, som f.eks. klakkende Rama M vindkutter, det falleferdige slottet Frankenfly og den roterende mumien Imhoskrap, vil du være bevæpnet for de fleste farer. Bli med på grøssen, ta tak i våre eksklusive Halloween-oppdrag og gjør bakkemannskapet klare for sine verste demoner!]]></item>
+  <item name="av.event3.mouseover"><![CDATA[Din tid løper ut... muahahahahaha!]]></item>
+ </category>
+ <category name="av.event4">
+  <item name="av.event4.title"><![CDATA[Sci-Fi-Rama: Verdensromuke på flyplassen!]]></item>
+  <item name="av.event4.text"><![CDATA[Fremtiden vifter som en skygge foran oss. I år 2000 var de moderne og tok av fra den gamle rullebanen: Skyrama presenterer flyplassen i nåtid. Nyt den flotte stjerneutsikten fra lufttårnet og utvid flåtene deres med sjøflyet TrippelRama, Helikopter-innovasjonen Star Wolf, Den edle hvite White Orbit og flere andre futuristiske luftfartøy. Her blir det ingen omveier til verdensrommet, 24 timer i ett strekk med en stor porsjon ekstraladning av EP og flymynter rett i lommen. Altså, samle inn UFO-mynter, dekorer flyplassen og ta steget inn i fremtiden idag. 3... 2... 1... avsted!]]></item>
+  <item name="av.event4.mouseover"><![CDATA[Tiden er inne... for fremtiden!]]></item>
+ </category>
+ <category name="av.event5">
+  <item name="av.event5.title"><![CDATA[God julenetter i lufta: Polareventen er klar for landing nær deg!]]></item>
+  <item name="av.event5.text"><![CDATA[Pilotene, flyvertene og bakkemannskapet med alle venner ønsker å gjøre et lite vinter-event for å heve julestemningen. Derfor vil det bli mye himmelsk julestemning de neste ukene. Vinn spennende eventfly som den gigantiske SkiRama Cargo eller den spreke Flyathlon og dekorer hele flyplassen med juletrær eller iskalde igloer. Selv den nesevise snømannen Herr von der Flak gjør en gjesteopptreden i år. La alle bekymringer ligge hjemme og bli med på en luftig juleopplevelse!]]></item>
+  <item name="av.event5.mouseover"><![CDATA[Kom, bli med sa alle, mens de plapret om hvor sjarmerende og koselig flyplassen var! Bli med å feire Skyramas vinterevent!]]></item>
+ </category>
+ <category name="av.history">
+  <item name="av.history.title"><![CDATA[Flyplasskronikk: Historieevent i Skyrama]]></item>
+  <item name="av.history.text"><![CDATA[Hvem gleder seg ikke over de gamle minnene... eller i dette tilfelle, fly gjennom gamle minner? Vi feirer flyhistorien de neste ukene og det vil si du vil få muligheten til å lære deg mer om aeronautikk.  Klassiske bygninger, førstegenerasjonsfly og varme luftballonger fra fortiden vil skinne med sin gamle glans over flyplassen din. Ta del og se flyhistorien brette seg ut foran øynene dine.]]></item>
+  <item name="av.history.mouseover"><![CDATA[Tiden venter ikke på noen, kom deg opp i det blå, pilot!]]></item>
+ </category>
+ <category name="av.vip">
+  <item name="av.vip.title"><![CDATA[Skyramas VIP-event: For det glamorøse jetsettlivet!]]></item>
+  <item name="av.vip.text"><![CDATA[De største berømmeligheter tar av under Skyramas VIP-event, her skal champagnen flyte til himmels! De neste ukene vil flyplassen din overfylles av skinnende stjerner fra sølvskjermen. Ekstraordinære dekorasjoner, pompøse bygninger og de fineste fly en kan kjøpe for jetsettlivets fineste stjerner. Hjelp Tom, Mette og kompani med å fullføre daglige eventoppgaver direkte fra flyplassen din. Vær en del av den stjernefylte actiongala. Smil til kamera!]]></item>
+  <item name="av.vip.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.emergency">
+  <item name="av.emergency.title"><![CDATA[Luftens helter: SOS-dager i Skyrama]]></item>
+  <item name="av.emergency.text"><![CDATA[Dårlig planlegging kan forårsake mye skade. Det kan også et dårlig vedlikeholdt utskytningssete: Fra 27. mars til 14.04.2013 feirer Skyrama alle edle redningsmenn på våre flyplasser, og kanskje til og med under. Morsomme event-oppdrag sørger for redningsstemning hos flyplassbetjeningen, imponerende panikk-deko sørger for heltestemning og eksklusive flygere fra resten av våre redningsteam sørger for passende sving. Så, fra stabilt sideleie, len deg tilbake så er du der straks. Dette blir mer moro enn å få fartsbot av politiet! <br/><br/>(Vi venter fortsatt på beskjed fra brannvesenet.)]]></item>
+  <item name="av.emergency.mouseover"><![CDATA[Endeløs feiring! Slik takler man farer...]]></item>
+ </category>
+ <category name="av.flashback">
+  <item name="av.flashback.title"><![CDATA[Tilbake til fortiden: Flashback-uker, del 2!]]></item>
+  <item name="av.flashback.text"><![CDATA[Har du noen gang ønsket å se noen av dine gamle favorittenheter fra eventene i butikken igjen? Da får du ønsket oppfylt, for fra den 18.07. og helt frem til den 04.08.2013, drar vi ut på en tidsreise tilbake til fortidens mange Skyrama-eventer. Nå har du sjansen - Ta den og let etter de mest likte luftfartøy-klassikerne og bygningene, skaff deg disse så lenge varelageret rekker og nyt de historiske event-oppgavene! Vi har også noen gode nyheter for dere. Nye høyere nivåer, oppdrag og flere flotte overraskelser er allerede på gang og på vei inn i spillet. Altså, fest sikkerhetsbeltet. Fremtiden ligger i dine hender og den er rett forut...]]></item>
+  <item name="av.flashback.mouseover"><![CDATA[I dag er i går - kos deg i fortiden!]]></item>
+ </category>
+ <category name="av.science2013">
+  <item name="av.science2013.title"><![CDATA[Sci-Fi-Rama: Vitenskapsuke på flyplassen]]></item>
+  <item name="av.science2013.text"><![CDATA[Fremtiden er her! Fra 23. mai til 9. juni 2013 starter en ny supersonisk æra innen luftfarten. Futuristiske fly, banebrytende bygninger og helt nye eventoppdrag viser vei inn i en ny æra av luftfart. Samle event-eliksirer og få med deg de nyeste oppfinnelsene innen luftfart i butikken. Hvem trenger vel en verdensutstilling, når hele verden allerede ligger foran føttene dine?]]></item>
+  <item name="av.science2013.mouseover"><![CDATA[Hver tid har en ende... selv fremtiden...]]></item>
+ </category>
+ <category name="av.summer2013">
+  <item name="av.summer2013.title"><![CDATA[Nå blir det hett: Skyramas sommerevent for 2013 er her!]]></item>
+  <item name="av.summer2013.text"><![CDATA[Blå himmel, hetebølger og solkrem i bøtter og spann. Nå er tiden her, hvor vi kan steke egg på flyvingene og alle pilotene fyller opp sine strandkurver: Fra 20.06. – 07.07. 2013 kommer årtusenets hetebølge til deres flyplasser. Ikke bli varm i trøya, for med de eksklusive flyene, flotte bygningene og en ekstraporsjon av gressgrønne oppdrag, blir det garantert forfriskende!]]></item>
+  <item name="av.summer2013.mouseover"><![CDATA[Solklart – nyt sola mens du kan…]]></item>
+ </category>
+ <category name="av.golden50ies">
+  <item name="av.golden50ies.title"><![CDATA[Femtitallet inntar flyplassen: Rock deg tilbake til fortiden!]]></item>
+  <item name="av.golden50ies.text"><![CDATA[Sleng på deg skinnjakka og smør fettet ut i hårsveisen din! Nå blir det de glade femtiårene for alle piloter i Skyrama, sjekk ut Jukeboksen som drønner ut den beste rocken og ta helt av! Samle musikkplater, skaff deg de nyeste femtitallsflyene og fyll flyplassen med litt rebelsk dekorasjon. Bli med å herje i Skyrama med ekte femtitallsstil!]]></item>
+  <item name="av.golden50ies.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.japan2013">
+  <item name="av.japan2013.title"><![CDATA[Japanuker i Skyrama]]></item>
+  <item name="av.japan2013.text"><![CDATA[Rød sol, blå himmel! I de neste ukene finner du et event utenom det vanlige i Skyrama -  ingen nipper å se, men desto mer av Nippon. Vi kommer til å presentere noen klassiske fly, værmotstandsdyktige hus og moderne dekorasjoner fra den fjerne øya i øst. Gli trykt over skyene i de beste flyene Asia har å tilby og dekorerer flyplassen din med det fineste av modernitet og tradisjon derfra. Samler du nok kirsebærblomster, vil du bli rikelig belønnet!<br><br>For de av dere som likevel ønsker å bli hjemme, har vi selvfølgelig organisert noe til dere også. Dere i høye nivåer kan vente dere noe spennende, nemlig... ja, vent å se! Flykontrolløren Mette og mekanikeren Kurt fortsetter sitt bryllupseventyr gjennom en spektakulær oppdragskampanje med flotte belønninger. Her er det altså lite vits å la oppdragene dine stå åpne!]]></item>
+  <item name="av.japan2013.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.halloween2013">
+  <item name="av.halloween2013.title"><![CDATA[Grøssuke nummer to: Skummel, nifs, partymoro!]]></item>
+  <item name="av.halloween2013.text"><![CDATA[Alt godt kommer ovenfra – også det skumle! Dystre skyer breier seg over flyplassen, lyn suser ned forbi hangarene og en eller annen plass i det fjerne håner en djevelsk latter pilotene dine. Book billettene deres til årets halloweenfest nå. Destinasjon: Hinsides det gode og onde! Men hvem er vel redd når det regner tonnevis av godteri fra himmelen? Samle mengder av søtsaker og invester i deres surt fortjente bytte i skummelt raske eventfly, spøkelseshus og dekorasjoner som gir deg gåsehud. Fra stormsikre Klabauter-Jet til gigantiske Hinderburg finner dere trenger for å knuse konkurrentene deres. Man kan ikke fly om man er redd …]]></item>
+  <item name="av.halloween2013.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.winter2013">
+  <item name="av.winter2013.title"><![CDATA[Vinteruker]]></item>
+  <item name="av.winter2013.text"><![CDATA[Kos deg med en kopp varm sjokolade - det er vinteruker i Skyrama! På tide med sesongens fest. God jul, flyplassledere!]]></item>
+  <item name="av.winter2013.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.flashback3">
+  <item name="av.flashback3.title"><![CDATA[Foregående fly som fanget fremtidens oppmerksomhet: Flashback nr. 3!]]></item>
+  <item name="av.flashback3.text"><![CDATA[Gamle venner inn i det nye året: Fra den 16.01. til den 02.02. 2014, starter vi med våre gamle favoritter i et comeback-spetakkel av det superlativa. Alt fra den edle „Jet-Set-Jet“ til den rustikk-brakkartige „Gammelt sjøfly“ vil lande og ta av på deres rullebaner igjen. For de av dere som ønsker å dekorere flyplassene deres med noe nytt, vil det naturligvis være noe tilgjengelig for. Flotte dekorerende enheter som "Kokospalmer" og "Skyrama-Airena" til vår vinterbesøkende "Her von der Flak" kommer tilbake igjen. Flashback-ukene er tilbake i Skyrama: Dette blir bedre enn selve våren!]]></item>
+  <item name="av.flashback3.mouseover"><![CDATA[I dag er i går - kos deg i fortiden!]]></item>
+ </category>
+ <category name="av.xplanes2014">
+  <item name="av.xplanes2014.title"><![CDATA[Spyrama: Topp hemmelig uke på flyplassen]]></item>
+  <item name="av.xplanes2014.text"><![CDATA[Hallo, Agent!<br><br>I de siste månedene har informantene våre observert bekymringsverdige aktiviteter. Innpåtrengende piloter, navigatører som gjør feil, og gigantiske hull i portokasse, kan kun bety én ting: Det er latskap på flyplassen! Følg de mistenkelige aktiviteten til personalet i daglige event-oppdrag, og kom til bunns i konspirasjonen … om det finnes en. For å holde dekkoperasjonen skjult, har du forskningsavdelingen stilt en serie eksklusive superfly og høyteknologiske bygninger til rådighet. De er inspirerte av plantegninger fra våre «allierte». Ingen grunn til bekymring, modellene våre (innenfor mulighetens rammer) er gjennomtestet, og forestår kun en liten fare for piloten og hans omgivelser. Om du eller noen fra spesialenheten tas til fange, eller myrdes, vil ministeren benekte all kjennskap til denne operasjonen. Lykke til!]]></item>
+  <item name="av.xplanes2014.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.airlineweeks1_042014">
+  <item name="av.airlineweeks1_042014.title"><![CDATA[Club Skyrama: Lojalitetsuker på flyplassen]]></item>
+  <item name="av.airlineweeks1_042014.text"><![CDATA[Fra melkemann til minister – med det nye lojalitetsprogrammet til Skyrama får alle valuta for pengene sine! Og det er så enkelt: Samle reiseluftsjekker fra forbifarende fly, lagre dem på flyplasskontoen din og bytt lappene mot eksklusive merkefly fra Airplus, flotte dekorasjoner eller mot Milde eng «Turbo-lens». Hvem trenger vel da gratis fly?<br/><br/>Piltoregel #23: Spill daglige event-oppdrag og ta knekken på våre splitter nye hovedoppdrag (nå regelmessige nye) – så samler dere reiseluftsjekker like raskt som overlydsfly! Takket være vår nye sorteringsfunksjon kan dere nå raskere finne flyene deres og sende dem ut i verden!]]></item>
+  <item name="av.airlineweeks1_042014.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.flashback4">
+  <item name="av.flashback4.title"><![CDATA[Tilbake til fortiden: Flashback-uke, den fjerde!]]></item>
+  <item name="av.flashback4.text"><![CDATA[Har du noen gang ønsket å se noen av dine gamle favorittenheter fra eventene i butikken igjen? Dere har stemt, og vi har telt – i de neste ukene gir vi oss ut på en tidsreise gjennom Skyramas event-historie. drar vi ut på en tidsreise tilbake til fortidens mange Skyrama-eventer. Nå har du sjansen - Ta den og let etter de mest likte luftfartøy-klassikerne og bygningene, skaff deg disse så lenge varelageret rekker og nyt de historiske event-oppgavene! Det vil selvfølgelig være en rekke nye ting for dere også. De neste høynivås oppdrag er naturligvis under utvikling. Altså, fest sikkerhetsbeltet. Fremtiden ligger i dine hender og den er rett forut...]]></item>
+  <item name="av.flashback4.mouseover"><![CDATA[I dag er i går - kos deg i fortiden!]]></item>
+ </category>
+ <category name="av.airlineweeks2_062014">
+  <item name="av.airlineweeks2_062014.title"><![CDATA[Club Skyrama: Forretningsreisende vender tilbake]]></item>
+  <item name="av.airlineweeks2_062014.text"><![CDATA[Gode utsikter for forretningsreisende: Det nye Club Skyrama-programmet starter med ekstreme tilbud for alle. Altså, samle så mange reiseluft-sjekker som mulig og fyll hangaren fra bunn til topp med elefantiske tilbud fra Jumbo Lines-fabrikken. Her er det noe for de fleste piloter, som f.eks. "Bogus 737" eller kanskje et jumbo-flagg "Flagre-lens"! Spennende eventoppdrag, nye oppgaver for høyere nivå-spillere og vårt nye lojalitetsprogram - alle tegnene for en perfekt sommer er her!]]></item>
+  <item name="av.airlineweeks2_062014.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.conceptplanes_072014">
+  <item name="av.conceptplanes_072014.title"><![CDATA[Oppfinnelsene er her: Vitenskapsukene 2014]]></item>
+  <item name="av.conceptplanes_072014.text"><![CDATA[Alt for fremtiden: Banebrekkende oppfinnelser, gjennomtenkte sammensetninger og ingen enkle duppeditter - Skyrama feirer de største innovasjonene innenfor luftfart! Altså, glem alt du har på bakken. Med disse retningsbestemte fly-prototypene og utopiske dekorasjoner, forvandler du flyplassen til det ultimative mellomstoppet på veien inn i den neste epoken for luftfarten. Samle plantegninger, veksle disse mot de nyeste oppfinnelsene, spill de spennende daglige eventoppdragene og blim med å skape en ny horisont for luftfarten!]]></item>
+  <item name="av.conceptplanes_072014.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.goldenageofaviation_092014">
+  <item name="av.goldenageofaviation_092014.title"><![CDATA[Klassisk-air: Skyrama feirer «Aviasjonens gullalder»]]></item>
+  <item name="av.goldenageofaviation_092014.text"><![CDATA[Fra Anno Tobak til Anno Dazumal: Var alt bedre før? De vil tiden vise! I de kommende ukene går det hardt for seg: Flyvende kasser fra den gråe fortiden bringer frisk bris til flyplassen. Fra den legendariske Skjensen til den fruktige og ferske Rosinplomberen blir alle piloter med i dette gigantiske arrangementet hvor tipp-oldefar må holde på hatten. Spennende event-oppdrag, historiske byggverk og piloter – alt i ett blikk. Alt dette, og mye mer, venter deg i de neste ukene i Skyrama – direkte og i farge!]]></item>
+  <item name="av.goldenageofaviation_092014.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.halloween2014">
+  <item name="av.halloween2014.title"><![CDATA[Grøssuker del tre: 2019s mareritt!]]></item>
+  <item name="av.halloween2014.text"><![CDATA["Knask eller knep?" Spenn fast beltet, rett opp setterygg og klapp sammen brettet, klar for avgang! Dette kommer til å bli en skremmende morsom og turbulensfull tur. De neste ukene vil inneholde spøkefulle overraskelser. Alt fra hjemsøkte fly, forbannende dekorasjoner, djevelske bygninger og masser av hjertestoppende elementer fra natten skumle begivenheter! Gjør deg klar for grøssuker i Skyrama. Det kommer til å bli Halloween-skummelt! ]]></item>
+  <item name="av.halloween2014.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.xmas2014">
+  <item name="av.xmas2014.title"><![CDATA[Polarama-ukene 2014]]></item>
+  <item name="av.xmas2014.text"><![CDATA[Finn ullsokkene og kle deg godt! Vinterkulden er på vei til flyt\plassen og det betyr bare en ting: Vintermoro! Tid for Polarama-uker i Skyrama. Nettene vil bli mye kaldere, men du og dine fly vil holde på varmen med alle varmende nyheter. Gled deg over kalde oppdrag og kjøl deg ned med flyplassmoro, arktiske premier og dekorasjoner! ]]></item>
+  <item name="av.xmas2014.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.flashback5">
+  <item name="av.flashback5.title"><![CDATA[Skru klokken tilbake i vårt femte tilbakeblikk!]]></item>
+  <item name="av.flashback5.text"><![CDATA[Tapt slaget? Ikke nå lengre! 2015 kommer til å ta av i lydens hastighet! På tide å ønske våre beste fly fra de siste årene en varm tilbakekomst. Her vil det være noe for alle, alt fra den edderkoppspinnende Skyrantula til den revolusjonerende Big Bang.<br><br>Altså, sett i gang og samle trofeer, spill gjennom de klassiske eventoppdragene og la fortiden passere revy atter en gang!]]></item>
+  <item name="av.flashback5.mouseover"><![CDATA[I dag er i går - avgårde med deg!]]></item>
+ </category>
+ <category name="av.mostwanted022015">
+  <item name="av.mostwanted022015.title"><![CDATA[Hett som bare det, selv med minusgrader: Skyramas Most Wanted]]></item>
+  <item name="av.mostwanted022015.text"><![CDATA[Opphetet og klar for supersonisk fart: Null is på rullebanen! Våre dusørjegere har sporet opp de mest populære flyene fra nært og fjernt og vil nå gi deg det beste utvalget fra nye og gamle tider. Samle kameraer og veksle dem inn mot fly, kanskje det legendariske Super Yuppy vil friste? Sjekk ut butikken! Spill deg gjennom de spennende eventoppdragene frem til sola skinner på det høyeste over asfalten!]]></item>
+  <item name="av.mostwanted022015.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.emergency042015">
+  <item name="av.emergency042015.title"><![CDATA[Rød alarm: SOS-dagene 2015]]></item>
+  <item name="av.emergency042015.text"><![CDATA[Først kommer nøden, deretter fallet? Hele veien! Med en glimrende pilot som deg, er det å krasje fly umulig, hverken på rullebanen eller andre steder! Snu nødssituasjonen til noe positivt heller: Full rulle til alarmen går og gjør flyplassen klar for den neste katastrofen. Aerodynamiske redningsfly, rødhet brannbekjempende luftfartøy og jordskjelvsikrede dekorasjoner gir klare signaler til alle bråkmakere - "Prøv deg ikke"! Det vil selvfølgelig være noen spennende eventoppdrag denne gangen - Altså, samle inn livbøyer, få tak i de flotte premiene og gjør deg klar for de verste katastrofene våren kan bringe!]]></item>
+  <item name="av.emergency042015.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.flashback6">
+  <item name="av.flashback6.title"><![CDATA[Vi blir hjemme-uker]]></item>
+  <item name="av.flashback6.text"><![CDATA[Har du noen gang ønsket å se noen av dine favorittgjenstander fra gamle eventer i butikken igjen? Da har du flaks, fordi nå er det flashback-uker i Skyrama! Vær på utkikk etter selve stjernegalleriet av fly, sjøfly, helikoptre og dekorasjoner fra tidligere eventer. Ikke nøl,  menfå tak i disse herlighetene fra fortiden og kos deg med noen klassiske eventoppdrag. Gå ikke glipp av sjansen for å reise tilbake til fortiden!]]></item>
+  <item name="av.flashback6.mouseover"><![CDATA[Déjà vu igjen!]]></item>
+ </category>
+ <category name="av.airshow072015">
+  <item name="av.airshow072015.title"><![CDATA[Klar, ferdig, fly! Luftshow-uke i Skyrama!]]></item>
+  <item name="av.airshow072015.text"><![CDATA[Pass på, luftakrobater: Hvem klarer å motstå fristelsen for full gass gjennom skyene? Fest setebeltet og rekrutter de beste luftshow-pilotene. Bli en MestAir i luftakrobatikk!]]></item>
+  <item name="av.airshow072015.mouseover"><![CDATA[Gi full gass og ha det moro!]]></item>
+ </category>
+ <category name="av.waterplanes082015">
+  <item name="av.waterplanes082015.title"><![CDATA[La de gode tider flyte! Sjøfly-uker i Skyrama]]></item>
+  <item name="av.waterplanes082015.text"><![CDATA[Over land, strand eller vann - denne eventen har noe for alle våghals-piloter! Opplev hvordan det er å fly over de store hav, gjøre en loop i et helikopter eller sitte i førersetet på en av de mest luksuriøse luftfartøyene som finnes. Topp det hele med å gjennomføre forfriskede eventoppdrag og kassere inn en mengde ender i samme slengen. Plask deg ut i det og bli våt!]]></item>
+  <item name="av.waterplanes082015.mouseover"><![CDATA[Forsiktig, vått føre!]]></item>
+ </category>
+ <category name="av.flashback7">
+  <item name="av.flashback7.title"><![CDATA[Tilbake til fortiden: Flashback-uker i Skyrama]]></item>
+  <item name="av.flashback7.text"><![CDATA[Har du noen gang ønsket å se noen av dine gamle favorittenheter fra eventene i butikken igjen? Dere har stemt, og vi har telt – i de neste ukene gir vi oss ut på en tidsreise gjennom Skyramas event-historie. drar vi ut på en tidsreise tilbake til fortidens mange Skyrama-eventer. Nå har du sjansen - Ta den og let etter de mest likte luftfartøy-klassikerne og bygningene, skaff deg disse så lenge varelageret rekker og nyt de historiske event-oppgavene! Det vil selvfølgelig være en rekke nye ting for dere også. De neste høynivås oppdrag er naturligvis under utvikling. Altså, fest sikkerhetsbeltet. Fremtiden ligger i dine hender og den er rett forut...]]></item>
+  <item name="av.flashback7.mouseover"><![CDATA[I dag er i går - avgårde med deg!]]></item>
+ </category>
+ <category name="av.ufoevent102015">
+  <item name="av.ufoevent102015.title"><![CDATA[UFO-uker hos Skyrama]]></item>
+  <item name="av.ufoevent102015.text"><![CDATA[Det var en gang for lenge, lenge siden, på en flyplass langt, langt borte:<br><br>Der hvor Skyramas neste event avfyres på alle sylindere. Stjerneskip fra all herrens universer har svevd gjennom hele Melkeveien og vitnet et ekstraordinært galaktisk spetakkel. Mektige romskip, futuristiske strukturer og imponerende eventoppdrag vil hjelpe en enslig flyplassleder å utrydde det onde fra hans grenser. Imperiets hodejegerne krever derimot en høy pris ... kun de som samler nok alienhoder vil få sjansen til å opprette fred på rullebanen igjen ...]]></item>
+  <item name="av.ufoevent102015.mouseover"><![CDATA[Gjenstående tid:]]></item>
+ </category>
+ <category name="av.polarevent122015">
+  <item name="av.polarevent122015.title"><![CDATA[Frostbitt-uker]]></item>
+  <item name="av.polarevent122015.text"><![CDATA[Isende kaldt, glitrende fly og minusgrader skiller deg fra den største eventen helt siden Aurora Borealis var her. Fyr igang dine flymotorer, salt rullebanen og ha klar en stor bolle med spylervæske for årets siste fest. 2015 avsluttes med et gigantisk smell!]]></item>
+  <item name="av.polarevent122015.mouseover"><![CDATA[Hovedveien til FareAir]]></item>
+ </category>
+ <category name="av.futureevent012016">
+  <item name="av.futureevent012016.title"><![CDATA[Fremtidsuker]]></item>
+  <item name="av.futureevent012016.text"><![CDATA[Tiden er inne ... for fremtiden! Skyrama presenterer ... Flyplassen fra fremtiden! Opplev fremtidens vidundere i luftfarten med morgendagens teknologi! Fest setebeltet, start motorene og sett kursen i lyshastighet mot fremtiden sammen med visjonære piloter, ultramoderne bygninger og fremtidsrettede oppdrag og kanskje en utenomjordisk opplevelse med det tredje vesen!]]></item>
+  <item name="av.futureevent012016.mouseover"><![CDATA[Tiden er inne ... for fremtiden!]]></item>
+ </category>
+ <category name="av.movieevent022016">
+  <item name="av.movieevent022016.title"><![CDATA[Filmstjerne-uker]]></item>
+  <item name="av.movieevent022016.text"><![CDATA[Kom, bli med og møt stjernene fra sølvskjermen! Nei, ikke skuespillerne ... de ekte stjernene fra filmene: Flyene! Et spredt spekter av de ikoniske luftfartøy brukt i filmer verden rundt, kommer på visitt til alle flyplasser i Skyramas verden i løpet av de neste ukene. Hvor mange kan du gjenkjenne?]]></item>
+  <item name="av.movieevent022016.mouseover"><![CDATA[Kan et fly skrive autografer?]]></item>
+ </category>
+ <category name="av.wildlifeevent042016">
+  <item name="av.wildlifeevent042016.title"><![CDATA[Jungeluker]]></item>
+  <item name="av.wildlifeevent042016.text"><![CDATA[Klar for litt brøling? Spesielle fly basert på dyr kommer inn for landing over de neste ukene på din flyplass. Få på deg tropehjelmen, kast deg inn i safaribilen og se hvor mange du kan spotte! Få stor glede fra bygninger, dekorasjoner og bakgrunner basert på dyrelivet, inkludert spesielle eventoppdrag. Klarer du å fange alle på film?]]></item>
+  <item name="av.wildlifeevent042016.mouseover"><![CDATA[Kommer det flyvende griser?]]></item>
+ </category>
+ <category name="av.emevent052016">
+  <item name="av.emevent052016.title"><![CDATA[Fotballuker]]></item>
+  <item name="av.emevent052016.text"><![CDATA[Se etter spesielle flyankomster på flyplassen - To fly for hvert lag som spiller i det europeiske mesterskapet. For hver kamp lagene vinner, vil de korresponderende flyene i spillet motta et trofé på ikonene, samt en buffer for inntjente erfaringspoeng eller penger. Jo flere kamper lagene vinner, desto bedre blir bufferne! Prisen for flyene øker ettersom mesterskapet løper og det er lurt å velge flyene etter lagene du tror gjør det bra!]]></item>
+  <item name="av.emevent052016.mouseover"><![CDATA[Glem ikke offside-regelen!]]></item>
+ </category>
+ <category name="av.flashback8">
+  <item name="av.flashback8.title"><![CDATA[Tilbake til fortiden: Flashback-uker i Skyrama]]></item>
+  <item name="av.flashback8.text"><![CDATA[Har du noen gang ønsket å se noen av dine gamle favorittenheter fra eventene i butikken igjen? Dere har stemt, og vi har telt – i de neste ukene gir vi oss ut på en tidsreise gjennom Skyramas event-historie. drar vi ut på en tidsreise tilbake til fortidens mange Skyrama-eventer. Nå har du sjansen - Ta den og let etter de mest likte luftfartøy-klassikerne og bygningene, skaff deg disse så lenge varelageret rekker og nyt de historiske event-oppgavene! Det vil selvfølgelig være en rekke nye ting for dere også. De neste høynivås oppdrag er naturligvis under utvikling. Altså, fest sikkerhetsbeltet. Fremtiden ligger i dine hender og den er rett forut...]]></item>
+  <item name="av.flashback8.mouseover"><![CDATA[I dag er i går - avgårde med deg!]]></item>
+ </category>
+ <category name="av.olympicevent092016">
+  <item name="av.olympicevent092016.title"><![CDATA[Gullmedalje-uker]]></item>
+  <item name="av.olympicevent092016.text"><![CDATA[Sitter du også igjen med følelsen av at hele verden ble sportsfrelst i sommer? Flyplassen har nemlig også blitt bitt og holder nå "Airlympisk"! Har du lyst å prøve medaljelykken din? Plukk opp de spesielle eventflyene og samle sportsutstyr som vil forbedre dem!]]></item>
+  <item name="av.olympicevent092016.mouseover"><![CDATA[Gjør deg klar for seierspallen!]]></item>
+ </category>
+ <category name="av.halloweenevent102016">
+  <item name="av.halloweenevent102016.title"><![CDATA[Fly nattestid-uker]]></item>
+  <item name="av.halloweenevent102016.text"><![CDATA[Hvem trenger et fly når man kan fly på en heksekost? De neste ukene blir det skummelt på flyplassen og det er selvfølgelig fordi vi feirer Halloween! Ta et godt jerngrep rundt de nye luftfartøyene, bygningene og dekorasjonene og gjør deg klar for natteflyvning!]]></item>
+  <item name="av.halloweenevent102016.mouseover"><![CDATA[Er det en fugl eller et fly? Nei, det er en flyvende heksekost!]]></item>
+ </category>
+ <category name="av.arcticevent122016">
+  <item name="av.arcticevent122016.title"><![CDATA[Arktiske skiuker]]></item>
+  <item name="av.arcticevent122016.text"><![CDATA[Det begynner å bli fryktelig kaldt ute og flymekanikerne har allerede løst kuldeproblemet med en frostvæske for trygg flyvning! Bli med på en event fylt med is og snø, og nyt de nye vinterbaserte eventflyene, bygningene og dekorasjonene for din flyplass!]]></item>
+  <item name="av.arcticevent122016.mouseover"><![CDATA[Sleng på skjerfet og luen, her blir det kaldt!]]></item>
+ </category>
+ <category name="av.flashback9">
+  <item name="av.flashback9.title"><![CDATA[Tilbake til fortiden: Flashback-uker i Skyrama]]></item>
+  <item name="av.flashback9.text"><![CDATA[Har du noen gang ønsket å se noen av dine favorittgjenstander fra gamle eventer i butikken igjen? Da er lykkedagen din her, fordi nå er det flashback-uker i Skyrama! Vær på utkikk etter selve stjernegalleriet av fly, sjøfly, helikoptre og dekorasjoner fra tidligere eventer. Altså, fest setebeltet og hent disse herlighetene fra fortiden. Gå ikke glipp av sjansen for å reise tilbake til fortiden!]]></item>
+  <item name="av.flashback9.mouseover"><![CDATA[I dag er i går - avgårde med deg!]]></item>
+ </category>
+ <category name="av.valentinesevent022017">
+  <item name="av.valentinesevent022017.title"><![CDATA[Kjærlighet i luften-uker]]></item>
+  <item name="av.valentinesevent022017.text"><![CDATA[Kjenner du romantikken i luften? Alle på flyplassen er i elskovshumør. Bli med i vår event og nyt de nye flyene fra Amor-serien, samt nye bygninger og dekorasjoner! Føl på kjærligheten i kveld!]]></item>
+  <item name="av.valentinesevent022017.mouseover"><![CDATA[Hva er din beste kjærlighetssang?]]></item>
+ </category>
+ <category name="av.skyrace2017">
+  <item name="av.skyrace2017.title"><![CDATA[Skyrace-uker]]></item>
+  <item name="av.skyrace2017.text"><![CDATA[ER du klar for å fly himmelhøyt? Fullfør Skyrace og bevis for alle at du er den beste piloten i hele Skyrama!]]></item>
+  <item name="av.skyrace2017.mouseover"><![CDATA[Skyrace er her! Nå får du sjansen til å vri bryteren for høy fart og spenning!]]></item>
+ </category>
+</language>

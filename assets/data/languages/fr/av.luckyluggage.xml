@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Bagages bingo]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Tour gratuit]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[{number}x tour gratuit]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1 tour : {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Tour]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Obtenez un tour gratuit toutes les 24 heures et gagnez des cadeaux !]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Lots :]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Bravo]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Vous avez gagné !]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Félicitations pour votre lot ! Je pense que cela va vous être utile. Revenez vite pour refaire tourner le tapis roulant !]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[Jour {day} :]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[Jour {day} : {spins}x tour gratuit]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[passer]]></item>
+ </category>
+</language>

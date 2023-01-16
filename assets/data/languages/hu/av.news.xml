@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.news">
+  <item name="av.news.header"><![CDATA[Skyrama hírek]]></item>
+  <item name="av.news.title"><![CDATA[Szia! Cassandra vagyok, az új hidroplán pilótád. Hadd mutassam be gyorsan az új tartalmat és funkciókat.]]></item>
+  <item name="av.news.text"><![CDATA[<li>Itt az új teherszállító rendszer! Az új oktatási segítségben többet is megtudhatsz!</li><li>Azok az utasok, akiket egy nap gyűjtesz, 72 óra múlva szomorúan hazamennek, ha nem ülteted fel őket egy repülőre. Jó, ha ezt mindig szem előtt tartod a járatok megszervezésénél.</li>]]></item>
+  <item name="av.news.hint_title"><![CDATA[Csak egy ötlet:]]></item>
+  <item name="av.news.hint_text"><![CDATA[Ha a repülőgépedet a célállomáson ellátják, még több jutalmat kapsz!]]></item>
+  <item name="av.news.shop_title"><![CDATA[WonderQuicky!]]></item>
+  <item name="av.news.shop_text"><![CDATA[Gyűjts részeket a WonderQuicky gyűjtemény kiegészítéséhez!]]></item>
+ </category>
+ <category name="av.santanews">
+  <item name="av.santanews.header"><![CDATA[Téli hírek]]></item>
+  <item name="av.santanews.title"><![CDATA[Hohohohó! A Skyrama világa hófehérbe öltözik a következő hetekben. A pilóták, a személyzet és az utasok már most örülnek a remek szilveszteri bulinak év végén! Csatold be hát a biztonsági övedet és kapaszkodj erősen: nagyszerű meglepetések várnak!]]></item>
+  <item name="av.santanews.text"><![CDATA[A Télapó a következő hetekben gyakran igénybe veszi majd a légterünket. Tartsd nyitva a szemedet: remek ajándékokat szerezhetsz tőle. Gyűjtsd össze mind, még plusz jutalom is jár érte! Elérhető dec. 24-től 26-ig!]]></item>
+  <item name="av.santanews.hint_title"><![CDATA[Tűzijáték!]]></item>
+  <item name="av.santanews.hint_text"><![CDATA[Boldog új évet! Küldj repülős transzparenst a barátaidnak újévi üdvözlettel a vadonatúj tűzijátékos transzparenssel! Elérhető dec. 29-től 31-ig!]]></item>
+  <item name="av.santanews.shop_title"><![CDATA[Gyors ellátás - minden, ami belefér:]]></item>
+  <item name="av.santanews.shop_text"><![CDATA[fizess egyszer és 24 órán át minden repülőgépet INGYEN láthatsz el gyors ellátással!]]></item>
+ </category>
+ <category name="av.january12news">
+  <item name="av.january12news.header"><![CDATA[Újévi újdonságok]]></item>
+  <item name="av.january12news.title"><![CDATA[Boldog új évet! A Skyrama 2012-ben teljes lendülettel tör a magasba! Sok busznyi légiutast, aircoint zsákszámra és tiszta égboltot kívánunk minden repülőtér-irányítónak!]]></item>
+  <item name="av.january12news.text"><![CDATA[A műszaki fejlesztéseknek köszönhetően a repülőgépek immár automatikusan érkeznek a nekik kijelölt állóhelyre. Erről a remek lehetőségről egyetlen repülőtér-tulajdonosnak sem szabad lemaradnia, még sosem volt ennyire egyszerű a repülőtér irányítása! Próbáld csak ki!]]></item>
+  <item name="av.january12news.hint_title"><![CDATA[Fejlesztések:]]></item>
+  <item name="av.january12news.hint_text"><![CDATA[Már dolgozunk a betöltési idő és a teljesítmény javításán. Teljes gőzzel!]]></item>
+  <item name="av.january12news.shop_title"><![CDATA[Áruk vásárlása:]]></item>
+  <item name="av.january12news.shop_text"><![CDATA[Nincs több terméked? Semmi gond! Bármikor vásárolhatsz plusz árucikkeket az üzlet „extrák” kategóriájában.]]></item>
+ </category>
+ <category name="av.modernizationnews">
+  <item name="av.modernizationnews.header"><![CDATA[Új napi megbízások!]]></item>
+  <item name="av.modernizationnews.title"><![CDATA[Felszállásra felkészülni! 21 vadonatúj kaland vár a repülőtered alkalmazottaira - és rád!]]></item>
+  <item name="av.modernizationnews.text"><![CDATA[Egy ilyen hatalmas átépítéskor az alkalmazottaidnak minkét keze tele van munkával. Nem csoda, hogy mostanában nemigen jelentkeztek nálad. Mostantól kezdve azonban Tariq, Lin, Jon és társaik ismét bevetésre készen állnak! Legyen szó akár bevásárlókörútról, akár izgalmas félrelépésekről (vajon sikerülnek végre Tariq nőcsábász kísérletei?) - az az egy biztos, hogy unatkozni nem fogsz! Kattints a bal oldalon a csillagra és teljesítsd a küldetéseket, mielőtt lejár az idő! Teljesen új feladatsor vár rád ugyanitt már pár hét múlva!]]></item>
+  <item name="av.modernizationnews.hint_title"><![CDATA[Fejlesztések:]]></item>
+  <item name="av.modernizationnews.hint_text"><![CDATA[Helyezz ki technikai dekorációt az állóhelyek mellé, így akár 40%-kal is csökkentheted az ellátási időt.]]></item>
+  <item name="av.modernizationnews.shop_title"><![CDATA[Új gépek!]]></item>
+  <item name="av.modernizationnews.shop_text"><![CDATA[Vess egy pillantást az új prototípusokra és biztonsági repülőkre az üzletedben.]]></item>
+ </category>
+ <category name="av.modernizationnews+mmo">
+  <item name="av.modernizationnews+mmo.header"><![CDATA[A holnap repülőtere!]]></item>
+  <item name="av.modernizationnews+mmo.title"><![CDATA[A holnap repülőtere már ma megérkezett! Nagyszerű repülő-prototípusokért, és szép új épületekért sem kell messzire menni.]]></item>
+  <item name="av.modernizationnews+mmo.text"><![CDATA[Figyelem, pilóták! A Skyramát jelölték a "Legjobb Tycoon Browser MMO" címre! Hurrá!!! Kérlek, szavazz ránk az alábbi linkre kattintva! <br/><a href="http://mmooftheyear.com/" target="_blank"><u>Link to MMO-Votings</u></a><br/>A Skyrama magasabbra szárnyalhat, mint eddig bármikor! Ha megnyerjük ezt a díjat, rátok is nagy meglepetés vár!]]></item>
+  <item name="av.modernizationnews+mmo.hint_title"><![CDATA[Fejlesztések:]]></item>
+  <item name="av.modernizationnews+mmo.hint_text"><![CDATA[Helyezz ki technikai dekorációt az állóhelyek mellé, így akár 40%-kal is csökkentheted az ellátási időt.]]></item>
+  <item name="av.modernizationnews+mmo.shop_title"><![CDATA[Új gépek!]]></item>
+  <item name="av.modernizationnews+mmo.shop_text"><![CDATA[Vess egy pillantást az új prototípusokra és biztonsági repülőkre az üzletedben.]]></item>
+ </category>
+ <category name="av.modernizationnews+unlocking">
+  <item name="av.modernizationnews+unlocking.header"><![CDATA[A holnap repülőtere!]]></item>
+  <item name="av.modernizationnews+unlocking.title"><![CDATA[A holnap repülőtere már ma megérkezett! Nagyszerű repülő-prototípusokért, és szép új épületekért sem kell messzire menni.]]></item>
+  <item name="av.modernizationnews+unlocking.text"><![CDATA[Figyelem, pilóták!<br/>Az új kontinensfelderítő repülési térképpel most nyomon követhetitek a haladásotokat.<br/>Látogassatok meg minden országot egy kontinensen és jutalmat kaptok érte! Mutassátok meg az összes menő gépeteket a világ minden országában!]]></item>
+  <item name="av.modernizationnews+unlocking.hint_title"><![CDATA[Fejlesztések:]]></item>
+  <item name="av.modernizationnews+unlocking.hint_text"><![CDATA[Helyezz ki technikai dekorációt az állóhelyek mellé, így akár 40%-kal is csökkentheted az ellátási időt.]]></item>
+  <item name="av.modernizationnews+unlocking.shop_title"><![CDATA[Új gépek!]]></item>
+  <item name="av.modernizationnews+unlocking.shop_text"><![CDATA[Vess egy pillantást az új prototípusokra és biztonsági repülőkre az üzletedben.]]></item>
+ </category>
+ <category name="av.zeppelinexpedition">
+  <item name="av.zeppelinexpedition.header"><![CDATA[Új játékelemek!]]></item>
+  <item name="av.zeppelinexpedition.title"><![CDATA[A repülőtered készen áll a híres Zeppelin expedíció elindítására és a kontinensek teljes felfedezésére. Nem csak dicsőség és megbecsülés vára bátor felfedezőkre, hanem rengeteg igen különleges jutalom is!]]></item>
+  <item name="av.zeppelinexpedition.text"><![CDATA[You can now track your flight-progress with the new country-unlocking flightmap.Visit each country in a continent to get a reward and show your awesome planes to players all over the world!<br/><br/>Once you got your zeppelin hangar you can start to collect fuel for your expedition by completing the AIRSHOW mini game. When you collected enough fuel you can send your zeppelin to exotic places to collect rare souvenirs. Collect enough souvenirs and you can trade them for one of two very exclusive planes. Check your storage, maybe your zeppelin hangar is allready there!]]></item>
+  <item name="av.zeppelinexpedition.hint_title"><![CDATA[Zeppelin expedíció!]]></item>
+  <item name="av.zeppelinexpedition.hint_text"><![CDATA[Az expedíciós gyűjteményért az igen ritka és különleges Dedarama vagy Spaceship-One repülőket kaphatod jutalmul.]]></item>
+  <item name="av.zeppelinexpedition.shop_title"><![CDATA[Műrepülés]]></item>
+  <item name="av.zeppelinexpedition.shop_text"><![CDATA[A műrepülési show azonnal elkezdődik a repülőtereden, ha felállítasz egy zeppelin hangárt. Szerezz üzemanyagot: kattints az elhaladó gépekre a megfelelő pillanatban!]]></item>
+ </category>
+ <category name="av.mmo">
+  <item name="av.mmo.header"><![CDATA[Az év MMO játéka!]]></item>
+  <item name="av.mmo.title"><![CDATA[Aki mer, az nyer! Illetve aki tud, az nyer! A szavazataitoknak köszönhetően a Skyrama csapata nemrég az „MMO Award 2012” díjjal térhetett haza boldogan.]]></item>
+  <item name="av.mmo.text"><![CDATA[A Ti szavazataitoknak köszönhetően lettünk a legjobb tycoon böngészős játék az <br/><a href="http://mmooftheyear.com/" target="_blank"><u>„MMO of the Year 2012”</u></a><br/> versenyben! Ezt pedig alaposan illik megünnepelni, nem igaz? Három csodás ajándékot is kaptok jutalmul! Az igazi pilótáknak sok helyre van szükségük, hogy amúgy rendesen kiterjeszthessék a szárnyaikat. A földi személyzet éjjel-nappal melózott azon, hogy a kis hangárt egy kissé tágasabbá tegye, és íme az eredmény! Természetesen a ház költségére.]]></item>
+  <item name="av.mmo.hint_title"><![CDATA[Szerencsecsillag]]></item>
+  <item name="av.mmo.hint_text"><![CDATA[Ez az egyedi dekorációs elem a repülőtered felett csillog-ragyog. És nem csak éjszaka!]]></item>
+  <item name="av.mmo.shop_title"><![CDATA[Tíz a nyerő]]></item>
+  <item name="av.mmo.shop_text"><![CDATA[A kilenc sem rossz, de a tíz az igazi! Tíz ingyen pörgetést kap mindenki a talált tárgyak szerencsekerekén!]]></item>
+ </category>
+ <category name="av.superfuel">
+  <item name="av.superfuel.header"><![CDATA[Töltsd tele a gépeidet turbó üzemanyaggal!]]></item>
+  <item name="av.superfuel.title"><![CDATA[Lépd át a hangsebességet az új turbó üzemanyaggal! ]]></item>
+  <item name="av.superfuel.text"><![CDATA[Repülőgépeid, helikoptereid és lökhajtásos gépeid szinte a földhöz ragadtak? Akkor töltsd fel őket turbó üzemanyaggal, és a flottád hasítani fogja a levegőt, akár értékes árut szállítasz, akár a barátaidat látogatod meg!]]></item>
+  <item name="av.superfuel.hint_title"><![CDATA[VIP leszállás]]></item>
+  <item name="av.superfuel.hint_text"><![CDATA[A várakozás a múlté! Szállj le gépeiddel késedelem nélkül!]]></item>
+  <item name="av.superfuel.shop_title"><![CDATA[Töltsd tele!]]></item>
+  <item name="av.superfuel.shop_text"><![CDATA[3. szint felett mindenkinek: 50 egység turbó üzemanyag ingyen!]]></item>
+ </category>
+ <category name="av.may_day">
+  <item name="av.may_day.header"><![CDATA[SkyRama majális!]]></item>
+  <item name="av.may_day.title"><![CDATA[Itt a legnagyobb bulik és partik időszaka. Ebből mi sem maradunk ki!]]></item>
+  <item name="av.may_day.text"><![CDATA[Micsoda fantasztikus május!  Az idő gyönyörű, a gépek csillognak-villognak, az irányítótorony büszkén feszít... ez a legjobb idő egy nagyszerű reptéri majálishoz! Gyűjts virágérméket és váltsd be értékes nyereményekre! Tiszta égboltot kívánunk az első Skyrama majálishoz!]]></item>
+  <item name="av.may_day.hint_title"><![CDATA[Virágnyelven
+]]></item>
+  <item name="av.may_day.hint_text"><![CDATA[A virágszedés nem csak óvodás kislányoknak való: minél több virágérmét gyűjtesz össze, annál több ajándékot kapsz!
+]]></item>
+  <item name="av.may_day.shop_title"><![CDATA[Boltkórosság]]></item>
+  <item name="av.may_day.shop_text"><![CDATA[Óriási tavaszi kiárusítás, amíg a készlet tart!]]></item>
+ </category>
+ <category name="av.eng_bay">
+  <item name="av.eng_bay.header"><![CDATA[Megnyílt a repülőgépműhely!]]></item>
+  <item name="av.eng_bay.title"><![CDATA[Extra tuning az egész flotta számára!]]></item>
+  <item name="av.eng_bay.text"><![CDATA[Most a technikáé a főszerep: az új repülőgépszerelő-műhelyben nagy generált végezhetsz az egész flottádon, és a világ minden tájáról szerezhetsz alkatrészeket. Szereld fel a repülőgépeidet navigációs rendszerrel, extra raktérrel és jobb hajtóművekkel! 100 aircoinért beindíthatod a saját tuningműhelyed! A saját fejlesztésé a jövő!]]></item>
+  <item name="av.eng_bay.hint_title"><![CDATA[Friss hír a műhelyből]]></item>
+  <item name="av.eng_bay.hint_text"><![CDATA[Mostantól kezdve 24 óránként: repülőgépek leselejtezése ingyen!]]></item>
+  <item name="av.eng_bay.shop_title"><![CDATA[Ezermesterek boltja]]></item>
+  <item name="av.eng_bay.shop_text"><![CDATA[Nincs időd összegyűjteni az alkatrészeket? Az üzletben akciós áron kapható minden csavar és kütyü, amire szükséged lehet!]]></item>
+  <item name="av.eng_bay.buy_title"><![CDATA[Szállítmány a fedélzeten!]]></item>
+  <item name="av.eng_bay.buy_text"><![CDATA[Helyezz ki technikai dekorációt az állóhelyek mellé, így akár 40%-kal is csökkentheted az ellátási időt.]]></item>
+  <item name="av.eng_bay.skin_title"><![CDATA[Adukártya]]></item>
+  <item name="av.eng_bay.skin_text"><![CDATA[Felfrissítő kúra repülőgépeknek! A műhelyben extra külsőt varázsolhatsz a gépeidnek!]]></item>
+ </category>
+ <category name="av.announcement">
+  <item name="av.announcement.header"><![CDATA[Skyrama körkép]]></item>
+  <item name="av.announcement.title"><![CDATA[Egy pillantás a jövőbe: itt tudhatjátok meg első kézből, mi várható a játékban!]]></item>
+  <item name="av.announcement.text"><![CDATA[A nyár a repülés főszezonja - így a Skyramában is rengeteg izgalmas esemény és újdonság vár rátok. A hónap végén a sportrepülők nagy versenye várható, ami nem csak sportos pilótáknak izgalmas, hanem mindenkinek, aki rajong a sportért! Exkluzív repülők, vadonatúj épületek és persze a nagy küzdelem az aranyérmekért! Ezen kívül szorgalmasan dolgozunk a kulisszák mögött egyéb frissítéseken is, például tökéletes kártevővadász pilótákat képeztünk ki, akik a kedvelt nyaralóhelyeken biztosítják a legnagyobb kényelmet. Az biztos, hogy a szúnyognak annyi!]]></item>
+  <item name="av.announcement.hint_title"><![CDATA[Kebelbarátok]]></item>
+  <item name="av.announcement.hint_text"><![CDATA[Kényelmesebb, jobb, gyorsabb: hamarosan indul az új barátmeghívó rendszer!]]></item>
+  <item name="av.announcement.shop_title"><![CDATA[Az elavult múlt]]></item>
+  <item name="av.announcement.shop_text"><![CDATA[A napi feladatok megújultak: vessétek bele magatokat az új kihívásokba!]]></item>
+ </category>
+ <category name="av.friends">
+  <item name="av.friends.header"><![CDATA[Közösségi járatok]]></item>
+  <item name="av.friends.title"><![CDATA[A leghatékonyabb járatszervezés: itt a frissített barátnyilvántartás!]]></item>
+  <item name="av.friends.text"><![CDATA[A jó barát kincset ér - az online barát annál is többet! Aki nem tartja a kapcsolatot az aktív barátaival, az nehezen fog boldogulni a légi közlekedés területén. A földi személyzet az utóbbi időben többször is jelentette az online állapot zavarait, amelyek még a legjobb reptér-menedzsereknek is megnehezítették a dolgát. De most jó híreink vannak! Az új barátjelző rendszerrel a jövőben könnyedén és tökéletesen tervezhetitek meg a járatokat, figyelembe véve a barátaitok fogadóképességét. Csak kattintsatok a menüsor felett balra a torony jelre és jelezzétek a barátaitoknak, hogy van szabad kapacitásotok a reptereteken. A következő 30 percre a barátaitok barátlistájának élére kerültök. Munkára fel tehát! És ne felejtsétek jelezni az „üzleti partnereiteknek”, hogy online vagytok!]]></item>
+  <item name="av.friends.hint_title"><![CDATA[Fejlesztések:]]></item>
+  <item name="av.friends.hint_text"><![CDATA[Helyezz ki technikai dekorációt az állóhelyek mellé, így akár 40%-kal is csökkentheted az ellátási időt.]]></item>
+  <item name="av.friends.shop_title"><![CDATA[Kitartó utasok]]></item>
+  <item name="av.friends.shop_text"><![CDATA[Jobb, mint otthon: a jövőben az utasok 5 napig várakoznak kitartóan a járatuk indulására.]]></item>
+ </category>
+ <category name="av.10mi">
+  <item name="av.10mi.header"><![CDATA[Tízmillió regisztrált játékos!]]></item>
+  <item name="av.10mi.title"><![CDATA[Jöjjön egy különleges esemény a hihetetlen rekord megünneplésére! Már durrannak is a pezsgősüvegek!]]></item>
+  <item name="av.10mi.text"><![CDATA[A hűségetek jutalmául kaptok 5 szabad pörgetést a talált tárgyak osztályán, 10 egység turbó üzemanyagot és részeket a repülőgépműhelyhez. A kereskedésben pedig ezen kívül egy különleges dekorációval, valamint egy MillionAir X repülővel várunk benneteket.]]></item>
+  <item name="av.10mi.hint_title"><![CDATA[Minden kezdet nehéz.]]></item>
+  <item name="av.10mi.hint_text"><![CDATA[10 millió játékos - egy hét szórakozás és izgalom - 2012. december 10-től 17-ig hatalmas bulit csapunk!]]></item>
+  <item name="av.10mi.shop_title"><![CDATA[Egyszer volt, hol nem volt...]]></item>
+  <item name="av.10mi.shop_text"><![CDATA[A világ első nemzetközi repülőtere, a Croydon repülőtér 1920 márciusában nyitotta meg kapuit.]]></item>
+ </category>
+ <category name="av.dark_orbit">
+  <item name="av.dark_orbit.header"><![CDATA[Dark Airport: ismerős látogatók az űrből]]></item>
+  <item name="av.dark_orbit.title"><![CDATA[Fénysebességgel a jövőből - kinek kell repülő, ha űrhajója is lehet?]]></item>
+  <item name="av.dark_orbit.text"><![CDATA[Csak itt és csak most: a következő órákban a híres űrcirkáló, a Goliath a repülőteredre érkezik egy rövid látogatásra. Szerezd meg a repülő erődöt és bizonyítsd be a konkurenciának, hogy a repülés jövője a Te kezedben van!]]></item>
+  <item name="av.dark_orbit.hint_title"><![CDATA[Dávid vagy Goliath?]]></item>
+  <item name="av.dark_orbit.hint_text"><![CDATA[6 éves a DarkOrbit - dec. 11-én kezdődik az űrkaland]]></item>
+  <item name="av.dark_orbit.shop_title"><![CDATA[Egyszeri ajánlat]]></item>
+  <item name="av.dark_orbit.shop_text"><![CDATA[Most vagy soha: az egyetlen lehetőség hogy megszerezd a Goliath-ot!]]></item>
+ </category>
+ <category name="av.high_level">
+  <item name="av.high_level.header"><![CDATA[Exkluzív járatok csak törzsutasoknak]]></item>
+  <item name="av.high_level.title"><![CDATA[Megérkeztek a legújabb gépmadarak!]]></item>
+  <item name="av.high_level.text"><![CDATA[A jó pilótáknak a tízezer méter sem elég. A legjobbak még magasabbra törnek! A jövőben a nemzetközi légiforgalom legelegánsabb és legnagyobb teljesítményű járataival bővíthetitek a flottátokat. Tartsátok nyitva a szemeteket, hogy milyen legendás repülőgép érkezik legközelebb a repülőteretekre!]]></item>
+  <item name="av.high_level.hint_title"><![CDATA[Senki többet?]]></item>
+  <item name="av.high_level.hint_text"><![CDATA[A győztesek dekorációira fáj a fogad? Itt vár a főnyeremény!]]></item>
+  <item name="av.high_level.shop_title"><![CDATA[Most repülök!]]></item>
+  <item name="av.high_level.shop_text"><![CDATA[Vadonatúj gépmadarak - a raktárban és az égbolton]]></item>
+ </category>
+ <category name="av.newquests">
+  <item name="av.newquests.header"><![CDATA[Új feladatok a láthatáron]]></item>
+  <item name="av.newquests.title"><![CDATA[Készülj a vadonatúj küldetésekre!]]></item>
+  <item name="av.newquests.text"><![CDATA[Új történetek, új karakterek és rengeteg izgalmas kihívás - a következő hetekben csak úgy pezseg majd az élet a repülőtereden. Tariq, Lin és a többiek régóta nem szerepeltek a fő- és történeti feladatokban, de most újra belevetik magukat a mindennapi reptéri káoszba. Csak ezen a héten 10 új küldetéssel várunk minden játékost, aki már teljesítette az összes feladatsort. A következő hetekben pedig még többre számíthattok. Sokkal többre! Figyeljétek az új feladatfrissítéseket, és meglátjátok, mi minden van még a tarsolyunkban.]]></item>
+  <item name="av.newquests.hint_title"><![CDATA[Új épületek az üzletben]]></item>
+  <item name="av.newquests.hint_text"><![CDATA[A hullámfürdőtől a biztonságig - itt mindenki megtalálja, amit keres.]]></item>
+  <item name="av.newquests.shop_title"><![CDATA[WonderQuicky!]]></item>
+  <item name="av.newquests.shop_text"><![CDATA[Gyűjts részeket a WonderQuicky gyűjtemény kiegészítéséhez!]]></item>
+ </category>
+ <category name="av.recyclingnews">
+  <item name="av.recyclingnews.header"><![CDATA[Régiből újat: hasznosítsd újra a régi repülőket!]]></item>
+  <item name="av.recyclingnews.title"><![CDATA[Igazi zöld megoldás!]]></item>
+  <item name="av.recyclingnews.text"><![CDATA[Tele a hangár régi gépekkel, a kifutókon is mindig ott zörög egy régi jószág, az irányítótoronyban meg a hajukat tépik? Semmi probléma! Búcsúzz el szépen a régi rozsdás repülőktől, küldd el őket egy búcsúkörre, aztán irány a vadonatúj újrahasznosító! Az újrahasznosítóban ügyes kezek kiszednek a gépekből minden hasznosíthatót, majd a szerelőcsarnokban új, friss és modern gépekké szerelik azokat. Irány a követező évezred, kezdd el az újrahasznosítást még ma!]]></item>
+  <item name="av.recyclingnews.hint_title"><![CDATA[Új alkatrészek]]></item>
+  <item name="av.recyclingnews.hint_text"><![CDATA[Üveg, csapszegek és fém - ezek nélkül nem lehet repülőt építeni.]]></item>
+  <item name="av.recyclingnews.shop_title"><![CDATA[Új szuperrepülők]]></item>
+  <item name="av.recyclingnews.shop_text"><![CDATA[Villámgyors és áramvonalas: így a flottád flottul helytáll!]]></item>
+ </category>
+</language>

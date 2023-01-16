@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.website">
+  <item name="av.website.registered"><![CDATA[Kayıtlı:]]></item>
+  <item name="av.website.language"><![CDATA[Dil:]]></item>
+  <item name="av.website.gametour"><![CDATA[Oyun Turu]]></item>
+  <item name="av.website.freeregister"><![CDATA[Ücretsiz<br>kayıt ol]]></item>
+  <item name="av.website.forum"><![CDATA[Forum]]></item>
+  <item name="av.website.username"><![CDATA[Adı:]]></item>
+  <item name="av.website.userId"><![CDATA[Kullanıcı ID:]]></item>
+  <item name="av.website.forgotPassword"><![CDATA[Şifreni mi unuttun?]]></item>
+  <item name="av.website.imprint"><![CDATA[Künye]]></item>
+  <item name="av.website.regHeader"><![CDATA[Kayıt]]></item>
+  <item name="av.website.back"><![CDATA[Geri]]></item>
+  <item name="av.website.downloadClientHeadline"><![CDATA[Skyrama Başlatıcı]]></item>
+  <item name="av.website.downloadClientText"><![CDATA[Sevgili Hava Limanı Yöneticileri! Adobe Flash desteği Aralık 2020'de sona erecek. Ondan sonra oyuna devam etmek için Skyrama Başlatıcısı'nı kullanmanız gerekecek! Başlatıcınızı kurmak için burayı tıklayın.]]></item>
+  <item name="av.website.Windows32Bit"><![CDATA[Win-32Bit-Launcher]]></item>
+  <item name="av.website.Windows64Bit"><![CDATA[Win-64Bit-Launcher]]></item>
+  <item name="av.website.RememberMe"><![CDATA[Beni Hatırla]]></item>
+ </category>
+ <category name="av.website.technicalError">
+  <item name="av.website.technicalError.header"><![CDATA[Teknik Hata]]></item>
+  <item name="av.website.technicalError.desc"><![CDATA[Teknik bir hata oluştu. Lütfen oyunu tekrar yükle!]]></item>
+  <item name="av.website.technicalError.reload"><![CDATA[Skyrama'yı tekrar yükle]]></item>
+ </category>
+ <category name="av.website.multipleLoginError">
+  <item name="av.website.multipleLoginError.header"><![CDATA[İki kat giriş]]></item>
+  <item name="av.website.multipleLoginError.desc"><![CDATA[Şu anda sadece bir hesapla oynayabilirsin. Lütfen diğer hesabı kapat ve oyunu yeniden başlat.]]></item>
+ </category>
+ <category name="av.website.blocked">
+  <item name="av.website.blocked.title"><![CDATA[Erişim reddedildi]]></item>
+  <item name="av.website.blocked.until"><![CDATA[Skyrama'nın oyun akışını değiştirmek için bir araç kullandığını tespit ettik. Bu nedenle, şu tarihe kadar oyuna erişemeyeceksin: %s.]]></item>
+  <item name="av.website.blocked.warning"><![CDATA[Bunu bir kez daha tespit edersek, hesabını devamlı olarak bloke edebiliriz!]]></item>
+ </category>
+ <category name="av.website.gametour">
+  <item name="av.website.gametour.1"><![CDATA[Şirin havaalanı oyunu Skyrama'ya hoş geldin! Bu sanal havaalanı sana arkadaşlarınla oynama ve dünyayı gezme gibi pek çok imkan sunuyor.]]></item>
+  <item name="av.website.gametour.2"><![CDATA[Şirin havaalanı oyunu Skyrama'ya hoş geldin! Bu sanal havaalanı sana arkadaşlarınla oynama ve dünyayı gezme gibi pek çok imkan sunuyor.]]></item>
+  <item name="av.website.gametour.3"><![CDATA[SkyRama'da işbirliği ön planda; burada oyuncular uçakları, kargoları ve hava gösterilerini MMO formatında paylaşıyorlar.]]></item>
+  <item name="av.website.gametour.4"><![CDATA[SkyRama'da işbirliği ön planda; burada oyuncular uçakları, kargoları ve hava gösterilerini MMO formatında paylaşıyorlar.]]></item>
+  <item name="av.website.gametour.5"><![CDATA[SkyRama bir casual strateji oyunu. Çok çeşitli kaynaklar, havaalanı yönetimi, uçuş planlaması ve pek çok eğlenceli görev seni bekliyor!]]></item>
+  <item name="av.website.gametour.6"><![CDATA[SkyRama bir casual strateji oyunu. Çok çeşitli kaynaklar, havaalanı yönetimi, uçuş planlaması ve pek çok eğlenceli görev seni bekliyor!]]></item>
+  <item name="av.website.gametour.7"><![CDATA[SkyRama bir casual strateji oyunu. Çok çeşitli kaynaklar, havaalanı yönetimi, uçuş planlaması ve pek çok eğlenceli görev seni bekliyor!]]></item>
+  <item name="av.website.gametour.8"><![CDATA[Skyrama çok sayıda muhteşem uçak, manzara, dekorasyon öğesi ve hediyelik eşya sunuyor. Böylece, devamlı toplama ve havaalanını kişiselleştirme ile meşgul olacaksın.]]></item>
+  <item name="av.website.gametour.9"><![CDATA[Skyrama çok sayıda muhteşem uçak, manzara, dekorasyon öğesi ve hediyelik eşya sunuyor. Böylece, devamlı toplama ve havaalanını kişiselleştirme ile meşgul olacaksın.]]></item>
+  <item name="av.website.gametour.10"><![CDATA[Skyrama'nın grafikleri ve hikayesi seni sevimli animasyonlar ve sempatik karakterlerle dolu bir dünyaya götürecek.]]></item>
+  <item name="av.website.gametour.11"><![CDATA[Skyrama'nın grafikleri ve hikayesi seni sevimli animasyonlar ve sempatik karakterlerle dolu bir dünyaya götürecek.]]></item>
+ </category>
+ <category name="av.website.seo">
+  <item name="av.website.seo.title"><![CDATA[Skyrama | Ücretsiz online havaalanın: Sanal gökyüzüne havalan.]]></item>
+  <item name="av.website.seo.keywords"><![CDATA[SkyRama, Sky Rama, Online Havaalanı Oyunu, Havaalanı Oyunu]]></item>
+  <item name="av.website.seo.description"><![CDATA[Rama-SüperTurbo yere inmeye hazır! İniş izni ver, uçaklarının bakımlarını yap ve yolcularınla ilgilen. Online havaalanını uluslararası bir havaalanına dönüştür. Sen de oyna!]]></item>
+  <item name="av.website.seo.text"><![CDATA[<p>Skyrama diğer ücretsiz oyunlardan çok daha fazlasını sunuyor: Burada kendi havaalanını kur ve dilediğin gibi geliştir. Yolcular için terminaller ve uçaklar için park pozisyonları yerleştir. Skyrama'da pek çok ülkeden arkadaşların uçaklarını havaalanına indirebilir.</p>
+			<p>Daha da iyisi var. Skyrama'da hiçbir çaban boşa çıkmaz, çünkü Skyrama diğer ücretsiz oyunlar gibi hemen bitmez. Burada seni sınırsız eğlence bekliyor: Seviye çıkıp yolcu ve taşıma filon için yeni uçaklar keşfet, havaalanını renkli süsler ve binalarla güzelleştir ve böylece yeni yolcular kazan.</p>
+			<p>Ücretsiz oyun Skyrama'yı tek başına oynamayacaksın. Arkadaşlarının havaalanlarını ziyaret et ve onların uçaklarının havaalanına inmesine izin ver. Böylece kısa bir süre sonra havaalanını inanılmaz büyüt. Sana bu kadar çok imkan sunan başka ücretsiz oyun var mı?</p>
+			<p>Haydi Skyrama'ya gel ve motorunu hemen çalıştır!</p>]]></item>
+  <item name="av.website.seo.seoText.short"><![CDATA[<h1>Skyrama: Ücretsiz havaalanı simülasyonu oyunu</h1>
+            <p>Skyrama'da sınır gökyüzüdür. Burada kendi havaalanını yönetir ve harika vakit geçirirsin!</p>]]></item>
+  <item name="av.website.seo.open"><![CDATA[Daha fazlasını oku]]></item>
+  <item name="av.website.seo.close"><![CDATA[Küçült]]></item>
+  <item name="av.website.seo.titleAid"><![CDATA[SkyRama: Online havaalanı işletme oyunun]]></item>
+  <item name="av.website.seo.descriptionAid"><![CDATA[Uçaklara hizmet ver, yolcularla ilgilen, havaalanını inşa et! Online oyun Skyrama'da kendi havaalanının müdürüsün. Kalkışa hazırlan ve hemen oyna!]]></item>
+ </category>
+ <category name="av.website.errors">
+  <item name="av.website.errors.title"><![CDATA[Hata mesajı]]></item>
+  <item name="av.website.errors.login"><![CDATA[Girişte hata; yanlış kullanıcı adı veya şifre]]></item>
+  <item name="av.website.errors.1"><![CDATA[Girişte hata; yanlış kullanıcı adı veya şifre]]></item>
+  <item name="av.website.errors.2"><![CDATA[Girişte hata; yanlış kullanıcı adı veya şifre]]></item>
+  <item name="av.website.errors.3"><![CDATA[Girişte hata; hesap bulunamadı]]></item>
+  <item name="av.website.errors.10"><![CDATA[Girişte hata; hesap henüz etkinleştirilmedi]]></item>
+  <item name="av.website.errors.11"><![CDATA[Girişte hata; bloke hesap yok]]></item>
+  <item name="av.website.errors.99"><![CDATA[Girişte teknik sorun; lütfen support'la irtibata geç]]></item>
+  <item name="av.website.errors.noClient"><![CDATA[Client şu anda kullanıma müsait değil]]></item>
+ </category>
+ <category name="av.website.desc">
+  <item name="av.website.desc.1"><![CDATA[Tarayıcında online oyna ve kendi uluslararası havaalanını kur!]]></item>
+  <item name="av.website.desc.2"><![CDATA[Online havaalanında hava trafiğini yönet ve uçaklara hizmet ver]]></item>
+  <item name="av.website.desc.3"><![CDATA[Uçaklarını dünyanın dört bir yanına gönder ve arkadaşlarını ziyaret et]]></item>
+ </category>
+ <category name="av.website.prelayer">
+  <item name="av.website.prelayer.headline1"><![CDATA[TNT uçağı]]></item>
+  <item name="av.website.prelayer.topcontent1"><![CDATA[Bu filo ile muhteşem ödüller seni bekliyor!]]></item>
+  <item name="av.website.prelayer.botcontent1"><![CDATA[Eğitimi tamamla ve TNT'den üç özel uçak kazan!]]></item>
+ </category>
+</language>

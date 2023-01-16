@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.buddy">
+  <item name="av.buddy.title"><![CDATA[Adaugă prieteni!]]></item>
+  <item name="av.buddy.text"><![CDATA[Împreună suntem puternici: invită-ţi prietenii să joace!]]></item>
+  <item name="av.buddy.search"><![CDATA[Adaugă la lista de prieteni]]></item>
+  <item name="av.buddy.search.hint"><![CDATA[Username/User ID]]></item>
+  <item name="av.buddy.search.button"><![CDATA[Caută]]></item>
+  <item name="av.buddy.search.results"><![CDATA[Rezultate]]></item>
+  <item name="av.buddy.search.searching"><![CDATA[Căutare în curs...]]></item>
+  <item name="av.buddy.search.add"><![CDATA[Adaugă prieten]]></item>
+  <item name="av.buddy.search.user_result"><![CDATA[{username} (ID: {id})]]></item>
+  <item name="av.buddy.search.user_notfound"><![CDATA[Jucătorul nu a fost găsit]]></item>
+  <item name="av.buddy.search.user_added"><![CDATA[Jucătorul a fost adăugat]]></item>
+  <item name="av.buddy.search.user_notadded"><![CDATA[Jucătorul nu a putut fi adăugat]]></item>
+  <item name="av.buddy.search.user_yourself"><![CDATA[Nu te poţi adăuga la propria ta listă.]]></item>
+  <item name="av.buddy.search.user_already"><![CDATA[Acest jucător face parte deja din lista ta de prieteni.]]></item>
+  <item name="av.buddy.email"><![CDATA[Invitaţie prin e-mail.]]></item>
+ </category>
+</language>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.goal">
+  <item name="av.goals.tooltip.main"><![CDATA[Hovedkvarter]]></item>
+  <item name="av.goals.tooltip.daily"><![CDATA[Daglige quests]]></item>
+  <item name="av.goals.tooltip.story"><![CDATA[Historie-quest]]></item>
+  <item name="av.goals.tooltip.world"><![CDATA[Besøg hvert land!]]></item>
+  <item name="av.finishGoal.message"><![CDATA[Slutmål]]></item>
+  <item name="av.requirements.text.default"><![CDATA[Krav:]]></item>
+  <item name="av.requirements.text.mediumPlanes"><![CDATA[Krævet for at sende medium fly]]></item>
+  <item name="av.requirements.text.heliCopter"><![CDATA[Påkrævet for at sende ramacoptere:]]></item>
+  <item name="av.requirements.text.seaPlanes"><![CDATA[Påkrævet for at sende søfly:]]></item>
+  <item name="av.requirements.text.largePlanes"><![CDATA[Um Große Flugzeuge zu starten brauchst Du:]]></item>
+ </category>
+ <category name="av.task">
+  <item name="av.task.buy"><![CDATA[Køb {amount} {item}]]></item>
+  <item name="av.task.collect"><![CDATA[Saml {amount} {item}]]></item>
+  <item name="av.task.fillShop"><![CDATA[Fyld dine reoler op]]></item>
+  <item name="av.task.land"><![CDATA[Land {amount} {item}]]></item>
+  <item name="av.task.place"><![CDATA[Placer {amount} {item}]]></item>
+  <item name="av.task.quickStart"><![CDATA[Lynhurtig flyservice]]></item>
+  <item name="av.task.return"><![CDATA[Send {amount} {item} tilbage]]></item>
+  <item name="av.task.returnToCountry"><![CDATA[Send {amount} {item} fra {country} tilbage]]></item>
+  <item name="av.task.sellProducts"><![CDATA[Sælg varer]]></item>
+  <item name="av.task.send"><![CDATA[Send {amount} {item}]]></item>
+  <item name="av.task.sendToCountry"><![CDATA[Send {amount} {item} til {country}]]></item>
+  <item name="av.task.sendToStranger"><![CDATA[Send {amount} fly til en ukendt]]></item>
+  <item name="av.task.store"><![CDATA[Placer din gamle {item} i dit inventar]]></item>
+  <item name="av.task.storeInventory"><![CDATA[Brug dit inventar]]></item>
+ </category>
+</language>

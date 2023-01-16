@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.goal">
+  <item name="av.goals.tooltip.main"><![CDATA[Mission]]></item>
+  <item name="av.goals.tooltip.daily"><![CDATA[Défi du jour]]></item>
+  <item name="av.goals.tooltip.story"><![CDATA[Mission histoire]]></item>
+  <item name="av.goals.tooltip.world"><![CDATA[Visitez tous les pays !]]></item>
+  <item name="av.finishGoal.message"><![CDATA[Finir mission]]></item>
+  <item name="av.requirements.text.default"><![CDATA[Conditions :]]></item>
+  <item name="av.requirements.text.mediumPlanes"><![CDATA[Pour envoyer des avions moyens :]]></item>
+  <item name="av.requirements.text.heliCopter"><![CDATA[Pour envoyer des hélicoptères :]]></item>
+  <item name="av.requirements.text.seaPlanes"><![CDATA[Pour envoyer des hydravions :]]></item>
+  <item name="av.requirements.text.largePlanes"><![CDATA[Um Große Flugzeuge zu starten brauchst Du:]]></item>
+ </category>
+ <category name="av.task">
+  <item name="av.task.buy"><![CDATA[Achetez {amount} {item}]]></item>
+  <item name="av.task.collect"><![CDATA[Collectez {amount} {item}]]></item>
+  <item name="av.task.fillShop"><![CDATA[Réapprovisionnez votre magasin]]></item>
+  <item name="av.task.land"><![CDATA[Faites atterrir {amount} {item}]]></item>
+  <item name="av.task.place"><![CDATA[Placez {amount} {item}]]></item>
+  <item name="av.task.quickStart"><![CDATA[Effectuez un entretien express.]]></item>
+  <item name="av.task.return"><![CDATA[Renvoyez {amount} {item}]]></item>
+  <item name="av.task.returnToCountry"><![CDATA[Renvoyez {amount} {item} en {country}]]></item>
+  <item name="av.task.sellProducts"><![CDATA[Vente]]></item>
+  <item name="av.task.send"><![CDATA[Envoyez {amount} {item}]]></item>
+  <item name="av.task.sendToCountry"><![CDATA[Envoyez {amount} {item} en {country}]]></item>
+  <item name="av.task.sendToStranger"><![CDATA[Envoyez {amount} avion(s) à un étranger]]></item>
+  <item name="av.task.store"><![CDATA[Placez votre ancien(ne) {item} dans l'inventaire]]></item>
+  <item name="av.task.storeInventory"><![CDATA[Inventaire bien utile]]></item>
+ </category>
+</language>

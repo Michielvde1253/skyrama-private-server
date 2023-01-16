@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.website">
+  <item name="av.website.registered"><![CDATA[Регистрирани:]]></item>
+  <item name="av.website.language"><![CDATA[Език:]]></item>
+  <item name="av.website.gametour"><![CDATA[Обиколка из играта]]></item>
+  <item name="av.website.freeregister"><![CDATA[Регистрирай се<br>безплатно]]></item>
+  <item name="av.website.forum"><![CDATA[Форум]]></item>
+  <item name="av.website.username"><![CDATA[Име:]]></item>
+  <item name="av.website.userId"><![CDATA[UserId:]]></item>
+  <item name="av.website.forgotPassword"><![CDATA[Паролата забравена?]]></item>
+  <item name="av.website.imprint"><![CDATA[За нас]]></item>
+  <item name="av.website.regHeader"><![CDATA[Регистрация]]></item>
+  <item name="av.website.back"><![CDATA[Назад]]></item>
+  <item name="av.website.downloadClientHeadline"><![CDATA[Skyrama Launcher]]></item>
+  <item name="av.website.downloadClientText"><![CDATA[Драги мениджъри на летища! Поддръжката на Adobe Flash се прекратява през декември 2020, след което ще ти е необходим Skyrama Launcher, за да продължиш да играеш! Кликни тук, за да инсталираш Launcher-а.]]></item>
+  <item name="av.website.Windows32Bit"><![CDATA[Win-32Bit-Launcher]]></item>
+  <item name="av.website.Windows64Bit"><![CDATA[Win-64Bit-Launcher]]></item>
+  <item name="av.website.RememberMe"><![CDATA[Запази]]></item>
+ </category>
+ <category name="av.website.technicalError">
+  <item name="av.website.technicalError.header"><![CDATA[Техническа грешка]]></item>
+  <item name="av.website.technicalError.desc"><![CDATA[Появила се е техническа грешка. Зареди наново играта.]]></item>
+  <item name="av.website.technicalError.reload"><![CDATA[Зареди Skyrama наново]]></item>
+ </category>
+ <category name="av.website.multipleLoginError">
+  <item name="av.website.multipleLoginError.header"><![CDATA[Двойно влизане]]></item>
+  <item name="av.website.multipleLoginError.desc"><![CDATA[Понастоящем можеш да играеш само с един отворен акаунт. Моля, затвори другия и започни наново играта.]]></item>
+ </category>
+ <category name="av.website.blocked">
+  <item name="av.website.blocked.title"><![CDATA[Блокиран достъп]]></item>
+  <item name="av.website.blocked.until"><![CDATA[Засякохме, че използваш непозволени средства за манипулирането на играта, затова блокирахме достъпа ти до: %s.]]></item>
+  <item name="av.website.blocked.warning"><![CDATA[Ако отново засечем подобни нередности, може да блокираме акаунта ти за постоянно!]]></item>
+ </category>
+ <category name="av.website.gametour">
+  <item name="av.website.gametour.1"><![CDATA[Привет, в нашата забавна летищна игра Skyrama! Този виртуален свят ще ти отвори нови възможности. Играй с приятелите си и вкуси от атмосферата на големите международни летища!]]></item>
+  <item name="av.website.gametour.2"><![CDATA[Привет в нашата забавна летищна игра Skyrama! Това виртуално летище ще ти предложи нови възможности. Играй с приятелите си и опитай от въздуха на широкия свят.]]></item>
+  <item name="av.website.gametour.3"><![CDATA[Най-важното в Skyrama е съвместната игра - самолетите ти ще кръстосват небесата заедно с машините на приятелите ти, стоки ще се пренасят от една страна до друга и невероятни въздушни представления ще захласват публиката!]]></item>
+  <item name="av.website.gametour.4"><![CDATA[Най-важното в Skyrama е съвместната игра - самолетите ти ще кръстосват небесата заедно с машините на приятелите ти, стоки ще се пренасят от една страна до друга и невероятни въздушни представления ще захласват публиката!]]></item>
+  <item name="av.website.gametour.5"><![CDATA[Skyrama се основава на основните стратегии за игра - мениджмънт на летище, използване на ресурси и плануване на полетите с цел задържане на вниманието за дълго време.]]></item>
+  <item name="av.website.gametour.6"><![CDATA[Skyrama се основава на основните стратегии за игра - мениджмънт на летище, използване на ресурси и плануване на полетите с цел задържане на вниманието за дълго време.]]></item>
+  <item name="av.website.gametour.7"><![CDATA[Skyrama се основава на основните стратегии за игра - мениджмънт на летище, използване на ресурси и плануване на полетите с цел задържане на вниманието за дълго време.]]></item>
+  <item name="av.website.gametour.8"><![CDATA[Skyrama ти предлага много самолети, различни ландшафти, декорации и сувенири, с които да развиваш и разкрасяваш летището си.]]></item>
+  <item name="av.website.gametour.9"><![CDATA[Skyrama ти предлага много самолети, различни ландшафти, декорации и сувенири, с които да развиваш и разкрасяваш летището си.]]></item>
+  <item name="av.website.gametour.10"><![CDATA[Графиката и анимациите в Skyrama ще те отведат в един забавен и увлекателен свят.]]></item>
+  <item name="av.website.gametour.11"><![CDATA[Графиката и анимациите в Skyrama ще те отведат в един забавен и увлекателен свят.]]></item>
+ </category>
+ <category name="av.website.seo">
+  <item name="av.website.seo.title"><![CDATA[Skyrama |Твоето онлайн летище - издигни се в небесата на свободните игри]]></item>
+  <item name="av.website.seo.keywords"><![CDATA[SkyRama, Sky Rama, онлайн игра летище, игра летище]]></item>
+  <item name="av.website.seo.description"><![CDATA[Модел Rama-Супер Турбо наближава летището! Дай му разрешение за кацане, погрижи се за машината и пътниците! Направи своето онлайн летище международен въздушен център. Играй с нас!]]></item>
+  <item name="av.website.seo.text"><![CDATA[<p>Skyrama е повече от обикновена онлайн игра, защото къде другаде можеш да си създадеш собствено летище и да го развиеш според желанията си? Отваряй терминали за пътниците и разширявай мястото за кацналите самолети.  Посрещай на своето Skyrama летище машините на приятелите си от цяла Европа!</p>
+			<p>Но става още по-интересно: При Skyrama постигнатото от теб не се губи, тъй като Skyrama не приключва след няколко нива като другите безплатни игри. В Skyrama няма да скучаеш! Качвай нива, отваряй си достъп до нови самолети за своя пътнически и транспортен флот, украси летището си с цветни декорации и сгради и привлечи нови пътници.</p>
+
+
+			<p>Освен това играеш безплатните игри, като Skyrama, с други хора: посещавай летищата на приятелите си и ги кани при себе си. Така твоето летище скоро ще се превърне в център на международното въздухоплаване. В коя друга безплатна игра ще откриеш толкова възможности?</p>
+			<p>Ела в Skyrama и приготви самолетите си за излитане!</p>]]></item>
+  <item name="av.website.seo.seoText.short"><![CDATA[<h1>Skyrama: Безплатна игра - симулация на летище!</h1> 
+            <p>В Skyrama няма лимити. Тук ръководиш собствено летище и се наслаждаваш на удоволствието да играеш безплатно!</p>]]></item>
+  <item name="av.website.seo.open"><![CDATA[Прочети повече]]></item>
+  <item name="av.website.seo.close"><![CDATA[Минимирай]]></item>
+  <item name="av.website.seo.titleAid"><![CDATA[Skyrama: Онлайн игра за управление на летище]]></item>
+  <item name="av.website.seo.descriptionAid"><![CDATA[Обслужвай кацналите самолети, грижи се за пътниците и разширявай пистите - в Skyrama ти си мениджърът на своето летище! Приготви се за излитане! Играй сега!]]></item>
+ </category>
+ <category name="av.website.errors">
+  <item name="av.website.errors.title"><![CDATA[Съобщение за грешка]]></item>
+  <item name="av.website.errors.login"><![CDATA[Грешка при влизането; неправилен никнейм или парола.]]></item>
+  <item name="av.website.errors.1"><![CDATA[Грешка при влизането; неправилен никнейм или парола.]]></item>
+  <item name="av.website.errors.2"><![CDATA[Грешка при влизането; неправилен никнейм или парола.]]></item>
+  <item name="av.website.errors.3"><![CDATA[Грешка при влизането; акаунтът не беше намерен.]]></item>
+  <item name="av.website.errors.10"><![CDATA[Грешка при влизането; акаунтът все още не е активиран.]]></item>
+  <item name="av.website.errors.11"><![CDATA[Грешка при влизането; акаунтът е блокиран.]]></item>
+  <item name="av.website.errors.99"><![CDATA[Техническа грешка при влизането; контакт със съпорта.]]></item>
+  <item name="av.website.errors.noClient"><![CDATA[В момента няма достъп до играта]]></item>
+ </category>
+ <category name="av.website.desc">
+  <item name="av.website.desc.1"><![CDATA[Играй онлайн: построй си собствено интернационално летище!]]></item>
+  <item name="av.website.desc.2"><![CDATA[Твоето онлайн летище! Управлявай въздушното движение и обслужвай самолети!]]></item>
+  <item name="av.website.desc.3"><![CDATA[Изпращай самолетите си по цял свят: посещавай летищата на приятелите си!]]></item>
+ </category>
+ <category name="av.website.prelayer">
+  <item name="av.website.prelayer.headline1"><![CDATA[TNT самолет]]></item>
+  <item name="av.website.prelayer.topcontent1"><![CDATA[С този флот те очакват невероятни награди!]]></item>
+  <item name="av.website.prelayer.botcontent1"><![CDATA[Завърши туториума и получи три ексклузивни самолета от TNT! ]]></item>
+ </category>
+</language>

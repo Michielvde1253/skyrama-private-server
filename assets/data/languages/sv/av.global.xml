@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.global">
+  <item name="av.global.gametitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.pagetitle"><![CDATA[Skyrama]]></item>
+  <item name="av.global.Label.buy"><![CDATA[Köp]]></item>
+  <item name="av.global.ok"><![CDATA[OK]]></item>
+  <item name="av.global.cancel"><![CDATA[Avbryt]]></item>
+  <item name="av.global.minute"><![CDATA[minut]]></item>
+  <item name="av.global.minutes"><![CDATA[minuter]]></item>
+  <item name="av.global.hour"><![CDATA[timme]]></item>
+  <item name="av.global.hours"><![CDATA[timmar]]></item>
+  <item name="av.global.day"><![CDATA[dag]]></item>
+  <item name="av.global.days"><![CDATA[dagar]]></item>
+  <item name="av.global.passenger"><![CDATA[Passagerare]]></item>
+  <item name="av.global.passengers"><![CDATA[Passagerare]]></item>
+  <item name="av.global.loading"><![CDATA[laddar data]]></item>
+  <item name="av.global.send"><![CDATA[Skicka]]></item>
+  <item name="av.global.land"><![CDATA[Landa]]></item>
+  <item name="av.global.logout"><![CDATA[Logga ut]]></item>
+  <item name="av.global.open"><![CDATA[Öppen]]></item>
+  <item name="av.global.close"><![CDATA[Stäng]]></item>
+  <item name="av.global.select"><![CDATA[Välj]]></item>
+  <item name="av.global.maintenance"><![CDATA[Underhållsarbete]]></item>
+  <item name="av.global.maintenance_countdown"><![CDATA[Underhållsarbete i:]]></item>
+  <item name="av.global.quickservice"><![CDATA[Snabbserva så mycket du kan!]]></item>
+  <item name="av.global.superfuel"><![CDATA[Superbränsle]]></item>
+  <item name="av.global.superfuelboost_selectiontab"><![CDATA[Klicka för att välja ditt boostvärde.]]></item>
+  <item name="av.global.superfuel.warningmessage"><![CDATA[Vill du verkligen använda superbränsle?]]></item>
+  <item name="av.global.instantlanding"><![CDATA[VIP-landning]]></item>
+  <item name="av.global.comingsoon"><![CDATA[Kommer snart...]]></item>
+  <item name="av.global.planes.small"><![CDATA[Små flygplan]]></item>
+  <item name="av.global.planes.medium"><![CDATA[Medelstora flygplan]]></item>
+  <item name="av.global.planes.large"><![CDATA[Stora plan]]></item>
+  <item name="av.global.plane"><![CDATA[Flygplan]]></item>
+  <item name="av.global.click"><![CDATA[Köp]]></item>
+ </category>
+ <category name="av.instantlanding">
+  <item name="av.instantlanding.shortdesc"><![CDATA[Landa direkt i en handvändning. Ett klick räcker!]]></item>
+  <item name="av.instantlanding.warningmessage"><![CDATA[Verkligen landa direkt?]]></item>
+ </category>
+ <category name="av.xpoffer">
+  <item name="av.xpoffer.title"><![CDATA[Specialerbjudande!]]></item>
+  <item name="av.xpoffer.offer"><![CDATA[Dessa artiklar kommer att förbättra din flygplats. De är speciellt utvalda för din nivå, och är tillgängliga till dig nu, och bara nu, i ett paket till detta mycket låga pris!]]></item>
+  <item name="av.xpoffer.only"><![CDATA[för endast]]></item>
+ </category>
+ <category name="av.dutyfree">
+  <item name="av.dutyfree.title"><![CDATA[Tullfritt]]></item>
+  <item name="av.dutyfree.buystorage"><![CDATA[Öka ditt lagringsutrymme]]></item>
+  <item name="av.dutyfree.buygoods"><![CDATA[Lägg till {number} st varor]]></item>
+ </category>
+ <category name="av.hangar">
+  <item name="av.hangar.title"><![CDATA[Hangar]]></item>
+  <item name="av.hangar.buyslot"><![CDATA[Öka utrymmet i din hangar]]></item>
+  <item name="av.hangar.scrapplane"><![CDATA[Skrota plan]]></item>
+  <item name="av.hangar.security.title"><![CDATA[Skrota plan?]]></item>
+  <item name="av.hangar.security"><![CDATA[Vill du verkligen skrota ditt plan?]]></item>
+  <item name="av.hangar.outofhangar"><![CDATA[Ut ur hangaren]]></item>
+ </category>
+ <category name="av.landsidebuilding">
+  <item name="av.landsidebuilding.passenger"><![CDATA[{passenger}/{max}]]></item>
+ </category>
+ <category name="av.settings">
+  <item name="av.settings.show"><![CDATA[Visa inställningar]]></item>
+  <item name="av.settings.hide"><![CDATA[Dölj inställningar]]></item>
+  <item name="av.settings.soundOn"><![CDATA[musik på]]></item>
+  <item name="av.settings.soundOff"><![CDATA[musik av]]></item>
+  <item name="av.settings.soundFxOn"><![CDATA[ljudeffekter på]]></item>
+  <item name="av.settings.soundFxOff"><![CDATA[ljudeffekter av]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Ändra uppgifter]]></item>
+  <item name="av.settings.animationOff"><![CDATA[Animation/klicka för att stoppa animationer]]></item>
+  <item name="av.settings.animationOn"><![CDATA[Animation/klicka för att spela animationer]]></item>
+  <item name="av.settings.quickServiceOn"><![CDATA[Snabbservice/Klicka för att avaktivera snabbservice]]></item>
+  <item name="av.settings.quickServiceOff"><![CDATA[Snabbservice/Klicka för att aktivera snabbservice]]></item>
+  <item name="av.settings.superFuelOn"><![CDATA[Aktivera superbränsle]]></item>
+  <item name="av.settings.superFuelOff"><![CDATA[Inaktivera superbränsle]]></item>
+  <item name="av.settings.fullscreenOn"><![CDATA[Aktivera helskärmsläge]]></item>
+  <item name="av.settings.fullscreenOff"><![CDATA[Avaktivera helskärmsläge]]></item>
+  <item name="av.settings.changePassword"><![CDATA[Ändra uppgifter]]></item>
+  <item name="av.settings.evoucher"><![CDATA[Betalning med bonuskod]]></item>
+ </category>
+ <category name="av.buddy">
+  <item name="av.buddy.label.flyby"><![CDATA[Förbiflygning]]></item>
+  <item name="av.buddy.label.visit"><![CDATA[Besök]]></item>
+  <item name="av.buddy.exit.visit"><![CDATA[Lämna flygplats]]></item>
+  <item name="av.buddy.label.send"><![CDATA[Skicka]]></item>
+  <item name="av.buddy.label.add_buddy"><![CDATA[Lägg till kompis]]></item>
+  <item name="av.buddy.label.delete"><![CDATA[Radera]]></item>
+  <item name="av.buddy.delete_confirmation.title"><![CDATA[Radera kompis]]></item>
+  <item name="av.buddy.delete_confirmation.text"><![CDATA[Vill du verkligen radera din kompis {buddy}?]]></item>
+ </category>
+ <category name="av.rewardwindow">
+  <item name="av.rewardwindow.headline"><![CDATA[Grattis! Du har klarat målet '{goal_name}']]></item>
+ </category>
+ <category name="av.flightmap">
+  <item name="av.flightmap.welcome"><![CDATA[Välkommen till mitt land]]></item>
+  <item name="av.flightmap.back"><![CDATA[Tillbaka]]></item>
+  <item name="av.flightmap.worldmap"><![CDATA[Världskarta]]></item>
+ </category>
+ <category name="av.souvenirwidget">
+  <item name="av.souvenirwidget.title"><![CDATA[Samlingar]]></item>
+ </category>
+ <category name="av.flybywidget">
+  <item name="av.flybywidget.title"><![CDATA[Samling av förbiflygningsflaggor]]></item>
+  <item name="av.flybywidget.entertext"><![CDATA[Skriv din text här:]]></item>
+ </category>
+ <category name="av.levelupwidget">
+  <item name="av.levelupwidget.title"><![CDATA[Level-Up]]></item>
+  <item name="av.levelupwidget.message"><![CDATA[<b>Grattis! Du har nått nivå {level}.<br>Ta din bonus och shoppa loss!</b>]]></item>
+  <item name="av.levelupwidget.unlocked"><![CDATA[Du har låst upp:]]></item>
+ </category>
+ <category name="av.fullscreen">
+  <item name="av.fullscreen.title"><![CDATA[Lämna helskärmsläge]]></item>
+  <item name="av.fullscreen.message"><![CDATA[Du måste tyvärr lämna helskärmsläget för att använda denna funktion.]]></item>
+  <item name="av.fullscreen.label"><![CDATA[Lämna helskärmsläge]]></item>
+ </category>
+ <category name="av.paymentwidget">
+  <item name="av.paymentwidget.title"><![CDATA[För lite tillgångar]]></item>
+  <item name="av.paymentwidget.message"><![CDATA[Du har för lite tillgångar för att köpa det här föremålet.]]></item>
+  <item name="av.paymentwidget.label.add_cash"><![CDATA[LÄGG TILL PENGAR]]></item>
+ </category>
+ <category name="av.addfriendswidget">
+  <item name="av.addfriendswidget.title"><![CDATA[Bjud in en kompis]]></item>
+  <item name="av.addfriendswidget.description"><![CDATA[Skriv in en eller din kompis användarnamn för att skicka en inbjudan till Skyrama!]]></item>
+  <item name="av.addfriendswidget.info.emails"><![CDATA[Skriv in e-postadresser här (skilj dem med ;)]]></item>
+  <item name="av.addfriendswidget.info.usernames"><![CDATA[Skriv in användarnamn här (skilj dem med ;)]]></item>
+  <item name="av.addfriendswidget.error.emails"><![CDATA[Kontrollera e-postadresserna]]></item>
+  <item name="av.addfriendswidget.error.usernames"><![CDATA[Kontrollera användarnamnen]]></item>
+  <item name="av.addfriendswidget.label.send"><![CDATA[Skicka]]></item>
+ </category>
+ <category name="av.viewfriendswidget">
+  <item name="av.viewfriendswidget.title"><![CDATA[Inbjudningar]]></item>
+  <item name="av.viewfriendswidget.description_invites"><![CDATA[Så här många inbjudningar har du fått: {number}]]></item>
+  <item name="av.viewfriendswidget.description_no_invites"><![CDATA[Det finns inga fler inbjudningar]]></item>
+  <item name="av.viewfriendswidget.accept_invitation"><![CDATA[Godkänn]]></item>
+  <item name="av.viewfriendswidget.decline_invitation"><![CDATA[Avböj]]></item>
+ </category>
+ <category name="av.evoucherwidget">
+  <item name="av.evoucherwidget.title"><![CDATA[Har du en kod?]]></item>
+  <item name="av.evoucherwidget.input.text"><![CDATA[Ange den och få en bonus!]]></item>
+  <item name="av.evoucherwidget.input.hint"><![CDATA[Bonuskod]]></item>
+  <item name="av.evoucherwidget.input.error"><![CDATA[Ange din kod här.]]></item>
+  <item name="av.evoucherwidget.progress"><![CDATA[Verifierar...]]></item>
+  <item name="av.evoucherwidget.success.discount"><![CDATA[Bonuskod inlöst. Med bara ett klick kommer du till]]></item>
+  <item name="av.evoucherwidget.success.discount.link"><![CDATA[beatlningen!]]></item>
+  <item name="av.evoucherwidget.success.ingameitems"><![CDATA[Bonuskod inlöst. Logga in igen för att få din belöning!]]></item>
+  <item name="av.evoucherwidget.error"><![CDATA[Bonuskod ogiltig]]></item>
+ </category>
+ <category name="av.passwordwidget">
+  <item name="av.passwordwidget.title"><![CDATA[Ändra lösenord]]></item>
+  <item name="av.passwordwidget.message"><![CDATA[Skriv in ditt nya lösenord.]]></item>
+  <item name="av.passwordwidget.old"><![CDATA[Sriv in ditt gamla lösenord.]]></item>
+  <item name="av.passwordwidget.info.old"><![CDATA[Gammalt lösenord]]></item>
+  <item name="av.passwordwidget.new"><![CDATA[Skriv in ditt nya lösenord.]]></item>
+  <item name="av.passwordwidget.info.new"><![CDATA[nytt lösenord]]></item>
+  <item name="av.passwordwidget.confirm"><![CDATA[Bekräfta ditt nya lösenord]]></item>
+  <item name="av.passwordwidget.info.confirm"><![CDATA[bekräfta lösenord]]></item>
+  <item name="av.passwordwidget.save"><![CDATA[Spara]]></item>
+  <item name="av.passwordwidget.cancel"><![CDATA[Avbryt]]></item>
+ </category>
+ <category name="av.flybyitem">
+  <item name="av.flybyitem.dummy"><![CDATA[Dummy]]></item>
+  <item name="av.flybyitem.sms_ownmessage"><![CDATA[Din egen text!]]></item>
+  <item name="av.flybyitem.banner1"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner2"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner3"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner4"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner5"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner6"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner7"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner8"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner9"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner10"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner11"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner22"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner23"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner24"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner25"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner26"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.banner27"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.bff"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.cargo"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.coffee"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.friends1"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.friends2"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.greetings"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.ican"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.lol"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.love"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.medium"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.missu"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.music_hearts"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.omn"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.pinup_girl"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.planes"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.stars_elegant"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.thankyou_elegant"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.wtf"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.test"><![CDATA[Test]]></item>
+  <item name="av.flybyitem.unlock_message"><![CDATA[Köp nu med luftpix eller uppnå nivå {required_level}!]]></item>
+  <item name="av.flybyitem.effect"><![CDATA[Skicka nyårsfyrverkerier till dina kompisar]]></item>
+  <item name="av.flybyitem.bday_champagne"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.birthday_girly"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.birthday_ufo"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.cheers_text"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.fluffy_heart"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.smiley_cool"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.smiley_kitten"><![CDATA[Förbiflygningsflagga]]></item>
+  <item name="av.flybyitem.smiley_surprised"><![CDATA[Förbiflygningsflagga]]></item>
+ </category>
+ <category name="av.selectcountry">
+  <item name="av.selectcountry.hint"><![CDATA[Välj var din flygplats ska ligga]]></item>
+  <item name="av.flightmap.selectContinent"><![CDATA[Välj din kontinent]]></item>
+  <item name="av.selectcountry.next"><![CDATA[Nästa]]></item>
+ </category>
+ <category name="av.topbar">
+  <item name="av.topbar.tooltip.aircoins"><![CDATA[Luftmynt]]></item>
+  <item name="av.topbar.tooltip.aircash"><![CDATA[Luftpix]]></item>
+  <item name="av.topbar.tooltip.xp"><![CDATA[EP]]></item>
+  <item name="av.topbar.tooltip.dutyfree"><![CDATA[Tax-free]]></item>
+  <item name="av.topbar.tooltip.passengers"><![CDATA[Passagerare (stannar max. 5 dagar)]]></item>
+  <item name="av.topbar.tooltip.addcash"><![CDATA[Lägg till pengar]]></item>
+  <item name="av.topbar.addcash"><![CDATA[Lägg till pengar]]></item>
+ </category>
+ <category name="av.dashboard">
+  <item name="av.dashboard.airportname"><![CDATA[Flygplats som tillhör {name}]]></item>
+  <item name="av.dashboard.store"><![CDATA[Affärsförrådet]]></item>
+  <item name="av.dashboard.tool"><![CDATA[Verktyg]]></item>
+  <item name="av.dashboard.storage"><![CDATA[Förråd]]></item>
+  <item name="av.dashboard.souvenir"><![CDATA[Samlingar]]></item>
+  <item name="av.dashboard.flight"><![CDATA[Flygningar]]></item>
+  <item name="av.dashboard.store_cat"><![CDATA[{category}]]></item>
+  <item name="av.dashboard.movetostorage"><![CDATA[Flytta till förråd]]></item>
+  <item name="av.dashboard.mirror"><![CDATA[Spegelvänd]]></item>
+  <item name="av.dashboard.move"><![CDATA[Flytta]]></item>
+  <item name="av.dashboard.incoming_flights"><![CDATA[Mina inkommande flygningar]]></item>
+  <item name="av.dashboard.buddy_flights"><![CDATA[Inkommande flyg från kompisar]]></item>
+  <item name="av.dashboard.new_flights"><![CDATA[Nya flygningar]]></item>
+  <item name="av.dashboard.minimize"><![CDATA[Minimera]]></item>
+  <item name="av.dashboard.maximize"><![CDATA[Maximera]]></item>
+  <item name="av.dashboard.buddy_ping_title"><![CDATA[Efterfråga flygplan]]></item>
+  <item name="av.dashboard.buddy_ping_text"><![CDATA[Kvarvarande tid (min.):]]></item>
+ </category>
+ <category name="av.storepanel">
+  <item name="av.storepanel.passenger"><![CDATA[Passagerarplan]]></item>
+  <item name="av.storepanel.cargo"><![CDATA[Lastplan]]></item>
+  <item name="av.storepanel.helicopter"><![CDATA[Ramacopter]]></item>
+  <item name="av.storepanel.seaplane"><![CDATA[Sjöflygplan]]></item>
+  <item name="av.storepanel.largeplane"><![CDATA[Stora plan]]></item>
+ </category>
+ <category name="av.visitairport">
+  <item name="av.visitairport.notification.title"><![CDATA[Du har fått besök!]]></item>
+  <item name="av.visitairport.notification.text"><![CDATA[Följande användare har besökt din flygplats:<br/><br/>{users}<br/><br/>Du har fått {number} st passagerare.]]></item>
+ </category>
+ <category name="av.multilogin">
+  <item name="av.multilogin.title"><![CDATA[Info]]></item>
+  <item name="av.multilogin.text"><![CDATA[Du är redan inloggad på det här kontot. För att hindra problem med dubbla inloggningar loggas du nu in automatiskt!]]></item>
+ </category>
+ <category name="av.login_bonus">
+  <item name="av.login_bonus.title"><![CDATA[Inloggningsbonus]]></item>
+  <item name="av.login_bonus.button"><![CDATA[Turbagage]]></item>
+  <item name="av.login_bonus.text"><![CDATA[Du har loggat in {days} dagar i rad! Därför får du {number} free spin(s). Logga in igen imorgon och få free spin(s)]]></item>
+  <item name="av.login_bonus.spin"><![CDATA[Spin]]></item>
+  <item name="av.login_bonus.spin_count"><![CDATA[{count}x]]></item>
+ </category>
+ <category name="av.quickservice">
+  <item name="av.quickservice.text"><![CDATA[Snabbserva så mycket du kan!]]></item>
+  <item name="av.quickservice.offtitle"><![CDATA[Snabbservice]]></item>
+  <item name="av.quickservice.offtext"><![CDATA[Vill du verkligen snabbserva ditt plan?]]></item>
+ </category>
+ <category name="av.serverproblems">
+  <item name="av.serverproblems.timed_out"><![CDATA[Tiden har gått ut för servern. Var god ladda om spelet för att förebygga problem i spelet.]]></item>
+ </category>
+ <category name="av.zeppelin">
+  <item name="av.zeppelin.title"><![CDATA[Zeppelinarhangar]]></item>
+  <item name="av.zeppelin.buylanding"><![CDATA[Landa direkt]]></item>
+  <item name="av.zeppelin.buyfuel"><![CDATA[Fyll upp bränsleförråd]]></item>
+  <item name="av.zeppelin.destination_1"><![CDATA[Djungel]]></item>
+  <item name="av.zeppelin.destination_2"><![CDATA[Nordpolen]]></item>
+  <item name="av.zeppelin.destination_3"><![CDATA[Öken]]></item>
+  <item name="av.zeppelin.destination_4"><![CDATA[Berg]]></item>
+  <item name="av.zeppelin.destination_5"><![CDATA[Vulkan]]></item>
+  <item name="av.zeppelin.flytodestination"><![CDATA[Flyger till:<br />{destination}]]></item>
+  <item name="av.zeppelin.returned_headline"><![CDATA[Grattis]]></item>
+  <item name="av.zeppelin.youfound"><![CDATA[Du hittade:]]></item>
+  <item name="av.zeppelin.take1more"><![CDATA[Ta 1 souvenir till]]></item>
+  <item name="av.zeppelin.returnhome"><![CDATA[Återvänd hem nu]]></item>
+  <item name="av.zeppelin.readytoland"><![CDATA[Zeppelinarexpeditionen redo att landa!]]></item>
+  <item name="av.zeppelin.retrieving1more"><![CDATA[Hämtar en souvenir till...]]></item>
+  <item name="av.zeppelin.requiredfuel"><![CDATA[Bränsle som krävs: {fuel}]]></item>
+ </category>
+ <category name="av.win.eng_bay">
+  <item name="av.win.eng_bay.title"><![CDATA[Flygplansverkstad]]></item>
+  <item name="av.win.eng_bay.res.title"><![CDATA[Välkommen till flygplansverkstaden]]></item>
+  <item name="av.win.eng_bay.res.intro"><![CDATA[Så här går det till: Skicka iväg flygplan så får du byggdelar till dina tuning-tillbehör som belöning!]]></item>
+  <item name="av.win.eng_bay.res.more"><![CDATA[Vissa byggdelar följer bara med särskilda plan.<br/>Ju längre flygning, desto större blir belöningen!]]></item>
+  <item name="av.win.eng_bay.cost"><![CDATA[Du behöver:]]></item>
+  <item name="av.win.eng_bay.reward"><![CDATA[Bonus]]></item>
+  <item name="av.win.eng_bay.btn.upgrade"><![CDATA[Tuning]]></item>
+  <item name="av.win.eng_bay.btn.getRes"><![CDATA[Skaffa byggdelar!]]></item>
+  <item name="av.win.eng_bay.upgrading"><![CDATA[Uppgradering pågår...]]></item>
+  <item name="av.win.eng_bay.locked"><![CDATA[Just nu kan du bara genomföra en uppgradering.]]></item>
+ </category>
+ <category name="av.tooltip.eng_bay">
+  <item name="av.tooltip.eng_bay.tab.0"><![CDATA[Info]]></item>
+  <item name="av.tooltip.eng_bay.tab.locked"><![CDATA[Du har inga {type} än!]]></item>
+  <item name="av.tooltip.eng_bay.tab.empty"><![CDATA[Du har inga {type} i hangaren!]]></item>
+  <item name="av.tooltip.eng_bay.btn.notupgrade"><![CDATA[För få byggdelar!]]></item>
+ </category>
+ <category name="av.consumable">
+  <item name="av.consumable.1"><![CDATA[Byggsats]]></item>
+  <item name="av.consumable.2"><![CDATA[Byggsats deluxe]]></item>
+  <item name="av.consumable.3"><![CDATA[Passagerarplansdelar]]></item>
+  <item name="av.consumable.4"><![CDATA[Lastflygplansdelar]]></item>
+  <item name="av.consumable.5"><![CDATA[Helikopterdelar]]></item>
+  <item name="av.consumable.6"><![CDATA[Sjöflygplansdelar]]></item>
+  <item name="av.consumable.13"><![CDATA[Lagerkrans]]></item>
+  <item name="av.consumable.14"><![CDATA[Diskus]]></item>
+  <item name="av.consumable.15"><![CDATA[Skivstång]]></item>
+  <item name="av.consumable.16"><![CDATA[Löparsko]]></item>
+  <item name="av.consumable.17"><![CDATA[Slägga]]></item>
+  <item name="av.consumable.18"><![CDATA[Snöflinga]]></item>
+  <item name="av.consumable.19"><![CDATA[Liten antifrost]]></item>
+  <item name="av.consumable.20"><![CDATA[Mellan antifrost]]></item>
+  <item name="av.consumable.21"><![CDATA[Helikopter antifrost]]></item>
+  <item name="av.consumable.22"><![CDATA[Akva antifrost]]></item>
+  <item name="av.consumable.23"><![CDATA[Chokladkartong]]></item>
+  <item name="av.consumable.24"><![CDATA[Toffee-sötsak]]></item>
+  <item name="av.consumable.25"><![CDATA[Valnötsvirvel]]></item>
+  <item name="av.consumable.26"><![CDATA[Pralinpassion]]></item>
+  <item name="av.consumable.27"><![CDATA[Apelsinnjutning]]></item>
+ </category>
+ <category name="av.upgrade">
+  <item name="av.upgrade.1"><![CDATA[Motor]]></item>
+  <item name="av.upgrade.2"><![CDATA[Propeller]]></item>
+  <item name="av.upgrade.3"><![CDATA[Navigationssystem]]></item>
+  <item name="av.upgrade.4"><![CDATA[VIP-säten]]></item>
+  <item name="av.upgrade.5"><![CDATA[Mer lastutrymme]]></item>
+  <item name="av.upgrade.6"><![CDATA[Stabilisator]]></item>
+  <item name="av.upgrade.789"><![CDATA[Uppgradera]]></item>
+ </category>
+ <category name="av.crafting">
+  <item name="av.crafting.1"><![CDATA[Bult]]></item>
+  <item name="av.crafting.2"><![CDATA[Metall]]></item>
+  <item name="av.crafting.3"><![CDATA[Syntetmaterial]]></item>
+  <item name="av.crafting.4"><![CDATA[Elektronik]]></item>
+  <item name="av.crafting.5"><![CDATA[Tyg]]></item>
+  <item name="av.crafting.6"><![CDATA[Glas]]></item>
+ </category>
+ <category name="av.win.unlock.eng_bay">
+  <item name="av.win.unlock.eng_bay.title.levelup"><![CDATA[Aktiverat!]]></item>
+  <item name="av.win.unlock.eng_bay.title.overlevel"><![CDATA[Ny funktion!]]></item>
+  <item name="av.win.unlock.eng_bay.text.levelup"><![CDATA[Stort grattis, du är nu på nivå {level}!]]></item>
+  <item name="av.win.unlock.eng_bay.text.overlevel"><![CDATA[Vår nya flygplansverkstad: med rätt att löda!]]></item>
+  <item name="av.win.unlock.eng_bay.main"><![CDATA[Nyhet i butiken: flygplansverkstaden!<br/> Byt byggdelar mot tillbehör, rusta upp din flotta som ett proffs och hamna en noslängd före konkurrenterna!]]></item>
+  <item name="av.win.unlock.eng_bay.received"><![CDATA[Slå till nu och börja bygga!]]></item>
+ </category>
+ <category name="av.win.bundle">
+  <item name="av.win.bundle.title"><![CDATA[Ditt byggdel-set:]]></item>
+  <item name="av.win.bundle.text"><![CDATA[Utmärkt! De nya byggdelarna har kommit!<br/>Nu kan du skruva och hamra högt och lågt!]]></item>
+  <item name="av.win.bundle.received"><![CDATA[Ditt urval:]]></item>
+ </category>
+ <category name="av.win.logout">
+  <item name="av.win.logout.title"><![CDATA[Logga ut]]></item>
+  <item name="av.win.logout.text"><![CDATA[Vill du verkligen lämna spelet?]]></item>
+ </category>
+ <category name="av.win.buy_conf">
+  <item name="av.win.buy_conf.title"><![CDATA[Bekräfta]]></item>
+  <item name="av.win.buy_conf.buy.text"><![CDATA[Verkligen köpa?]]></item>
+  <item name="av.win.buy_conf.del.text"><![CDATA[Verkligen ta bort från förrådet?]]></item>
+  <item name="av.win.buy_conf.sell.text"><![CDATA[Vill du verkligen sälja detta föremål för {x} {money}?]]></item>
+ </category>
+ <category name="av.win.error">
+  <item name="av.win.error.global.title"><![CDATA[Hoppsan!]]></item>
+  <item name="av.win.error.global.text"><![CDATA[Spelet avslutades på grund av tekniska problem.]]></item>
+  <item name="av.win.error.connection.title"><![CDATA[Anslutning avbruten]]></item>
+  <item name="av.win.error.connection.text"><![CDATA[Du har problem med din internetanslutning.]]></item>
+  <item name="av.win.error.reload.text"><![CDATA[Vill du ladda spelet på nytt?]]></item>
+ </category>
+ <category name="av.win.eventBaskets">
+  <item name="av.win.eventBaskets.title"><![CDATA[Större än störst!]]></item>
+  <item name="av.win.eventBaskets.text"><![CDATA[Framgångsfaktor på flygplatsen: Missa inte dessa erbjudanden!]]></item>
+ </category>
+ <category name="av.storage.deleteItems">
+  <item name="av.storage.deleteItems.title"><![CDATA[Sälja]]></item>
+  <item name="av.storage.deleteItems.warning"><![CDATA[Vill du verkligen sälja detta föremål för {value} luftmynt?]]></item>
+  <item name="av.storage.deleteItems.sellbtn"><![CDATA[Sälj]]></item>
+ </category>
+ <category name="av.win.happyhour">
+  <item name="av.win.happyhour.title"><![CDATA[Happy hour]]></item>
+  <item name="av.win.happyhour.info"><![CDATA[Happy hour-erbjudande: {prozent}% extra för flygaräss!]]></item>
+  <item name="av.win.happyhour.plustext1"><![CDATA[Köp t.ex. 100 luftpix under vår Happy hour och erhåll {calcvalue}!]]></item>
+  <item name="av.win.happyhour.plustext2"><![CDATA[Spräng ljudvallen och bygg ut din flygplats!]]></item>
+  <item name="av.win.happyhour.plustext3"><![CDATA[Slå till innan det är för sent!]]></item>
+  <item name="av.win.happyhour.button"><![CDATA[Köp]]></item>
+ </category>
+ <category name="av.win.recycling_building">
+  <item name="av.win.recycling_building.title"><![CDATA[Återvinningscenter]]></item>
+  <item name="av.win.recycling_building.res.title"><![CDATA[Välkommen till återvinningscentrat!]]></item>
+  <item name="av.win.recycling_building.res.intro"><![CDATA[Av gammalt blir nytt! Du behöver mer hangarutrymme eller fler byggdelar för dina egenhändigt gjorda plan? Då har du hamnat rätt!]]></item>
+  <item name="av.win.recycling_building.res.more"><![CDATA[Här demonterar du gamla plan. Varje plan ger dig olika byggdelar som du kan använda i monteringshallen för att skruva ihop nya häftiga plan.]]></item>
+  <item name="av.win.recycling_building.level"><![CDATA[Din återvinningsnivå]]></item>
+  <item name="av.win.recycling_building.level_up"><![CDATA[Du har nått återvinningsnivå {x}!]]></item>
+  <item name="av.win.recycling_building.tooltip.small_planes"><![CDATA[Antal små plan i din hangar:]]></item>
+  <item name="av.win.recycling_building.tooltip.medium_planes"><![CDATA[Antal medelstora plan i din hangar:]]></item>
+  <item name="av.win.recycling_building.tooltip.material1"><![CDATA[Luftmynt]]></item>
+  <item name="av.win.recycling_building.tooltip.material7"><![CDATA[Bult]]></item>
+  <item name="av.win.recycling_building.tooltip.material8"><![CDATA[Metall]]></item>
+  <item name="av.win.recycling_building.tooltip.material9"><![CDATA[Syntetmaterial]]></item>
+  <item name="av.win.recycling_building.tooltip.material10"><![CDATA[Elektronik]]></item>
+  <item name="av.win.recycling_building.tooltip.material11"><![CDATA[Tyg]]></item>
+  <item name="av.win.recycling_building.tooltip.material12"><![CDATA[Glas]]></item>
+  <item name="av.win.recycling_building.btn.ok"><![CDATA[OK]]></item>
+  <item name="av.win.recycling_building.gears"><![CDATA[Framsteg]]></item>
+  <item name="av.win.recycling_building.option.info"><![CDATA[Ta isär plan, få byggdelar. Till vänster ser du din framgångsprognos!]]></item>
+  <item name="av.win.recycling_building.option.time"><![CDATA[Återvinningstid: {x} h]]></item>
+  <item name="av.win.recycling_building.option.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.recycling_building.btn.dissemble"><![CDATA[Demontera]]></item>
+  <item name="av.win.recycling_building.btn.collect"><![CDATA[Hämta]]></item>
+  <item name="av.win.recycling_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.recycling_building.btn.sideflag2"><![CDATA[Små flygplan]]></item>
+  <item name="av.win.recycling_building.btn.sideflag3"><![CDATA[Medelstora flygplan]]></item>
+  <item name="av.win.recycling_building.btn.sideflag.disabled"><![CDATA[Inte tillräckligt med plan]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.title"><![CDATA[Bort med det]]></item>
+  <item name="av.win.recycling_building.popup.start_recycling.msg"><![CDATA[Säker på att du vill demontera detta plan?]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.title"><![CDATA[Slutför]]></item>
+  <item name="av.win.recycling_building.popup.instant_recycling.msg"><![CDATA[Slutföra demonteringen genast?]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.title"><![CDATA[Du har för lite luftmynt!]]></item>
+  <item name="av.win.recycling_building.popup.need_more_vc.msg"><![CDATA[Du har för lite luftpix!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.title"><![CDATA[Återvinning level-up!]]></item>
+  <item name="av.win.recycling_building.popup.levelup.msg"><![CDATA[Bravo! Du har nått nästa återvinningsnivå. Dina chanser att få bättre byggdelar har blivit bättre.]]></item>
+  <item name="av.win.recycling_building.popup.yes"><![CDATA[OK]]></item>
+  <item name="av.win.recycling_building.popup.no"><![CDATA[Avbryt]]></item>
+  <item name="av.win.recycling_building.popup.recycling_done.title"><![CDATA[Du tilldelas:]]></item>
+ </category>
+ <category name="av.win.crafting_building">
+  <item name="av.win.crafting_building.title"><![CDATA[Monteringshall]]></item>
+  <item name="av.win.crafting_building.res.title"><![CDATA[Jordens hall]]></item>
+  <item name="av.win.crafting_building.res.intro"><![CDATA[I monteringshallen konstruerar du banbrytande plan av dina byggdelar!]]></item>
+  <item name="av.win.crafting_building.res.more"><![CDATA[Använd fyra olika material från återvinningscentrat för att skapa ett sprillans nytt flygplan. Vill du skynda på produktionen? Hyr i så fall en extra hall.]]></item>
+  <item name="av.win.crafting_building.level"><![CDATA[Din montörnivå]]></item>
+  <item name="av.win.crafting_building.tooltip.cockpit"><![CDATA[Cockpit]]></item>
+  <item name="av.win.crafting_building.tooltip.body"><![CDATA[Kropp]]></item>
+  <item name="av.win.crafting_building.tooltip.wingunit"><![CDATA[Vingpar]]></item>
+  <item name="av.win.crafting_building.tooltip.powerunit"><![CDATA[Motor]]></item>
+  <item name="av.win.crafting_building.tooltip.time"><![CDATA[Tid tills färdigställande]]></item>
+  <item name="av.win.crafting_building.gears"><![CDATA[Framsteg]]></item>
+  <item name="av.win.crafting_building.btn.combine"><![CDATA[Producera]]></item>
+  <item name="av.win.crafting_building.btn.build"><![CDATA[Bygg]]></item>
+  <item name="av.win.crafting_building.btn.instant"><![CDATA[{x}]]></item>
+  <item name="av.win.crafting_building.btn.collect"><![CDATA[Hämta]]></item>
+  <item name="av.win.crafting_building.btn.ok"><![CDATA[OK]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.title"><![CDATA[Hyra monteringshall?]]></item>
+  <item name="av.win.crafting_building.btn.additional_slot.msg"><![CDATA[En hall till i 24 timmar. För {x} luftpix är det möjligt!]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.msg"><![CDATA[Du behöver mer luftpix för att hyra en hall till.]]></item>
+  <item name="av.win.crafting_building.btn.nocash_slot.title"><![CDATA[För lite moneter, va?]]></item>
+  <item name="av.win.crafting_building.btn.sideflag1"><![CDATA[Info]]></item>
+  <item name="av.win.crafting_building.btn.sideflag2"><![CDATA[Monteringshall 1]]></item>
+  <item name="av.win.crafting_building.btn.sideflag3"><![CDATA[Monteringshall 2]]></item>
+  <item name="av.win.crafting_building.btn.sideflag4"><![CDATA[Monteringshall 3]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.title"><![CDATA[Du har för lite luftmynt!]]></item>
+  <item name="av.win.crafting_building.popup.need_more_vc.msg"><![CDATA[Du har för lite luftpix!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.title"><![CDATA[Ingen mer plats i hangaren!]]></item>
+  <item name="av.win.crafting_building.popup.more_hangar.msg"><![CDATA[Du måste först expandera din hangar!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.title"><![CDATA[Färdigställa!]]></item>
+  <item name="av.win.crafting_building.popup.instant_crafting.msg"><![CDATA[Färdigställa nu?]]></item>
+  <item name="av.win.crafting_building.popup.crafting_done.title"><![CDATA[Du tilldelas:]]></item>
+  <item name="av.win.crafting_building.popup.levelup.title"><![CDATA[Montör-nivå +]]></item>
+  <item name="av.win.crafting_building.popup.levelup.msg"><![CDATA[Fantastiskt! Du har nått en ny montörnivå och har tillgång till ett par nya plan!]]></item>
+  <item name="av.win.crafting_building.popup.yes"><![CDATA[OK]]></item>
+  <item name="av.win.crafting_building.popup.no"><![CDATA[Avbryt]]></item>
+ </category>
+ <category name="av.win.material_event">
+  <item name="av.win.material_event.res.intro"><![CDATA[Klara, färdiga, gå! Samla så många Airlympic-föremål du kan och lös in dem för att få tag på häftiga eventplan!]]></item>
+  <item name="av.win.material_event.res.title"><![CDATA[Låt spelen börja!]]></item>
+  <item name="av.win.material_event.res.more"><![CDATA[Till varje flygplanstyp hör dessutom ett unikt samlingsföremål. Lös in dem för några förbättrade eventplan!]]></item>
+  <item name="av.win.material_event.btn.side_flag1"><![CDATA[Eventinfo]]></item>
+  <item name="av.win.material_event.btn.side_flag2"><![CDATA[Eventbelöningar]]></item>
+  <item name="av.win.material_event.btn.redeem"><![CDATA[Lös in]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.title"><![CDATA[Inte nog med föremål]]></item>
+  <item name="av.win.material_event.popup.need_more_materials.msg"><![CDATA[Du har inte samlat tillräckligt många för att lösa in detta föremål.]]></item>
+  <item name="av.win.material_event.popup.more_hangar.title"><![CDATA[Matchande hangar krävs!]]></item>
+  <item name="av.win.material_event.popup.more_hangar.msg"><![CDATA[Det behövs mer hangarkapacitet!]]></item>
+ </category>
+</language>

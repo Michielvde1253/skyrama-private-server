@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Talált tárgyak]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Ingyen pörgetés]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[{number} ingyen pörgetés]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[Egy pörgetés: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Pörgetés]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Még játszanál? Semmi gond: 24 óránként kapsz egy ingyen pörgetést!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Nyeremény:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Gratulálok!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Nyertél!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Gratulálunk a nyereményhez! Biztosan jó hasznát látod. Megpróbálod még egyszer? Látod, megéri!]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[{day}. nap:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[{day}. nap: {spins} x ingyen pörgetés]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Átugrás]]></item>
+ </category>
+</language>

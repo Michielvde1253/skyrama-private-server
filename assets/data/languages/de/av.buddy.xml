@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.buddy">
+  <item name="av.buddy.title"><![CDATA[Freunde hinzufügen!]]></item>
+  <item name="av.buddy.text"><![CDATA[Gemeinsam sind wir stark: Lade Freunde zum Mitspielen ein!]]></item>
+  <item name="av.buddy.search"><![CDATA[Freund zur Buddyliste hinzufügen]]></item>
+  <item name="av.buddy.search.hint"><![CDATA[Username/User ID]]></item>
+  <item name="av.buddy.search.button"><![CDATA[Suchen]]></item>
+  <item name="av.buddy.search.results"><![CDATA[Ergebnisse]]></item>
+  <item name="av.buddy.search.searching"><![CDATA[Suche ...]]></item>
+  <item name="av.buddy.search.add"><![CDATA[Buddy hinzufügen]]></item>
+  <item name="av.buddy.search.user_result"><![CDATA[{username} (ID: {id})]]></item>
+  <item name="av.buddy.search.user_notfound"><![CDATA[Spieler nicht gefunden]]></item>
+  <item name="av.buddy.search.user_added"><![CDATA[Spieler wurde erfolgreich hinzugefügt]]></item>
+  <item name="av.buddy.search.user_notadded"><![CDATA[Spieler konnte nicht hinzugefügt werden]]></item>
+  <item name="av.buddy.search.user_yourself"><![CDATA[Du kannst Dich nicht selbst hinzufügen]]></item>
+  <item name="av.buddy.search.user_already"><![CDATA[Der angefragte User ist schon Dein Buddy]]></item>
+  <item name="av.buddy.email"><![CDATA[E-Mail-Einladung]]></item>
+ </category>
+</language>

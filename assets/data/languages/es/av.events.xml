@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.event_pumpkin">
+  <item name="av.event_pumpkin.title"><![CDATA[Semanas de calabaza]]></item>
+  <item name="av.event_pumpkin.text"><![CDATA[¡Es temporada de calabazas! Y eso significa que es el momento de recoger algunas de ellas. Puedes conseguirlas prestando servicios a aviones. Si consigues las suficientes, ¡puedes comprar aviones y objetos únicos que solo estarán disponibles por muy poco tiempo! ¡Date prisa y consigue todas las calabazas que puedas!]]></item>
+  <item name="av.event_pumpkin.mouseover"><![CDATA[Semanas de calabaza]]></item>
+ </category>
+ <category name="av.event_winter">
+  <item name="av.event_winter.title"><![CDATA[Semanas invernales]]></item>
+  <item name="av.event_winter.text"><![CDATA[¡Por fin! ¡Llega la época más bonita del año!  Brillantes copos de nieve comienzan a cubrir nuestro aeropuerto y cada
+ vez más pilotos nos informan de que han visto un trineo volador cuando sobrevolaban el Polo Norte.<br/>Durante las próximas semanas invernales, recibirás regalos al prestar servicio a los aviones.    ¡Compra aviones y edificios únicos con esos regalos!]]></item>
+  <item name="av.event_winter.mouseover"><![CDATA[Semanas invernales]]></item>
+ </category>
+ <category name="av.valentines_week">
+  <item name="av.valentines_week.title"><![CDATA[Semanas románticas]]></item>
+  <item name="av.valentines_week.text"><![CDATA[¡Búscate a tu amor de altos vuelos!<br/>Un montón de pilotos vuelven a informar de que han avistado a un extraño ser volando junto a sus aviones y disparando pequeñas flechas... ¡Ten cuidado no te vaya a dar con una! <br/>Presta servicio a los aviones para recoger rosas y úsalas para comprar objetos únicos. ¡Solo durante un tiempo limitado! <br/>¿Estás dispuesto a enamorarte?]]></item>
+  <item name="av.valentines_week.mouseover"><![CDATA[Semanas románticas]]></item>
+ </category>
+ <category name="av.easter_week">
+  <item name="av.easter_week.title"><![CDATA[¡Días de Huevorama en tu aeropuerto!]]></item>
+  <item name="av.easter_week.text"><![CDATA[¡Disfruta de la primavera con Skyrama! Del 30 de marzo
+ al 15 de abril de 2012, podrás desbloquear objetos, fondos y aviones exclusivos... ¡Sube a bordo!]]></item>
+  <item name="av.easter_week.mouseover"><![CDATA[¡Ponte manos a la obra y únete a la fiesta!]]></item>
+ </category>
+ <category name="av.may_days">
+  <item name="av.may_days.title"><![CDATA[¡Llega el calor de mayo a Skyrama!
+]]></item>
+  <item name="av.may_days.text"><![CDATA[Continúa el calor de mayo: como sabemos que te gusta tanto el calorcito, ¡vamos a seguir disfrutando de él durante dos días más! ¡Eva María se fue, buscando el sol en la playa...!]]></item>
+  <item name="av.may_days.mouseover"><![CDATA[¡Celebra que suben las temperaturas! ¡Llega el calor de mayo a Skyrama!]]></item>
+ </category>
+ <category name="av.bday">
+  <item name="av.bday.title"><![CDATA[¡Skyrama cumple 1 año!]]></item>
+  <item name="av.bday.text"><![CDATA[¡Que viva Skyrama! Ya hace un año que volamos por los cielos virtuales, Por eso, del 6 al 17.06... ¡Vamos a celebrarlo como se merece! Desbloquea con trozos de tarta aviones exclusivos o hazte con el nuevo fondo de cumpleaños. ¡El verano comienza cargado de emoción!]]></item>
+  <item name="av.bday.mouseover"><![CDATA[¡Fiesta loca!]]></item>
+ </category>
+ <category name="av.olympic">
+  <item name="av.olympic.title"><![CDATA[Torneo aéreo de verano de Skyrama]]></item>
+  <item name="av.olympic.text"><![CDATA[¡Los campeones de verdad siempre quieren llegar a lo más alto! Del 27 de julio al 12 de agosto de 2012, el espíritu deportivo reinará tu aeropuerto. Aviones exclusivos, decoración por tiempo limitado y mucho más. ¡Aquí tus aviones se convertirán en campeones! ¡Conviértete en el as de la aeronáutica, gana medallas de oro y cámbialas por fantásticos objetos en la tienda del acontecimiento!]]></item>
+  <item name="av.olympic.mouseover"><![CDATA[¡A los puestos! Preparados... listos... ¡ya! ¡Ponte en forma!]]></item>
+ </category>
+ <category name="av.pirate">
+  <item name="av.pirate.title"><![CDATA[¡Vuela como un pirata!]]></item>
+  <item name="av.pirate.text"><![CDATA[Hace una semana que el pillaje y el saqueo campan a sus anchas en el aeropuerto, motivo más que de sobra para ampliar esta pequeña excursión al mundo de la piratería otros siete días: hasta el 16 de septiembre se descorcharán las botellas y rugirán los cañones. Además, quienes ya estén curtidos para la vida en la isla pueden hacerse con un fondo caribeño en la tienda y disfrutar de la brisa tropical. ¡A las armas!]]></item>
+  <item name="av.pirate.mouseover"><![CDATA[¡Disfruta de las semanas de la piratería aérea!]]></item>
+ </category>
+ <category name="av.event2">
+  <item name="av.event2.title"><![CDATA[Oktoberfest en Skyrama]]></item>
+  <item name="av.event2.text"><![CDATA[Nubes blancas, cielo azul y ¡hora de celebrar la fiesta de la cerveza en tu aeropuerto! Con objetos bávaros, aviones cerveceros y misiones reales volamos contigo al ecuador de las salchichas. ¡No solo en Múnich hay cervecerías!<br/>(El alcohol perjudica tu salud).]]></item>
+  <item name="av.event2.mouseover"><![CDATA[O’zapft is: octubre festivo en Skyrama]]></item>
+ </category>
+ <category name="av.event3">
+  <item name="av.event3.title"><![CDATA[Semanas del terror en Skyrama]]></item>
+  <item name="av.event3.text"><![CDATA[En el aeropuerto, se ha desatado el infierno... Y esta vez literalmente... el 25 de octubre al 11 de noviembre de 2012, el ejército de Belcebú aterriza en tu aeropuerto. Ni la pista, ni la torre, ni la aduana, ni el hangar se librarán de hospedar a las fuerzas del mal. ¡Terror demoniaco por doquier! Pero, no te tires de los pelos, ya que también disfrutarás de objetos exclusivos como el Air Esqueletus M, el castillo Frankenstair y el Ihmocóptero con los que estarás bien preparado ante el peligro. No te lo pierdas y completa también las tareas de Halloween donde verás cómo la tripulación se enfrenta a sus peores demonios.]]></item>
+  <item name="av.event3.mouseover"><![CDATA[Se te acaba el tiempo... ¡Muajaajajajaja!]]></item>
+ </category>
+ <category name="av.event4">
+  <item name="av.event4.title"><![CDATA[Sci-Fi-Rama: ¡semanas espaciales en el aeropuerto!]]></item>
+  <item name="av.event4.text"><![CDATA[El futuro se deja caer. Más moderno que el año 2000, más chulo que una pista antigua: Skyrama presenta el aeropuerto de la Edad Moderna. Disfrutad de momentos estelares en el tráfico aéreo e incorporad a vuestra flota el hidroavión TriRama, el innovador helicóptero Star Wolf, el noble White Orbit y otras aeronaves futuristas. Sin rodeos, las naves vuelven después de 24 horas con un cargamento extra de PE y aerocéntimos. Reunid monedas ovni, decorad vuestros aeropuertos y poneos en marcha en el mundo del mañana. 3... 2... 1... ¡Despegue!]]></item>
+  <item name="av.event4.mouseover"><![CDATA[Es la hora... ¡del futuro!]]></item>
+ </category>
+ <category name="av.event5">
+  <item name="av.event5.title"><![CDATA[¡Feliz Navidad y prósperos altos vuelos! Llega el acontecimiento polar a tu aeropuerto.]]></item>
+  <item name="av.event5.text"><![CDATA[El avión va despegando, entre neblina y neblina, la pista está escarchada, cubierta de nieve fina... Pilotos, azafatas y tus amigos están listos para la mejor época del año. Durante las próximas semanas, reinará la felicidad en el aeropuerto. Consigue increíbles aviones exclusivos como el gigante Esquiarama de carga o el ágil Vuelatlón y decora el aeropuerto con abetos invernales o fantásticos iglús. Hasta el entrometido Señor de los copillos hará una aparición estelar. Olvídate de las máquinas quitanieves y deséales a tus pilotos un feliz Año Nuevo.]]></item>
+  <item name="av.event5.mouseover"><![CDATA[¡Pero mira cómo vuelan los aviones en el cielo! ¡Vuela y vuela y vuelve a volar!]]></item>
+ </category>
+ <category name="av.history">
+  <item name="av.history.title"><![CDATA[Crónica aeronáutica: el acontecimiento histórico de Skyrama]]></item>
+  <item name="av.history.text"><![CDATA[Qué tiempos aquellos... Entonces, hombres de verdad se ponían al mando de sus aparatos voladores, todo un espectáculo de altos vuelos. Para conmemorar la historia de la aviación, durante las próximas semanas echaremos un vistazo a los orígenes de la aeronáutica. Edificios clásicos, aviones de primera generación y globos de la edad de oro se darán cita en tu aeropuerto. De Richthofen a Frankfurt, el futuro está en el pasado.]]></item>
+  <item name="av.history.mouseover"><![CDATA[No hay tiempo que perder. ¡En marcha, piloto!]]></item>
+ </category>
+ <category name="av.vip">
+  <item name="av.vip.title"><![CDATA[La flor y nata de la sociedad: el acontecimiento VIP de Skyrama]]></item>
+  <item name="av.vip.text"><![CDATA[¡Famosos a bordo! Comienzan los brindis con motivo del gran acontecimiento VIP de Skyrama. Durante las próximas semanas, deambulará por tu aeropuerto la crème de la crème de la jet set. Prepárate para un continuo ir y venir de decoración pija, suntuosos edificios y aviones de lujo. Únete a Darío, Fiona y compañía en las misiones especiales diarias entre la lluvia de flashes del aeropuerto. ¡Codéate con las estrellas y vive la acción como nunca antes!]]></item>
+  <item name="av.vip.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.emergency">
+  <item name="av.emergency.title"><![CDATA[Héroes del aire: días SOS en Skyrama]]></item>
+  <item name="av.emergency.text"><![CDATA[En caso de emergencia, que nadie rompa el cristal, que estamos en pleno vuelo. Así que, ¡a los asientos eyectables! Del 27 de marzo al 14 de abril, Skyrama homenajea a los admirables equipos de socorro en, sobre y hasta bajo nuestros aeropuertos. Misiones especiales geniales que revelan los estados de emergencia actuales del personal del aeropuerto, imponente decoración del pánico que crea la atmósfera adecuada y aviones exclusivos a partir de las existencias de nuestros equipos de rescate se aúnan para crear un ambiente heroico. Adopta la posición lateral de seguridad, recuéstate y participa. ¡Más diversión que la que permite la policía! <br/><br/>(Seguimos esperando a que los bomberos se pronuncien al respecto)]]></item>
+  <item name="av.emergency.mouseover"><![CDATA[¡Fiesta, fiesta, fiesta! Así es como se conjura el peligro...]]></item>
+ </category>
+ <category name="av.flashback">
+  <item name="av.flashback.title"><![CDATA[Semanas de flashback en Skyrama]]></item>
+  <item name="av.flashback.text"><![CDATA[¿Alguna vez has querido ver algunos elementos de tus eventos favoritos otra vez en juego? Pues es tu día de suerte, ¡porque es la Semana Flashback de Skyrama! Prepárate para volver a ver los mejores aviones, hidroaviones, helicópteros y decoración de los eventos. Desde el 18 de julio hasta el 4 de agosto de 2013 podrás conseguir estas maravillas del pasado y disfrutar de algunas de las misiones de eventos clásicos. ¡No te pierdas la oportunidad de volver atrás en el tiempo!]]></item>
+  <item name="av.flashback.mouseover"><![CDATA[¡Es como un déjà vu continuo!]]></item>
+ </category>
+ <category name="av.science2013">
+  <item name="av.science2013.title"><![CDATA[Sci-Fi-Rama: Semanas de la ciencia en tu aeropuerto]]></item>
+  <item name="av.science2013.text"><![CDATA[¡Responsables de aeropuerto, el futuro está aquí! Desde el 23 de mayo hasta el 9 de junio de 2013 exploraremos la nueva era de la aviación: aviones futuristas, edificios colosales y misiones completamente únicas. Consigue elixires de eventos y visita la tienda para comprobar las más recientes novedades en aviación. Prepárate para sorprenderte, ¡el futuro de los vuelos nunca ha sido tan brillante!]]></item>
+  <item name="av.science2013.mouseover"><![CDATA[Todo lo bueno llega a su fin.]]></item>
+ </category>
+ <category name="av.summer2013">
+  <item name="av.summer2013.title"><![CDATA[Está subiendo la temperatura... ¡ha llegado la hora del Evento de verano 2013 de Skyrama!]]></item>
+  <item name="av.summer2013.text"><![CDATA[Cielos azules, calor sofocante y mucho protector solar: ¡ha llegado el verano y Skyrama quiere celebrarlo desde el 20 de junio hasta el 7 de julio! Cuando haga tanto calor que podrías freir un huevo en la acera, entra en Skyrama para refrescarte. Aviones exclusivos e impresionantes y una dosis extra de tus misiones favoritas. ¡Diviértete mientras combates el calor!]]></item>
+  <item name="av.summer2013.mouseover"><![CDATA[Cielos despejados: ¡aprovecha el sol mientras puedas!]]></item>
+ </category>
+ <category name="av.golden50ies">
+  <item name="av.golden50ies.title"><![CDATA[Los rockeros años cincuenta han llegado a tu aeropuerto. ¡Échales un vistazo, tronco!]]></item>
+  <item name="av.golden50ies.text"><![CDATA[¡Coged las chaquetas de cuero y las faldas de capa! Skyrama lanza la temática de los años 50 y queremos que toda la basca esté allí. ¡Guarda los duros sueltos para la caja de música! Colecciona vinilos, cómprate aviones de locura que vienen de los gloriosos años de la posguerra y decora tu aeropuerto tan salvajemente como la equipación de Marlon Brando. ¡Skyrama se moja y tú deberías sumarte a la acción mientras puedas!]]></item>
+  <item name="av.golden50ies.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.japan2013">
+  <item name="av.japan2013.title"><![CDATA[Semanas japonesas en Skyrama]]></item>
+  <item name="av.japan2013.text"><![CDATA[Únete a nosotros en el viaje a Japón, el país del sol naciente. ¡Es la hora del evento japonés de Skyrama! Tenemos aviones clásicos, edificios para todos los gustos y la decoración más vanguardista para ayudarte a entrar en este ambiente. Navega sobre las nubes hacia cielos azules en dirección a una tierra donde Oriente se encuentra con Occidente en una mezcla estimulante de tradición y de tecnología moderna. ¡Consigue las flores de cerezo necesarias y disfruta las impresionantes recompensas!<br><br>Para aquellos que prefieran quedarse en casa, ¡tenemos algo muy atractivo para vosotros! No podemos decir mucho pero está relacionado con las nuevas misiones de los niveles más altos, con nuestro adorable y retestinado Kurt, con la despistada Fiona y con una pregunta muy grande. Tanto si eliges nuestro evento especial como las nuevas misiones, ¡no te equivocarás!]]></item>
+  <item name="av.japan2013.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.halloween2013">
+  <item name="av.halloween2013.title"><![CDATA[Semanas del terror, Parte 2: ¡Trucos, tratos y mucha diversión!]]></item>
+  <item name="av.halloween2013.text"><![CDATA[Nubes retorcidas empiezan a cubrir tu aeropuerto. Del hangar surge una niebla tóxica en forma de fantasma. A lo lejos se oye una carcajada diabólica cada vez más fuerte. Todo esto sólo puede significar una cosa... ¡es la hora de que reserves tu entrada para la Fiesta de Halloween de este año! ¿Cuál es el destino final? ¡Skyrama, por supuesto! Trae tu disfraz más terrorífico y tu mochila más recia, vas a necesitarla para recoger tratos dulces e invertirlos en aviones espeluznantes de este evento, en edificios monstruosos y en decoración tóxica. Da igual que vueles en el Jet Duende o en un Hinderburg, te bajará la sangre a los talones en cuanto despegues. ¡Jefes de aeropuerto, truco o trato!]]></item>
+  <item name="av.halloween2013.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.winter2013">
+  <item name="av.winter2013.title"><![CDATA[Semanas invernales]]></item>
+  <item name="av.winter2013.text"><![CDATA[Abrigaos y preparaos una taza de chocolate calentito, ¡porque llegan las Semanas invernales a Skyrama! Llega la fiesta de la temporada. ¡Felices fiestas, jefes de aeropuerto!]]></item>
+  <item name="av.winter2013.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.flashback3">
+  <item name="av.flashback3.title"><![CDATA[A quien madruga, el pasado le ayuda: ¡es la hora del flashback nº3!]]></item>
+  <item name="av.flashback3.text"><![CDATA[Desde el 16 de enero hasta el 2 de febrero de 2014, resucitaremos vuestros eventos favoritos del pasado de Skyrama. Traeremos de vuelta éxitos para todos, desde la primera clase del Jet-Set-Jet hasta la rústica Hidroavioneta. ¿Quieres darle otro toque a tu aeropuerto? Elige entre nuestra selección de decoraciones y temas de la vieja escuela como el Palmeral, el Airena de Skyrama o El señor de los copillos. Ha llegado la hora de las semanas flashback de Skyrama, ¡un rayo de luz antes de la primavera!]]></item>
+  <item name="av.flashback3.mouseover"><![CDATA[¡Es como un déjà vu continuo!]]></item>
+ </category>
+ <category name="av.xplanes2014">
+  <item name="av.xplanes2014.title"><![CDATA[Spyrama: Operaciones secretas en el aeropuerto]]></item>
+  <item name="av.xplanes2014.text"><![CDATA[¡Saludos, agente!<br><br>En los últimos meses, nuestros informadores han observado actividad inusual. Desde pilotos entrometidos y navegadores ausentes hasta pérdidas de efectivo injustificadas. Conclusión: ¡algo está pasando en el aeropuerto! Controla a los empleados sospechosos con las misiones diarias y llega hasta el fondo de esta conspiración... en fin, si de verdad hay una. Para ayudarte a camuflarte, el equipo de I+D ha creado una serie de superaviones exclusivos y edificios de alta tecnología inspirados en los planos adquiridos recientemente por nuestros "aliados". No hay que preocuparse, estos aviones experimentales han superado los tests y sólo representan una amenaza leve para el piloto y las zonas de alrededor. Si alguien de tu equipo es capturado o neutralizado, la agencia negará toda implicación en la operación. ¡Buena suerte!]]></item>
+  <item name="av.xplanes2014.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.airlineweeks1_042014">
+  <item name="av.airlineweeks1_042014.title"><![CDATA[Club Skyrama: Semana de viajeros frecuentes en el aeropuerto]]></item>
+  <item name="av.airlineweeks1_042014.text"><![CDATA[¡El nuevo programa de viajeros frecuentes de Skyrama tiene a todo el mundo en vilo! La participación no puede faltar: consigue cheques de viaje, guárdalos en tu inventario y cámbialos por aviones exclusivos, decoración o por el fondo Arroyo suave "Turbo-lencia". ¿Necesitas más vuelos?<br/><br/>Regla del Piloto nº23: Completa las misiones diarias del evento y prueba también las misiones principales nuevas (¡que se actualizarán con frecuencia a partir de ahora!). ¡Así conseguirás cheques de viaje a una velocidad supersónica! Gracias a la nueva función de organización, ¡podrás encontrar tus aviones y enviarlos más rápido a todo el mundo!]]></item>
+  <item name="av.airlineweeks1_042014.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.flashback4">
+  <item name="av.flashback4.title"><![CDATA[De vuelta al pasado: ¡Semanas de flashback en Skyrama, parte 4!]]></item>
+  <item name="av.flashback4.text"><![CDATA[¿Alguna vez has querido ver algunos elementos de tus eventos favoritos otra vez en juego? ¡Hoy es tu día de suerte porque es la semana de flashback en Skyrama! Prepárate para todo un surtido de aviones, hidroaviones, helicópteros y decoraciones de eventos antiguos. ¡No pierdas el tiempo! Échale el guante a estas maravillas del pasado y disfruta de algunos de los eventos clásicos. Los jugadores de más nivel también podrán jugar algunas misiones principales nuevas. ¡No te pierdas esta oportunidad de volver atrás en el tiempo!]]></item>
+  <item name="av.flashback4.mouseover"><![CDATA[¡Es como un déjà vu continuo!]]></item>
+ </category>
+ <category name="av.airlineweeks2_062014">
+  <item name="av.airlineweeks2_062014.title"><![CDATA[Club Skyrama: La vuelta del viajero frecuente]]></item>
+  <item name="av.airlineweeks2_062014.text"><![CDATA[¡Cielos despejados para los viajeros frecuentes! Nuestro nuevo programa Club Skyrama tiene ofertas supersónicas para todos. Consigue todos los cheques de viaje que puedas y adereza tu hangar por completo con las ofertas fantásticas de la aerolínea Jumbo. Desde el famoso "Bogus 737" hasta la bandera Jumbo "Band-ulencia", seguro que encuentras algo a tu medida. Así que ponte tu uniforme y aventúrate con los eventos, las nuevas misiones para los niveles altos y nuestro sensacional programa de viajeros frecuentes.]]></item>
+  <item name="av.airlineweeks2_062014.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.conceptplanes_072014">
+  <item name="av.conceptplanes_072014.title"><![CDATA[Grandes ideas: Concepto Expo 2014 de aviones]]></item>
+  <item name="av.conceptplanes_072014.text"><![CDATA[Saca tu bola de cristal, ¡el futuro ha llegado! Diseños innovadores, combinaciones de locura y grandes invenciones. ¡Únete a Skyrama en la celebración de los mejores hitos de la historia de la aviación futura! Echa un vistazo a los prototipos de aviones y a las decoraciones utópicas; convierte tu aeropuerto en un complejo sacado del año 2525. ¡Consigue planos, intercámbialos por los últimos inventos, juega a las misiones diarias emocionantes y explora el horizonte del futuro!]]></item>
+  <item name="av.conceptplanes_072014.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.goldenageofaviation_092014">
+  <item name="av.goldenageofaviation_092014.title"><![CDATA[Classic Air: Skyrama celebra la "Edad dorada de la aviación"]]></item>
+  <item name="av.goldenageofaviation_092014.text"><![CDATA[Desde hace milenios hasta hace poco: ¿Todo era mejor en el pasado? ¡Muéstranoslo! En las próximas semanas, los mundos antiguos y modernos se fusionarán: reliquias volantes de antes volverán a la vida en el aeropuerto. Desde el legendario Miss Smith hasta el Bombauva, por no decir el avión que solía pilotar el bisabuelo, todo un espectáculo en este evento gigantesco. ¡Misiones de evento fantásticas, edificios históricos y aviones de antaño! Todo esto y mucho más te espera en Skyrama durante las próximas semanas, ¡en directo y en color!]]></item>
+  <item name="av.goldenageofaviation_092014.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.halloween2014">
+  <item name="av.halloween2014.title"><![CDATA[Semanas del terror, Parte 3: ¡Pesadilla en pista 2019!]]></item>
+  <item name="av.halloween2014.text"><![CDATA[¡Truco o trato! Regresa a tu asiento, abróchate el cinturón, cierra la bandeja y coloca el respaldo en posición vertical: llegan turbulencias salvajes y aterradoras. Las próximas semanas estarán plagadas de sorpresas espeluznantes, como aviones encantados, decoraciones embrujadas, edificios diabólicos y ¡muchos sustos nocturnos! Prepárate para las semanas del terror de Skyrama. ¡Va a ser un Halloween impresionante!]]></item>
+  <item name="av.halloween2014.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.xmas2014">
+  <item name="av.xmas2014.title"><![CDATA[Semanas de Polarama 2014]]></item>
+  <item name="av.xmas2014.text"><![CDATA[¡Ponte los guantes y prepárate! Está llegando una gran helada al aeropuerto, sólo puede significar una cosa: ¡es el momento de la diversión de invierno! Llegan las semanas de Polarama a Skyrama. Las noches serán largas y frías, pero tú y tus aviones podéis estar calentitos con mucho anticongelante. ¡Disfruta de misiones fresquitas y relájate en la terminal con decoraciones y precios árticos que te dejarán helado!]]></item>
+  <item name="av.xmas2014.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.flashback5">
+  <item name="av.flashback5.title"><![CDATA[¡Retrasa el reloj para nuestro quinto flashback!]]></item>
+  <item name="av.flashback5.text"><![CDATA[¿Estás sin tiempo? ¡Ya no! 2015 está despegando a la velocidad del sonido; es el momento de volver atrás con algunos de nuestros mejores aviones de los últimos años. Desde el Skyrántula arácnido hasta el r-evolucionario Big Bang, una amplia gama para todos los pilotos.<br><br>Así que colecciona trofeos y juega misiones de eventos clásicos. ¡Diviértete en el pasado antes de que pase la oportunidad!]]></item>
+  <item name="av.flashback5.mouseover"><![CDATA[¡Es como un déjà vu continuo!]]></item>
+ </category>
+ <category name="av.mostwanted022015">
+  <item name="av.mostwanted022015.title"><![CDATA[Pese al frío, esto está que arde: Lo más buscado de Skyrama]]></item>
+  <item name="av.mostwanted022015.text"><![CDATA[Calentando a velocidad supersónica: ¡No hay hielo en la pista! Nuestros generosos cazadores han analizado los aviones más populares a lo largo y ancho de Skyrama para traeros la mejor selección de aparatos voladores del viejo y del nuevo mundo. Consigue cámaras y cámbialas por aviones, como el legendario Super Yuppy, en la tienda. ¡Completa las misiones excitantes de este evento hasta que se funda el asfalto!]]></item>
+  <item name="av.mostwanted022015.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.emergency042015">
+  <item name="av.emergency042015.title"><![CDATA[Alerta roja: Días SOS 2015]]></item>
+  <item name="av.emergency042015.text"><![CDATA[¿Primero el accidente y luego el deber? ¡Supongamos que sí! Con un piloto experimentado, los accidentes aéreos no son una opción, ¡ni en la pista ni en el aire! Aviones aerodinámicos de rescate en emergencias, aviones de lucha contra incendios, decoraciones a prueba de terremotos... envía un mensaje claro a los causantes de problemas: ¡Ni lo intentéis! Por supuesto, esta vez también habrá misiones excitantes. Ponte el chaleco salvavidas, lánzate a por esos fantásticos premios y ¡empieza la primavera preparándote para lo peor!]]></item>
+  <item name="av.emergency042015.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.flashback6">
+  <item name="av.flashback6.title"><![CDATA[Semanas de quedarse en casa]]></item>
+  <item name="av.flashback6.text"><![CDATA[¿Alguna vez has deseado ver algunos de tus objetos favoritos de acontecimientos en la tienda una vez más? ¡Pues hoy es tu día de suerte, porque son las Semanas de flashback de Skyrama! Prepárate para todo un surtido de aviones, hidroaviones, helicópteros y decoraciones de acontecimientos antiguos. ¡No tardes! Echa el guante a estas reliquias del pasado y disfruta de algunas misiones de acontecimientos clásicos. ¡No te pierdas esta oportunidad de viajar al pasado!]]></item>
+  <item name="av.flashback6.mouseover"><![CDATA[¡Es como un déjà vu continuo!]]></item>
+ </category>
+ <category name="av.airshow072015">
+  <item name="av.airshow072015.title"><![CDATA[¡Preparados, listos, volad! ¡La semana Air Show de Skyrama!]]></item>
+  <item name="av.airshow072015.text"><![CDATA[Atención, aviadores: ¿Quién se puede resistir a la diversión a máxima velocidad por el cielo? Prepárate para reclutar al mejor piloto de carreras aéreas. ¡Hazte el Aerodueño de las acrobacias!]]></item>
+  <item name="av.airshow072015.mouseover"><![CDATA[¡Vamos allá! ¡A divertirse!]]></item>
+ </category>
+ <category name="av.waterplanes082015">
+  <item name="av.waterplanes082015.title"><![CDATA[¡Que fluya el buen tiempo! Semana Hidroavión en Skyrama]]></item>
+  <item name="av.waterplanes082015.text"><![CDATA[Ya sea por tierra, mar o aire, siempre hay algo para cada piloto durante este evento. Experimenta un vuelo bajo sobre el agua, un rizo en helicóptero o el control de una aeronave lujosa por una vez en tu vida. Aderézalo todo con algunas misiones refrescantes y consigue incluso algunos patitos. ¡Salta y salpica!]]></item>
+  <item name="av.waterplanes082015.mouseover"><![CDATA[¡Cuidado! ¡Resbala cuando está mojado!]]></item>
+ </category>
+ <category name="av.flashback7">
+  <item name="av.flashback7.title"><![CDATA[Semanas de flashback en Skyrama]]></item>
+  <item name="av.flashback7.text"><![CDATA[¿Alguna vez has querido ver algunos elementos de tus eventos favoritos otra vez en juego? ¡Hoy es tu día de suerte porque es la semana de flashback en Skyrama! Prepárate para todo un surtido de aviones, hidroaviones, helicópteros y decoraciones de eventos antiguos. Prepárate para volver a ver los mejores aviones, hidroaviones, helicópteros y decoración de los eventos. Desde el 18 de julio hasta el 4 de agosto de 2013 podrás conseguir estas maravillas del pasado y disfrutar de algunas de las misiones de eventos clásicos. ¡No te pierdas esta oportunidad Los jugadores de más nivel también podrán jugar algunas misiones principales nuevas. el tiempo!]]></item>
+  <item name="av.flashback7.mouseover"><![CDATA[¡Es como un déjà vu continuo!]]></item>
+ </category>
+ <category name="av.ufoevent102015">
+  <item name="av.ufoevent102015.title"><![CDATA[Semanas OVNI en Skyrama]]></item>
+  <item name="av.ufoevent102015.text"><![CDATA[Hace mucho tiempo, en un aeropuerto muy lejano:<br><br>El siguiente gran evento de Skyrama quema todo el queroseno. Naves espaciales de todo el multiuniverso han llegado por la Vía láctea para ser testigos de un espectáculo de proporciones galácticas. Naves espaciales poderosísimas, estructuras futuristas y misiones asombrosas ayudarán a un gestor de aeropuerto solitario a vencer al mal desde sus instalaciones. Pero los cazarrecompensas del imperio solicitan un precio elevado... solo conseguirá restaurar la libertad de la galaxia recogiendo las cabezas de extraterrestres suficientes...]]></item>
+  <item name="av.ufoevent102015.mouseover"><![CDATA[Tiempo restante:]]></item>
+ </category>
+ <category name="av.polarevent122015">
+  <item name="av.polarevent122015.title"><![CDATA[Semanas heladas]]></item>
+  <item name="av.polarevent122015.text"><![CDATA[Un frío gélido, aviones relucientes y grados bajo cero te separan del evento más grande a este lado de la Aurora Boreal. Comprueba los motores de tu avión, echa sal en la pista y prepara una buena dosis de anticongelante para la parte final del año. ¡2015 se despedirá a lo grande!]]></item>
+  <item name="av.polarevent122015.mouseover"><![CDATA[Airepista al peligro]]></item>
+ </category>
+ <category name="av.futureevent012016">
+  <item name="av.futureevent012016.title"><![CDATA[Semanas futurísticas]]></item>
+  <item name="av.futureevent012016.text"><![CDATA[Es la hora... ¡del futuro! Skyrama presenta... ¡El aeropuerto del futuro! ¡Sé testigo de cómo la aviación se revoluciona con la tecnología de mañana! Abróchate el cinturón y prepárate para despegar a la velocidad de la luz hacia el futuro con nuestros pilotos visionarios, edificios artísticos y misiones innovadoras. ¡Puede que tengas un encuentro de cerca con la tercera fase!]]></item>
+  <item name="av.futureevent012016.mouseover"><![CDATA[Es la hora... ¡del futuro!]]></item>
+ </category>
+ <category name="av.movieevent022016">
+  <item name="av.movieevent022016.title"><![CDATA[Semanas de las estrellas del cine]]></item>
+  <item name="av.movieevent022016.text"><![CDATA[¡Ven y conoce a las estrellas de la pantalla de plata! No, los actores no... sino las auténticas estrellas de la pantalla: ¡Los aviones! Durante las próximas semanas pasará por el aeropuerto de Skyrama una amplia gama de aparatos voladores del mundo del cine. ¿Cuántos podrás reconocer?]]></item>
+  <item name="av.movieevent022016.mouseover"><![CDATA[¿Los aviones pueden firmar autógrafos?]]></item>
+ </category>
+ <category name="av.wildlifeevent042016">
+  <item name="av.wildlifeevent042016.title"><![CDATA[Semanas salvajes]]></item>
+  <item name="av.wildlifeevent042016.text"><![CDATA[¿Estás listo para rugir? ¡En las próximas semanas llegarán al aeropuerto aviones temáticos sobre animales, así que prepara tu casco de explorador, súbete al coche de safari y avista todos los que puedas! Disfruta de los nuevos edificios temáticos, de la decoración y de los fondos así como de misiones especiales. ¿Podrás conseguirlos todos?]]></item>
+  <item name="av.wildlifeevent042016.mouseover"><![CDATA[¿Habrá cerdos voladores?]]></item>
+ </category>
+ <category name="av.emevent052016">
+  <item name="av.emevent052016.title"><![CDATA[Semanas del fútbol]]></item>
+  <item name="av.emevent052016.text"><![CDATA[Fíjate en los aviones especiales que llegarán al aeropuerto, dos por cada equipo de la Eurocopa. Por cada partido ganado, los aviones correspondientes en el juego recibirán un trofeo en sus iconos y un potenciador a la experiencia o al dinero ganado. ¡Cuantos más partidos ganen, mejores serán los potenciadores! Sin embargo, también subirá el precio de los aviones. ¡Haz pronto tu selección de equipos que crees que lo harán bien!]]></item>
+  <item name="av.emevent052016.mouseover"><![CDATA[¡No te olvides de la regla del fuera de juego!]]></item>
+ </category>
+ <category name="av.flashback8">
+  <item name="av.flashback8.title"><![CDATA[Semanas de flashback en Skyrama]]></item>
+  <item name="av.flashback8.text"><![CDATA[¿Alguna vez has querido ver algunos elementos de tus eventos favoritos otra vez en juego? ¡Hoy es tu día de suerte porque es la semana de flashback en Skyrama! Prepárate para todo un surtido de aviones, hidroaviones, helicópteros y decoraciones de eventos antiguos. Prepárate para volver a ver los mejores aviones, hidroaviones, helicópteros y decoración de los eventos. Desde el 18 de julio hasta el 4 de agosto de 2013 podrás conseguir estas maravillas del pasado y disfrutar de algunas de las misiones de eventos clásicos. ¡No te pierdas esta oportunidad Los jugadores de más nivel también podrán jugar algunas misiones principales nuevas. el tiempo!]]></item>
+  <item name="av.flashback8.mouseover"><![CDATA[¡Es como un déjà vu continuo!]]></item>
+ </category>
+ <category name="av.olympicevent092016">
+  <item name="av.olympicevent092016.title"><![CDATA[Semanas de la medalla de oro]]></item>
+  <item name="av.olympicevent092016.text"><![CDATA[¿Te parece que todo el mundo se ha vuelto loco con el deporte este verano? ¡El aeropuerto ha decidido lanzar sus propios 'Aerolímpicos'! ¿Cuántas posibilidades tendrás de ganar una medalla o dos? ¡Consigue los aviones especiales de este evento y colecciona equipos deportivos para mejorarlos!]]></item>
+  <item name="av.olympicevent092016.mouseover"><![CDATA[¡Prepárate para subir al podio!]]></item>
+ </category>
+ <category name="av.halloweenevent102016">
+  <item name="av.halloweenevent102016.title"><![CDATA[Semanas de vuelos nocturnos]]></item>
+  <item name="av.halloweenevent102016.text"><![CDATA[¿Quién necesita un avión cuando se puede volar en escoba? Durante las próximas semanas, ¡el aeropuerto será aterrador para celebrar Halloween! ¡No te pierdas los aviones, edificios y decoraciones nuevas! ¡Prepara tus vuelos nocturnos!]]></item>
+  <item name="av.halloweenevent102016.mouseover"><![CDATA[¿Es un pájaro? ¿Es un avión? ¡No, es una escoba voladora!]]></item>
+ </category>
+ <category name="av.arcticevent122016">
+  <item name="av.arcticevent122016.title"><![CDATA[Semanas de cielos árticos]]></item>
+  <item name="av.arcticevent122016.text"><![CDATA[¡Empieza a hacer mucho frío fuera, por lo que los aviones están consumiendo más anticongelante que nunca para volar con seguridad! ¡Apúntate al acontecimiento del hielo y la nieve para disfrutar de los nuevos aviones, edificios y decoración de invierno en tu aeropuerto!]]></item>
+  <item name="av.arcticevent122016.mouseover"><![CDATA[¡Ponte gorro y bufanda, que hace frío fuera!]]></item>
+ </category>
+ <category name="av.flashback9">
+  <item name="av.flashback9.title"><![CDATA[Semanas de flashback en Skyrama]]></item>
+  <item name="av.flashback9.text"><![CDATA[¿Alguna vez has deseado ver algunos de tus objetos favoritos de acontecimientos en la tienda una vez más? ¡Pues ha llegado tu día de suerte, porque son las Semanas de flashback de Skyrama! Prepárate para todo un elenco de primer nivel de acontecimientos antiguos: aviones, helicópteros y decoraciones. ¡No tardes! Echa el guante a estas reliquias del pasado y disfruta de algunas misiones de acontecimientos clásicos. ¡No te pierdas esta oportunidad de viajar al pasado!]]></item>
+  <item name="av.flashback9.mouseover"><![CDATA[¡Es como un déjà vu continuo!]]></item>
+ </category>
+ <category name="av.valentinesevent022017">
+  <item name="av.valentinesevent022017.title"><![CDATA[Semanas de Amor en el cielo]]></item>
+  <item name="av.valentinesevent022017.text"><![CDATA[¿Puedes sentir el romanticismo del ambiente? Todos en el aeropuerto están romanticones. ¡Únete a nuestro acontecimiento y disfruta de los nuevos aviones de la serie Cupido así como de edificios y decoraciones temáticas! ¡Siente el amor esta noche!]]></item>
+  <item name="av.valentinesevent022017.mouseover"><![CDATA[¿Cuál es tu canción de amor favorita?]]></item>
+ </category>
+ <category name="av.skyrace2017">
+  <item name="av.skyrace2017.title"><![CDATA[Semanas Skyrace]]></item>
+  <item name="av.skyrace2017.text"><![CDATA[¿Listo para volar bien alto? ¡Compite en Skyrace y demuestra a todo el mundo que eres el mejor piloto de Skyrama!]]></item>
+  <item name="av.skyrace2017.mouseover"><![CDATA[¡La carrera aérea Skyrace ha llegado! ¡Es hora de encender los conmutadores de alta velocidad!]]></item>
+ </category>
+</language>

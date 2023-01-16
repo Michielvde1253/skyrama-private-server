@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <category name="av.lucky_luggage">
+  <item name="av.lucky_luggage.title"><![CDATA[Bagażowa Loteria]]></item>
+  <item name="av.lucky_luggage.free_spin"><![CDATA[Darmowa runda]]></item>
+  <item name="av.lucky_luggage.num_free_spin"><![CDATA[Darmowa runda (ilość: {number})]]></item>
+  <item name="av.lucky_luggage.num_cash_spin"><![CDATA[1 runda: {air_cash}]]></item>
+  <item name="av.lucky_luggage.spin"><![CDATA[Zakręć]]></item>
+  <item name="av.lucky_luggage.description"><![CDATA[Myślisz, że to już wszystko? Akurat!Co 24 godziny czeka na Ciebie darmowa runda i wspaniałe nagrody!]]></item>
+  <item name="av.lucky_luggage.prizes"><![CDATA[Cena:]]></item>
+  <item name="av.lucky_luggage.popup_title"><![CDATA[Gratulacje!]]></item>
+  <item name="av.lucky_luggage.popup_message_title"><![CDATA[Wygrałeś!]]></item>
+  <item name="av.lucky_luggage.popup_message_text"><![CDATA[Gratuluję wygranej! To się na pewno przyda. Chcesz spróbować jeszcze raz? To się opłaca!]]></item>
+  <item name="av.lucky_luggage.day"><![CDATA[Dzień {day}:]]></item>
+  <item name="av.lucky_luggage.day_spins"><![CDATA[Dzień {day}: {spins}x Darmowa runda]]></item>
+  <item name="av.lucky_luggage.skip"><![CDATA[Pomiń]]></item>
+ </category>
+</language>
