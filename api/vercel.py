@@ -45,7 +45,7 @@ available_commands = {
     "flashCookies.set": handle_flashcookiesSet
 }
 
-host = '127.0.0.1'
+host = '0.0.0.0'
 port = 5050
 
 app = Flask(__name__, template_folder=TEMPLATES_DIR)
