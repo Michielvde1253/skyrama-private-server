@@ -6,7 +6,7 @@ import json
 def handle_addObj(request, user_id, obj):
     
     p = Path(__file__).parents[1]
-    f = open(os.path.join(p, "assets", "Obj.json"), "r")
+    f = open(os.path.join(p, "data", "obj.json"), "r")
     obj_data = json.loads(str(f.read()))
     f.close()
 
