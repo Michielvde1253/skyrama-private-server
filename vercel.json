@@ -8,7 +8,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "server.py"
+      "dest": "vercel.py"
     }
   ]
 }
