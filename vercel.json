@@ -1,16 +1,10 @@
 {
-  "builds": [
-    {
-      "src": "vercel.py",
-      "use": "@vercel/python"
-    }
-  ],
   "routes": [
     {
       "src": "/(.*)",
       "dest": "vercel.py"
     }
-  ]
+  ],
   "functions": {
     "vercel.py": {
       "excludeFiles": "assets/**"
