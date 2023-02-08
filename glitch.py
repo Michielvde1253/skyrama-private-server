@@ -15,7 +15,7 @@ os.system("title Skyrama Server")
 print (" [+] Loading server...")
 from flask import Flask, render_template, send_from_directory, request, redirect, session, url_for
 from flask.debughelpers import attach_enctype_error_multidict
-from bundle import TEMPLATES_DIR, STUB_DIR, STYLES_DIR, ASSETS_DIR
+from bundle import TEMPLATES_DIR, STUB_DIR, STYLES_DIR
 from commands import *
 
 for module in os.listdir(os.path.join(os.path.dirname(__file__), "commands")):
@@ -53,8 +53,8 @@ available_commands = {
     "buddy.decline": handle_buddyDecline
 }
 
-host = '127.0.0.1'
-port = 5050
+host = '0.0.0.0'
+port = 8080
 
 app = Flask(__name__, template_folder=TEMPLATES_DIR)
 
@@ -66,7 +66,7 @@ print (" [+] Configuring server routes...")
 
 @app.route("/play")
 def play():
-    return render_template("play.html", userid = request.args['userid'], token = request.args['token'], SERVERIP=host)
+    return render_template("play_vercel.html", userid = request.args['userid'], token = request.args['token'], SERVERIP=host)
 
 @app.route('/')
 def homepage():
@@ -165,10 +165,6 @@ def crossdomain():
     return send_from_directory(STUB_DIR, "crossdomain.xml")
 
 ## GAME STATIC
-
-@app.route("/assets/<path:path>")
-def static_assets_loader(path):
-    return send_from_directory(ASSETS_DIR, path)
 
 @app.route("/templates/styles/<path:path>")
 def styles(path):

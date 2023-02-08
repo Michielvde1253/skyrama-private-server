@@ -5,6 +5,16 @@
 		<div align="center" style="margin:0%; border:0%;">
 			<img src="/templates/styles/skyrama_header.png" alt="Header" style="margin-top: 0; border-top: 0; height:150px;">
 		</div>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jsSHA/2.0.2/sha.js"></script>
+		<script type="text/javascript">
+			function mySubmit(obj) {
+  				var pwdObj = document.getElementById('password');
+  				var hashObj = new jsSHA("SHA-512", "TEXT", {numRounds: 1});
+  				hashObj.update(pwdObj.value);
+  				var hash = hashObj.getHash("HEX");
+  				pwdObj.value = hash;
+			}
+		</script>
 	</head>
 	<body>
 		<div align="center">
@@ -25,7 +35,7 @@
 						<input id="username" name="username" type="text" placeholder="Enter your username" class="textbox"/> </br> </br>
 						<input id="password" name="password" type="password" placeholder="Enter your password" class="textbox"/> </br> </br>
 						<input id="email" name="email" type="text" placeholder="Enter your e-mail" class="textbox"/> </br> </br>
-						<input type="submit" value="Sign Up" class="btn"/> </br> </br>
+						<input type="submit" value="Sign Up" class="btn" onclick="mySubmit(this)"/> </br> </br>
 						</form>
 				</h2>
 				<p class="bottom" style="align-content: center; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;"> Already have account? <a class="bottom" href="/login"> Sign In here </a> 
