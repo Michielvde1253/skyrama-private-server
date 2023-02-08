@@ -36,6 +36,7 @@ def handle_addObj(request, user_id, obj):
     obj["maintenance"] = obj_data["maintenance"]
     obj["events"] = obj_data["events"]
     obj["paymentBaskets"] = obj_data["paymentBaskets"]
+    obj["flashCookies"] = []
 
     if request["m"] == "general.getInitState":
         obj["planeUpgrades"] = []

@@ -32,7 +32,7 @@ def handle_planesSetState(request, user_id, rpcResult):
             json_data["planes"][j]["flight_status"] = request["p"]["flight_status"]
             json_data["planes"][j]["to_user_name"] = request["p"]["to_user_name"]  
 
-            if request["p"]["flight_status"] == 118:
+            if request["p"]["flight_status"] == 118 or request["p"]["flight_status"] == 1010 or request["p"]["flight_status"] == 9:
                 json_data["planes"][j]["start_service_time"] = request["p"]["last_state_change_time"]
 
         j = j + 1
