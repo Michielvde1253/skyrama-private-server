@@ -1,36 +1,39 @@
 .header{
-    padding: 5px 120px;
+    padding: 2px 120px;
     width: 150px;
     height: 70px;
-    background-color: #2689bb; 
+    background: linear-gradient(#ffffff, #d9d9d9);
+    border: 5px solid #ad4a19;
     border-radius: 10px;
+    text-transform: uppercase;
 }
           
 .border{
-    padding: 80px 50px;
+    padding: 80px 60px;
     width: 400px;
     height: 400px;
-    border: 1px solid #236B8E;
-    border-radius: 10px;
-    background-color: #9AC0CD;
+    border: 5px solid #ad4a19;
+    border-radius: 12px;
+    background-color: #5396f4;
 }
   
 .btn {
     padding: 10px 40px;
-    background-color: #2689bb; 
+    background-color: #df312b; 
     color: #FFFFFF;
     font-weight: bold;
-    border-radius: 10px;
+    border-radius: 5px;
     border: none;
+    text-transform: uppercase;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
   
 .textbox{
     padding: 10px 40px;
-    background-color: #2689bb; 
+    background-color: #2689bb;
     color: #FFFFFF;
     border-radius: 10px;
-    border: none;
+    border: 2px solid #fff;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
                   
@@ -42,12 +45,12 @@
 }
   
 .word{
-    color: #FFFFFF;
+    color: #2689bb;
     font-weight: bold;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
   
 .bottom{
-    color: #2689bb;
+    color: #fff;
     font-weight: bold;
 }
