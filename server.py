@@ -52,7 +52,8 @@ available_commands = {
     "buddy.endRelationship": handle_buddyEndRelationship,
     "buddy.decline": handle_buddyDecline,
     "bays.buy": handle_baysBuy,
-    "runways.buy": handle_runwaysBuy
+    "runways.buy": handle_runwaysBuy,
+    "special_buildings.buy": handle_specialBuildingsBuy
 }
 
 host = '127.0.0.1'
