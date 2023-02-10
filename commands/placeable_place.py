@@ -20,14 +20,26 @@ def handle_placeablePlace(request, user_id, rpcResult):
     f.close()
 
     if request["p"]["obj_type"] == "bay":
-        j = 0
         for i in json_data["bays"]:
             if int(i["id"]) == int(request["p"]["obj_id"]):
-                json_data["bays"][j]["position_x"] = request["p"]["x"]
-                json_data["bays"][j]["position_y"] = request["p"]["y"]
-            j = j + 1
+                i["position_x"] = request["p"]["x"]
+                i["position_y"] = request["p"]["y"]
+    elif request["p"]["obj_type"] == "special":
+        for i in json_data["specialBuildings"]:
+            if int(i["id"]) == int(request["p"]["obj_id"]):
+                i["position_x"] = request["p"]["x"]
+                i["position_y"] = request["p"]["y"]
+    elif request["p"]["obj_type"] == "runway":
+        for i in json_data["runways"]:
+            if int(i["id"]) == int(request["p"]["obj_id"]):
+                i["position_x"] = request["p"]["x"]
+                i["position_y"] = request["p"]["y"]
+    elif request["p"]["obj_type"] == "landside_building":
+        for i in json_data["landsideBuildings"]:
+            if int(i["id"]) == int(request["p"]["obj_id"]):
+                i["position_x"] = request["p"]["x"]
+                i["position_y"] = request["p"]["y"]
 
-            print(json_data["bays"])
 
     f = open(os.path.join(p, "data", player_file), "w")
     f.write(json.dumps(json_data))

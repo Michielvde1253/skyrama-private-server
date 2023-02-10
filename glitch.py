@@ -53,7 +53,8 @@ available_commands = {
     "buddy.decline": handle_buddyDecline,
     "bays.buy": handle_baysBuy,
     "runways.buy": handle_runwaysBuy,
-    "special_buildings.buy": handle_specialBuildingsBuy
+    "special_buildings.buy": handle_specialBuildingsBuy,
+    "placeable.setInStorage": handle_placeableSetInStorage
 }
 
 host = '0.0.0.0'
