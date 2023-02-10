@@ -50,7 +50,8 @@ available_commands = {
     "playerdata.updateSettings": handle_updateSettings,
     "planes.miss": handle_planesMiss,
     "buddy.endRelationship": handle_buddyEndRelationship,
-    "buddy.decline": handle_buddyDecline
+    "buddy.decline": handle_buddyDecline,
+    "bays.buy": handle_baysBuy
 }
 
 host = '0.0.0.0'
