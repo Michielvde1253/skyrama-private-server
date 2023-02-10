@@ -88,7 +88,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [ ] landmarks.buy
 - [ ] landmarks.makeCurrent
 - [ ] bays.get
-- [ ] bays.buy
+- [x] bays.buy
 - [ ] cargoshops.get
 - [ ] cargoshops.fillShop
 - [ ] cargoshops.collectSalesRevenue
@@ -96,7 +96,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [ ] cargoshops.buyCapacity
 - [ ] cargoshops.buyCargo
 - [ ] runways.get
-- [ ] runways.buy
+- [x] runways.buy
 - [ ] terminals.get
 - [x] terminals.buy
 - [ ] map_extensions.buy
@@ -113,9 +113,9 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [ ] offers.buyOffer
 - [ ] souvenirs.buy
 - [ ] souvenirs.takeReward
-- [ ] special_buildings.buy
-- [x] placeable.place
-- [ ] placeable.setInStorage
+- [x] special_buildings.buy
+- [x] placeable.place  -  PARTIALLY
+- [x] placeable.setInStorage  -  PARTIALLY
 - [ ] expeditions.start
 - [ ] expeditions.land
 - [ ] expeditions.getanother
