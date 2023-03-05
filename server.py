@@ -182,6 +182,10 @@ def styles(path):
 def error():
   return render_template('error.html')
 
+@app.route("/logout/")
+def logout():
+  return render_template('logout.html')
+
 ################
 # GAME DYNAMIC #
 ################
