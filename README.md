@@ -47,7 +47,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] playerdata.updateSettings
 - [ ] locations.get
 - [ ] evoucher.book
-- [ ] lucky_luggage.spin
+- [x] lucky_luggage.spin
 - [ ] catchits.get
 - [ ] catchits.catchPrize
 - [x] buddy.getAll

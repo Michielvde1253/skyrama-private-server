@@ -54,7 +54,8 @@ available_commands = {
     "bays.buy": handle_baysBuy,
     "runways.buy": handle_runwaysBuy,
     "special_buildings.buy": handle_specialBuildingsBuy,
-    "placeable.setInStorage": handle_placeableSetInStorage
+    "placeable.setInStorage": handle_placeableSetInStorage,
+    "lucky_luggage.spin": handle_luckyLuggageSpin
 }
 
 host = '0.0.0.0'
@@ -203,6 +204,9 @@ def handle_request():
       for command in command_data:
           if command["m"] in available_commands:
               print("Command " + command["m"] + " handled")
+  
+              # Check Lucky Luggage new spins
+              handle_lucky_luggage_live(command, request.form["userId"])
   
               # Create command answer
               rpcResult = {}
