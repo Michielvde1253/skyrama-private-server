@@ -107,7 +107,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [ ] warehouses.buy
 - [x] playerdata.setbooster
 - [ ] landside_buildings.get
-- [ ] landside_buildings.buy
+- [x] landside_buildings.buy
 - [x] landside_buildings.harvest
 - [ ] goals.buyTask
 - [ ] offers.buyOffer
