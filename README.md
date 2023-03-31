@@ -1,14 +1,14 @@
 
 # Skyrama Private Server
 
-A simple version of a server for the game Skyrama. Not all features have been implemented, and even the ones that are probably contain bugs. Any help is welcome :)
+A simple server for the game Skyrama. Not all features have been implemented, and the ones that are may contain bugs. All help is welcome :)
 
-Besides that, keep in mind that passwords are not properly protected as of now! That means: choose a unique password that you DON'T use for any other services.
+Besides that, keep in mind that passwords are not properly encrypted at the moment! So I highly recommend you choose a unique password you DON'T use for any other services.
 
 
 ## Legal Issues
 
-I'm aware of the fact that there are legal problems with this project. It is only made for learning purposes and should not be trusted. Besides that, I will never add payments or any kind of advertisements. To Bigpoint: if you have any problems with this, please contact me and I will take it out of Github. Thanks!
+This repository is made for educational purposes only, and will not be monetized in any way. Contact me for any legal problems, and I'll take appropriate action.
 
 ## How to play
 
@@ -18,7 +18,7 @@ You can find the game on https://skyrama.glitch.me. To play, you will need a bro
 
 In order to run the code, simply download the .zip from Github and run server.py.
 
-You will need a browser that supports flash (and flash player itself) to run the game. I personally recommend https://flash.pm/browser/.
+You will need a browser that supports Flash (and Flash Player itself) to run the game. Alternatively, you can use https://flash.pm/browser/.
 
 ## Known issues
 - Leaving the tutorial early causes bugs.
