@@ -55,7 +55,8 @@ available_commands = {
     "runways.buy": handle_runwaysBuy,
     "special_buildings.buy": handle_specialBuildingsBuy,
     "placeable.setInStorage": handle_placeableSetInStorage,
-    "lucky_luggage.spin": handle_luckyLuggageSpin
+    "lucky_luggage.spin": handle_luckyLuggageSpin,
+    "landside_buildings.buy": handle_landsideBuildingsBuy
 }
 
 host = '0.0.0.0'

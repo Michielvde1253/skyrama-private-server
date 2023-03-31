@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 import json
 
-def handle_terminalsBuy(request, user_id, rpcResult):
+def handle_landsideBuildingsBuy(request, user_id, rpcResult):
     rpcResult["i"] = request["i"]
     rpcResult["t"] = str(int(time.time()))
     rpcResult["r"] = None
@@ -17,28 +17,28 @@ def handle_terminalsBuy(request, user_id, rpcResult):
 
     f = open(os.path.join(p, "data", player_file), "r")
     json_data = json.loads(str(f.read()))
-    f.close()
+    f.close()  
     
     f = open(os.path.join(p, "data", "global_init_data.json"), "r")
     init_data = json.loads(str(f.read()))
     f.close()
+    
+    landside_building = {}
+    landside_building["landside_building_types_id"] = request["p"]["types_id"]
+    landside_building["last_harvest_time"] = request["p"]["last_harvest_time"]
+    landside_building["set_in_storage_time"] = request["p"]["set_in_storage_time"]
+    landside_building["id"] = request["p"]["id"]
+    landside_building["position_x"] = request["p"]["position_x"]
+    landside_building["position_y"] = request["p"]["position_y"]
+    landside_building["direction"] = request["p"]["direction"]
+    landside_building["player_id"] = user_id
 
-    terminal = {}
-    terminal["terminal_types_id"] = request["p"]["types_id"]
-    terminal["last_harvest_time"] = request["p"]["last_harvest_time"]
-    terminal["set_in_storage_time"] = request["p"]["set_in_storage_time"]
-    terminal["id"] = request["p"]["id"]
-    terminal["position_x"] = request["p"]["position_x"]
-    terminal["position_y"] = request["p"]["position_y"]
-    terminal["direction"] = request["p"]["direction"]
-    terminal["player_id"] = user_id
-
-    json_data["terminals"].append(terminal)
+    json_data["landsideBuildings"].append(landside_building)
     
     # CHECK IF THE BUILDING IS ALREADY UNLOCKED
     # If yes: only use air coins, else only use air cash!!!
     for i in init_data["store_items"]["storeItems"]:
-      if i["obj_type"] == "Terminal":
+      if i["obj_type"] == "Landside_Building":
         if int(i["obj_type_id"]) == int(request["p"]["types_id"]):
           unlock_lvl = int(i["required_level"])
           break
@@ -59,9 +59,6 @@ def handle_terminalsBuy(request, user_id, rpcResult):
       else:
         request["p"]["influenceableType"]["air_coins_cost"] = 0
         
-    print(current_level)
-    print(unlock_lvl)
-
     json_data["playerData"]["air_coins"] = json_data["playerData"]["air_coins"] - request["p"]["influenceableType"]["air_coins_cost"]
     json_data["playerData"]["air_cash"] = json_data["playerData"]["air_cash"] - request["p"]["influenceableType"]["air_cash_cost"]
     json_data["playerData"]["event_currency"] = json_data["playerData"]["event_currency"] - request["p"]["influenceableType"]["event_currency_cost"]

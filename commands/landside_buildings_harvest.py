@@ -36,8 +36,17 @@ def handle_landside_buildingsHarvest(request, user_id, rpcResult):
                 json_data["playerData"]["passengers"] = json_data["playerData"]["passengers"] + num_received_passengers
                 request["p"]["num_received_passengers"] = num_received_passengers # Simplify the GetPassengers quest script.
             j = j + 1
-    
-# To-do: add landside buildings
+
+    elif request["p"]["obj_type"] == "landside_building":
+        for i in json_data["landsideBuildings"]:
+            if int(i["id"]) == request["p"]["id"]:
+                i["last_harvest_time"] = request["p"]["last_harvest_time"]
+                landside_building_types_id = i["landside_building_types_id"]
+                for g in init_data["landsideBuildingTypes"]:
+                    if int(g["id"]) == int(landside_building_types_id):
+                        num_received_passengers = g["capacity"]
+                json_data["playerData"]["passengers"] = json_data["playerData"]["passengers"] + num_received_passengers
+                request["p"]["num_received_passengers"] = num_received_passengers # Simplify the GetPassengers quest script.
 
     f = open(os.path.join(p, "data", player_file), "w")
     f.write(json.dumps(json_data))
