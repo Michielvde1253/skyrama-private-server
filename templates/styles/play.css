@@ -1,0 +1,116 @@
+html,
+body,
+div,
+form,
+fieldset,
+legend,
+label {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th,
+td {
+  text-align: left;
+  vertical-align: top;
+}
+
+img {
+  border: 0;
+}
+
+body {
+  font: 12px Arial, sans-serif;
+  font-weight: bold;
+  background-color: #8cbf3e;
+}
+
+.footer {
+  position: absolute;
+  text-align: center;
+  font-size: 11px;
+}
+
+.footer #gl_footer a {
+  color: black;
+  text-decoration: none;
+}
+
+.footer #gl_footer div {
+  float: left;
+}
+
+.footer #gl_footer img {
+  vertical-align: middle;
+}
+
+.internalHome .frame-bg-left {
+  background-image: url(https://cdn.mobachocolate.net/index.php/apps/files_sharing/publicpreview/peWSdxgr4gocmd7?file=/&fileId=818&x=1920&y=1080&a=true);
+  background-position: top right;
+  background-repeat: no-repeat;
+  width: 50%;
+}
+
+.internalHome .frame-bg-center {
+  width: 1255px;
+  background-image: url(https://cdn.mobachocolate.net/index.php/apps/files_sharing/publicpreview/HZ3j8ekfgf6ecEQ?file=/&fileId=816&x=1920&y=1080&a=true);
+  background-repeat: no-repeat;
+}
+
+.internalHome .frame-bg-right {
+  background-image: url(https://cdn.mobachocolate.net/index.php/apps/files_sharing/publicpreview/zxqm6bp9tnXqtto?file=/&fileId=817&x=1920&y=1080&a=true);
+  background-position: top left;
+  background-repeat: no-repeat;
+  width: 50%;
+}
+
+.internalHome .frame-container {
+  position: relative;
+  width: 1255px;
+  height: 853px;
+}
+
+.internalHome .client-frame {
+  position: absolute;
+  width: 1000px;
+  height: 600px;
+  top: 153px;
+  left: 78px;
+}
+
+.internalHome .user-info {
+  position: absolute;
+  top: 125px;
+  left: 160px;
+}
+
+.internalHome .socialIcons {
+  position: absolute;
+  top: 117px;
+  left: 840px;
+}
+
+.internalHome .socialIcons div {
+  float: left;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.internalHome .socialIcons div i {
+  color: #fff;
+  background-color: #223057;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.internalHome .footer {
+  position: absolute;
+  text-align: center;
+  top: 764px;
+  width: 1225px;
+}
