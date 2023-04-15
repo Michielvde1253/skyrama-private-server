@@ -3,10 +3,13 @@ from pathlib import Path
 import os
 import json
 
-def handle_updateSettings(request, user_id, rpcResult, items_to_add_to_obj):
+def handle_planesScrap(request, user_id, rpcResult, items_to_add_to_obj):
     rpcResult["i"] = request["i"]
     rpcResult["t"] = str(int(time.time()))
     rpcResult["r"] = None
+    items_to_add_to_obj.append("planes")
+#    rpcResult["r"] = {}
+#    rpcResult["r"]["planes"] = {}
 
 
     p = Path(__file__).parents[1]
@@ -19,11 +22,13 @@ def handle_updateSettings(request, user_id, rpcResult, items_to_add_to_obj):
     json_data = json.loads(str(f.read()))
     f.close()
 
-    json_data["playerData"]["quickservice_on"] = request["p"]["quickservice_on"]
-    json_data["playerData"]["effects_on"] = request["p"]["effects_on"]
-    json_data["playerData"]["sound_on"] = request["p"]["sound_on"]
-    json_data["playerData"]["superfuel_on"] = request["p"]["superfuel_on"]
-    json_data["playerData"]["animations_on"] = request["p"]["animations_on"]
+    j = 0
+    for i in json_data["planes"]:
+      if int(i["id"]) == request["p"]["id"]:
+        json_data["planes"].pop(j)
+      j = j + 1
+      
+    json_data["playerData"]["scrap_block_time"] = int(time.time()) + 21600
 
     f = open(os.path.join(p, "data", player_file), "w")
     f.write(json.dumps(json_data))

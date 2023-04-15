@@ -7,6 +7,7 @@ import time
 import uuid
 import random
 import re
+import datetime
 if os.name == 'nt':
     os.system("color")
 
@@ -56,7 +57,10 @@ available_commands = {
     "special_buildings.buy": handle_specialBuildingsBuy,
     "placeable.setInStorage": handle_placeableSetInStorage,
     "lucky_luggage.spin": handle_luckyLuggageSpin,
-    "landside_buildings.buy": handle_landsideBuildingsBuy
+    "landside_buildings.buy": handle_landsideBuildingsBuy,
+    "packages.buy": handle_packagesBuy,
+    "planes.upgrade": handle_planesUpgrade,
+    "planes.scrap": handle_planesScrap
 }
 
 host = '0.0.0.0'
@@ -72,7 +76,8 @@ print (" [+] Configuring server routes...")
 
 @app.route("/play")
 def play():
-    return render_template("play_vercel.html", userid = request.args['userid'], token = request.args['token'], SERVERIP=host)
+    session["error_mode"] = "error"
+    return render_template("play_vercel.html", username = session["username"], userid = session["userid"], token = session["token"], SERVERIP=host)
 
 @app.route('/')
 def homepage():
@@ -96,7 +101,11 @@ def login():
                     f = open(os.path.join("data", i), "w")
                     f.write(json.dumps(json_data))
                     f.close()
-                    return redirect(url_for('play', userid=json_data["playerData"]["account_id"], token=json_data["playerData"]["token"]))
+                    
+                    session["username"] = username
+                    session["userid"] = json_data["playerData"]["account_id"]
+                    session["token"] = json_data["playerData"]["token"]
+                    return redirect('play')
                 else:
                     msg = 'Wrong password/username entered.'
                     return render_template('login.html', msg=msg)
@@ -143,6 +152,7 @@ def register():
                 json_data["planes"][0]["to_player_id"] = uid
                 json_data["runways"][0]["player_id"] = uid
                 json_data["hangars"][0]["player_id"] = uid
+                json_data["bays"][0]["player_id"] = uid
                 j = 0
                 for i in json_data["landsideBuildings"]:
                     json_data["landsideBuildings"][j]["player_id"] = uid
@@ -178,7 +188,11 @@ def styles(path):
   
 @app.route("/error/")
 def error():
-  return render_template('error.html')
+  if session["error_mode"] == "unimplemented":
+    session["error_mode"] = "error"
+    return render_template('unimplemented.html')
+  else:
+    return render_template('error.html')
 
 ################
 # GAME DYNAMIC #
@@ -202,6 +216,9 @@ def handle_request():
     if json_data["playerData"]["token"] == request.form["t"]:
       command_data = json.loads(request.form["d"])
       total_response = {"rpcResults":[]}
+      
+      # Add this data to the Object, allowing for live updating in the game
+      total_items_to_add_to_obj = []
       for command in command_data:
           if command["m"] in available_commands:
               print("Command " + command["m"] + " handled")
@@ -211,21 +228,27 @@ def handle_request():
   
               # Create command answer
               rpcResult = {}
+              items_to_add_to_obj = []
               handler = available_commands[command["m"]]
-              handler(command, request.form["userId"], rpcResult)
+              handler(command, request.form["userId"], rpcResult, items_to_add_to_obj)
   
               total_response["rpcResults"].append(rpcResult)
+              total_items_to_add_to_obj = total_items_to_add_to_obj + items_to_add_to_obj
   
               # Check goal completion
               handle_goal(command, request.form["userId"])
   
-              # Create command object
-              obj = {}
-              handle_addObj(command, request.form["userId"], obj)
-  
-              total_response["obj"] = obj
           else:
               print("Command " + command["m"] + " not handled")
+              session["error_mode"] = "unimplemented"
+              return "Could not get Sky_Instance_Plane object with unique id 1435_12297741" 
+        
+      # Create command object
+      obj = {}
+      print(total_items_to_add_to_obj)
+      handle_addObj(command, request.form["userId"], obj, total_items_to_add_to_obj)
+      total_response["obj"] = obj
+      
       return total_response
     else:
       print("User " + str(request.form["userId"]) + " has used an invalid token.")

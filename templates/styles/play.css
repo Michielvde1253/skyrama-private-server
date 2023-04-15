@@ -50,7 +50,7 @@ body {
 }
 
 .internalHome .frame-bg-left {
-  background-image: url(https://cdn.mobachocolate.net/index.php/apps/files_sharing/publicpreview/peWSdxgr4gocmd7?file=/&fileId=818&x=1920&y=1080&a=true);
+  background-image: url(../../assets/style/global/frame/bg_left.jpg);
   background-position: top right;
   background-repeat: no-repeat;
   width: 50%;
@@ -58,12 +58,32 @@ body {
 
 .internalHome .frame-bg-center {
   width: 1255px;
-  background-image: url(https://cdn.mobachocolate.net/index.php/apps/files_sharing/publicpreview/HZ3j8ekfgf6ecEQ?file=/&fileId=816&x=1920&y=1080&a=true);
+  background-image: url(../../assets/style/global/frame/bg_center.jpg);
   background-repeat: no-repeat;
 }
 
 .internalHome .frame-bg-right {
-  background-image: url(https://cdn.mobachocolate.net/index.php/apps/files_sharing/publicpreview/zxqm6bp9tnXqtto?file=/&fileId=817&x=1920&y=1080&a=true);
+  background-image: url(../../assets/style/global/frame/bg_right.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  width: 50%;
+}
+
+.internalHome .frame-bg-left-vercel {
+  background-image: url(https://skyassets.michielvan4.repl.co/style/global/frame/bg_left.jpg);
+  background-position: top right;
+  background-repeat: no-repeat;
+  width: 50%;
+}
+
+.internalHome .frame-bg-center-vercel {
+  width: 1255px;
+  background-image: url(https://skyassets.michielvan4.repl.co/style/global/frame/bg_center.jpg);
+  background-repeat: no-repeat;
+}
+
+.internalHome .frame-bg-right-vercel {
+  background-image: url(https://skyassets.michielvan4.repl.co/style/global/frame/bg_right.jpg);
   background-position: top left;
   background-repeat: no-repeat;
   width: 50%;
@@ -81,6 +101,14 @@ body {
   height: 600px;
   top: 153px;
   left: 78px;
+}
+
+.internalHome .client-placeholder {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .internalHome .user-info {

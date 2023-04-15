@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 import json
 
-def handle_placeablePlace(request, user_id, rpcResult):
+def handle_placeablePlace(request, user_id, rpcResult, items_to_add_to_obj):
     rpcResult["i"] = request["i"]
     rpcResult["t"] = str(int(time.time()))
     rpcResult["r"] = None
@@ -39,6 +39,12 @@ def handle_placeablePlace(request, user_id, rpcResult):
             if int(i["id"]) == int(request["p"]["obj_id"]):
                 i["position_x"] = request["p"]["x"]
                 i["position_y"] = request["p"]["y"]
+    elif request["p"]["obj_type"] == "terminal":
+      for i in json_data["terminals"]:
+        if int(i["id"]) == int(request["p"]["obj_id"]):
+          i["position_x"] = request["p"]["x"]
+          i["position_y"] = request["p"]["y"]
+
 
 
     f = open(os.path.join(p, "data", player_file), "w")
