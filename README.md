@@ -16,7 +16,7 @@ You can find the game on https://skyrama.glitch.me. To play, you will need a bro
 
 ## How to run the code locally
 
-In order to run the code, simply download the .zip from Github and run server.py.
+In order to run the code, simply download the .zip from Github and run server.py. Make sure you have installed the required libraries from requirements.txt first.
 
 You will need a browser that supports Flash (and Flash Player itself) to run the game. Alternatively, you can use https://flash.pm/browser/.
 
@@ -33,7 +33,6 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [ ] account.getData
 - [ ] playerdata.updateBuddypingTime
 - [ ] playerdata.deleteBuddypingTime
-- [ ] account.getDataByUserId
 - [ ] account.getDataByUserId
 - [x] account.getAll
 - [ ] account.getRandom
@@ -60,13 +59,11 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] buddy.search
 - [x] buddy.invite
 - [ ] packets.get
-- [ ] planes.upgrade
+- [x] planes.upgrade
 - [x] planes.buy
-- [ ] planes.scrap
+- [x] planes.scrap
 - [ ] resource_items.buy
-- [ ] openPaymentUrl
-- [ ] openPaymentDiscount
-- [ ] packages.buy
+- [x] packages.buy
 - [ ] planes.createFlyBy
 - [x] planes.send
 - [x] planes.sendback

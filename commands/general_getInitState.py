@@ -4,10 +4,16 @@ import os
 import json
 import datetime
 
-def handle_getInitState(request, user_id, rpcResult):
+def handle_getInitState(request, user_id, rpcResult, items_to_add_to_obj):
     rpcResult["i"] = request["i"]
     rpcResult["t"] = str(int(time.time()))
-
+    items_to_add_to_obj.append("consumablesTypes")
+    items_to_add_to_obj.append("consumables")
+    items_to_add_to_obj.append("packagesTypes")
+    items_to_add_to_obj.append("planeUpgrades")
+    items_to_add_to_obj.append("planeUpgradeTypes")
+    items_to_add_to_obj.append("planeUpgradeCostTypes")
+    
     p = Path(__file__).parents[1]
     for file in os.listdir(os.path.join(p, "data")):
         if file[0:8] == str(user_id):

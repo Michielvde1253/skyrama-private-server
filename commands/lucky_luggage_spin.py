@@ -3,10 +3,11 @@ from pathlib import Path
 import os
 import json
 
-def handle_luckyLuggageSpin(request, user_id, rpcResult):
+def handle_luckyLuggageSpin(request, user_id, rpcResult, items_to_add_to_obj):
     rpcResult["i"] = request["i"]
     rpcResult["t"] = str(int(time.time()))
     rpcResult["r"] = None
+    items_to_add_to_obj.append("souvenirCollections")
 
 
     p = Path(__file__).parents[1]

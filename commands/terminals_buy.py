@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 import json
 
-def handle_terminalsBuy(request, user_id, rpcResult):
+def handle_terminalsBuy(request, user_id, rpcResult, items_to_add_to_obj):
     rpcResult["i"] = request["i"]
     rpcResult["t"] = str(int(time.time()))
     rpcResult["r"] = None
@@ -58,9 +58,6 @@ def handle_terminalsBuy(request, user_id, rpcResult):
         request["p"]["influenceableType"]["air_cash_cost"] = 0
       else:
         request["p"]["influenceableType"]["air_coins_cost"] = 0
-        
-    print(current_level)
-    print(unlock_lvl)
 
     json_data["playerData"]["air_coins"] = json_data["playerData"]["air_coins"] - request["p"]["influenceableType"]["air_coins_cost"]
     json_data["playerData"]["air_cash"] = json_data["playerData"]["air_cash"] - request["p"]["influenceableType"]["air_cash_cost"]
