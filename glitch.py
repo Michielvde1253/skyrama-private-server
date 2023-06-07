@@ -77,7 +77,7 @@ print (" [+] Configuring server routes...")
 @app.route("/play")
 def play():
     session["error_mode"] = "error"
-    return render_template("play_vercel.html", username = session["username"], userid = session["userid"], token = session["token"], SERVERIP=host)
+    return render_template("play_glitch.html", username = session["username"], userid = session["userid"], token = session["token"], SERVERIP=host)
 
 @app.route('/')
 def homepage():
