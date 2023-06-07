@@ -42,29 +42,29 @@ body {
 .button-74x27 {
     width: 74px;
     height: 27px;
-    background-image: url(/style/global/buttons/btn_74x27_normal.png?__cv=3972524898ab121bec42af6320ea3800);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_74x27_normal.png?__cv=3972524898ab121bec42af6320ea3800);
     cursor: pointer;
 }
 
 .button-74x27-hover {
-    background-image: url(/style/global/buttons/btn_74x27_hover.png?__cv=7708d38aaf21acd2460aa2180ca68300);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_74x27_hover.png?__cv=7708d38aaf21acd2460aa2180ca68300);
 }
 
 .button-109x27 {
     width: 109px;
     height: 27px;
-    background-image: url(/style/global/buttons/btn_109x27_normal.png?__cv=54effe8bede5a3d5e8d8c5ee7028a300);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_109x27_normal.png?__cv=54effe8bede5a3d5e8d8c5ee7028a300);
     cursor: pointer;
 }
 
 .button-109x27-hover {
-    background-image: url(/style/global/buttons/btn_109x27_hover.png?__cv=7217da0ac67a4132a3c05793c9c6cc00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_109x27_hover.png?__cv=7217da0ac67a4132a3c05793c9c6cc00);
 }
 
 .button-115x27 {
     width: 115px;
     height: 22px;
-    background-image: url(/style/global/buttons/btn_115x27_normal.png?__cv=689d5011febbe1d1e5f9f830a86fcf00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_115x27_normal.png?__cv=689d5011febbe1d1e5f9f830a86fcf00);
     cursor: pointer;
     font-weight: bold;
     color: white;
@@ -73,24 +73,24 @@ body {
 }
 
 .button-115x27-hover {
-    background-image: url(/style/global/buttons/btn_115x27_hover.png?__cv=3bb87d85e6b3a80a1f0385188cc03500);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_115x27_hover.png?__cv=3bb87d85e6b3a80a1f0385188cc03500);
 }
 
 .button-180x27 {
     width: 180px;
     height: 27px;
-    background-image: url(/style/global/buttons/btn_180x27_normal.png?__cv=958adb89a256f24d66a27a011b54b100);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_180x27_normal.png?__cv=958adb89a256f24d66a27a011b54b100);
     cursor: pointer;
 }
 
 .button-180x27-hover {
-    background-image: url(/style/global/buttons/btn_180x27_hover.png?__cv=d6c86d77933d4922420cef1c4cc99e00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_180x27_hover.png?__cv=d6c86d77933d4922420cef1c4cc99e00);
 }
 
 .button-184x38 {
     width: 174px;
     height: 28px;
-    background-image: url(/style/global/buttons/btn_184x38_normal.png?__cv=cd90d2734093034ec4f84f39efd82a00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_184x38_normal.png?__cv=cd90d2734093034ec4f84f39efd82a00);
     padding-top: 10px;
     padding-left: 5px;
     padding-right: 5px;
@@ -100,14 +100,14 @@ body {
 }
 
 .button-184x38-hover {
-    background-image: url(/style/global/buttons/btn_184x38_hover.png?__cv=a0a44098cceea5910037ca5d9dad0d00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_184x38_hover.png?__cv=a0a44098cceea5910037ca5d9dad0d00);
 }
 
 .button-341x111 {
     text-align: center;
     width: 331px;
     height: 101px;
-    background-image: url(/style/global/buttons/btn_341x111_normal.png?__cv=1c6096de1848ad648e6a15901d265600);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_341x111_normal.png?__cv=1c6096de1848ad648e6a15901d265600);
     font-size: 24px;
     line-height: 30px;
     padding-top: 10px;
@@ -117,7 +117,7 @@ body {
 }
 
 .button-341x111-hover {
-    background-image: url(/style/global/buttons/btn_341x111_hover.png?__cv=8bdc815be3581125bc96e4f0419fd500);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_341x111_hover.png?__cv=8bdc815be3581125bc96e4f0419fd500);
 }
 
 /* Footer */
@@ -142,7 +142,7 @@ body {
 
 /* Window Forgotpw */
 .window-forgotpw {
-    background-image: url(/style/global/window_forgotpw.png?__cv=28a12dd7b133e540641882427edcda00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/window_forgotpw.png?__cv=28a12dd7b133e540641882427edcda00);
     width: 450px;
     height: 290px;
     position: absolute;
@@ -179,19 +179,19 @@ body {
 }
 
 .external .external-bg-left {
-    background-image: url(/style/global/external/bg_left.jpg?__cv=21a6078c6d1995d2f396ac01d74f0400);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/external/bg_left.jpg?__cv=21a6078c6d1995d2f396ac01d74f0400);
     background-position: top right;
     background-repeat: no-repeat;
     width: 50%;
 }
 
 .external .external-bg-center {
-    background-image: url(/style/global/external/bg_center.jpg?__cv=ef137a25d96733df087a7c1c8d1d7700);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/external/bg_center.jpg?__cv=ef137a25d96733df087a7c1c8d1d7700);
     background-repeat: no-repeat;
 }
 
 .external .external-bg-right {
-    background-image: url(/style/global/external/bg_right.jpg?__cv=e929d6f661bab7c006643082b026ee00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/external/bg_right.jpg?__cv=e929d6f661bab7c006643082b026ee00);
     background-position: top left;
     background-repeat: no-repeat;
     width: 50%;
@@ -314,7 +314,7 @@ body {
 }
 
 .externalHome .bgcdw_login_container .bgc_login_form_buttons .bgc_login_form_register {
-    background-image: url(/style/global/buttons/btn_109x27_normal.png?__cv=54effe8bede5a3d5e8d8c5ee7028a300);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_109x27_normal.png?__cv=54effe8bede5a3d5e8d8c5ee7028a300);
     background-color: transparent;
     border: 0;
     cursor: pointer;
@@ -356,7 +356,7 @@ body {
 }
 
 .externalHome .bgcdw_login_container .bgc_erroroverlay_box_header_close {
-    background: url(/style/global/register/registerError_icon.png?__cv=dd0950613982d5296c0cca20949fc600) repeat scroll 0 0 transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/register/registerError_icon.png?__cv=dd0950613982d5296c0cca20949fc600) repeat scroll 0 0 transparent;
     height: 49px;
     position: absolute;
     right: 45px;
@@ -387,7 +387,7 @@ body {
 }
 
 .externalInfo .gameInfoShort {
-    background-image: url(/style/global/gameinfo/layer_small.png?__cv=240ba05c9708db56dc7618dee20dcc00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/gameinfo/layer_small.png?__cv=240ba05c9708db56dc7618dee20dcc00);
     width: 680px;
     height: 118px;
     color: black;
@@ -398,7 +398,7 @@ body {
 }
 
 .externalInfo .gameInfo {
-    background-image: url(/style/global/gameinfo/layer_big.png?__cv=07c86f4f5e54dfe39f819c7314631d00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/gameinfo/layer_big.png?__cv=07c86f4f5e54dfe39f819c7314631d00);
     width: 680px;
     height: 387px;
     color: black;
@@ -448,7 +448,7 @@ body {
 }
 
 .externalRegister .register-top {
-    background-image: url(/style/global/register/box_top.png?__cv=ce324bff8b3af6b6f11fb618f3d9aa00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/register/box_top.png?__cv=ce324bff8b3af6b6f11fb618f3d9aa00);
     background-color: transparent;
     width: 520px;
     height: 80px;
@@ -462,14 +462,14 @@ body {
 }
 
 .externalRegister .register-bottom {
-    background-image: url(/style/global/register/box_bottom.png?__cv=d5879403f2fdb8b2cee4c7c9edaa1e00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/register/box_bottom.png?__cv=d5879403f2fdb8b2cee4c7c9edaa1e00);
     background-color: transparent;
     width: 520px;
     height: 57px;
 }
 
 .externalRegister .register-content {
-    background-image: url(/style/global/register/box_middle.png?__cv=afce05d3923ede95ab4814a39708c100);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/register/box_middle.png?__cv=afce05d3923ede95ab4814a39708c100);
     width: 460px;
     padding: 0 30px;
 }
@@ -523,7 +523,7 @@ body {
 }
 
 .externalRegister .register-content .bgc_signup_container_form .bgc_signup_form_buttons .bgc_signup_form_back, .externalRegister .register-content .bgc_signup_container_form .bgc_signup_form_buttons .bgc_signup_form_register {
-    background-image: url(/style/global/buttons/btn_115x27_normal.png?__cv=689d5011febbe1d1e5f9f830a86fcf00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_115x27_normal.png?__cv=689d5011febbe1d1e5f9f830a86fcf00);
     background-color: transparent;
     color: white;
     font-weight: bold;
@@ -547,7 +547,7 @@ body {
 }
 
 .externalRegister .register-content #bgc_signup_container .bgc_erroroverlay_box {
-    background-image: url(/style/global/register/layer_error.png?__cv=f74bc413642ebea38b102218a0d6ea00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/register/layer_error.png?__cv=f74bc413642ebea38b102218a0d6ea00);
     background-color: transparent;
     color: #eeeeee;
     height: 340px !important;
@@ -559,7 +559,7 @@ body {
 }
 
 .externalRegister .register-content .bgcdw_login_container_form .bgc_erroroverlay_box_header_close, .externalRegister .register-content #bgc_signup_container .bgc_erroroverlay_box_header_close {
-    background-image: url(/style/global/buttons/btn_close.png?__cv=a8ed3f3dfc30eadbf9e559cd8c077200);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_close.png?__cv=a8ed3f3dfc30eadbf9e559cd8c077200);
     height: 54px;
     position: absolute;
     right: 45px;
@@ -612,7 +612,7 @@ body {
 }
 
 .externalForgotPassword .forgotPassword-top {
-    background-image: url(/style/global/register/box_top.png?__cv=ce324bff8b3af6b6f11fb618f3d9aa00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/register/box_top.png?__cv=ce324bff8b3af6b6f11fb618f3d9aa00);
     background-color: transparent;
     width: 520px;
     height: 80px;
@@ -626,14 +626,14 @@ body {
 }
 
 .externalForgotPassword .forgotPassword-bottom {
-    background-image: url(/style/global/register/box_bottom.png?__cv=d5879403f2fdb8b2cee4c7c9edaa1e00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/register/box_bottom.png?__cv=d5879403f2fdb8b2cee4c7c9edaa1e00);
     background-color: transparent;
     width: 520px;
     height: 57px;
 }
 
 .externalForgotPassword .forgotPassword-content {
-    background-image: url(/style/global/register/box_middle.png?__cv=afce05d3923ede95ab4814a39708c100);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/register/box_middle.png?__cv=afce05d3923ede95ab4814a39708c100);
     width: 460px;
     padding: 0 30px;
 }
@@ -667,7 +667,7 @@ body {
 }
 
 .externalForgotPassword .forgotPassword-content .signup_back, .externalForgotPassword .forgotPassword-content .signup_submit {
-    background-image: url(/style/global/buttons/btn_115x27_normal.png?__cv=689d5011febbe1d1e5f9f830a86fcf00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_115x27_normal.png?__cv=689d5011febbe1d1e5f9f830a86fcf00);
     background-color: transparent;
     height: 28px;
     width: 115px;
@@ -684,7 +684,7 @@ body {
 }
 
 .externalLogout .logout {
-    background-image: url(/style/global/window_logout.png?__cv=35a9ae93272272b28ea1e2179fd21200);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/window_logout.png?__cv=35a9ae93272272b28ea1e2179fd21200);
     width: 753px;
     height: 710px;
     position: absolute;
@@ -711,7 +711,7 @@ body {
 }
 
 .externalLogout .logout .buttonGameLink, .externalLogout .logout .buttonPortalLink {
-    background-image: url(/style/global/buttons/btn_180x27_normal.png?__cv=958adb89a256f24d66a27a011b54b100);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_180x27_normal.png?__cv=958adb89a256f24d66a27a011b54b100);
     background-color: transparent;
     width: 180px;
     padding: 4px;
@@ -733,7 +733,7 @@ body {
 }
 
 .externalLogout .logout .buttonGameLink:hover, .externalLogout .logout .buttonPortalLink:hover {
-    background-image: url(/style/global/buttons/btn_180x27_hover.png?__cv=d6c86d77933d4922420cef1c4cc99e00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_180x27_hover.png?__cv=d6c86d77933d4922420cef1c4cc99e00);
 }
 
 .externalLogout .footer {
@@ -750,7 +750,7 @@ body {
 }
 
 .externalImprint .imprint {
-    background-image: url(/style/global/window_support.png?__cv=d26facbde9377acf462d938b04ad4d00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/window_support.png?__cv=d26facbde9377acf462d938b04ad4d00);
     width: 697px;
     height: 860px;
     position: absolute;
@@ -785,7 +785,7 @@ body {
 }
 
 .externalImprint .imprint-close {
-    background-image: url(/style/global/buttons/btn_close.png?__cv=a8ed3f3dfc30eadbf9e559cd8c077200);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_close.png?__cv=a8ed3f3dfc30eadbf9e559cd8c077200);
     position: absolute;
     right: 10px;
     top: 10px;
@@ -806,7 +806,7 @@ body {
 }
 
 .externalSupport .mySupport {
-    background-image: url(/style/global/window_support.png?__cv=d26facbde9377acf462d938b04ad4d00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/window_support.png?__cv=d26facbde9377acf462d938b04ad4d00);
     width: 697px;
     height: 860px;
     position: absolute;
@@ -861,7 +861,7 @@ body {
 }
 
 .externalSupport .support-close {
-    background-image: url(/style/global/buttons/btn_close.png?__cv=a8ed3f3dfc30eadbf9e559cd8c077200);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_close.png?__cv=a8ed3f3dfc30eadbf9e559cd8c077200);
     position: absolute;
     right: 10px;
     top: 10px;
@@ -877,7 +877,7 @@ body {
 }
 
 .externalSupport .support_submit {
-    background-image: url(/style/global/buttons/btn_115x27_normal.png?__cv=689d5011febbe1d1e5f9f830a86fcf00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_115x27_normal.png?__cv=689d5011febbe1d1e5f9f830a86fcf00);
     background-color: transparent;
     border: 0;
     color: white;
@@ -890,7 +890,7 @@ body {
 }
 
 .externalSupport .support_submit:hover {
-    background-image: url(/style/global/buttons/btn_115x27_hover.png?__cv=3bb87d85e6b3a80a1f0385188cc03500);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_115x27_hover.png?__cv=3bb87d85e6b3a80a1f0385188cc03500);
 }
 
 /* Slayer fix */
@@ -907,7 +907,7 @@ body {
 }
 
 .internalHome .frame-bg-left {
-    background-image: url(/style/global/frame/bg_left.jpg?__cv=10a7dcc5d3851c65874935bc9ad70c00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_left.jpg?__cv=10a7dcc5d3851c65874935bc9ad70c00);
     background-position: top right;
     background-repeat: no-repeat;
     width: 50%;
@@ -915,12 +915,12 @@ body {
 
 .internalHome .frame-bg-center {
     width: 1255px;
-    background-image: url(/style/global/frame/bg_center.jpg?__cv=3138e37ef3480c3c502e4d14468a3e00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_center.jpg?__cv=3138e37ef3480c3c502e4d14468a3e00);
     background-repeat: no-repeat;
 }
 
 .internalHome .frame-bg-right {
-    background-image: url(/style/global/frame/bg_right.jpg?__cv=9038e14eee8f73d1d4a2336e69b21d00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_right.jpg?__cv=9038e14eee8f73d1d4a2336e69b21d00);
     background-position: top left;
     background-repeat: no-repeat;
     width: 50%;
@@ -949,7 +949,7 @@ body {
 }
 
 .internalHome .payment .payment-close, .internalHome .profile .profile-close {
-    background-image: url(/style/global/buttons/btn_close.png?__cv=a8ed3f3dfc30eadbf9e559cd8c077200);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/buttons/btn_close.png?__cv=a8ed3f3dfc30eadbf9e559cd8c077200);
     position: absolute;
     right: -10px;
     top: -10px;
@@ -1005,16 +1005,16 @@ body {
 }
 
 .internalHomeUs .frame-bg-left {
-    background-image: url(/style/global/frame/us/bg_left.jpg?__cv=219b709c463304c6b95b4024151dd400);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/us/bg_left.jpg?__cv=219b709c463304c6b95b4024151dd400);
 }
 
 .internalHomeUs .frame-bg-center {
     width: 1300px;
-    background-image: url(/style/global/frame/us/bg_center.jpg?__cv=a1e278d1e84ab7bc3462a782762f6700);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/us/bg_center.jpg?__cv=a1e278d1e84ab7bc3462a782762f6700);
 }
 
 .internalHomeUs .frame-bg-right {
-    background-image: url(/style/global/frame/us/bg_right.jpg?__cv=df559419e423c447f6f66a4ae1f2e100);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/us/bg_right.jpg?__cv=df559419e423c447f6f66a4ae1f2e100);
 }
 
 
@@ -1033,7 +1033,7 @@ body.externalHome  {
     text-align: center;
     font: 12px Verdana, sans-serif;
     font-weight: bold;
-    background: url(/landingpage/global/background/pattern_bg.jpg?__cv=fcc29f7eec1f7b5061a71544438dcd00) top left repeat;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/background/pattern_bg.jpg?__cv=fcc29f7eec1f7b5061a71544438dcd00) top left repeat;
     overflow-x: hidden;
     text-rendering: optimizeLegibility;
 }
@@ -1084,7 +1084,7 @@ body.externalHome  {
 #top-bar {
     position: relative;
     height: 38px;
-    background: url(/landingpage/global/background/tile_top_bar.png?__cv=1233de31ffc7a19b9e8f186b5ba4f600) top left repeat-x;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/background/tile_top_bar.png?__cv=1233de31ffc7a19b9e8f186b5ba4f600) top left repeat-x;
 }
 
 .separator {
@@ -1092,7 +1092,7 @@ body.externalHome  {
     height: 35px;
     width: 2px;
     top: 0;
-    background: url(/landingpage/global/background/seperator_top_bar.png?__cv=b2cef89db5d044af23d1642b78ddcf00) top left no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/background/seperator_top_bar.png?__cv=b2cef89db5d044af23d1642b78ddcf00) top left no-repeat;
 }
 
 .separator.one   { left: 450px; }
@@ -1112,7 +1112,7 @@ body.externalHome  {
 #language-current {
     width: 155px;
     height:23px;
-    background: url(/landingpage/global/controls/language_input.png?__cv=133bd827972a9626ff6c572b1d60c500) top left no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/controls/language_input.png?__cv=133bd827972a9626ff6c572b1d60c500) top left no-repeat;
 }
 
 #language-current-selection {
@@ -1204,7 +1204,7 @@ body.externalHome  {
     line-height: 23px;
     width: 102px;
     height:23px;
-    background: url(/landingpage/global/controls/input_login.png?__cv=824033baef3e58c1b0e1cde603659e00) top left no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/controls/input_login.png?__cv=824033baef3e58c1b0e1cde603659e00) top left no-repeat;
     border: none;
     position: absolute;
     top: 6px;
@@ -1266,7 +1266,7 @@ input[type=submit].bgcdw_login_form_login {
 }
 
 #bookmark #bookmark_text {
-    background: url(/landingpage/global/controls/favorite.png?__cv=6b1ff75894727dd05c6cd66547805a00) top left no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/controls/favorite.png?__cv=6b1ff75894727dd05c6cd66547805a00) top left no-repeat;
     width: 24px;
     height: 22px;
     display: block;
@@ -1435,7 +1435,7 @@ input[type=submit].bgcdw_login_form_login {
 #bgc_signup_short_container fieldset.bgc_signup_form_signup,
 #bgc_signup_short_container fieldset.bgc_signup_form_legal,
 #bgc_signup_short_container fieldset.bgc_signup_form_captcha {
-    background: url(/landingpage/global/register/tile_form_middle.png?__cv=c5dd4535a94652ea64238904d4b46800) top left repeat-y;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/register/tile_form_middle.png?__cv=c5dd4535a94652ea64238904d4b46800) top left repeat-y;
 }
 
 #bgc_signup_short_container fieldset.bgc_signup_form_signup>div {
@@ -1489,7 +1489,7 @@ input[type=submit].bgcdw_login_form_login {
 }
 
 #bgc_signup_short_container fieldset.bgc_signup_form_buttons {
-    background: url(/landingpage/global/register/tile_form_bottom.png?__cv=abd4d67e46fa28b9fde1819b01ee4100) top left no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/register/tile_form_bottom.png?__cv=abd4d67e46fa28b9fde1819b01ee4100) top left no-repeat;
     width: 350px;
     height: 124px;
 }
@@ -1524,7 +1524,7 @@ input[type=submit].bgcdw_login_form_login {
 #bgc_signup_short_container input[type=date],
 #bgc_signup_short_container input[type=email],
 #bgc_signup_short_container input[type=password] {
-    background: url(/landingpage/global/controls/form_input.png?__cv=27140f13f0811bb1923f0d559cdb3000) top left no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/controls/form_input.png?__cv=27140f13f0811bb1923f0d559cdb3000) top left no-repeat;
     width: 141px;
     height: 20px;
     border: none;
@@ -1616,7 +1616,7 @@ body.externalHome #gl_footer img {
   left: 0px;
   width: 12px;
   height: 8px;
-  background: url(/landingpage/global/controls/scroll_arrow_top.png?__cv=8821def2648d23642f3af10fae018a00) top left no-repeat;
+  background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/controls/scroll_arrow_top.png?__cv=8821def2648d23642f3af10fae018a00) top left no-repeat;
 }
 
 .scrollbar-wrapper .scrollbar .track-bottom {
@@ -1625,13 +1625,13 @@ body.externalHome #gl_footer img {
   left: 0px;
   width: 12px;
   height: 8px;
-  background: url(/landingpage/global/controls/scroll_arrow_down.png?__cv=fc90db331dcc8031f78d2e3e8b80bc00) top left no-repeat;
+  background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/controls/scroll_arrow_down.png?__cv=fc90db331dcc8031f78d2e3e8b80bc00) top left no-repeat;
 }
 
 .scrollbar-wrapper .scrollbar .track {
   width: 11px;
   position: relative;
-  background: url(/landingpage/global/controls/scrollbar.png?__cv=7a35b2dea1f6971f886b717a358ccc00) top left repeat-y;
+  background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/controls/scrollbar.png?__cv=7a35b2dea1f6971f886b717a358ccc00) top left repeat-y;
 }
 
 .scrollbar-wrapper .scrollbar .track .thumb {
@@ -1642,7 +1642,7 @@ body.externalHome #gl_footer img {
   position: absolute;
   top: 0;
   left: 0px;
-  background: url(/landingpage/global/controls/scroller.png?__cv=0afef9d54a81a23309e6c875f394ec00) center center no-repeat;
+  background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/controls/scroller.png?__cv=0afef9d54a81a23309e6c875f394ec00) center center no-repeat;
 }
 
 .scrollbar-wrapper .scrollbar .track .thumb .end {
@@ -1747,7 +1747,7 @@ body.externalHome #gl_footer img {
 }
 
 #cboxLoadedContent table.signup.signup_right input.input_textLong {
-    background: url(/landingpage/global/controls/form_input.png?__cv=27140f13f0811bb1923f0d559cdb3000) top left no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/controls/form_input.png?__cv=27140f13f0811bb1923f0d559cdb3000) top left no-repeat;
     width: 141px;
     height: 20px;
     border: none;
@@ -1958,51 +1958,51 @@ fieldset.bgcdw_login_form_login {
 }
 
 #cboxTopLeft {
-    background: url(/landingpage/global/colorbox/ccorners.png?__cv=f0aa5837003efcc0723b70d901c25800) no-repeat scroll left top transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/ccorners.png?__cv=f0aa5837003efcc0723b70d901c25800) no-repeat scroll left top transparent;
     height: 10px;
     width: 10px;
 }
 
 #cboxTopRight {
-    background: url(/landingpage/global/colorbox/ccorners.png?__cv=f0aa5837003efcc0723b70d901c25800) no-repeat scroll right top transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/ccorners.png?__cv=f0aa5837003efcc0723b70d901c25800) no-repeat scroll right top transparent;
     height: 10px;
     width: 10px;
 }
 
 #cboxBottomLeft {
-    background: url(/landingpage/global/colorbox/ccorners.png?__cv=f0aa5837003efcc0723b70d901c25800) no-repeat scroll left bottom transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/ccorners.png?__cv=f0aa5837003efcc0723b70d901c25800) no-repeat scroll left bottom transparent;
     height: 10px;
     width: 10px;
 }
 
 #cboxBottomRight {
-    background: url(/landingpage/global/colorbox/ccorners.png?__cv=f0aa5837003efcc0723b70d901c25800) no-repeat scroll right bottom transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/ccorners.png?__cv=f0aa5837003efcc0723b70d901c25800) no-repeat scroll right bottom transparent;
     height: 10px;
     width: 10px;
 }
 
 #cboxMiddleLeft {
-    background: url(/landingpage/global/colorbox/bg_h.png?__cv=3da626eaaa89fd9e619f46310e3ac900) repeat-y scroll left top transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/bg_h.png?__cv=3da626eaaa89fd9e619f46310e3ac900) repeat-y scroll left top transparent;
     width: 10px;
 }
 
 #cboxMiddleRight {
-    background: url(/landingpage/global/colorbox/bg_h.png?__cv=3da626eaaa89fd9e619f46310e3ac900) repeat-y scroll right top transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/bg_h.png?__cv=3da626eaaa89fd9e619f46310e3ac900) repeat-y scroll right top transparent;
     width: 10px;
 }
 
 #cboxTopCenter {
-    background: url(/landingpage/global/colorbox/bg_v.png?__cv=fe83ee4965915d16310005e09157a700) repeat-x scroll 0 0 transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/bg_v.png?__cv=fe83ee4965915d16310005e09157a700) repeat-x scroll 0 0 transparent;
     height: 10px;
 }
 
 #cboxBottomCenter {
-    background: url(/landingpage/global/colorbox/bg_v.png?__cv=fe83ee4965915d16310005e09157a700) repeat-x scroll 0 -70px transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/bg_v.png?__cv=fe83ee4965915d16310005e09157a700) repeat-x scroll 0 -70px transparent;
     height: 10px;
 }
 
 #cboxContent {
-    background: url(/landingpage/global/colorbox/bg_color.png?__cv=39c5784a18f5877fda23ca3069e3ba00) repeat scroll 0 0 transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/bg_color.png?__cv=39c5784a18f5877fda23ca3069e3ba00) repeat scroll 0 0 transparent;
 }
 
 #cboxCurrent {
@@ -2017,7 +2017,7 @@ fieldset.bgcdw_login_form_login {
 }
 
 #cboxPrevious {
-    background: url(/landingpage/global/colorbox/bttons.png?__cv=62059025da01d648b3eccde9bfea4a00) no-repeat scroll 0 0 transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/bttons.png?__cv=62059025da01d648b3eccde9bfea4a00) no-repeat scroll 0 0 transparent;
     height: 90px;
     left: -71px;
     position: absolute;
@@ -2026,7 +2026,7 @@ fieldset.bgcdw_login_form_login {
 }
 
 #cboxNext {
-    background: url(/landingpage/global/colorbox/bttons.png?__cv=62059025da01d648b3eccde9bfea4a00) no-repeat scroll -55px 0 transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/bttons.png?__cv=62059025da01d648b3eccde9bfea4a00) no-repeat scroll -55px 0 transparent;
     height: 90px;
     position: absolute;
     right: -71px;
@@ -2035,15 +2035,15 @@ fieldset.bgcdw_login_form_login {
 }
 
 #cboxLoadingOverlay {
-    background: url(/landingpage/global/colorbox/ccorners.png?__cv=f0aa5837003efcc0723b70d901c25800) no-repeat scroll center center transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/ccorners.png?__cv=f0aa5837003efcc0723b70d901c25800) no-repeat scroll center center transparent;
 }
 
 #cboxLoadingGraphic {
-    background: url(/landingpage/global/colorbox/preloader.gif?__cv=4305dee44e95347f7d40255a6aa52a00) no-repeat scroll center center transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/preloader.gif?__cv=4305dee44e95347f7d40255a6aa52a00) no-repeat scroll center center transparent;
 }
 
 #cboxClose {
-    background: url(/landingpage/global/colorbox/bttons.png?__cv=62059025da01d648b3eccde9bfea4a00) no-repeat scroll -111px -50px transparent;
+    background: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/colorbox/bttons.png?__cv=62059025da01d648b3eccde9bfea4a00) no-repeat scroll -111px -50px transparent;
     height: 40px;
     position: absolute;
     right: -23px;
@@ -2069,7 +2069,7 @@ fieldset.bgcdw_login_form_login {
 
 
 #standaloneClientBackground {
-    background-image: url(/landingpage/global/background/StandaloneClientBackground.png?__cv=80624b840032b27eed750aabcdccfe00);
+    background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/landingpage/global/background/StandaloneClientBackground.png?__cv=80624b840032b27eed750aabcdccfe00);
 }
 
 #standaloneClientBackground a {

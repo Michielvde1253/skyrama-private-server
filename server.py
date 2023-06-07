@@ -63,6 +63,8 @@ available_commands = {
 
 host = '127.0.0.1'
 port = 5050
+server_ip = str(host) + ":" + str(port)
+assets_ip = str(host) + ":" + str(port) + "/assets"
 
 app = Flask(__name__, template_folder=TEMPLATES_DIR)
 
@@ -74,16 +76,53 @@ print (" [+] Configuring server routes...")
 
 @app.route("/play")
 def play():
+    if "username" not in session:
+        return redirect("/")
     session["error_mode"] = "error"
-    return render_template("play.html", username = session["username"], userid = session["userid"], token = session["token"], SERVERIP=host)
+    if not request.args.get('locale'):
+        if "lang" in session:
+            lang = session["lang"]
+        else:
+            lang = "en"
+    else:
+        lang = request.args.get('locale')
+    session["lang"] = lang
+    f = open(os.path.join("templates", "languages", lang + ".json"), "r", encoding="utf-8")
+    langstrings = json.loads(str(f.read()))
+    f.close()
+    return render_template("play.html", username = session["username"], userid = session["userid"], token = session["token"], lang = lang, SERVERIP=server_ip, ASSETSIP=assets_ip, langstrings=langstrings)
 
 @app.route('/')
 def homepage():
-    return redirect("/login")
+    playerCount = len(os.listdir("data")) - 4 # Get total amount of created accounts
+    if not request.args.get('locale'):
+        if "lang" in session:
+            lang = session["lang"]
+        else:
+            lang = "en"
+    else:
+        lang = request.args.get('locale')
+    session["lang"] = lang
+    langUpper = lang.upper()
+    f = open(os.path.join("templates", "languages", lang + ".json"), "r", encoding="utf-8")
+    langstrings = json.loads(str(f.read()))
+    f.close()
+    return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings, lang=lang, langUpper=langUpper)
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     msg = ''
+
+    playerCount = len(os.listdir("data")) - 4 # Get total amount of created accounts
+    if not request.args.get('locale'):
+        lang = "en"
+    else:
+        lang = request.args.get('locale')
+    langUpper = lang.upper()
+    f = open(os.path.join("templates", "languages", lang + ".json"), "r")
+    langstrings = json.loads(str(f.read()))
+    f.close()
+
     if request.method == 'POST' and 'username' in request.form and 'password' in request.form:
         username = request.form['username']
         password = request.form['password']
@@ -105,28 +144,52 @@ def login():
                     session["token"] = json_data["playerData"]["token"]
                     return redirect('play')
                 else:
-                    msg = 'Wrong password/username entered.'
-                    return render_template('login.html', msg=msg)
-        msg = 'Wrong password/username entered.'
-        return render_template('login.html', msg=msg)
+                    msg = 'bgc.error.login_invalidCredentials'
+                    return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings, lang=lang, langUpper=langUpper, msg=msg)
+        msg = 'bgc.error.login_invalidCredentials'
+        return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings, lang=lang, langUpper=langUpper, msg=msg)
+
     else:
-        return render_template('login.html')
+        return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings, lang=lang, langUpper=langUpper, msg='')
 
 @app.route('/register', methods=['GET', 'POST'])
 def register():
     msg = ''
-    if request.method == 'POST' and 'username' in request.form and 'password' in request.form and 'email' in request.form:
-        username = request.form['username']
-        password = request.form['password']
+    if request.method == 'POST':
+        username = request.form['RegUsername']
+        password = request.form['RegPassword']
         password = hashlib.sha512(password.encode('utf-8')).hexdigest()
-        email = request.form['email']
+        email = request.form['RegEmail']
+
+        playerCount = len(os.listdir("data")) - 4 # Get total amount of created accounts
+        if not request.args.get('locale'):
+            lang = "en"
+        else:
+            lang = request.args.get('locale')
+        langUpper = lang.upper()
+        f = open(os.path.join("templates", "languages", lang + ".json"), "r")
+        langstrings = json.loads(str(f.read()))
+        f.close()
         
         if not re.match(r'[^@]+@[^@]+\.[^@]+', email):
-            msg = 'Invalid email address!'
+            msg = 'bgc.error.email_invalidAddress'
         elif not re.match(r'[A-Za-z0-9]+', username):
-            msg = 'Username may only contain characters and numbers!'
-        elif not username or not password or not email:
-            msg = 'Please fill in everything.'
+            msg = 'bgc.error.username_containsInvalidCharacters'
+        elif not username:
+            msg = 'bgc.error.username_notGiven'
+        elif not password:
+            msg = 'bgc.error.password_notGiven'
+        elif len(username) < 4:
+            msg = 'bgc.error.username_isTooShort'
+        elif len(username) > 20:
+            msg = 'bgc.error.username_isTooLong'
+        # Disabled cuz of hash, needs to be checked on the site itself
+        #elif len(password) < 4:
+        #    msg = 'bgc.error.password_isTooShort'
+        #elif len(password) > 45:
+        #    msg = 'bgc.error.password_isTooLong' 
+        elif not email:
+            msg = 'bgc.error.email_notGiven'
         else:
             accountExists = 0
             files = os.listdir(os.path.join(Path(__file__).parents[0], "data"))
@@ -160,19 +223,18 @@ def register():
 
                 json_data["expeditionstatus"]["player_id"] = uid
 
+                json_data["playerData"]["token"] = str(uuid.uuid1())
+
                 f.write(json.dumps(json_data))
                 f.close()
 
-
-                msg = 'Successfully registered!'
-                name = username
-                return redirect(url_for('login'))
+                session["username"] = username
+                session["userid"] = json_data["playerData"]["account_id"]
+                session["token"] = json_data["playerData"]["token"]
+                return redirect('play')
             else:
-                msg = 'An account with this username already exists.'
-
-    elif request.method == 'POST':
-        msg = 'Please fill in everything.'
-    return render_template('registration.html', msg=msg)
+                msg = 'bgc.error.account_exists'
+    return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings, lang=lang, langUpper=langUpper, msg=msg)
 
 @app.route("/crossdomain.xml")
 def crossdomain():
