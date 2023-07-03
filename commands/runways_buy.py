@@ -40,9 +40,6 @@ def handle_runwaysBuy(request, user_id, rpcResult, items_to_add_to_obj):
         current_level = j
         break
       j = j + 1
-        
-    print(current_level)
-    print(unlock_lvl)
     
     for i in init_data["runwayTypes"]:
       if int(i["id"]) == int(request["p"]["types_id"]):

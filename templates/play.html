@@ -5,12 +5,12 @@
       <meta charset="utf-8" />
       <!-- Title and Icon -->
       <title id="pageTitle">Skyrama</title>
-      <link rel="shortcut icon" href="http://{{ASSETSIP}}/favicon.ico" />
-      <link rel="icon" type="image/png" href="http://{{ASSETSIP}}/favicon.ico" />
-      <script type="text/javascript" src="http://{{ASSETSIP}}/js/jquery-1.7.1.min.js"></script>
-      <script type="text/javascript" src="http://{{ASSETSIP}}/js/swfobject.js"></script>
-      <script type="text/javascript" src="http://{{ASSETSIP}}/js/skyrama.js"></script>
-      <link rel="stylesheet" type="text/css" href="http://{{SERVERIP}}/templates/styles/play.css" />
+      <link rel="shortcut icon" href="{{ASSETSIP}}/favicon.ico" />
+      <link rel="icon" type="image/png" href="{{ASSETSIP}}/favicon.ico" />
+      <script type="text/javascript" src="{{ASSETSIP}}/js/jquery-1.7.1.min.js"></script>
+      <script type="text/javascript" src="{{ASSETSIP}}/js/swfobject.js"></script>
+      <script type="text/javascript" src="{{ASSETSIP}}/js/skyrama.js"></script>
+      <link rel="stylesheet" type="text/css" href="{{SERVERIP}}/templates/styles/play.css" />
       <script src="https://kit.fontawesome.com/9184ea9ca6.js" crossorigin="anonymous"></script>
    </head>
    <!-- EMBED GAME -->
@@ -23,7 +23,8 @@
                <div class="cobrand"><img id="PartnerCobrandLogo" src="https://pit-835.bpsecure.com/published/cobrands/0_696_1.png" /></div>
                <div class="user-info">{{langstrings['av.website.username']}} {{username}}, {{langstrings['av.website.userId']}} {{userid}}</div>
                <div class="socialIcons">
-                  <div class="socialIcons-discord"><a href="https://discord.gg/rdpFXhja5Q" target="_blank"><i class="fa-brands fa-discord"></i></a></div>
+                  <!-- We don't have a discord server right now -->
+                  <!-- <div class="socialIcons-discord"><a href="https://discord.gg/rdpFXhja5Q" target="_blank"><i class="fa-brands fa-discord"></i></a></div> -->
                   <div class="socialIcons-facebook"><a href="https://www.facebook.com/skyrama/" target="_blank"><i class="fa-brands fa-square-facebook"></i></a></div>
                   <div class="socialIcons-twitter"><a href="https://twitter.com/skyrama_com/" target="_blank"><i class="fa-brands fa-square-twitter"></i></a></div>
                   <div class="socialIcons-youtube"><a href="https://www.youtube.com/bigpoint/" target="_blank"><i class="fa-brands fa-square-youtube"></i></a></div>
@@ -39,8 +40,8 @@
                   </div>
                   <div id="client-placeholder"
                      style="margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%); left: 40%;">
-                     <div style="text-align: center"><a href="//www.adobe.com/go/getflashplayer" target="_blank"><img
-                        src="http://{{ASSETSIP}}/style/global/get_flash.jpg"></a>
+                     <div style="text-align: center"><a href="https://www.adobe.com/go/getflashplayer" target="_blank"><img
+                        src="{{ASSETSIP}}/style/global/get_flash.jpg"></a>
                      </div>
                   </div>
                </div>
@@ -70,8 +71,8 @@
       var flashVars = {
           userId: '{{userid}}',
           token: '{{token}}',
-          apiHost: 'http://{{SERVERIP}}',
-          dataHost: 'http://{{ASSETSIP}}/',
+          apiHost: '{{SERVERIP}}',
+          dataHost: '{{ASSETSIP}}',
           language: '{{lang}}',
           preloaderbg: 'largeplanes',
           isHTTPS: '1',
@@ -80,8 +81,7 @@
           openSocial: 0,
           ssoUser: 0,
           friendInvite: 0,
-          logging: 1,
-          newgame: true
+          logging: 0
       };
       
       var flashParams = {
@@ -97,7 +97,7 @@
           name: 'Skyrama_Flash_Name'
       };
       
-      swfobject.embedSWF('http://{{ASSETSIP}}/airville.swf?__cv=144b4732e1ce320eca16c53e28066900', 'client-placeholder', '100%', '100%', '10.2.0', 'http://{{ASSETSIP}}/js/expressInstall.swf', flashVars, flashParams, flashAttributes);
+      swfobject.embedSWF('{{ASSETSIP}}airville.swf?__cv=144b4732e1ce320eca16c53e28066900', 'client-placeholder', '100%', '100%', '10.2.0', '{{ASSETSIP}}js/expressInstall.swf', flashVars, flashParams, flashAttributes);
       
       function hideClient() {
           $('#client-content').css("visibility", "hidden");

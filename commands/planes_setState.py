@@ -32,9 +32,31 @@ def handle_planesSetState(request, user_id, rpcResult, items_to_add_to_obj):
             json_data["planes"][j]["flight_status"] = request["p"]["flight_status"]
             json_data["planes"][j]["to_user_name"] = request["p"]["to_user_name"]  
 
-            if request["p"]["flight_status"] == 118 or request["p"]["flight_status"] == 1010 or request["p"]["flight_status"] == 9:
+            # To-do: clean up code + check ramacopters/waterplanes
+            # 2 = getting out of the hangar
+            # 1005 = landed, plane still on runway (own plane)
+            # 105 = landed, plane still on runway (buddy plane)
+            # others: don't remember
+            if request["p"]["flight_status"] == 118 or request["p"]["flight_status"] == 1010 or request["p"]["flight_status"] == 9 or request["p"]["flight_status"] == 2 or request["p"]["flight_status"] == 1005 or request["p"]["flight_status"] == 105:
                 json_data["planes"][j]["start_service_time"] = request["p"]["last_state_change_time"]
 
+
+            # Reduce aircash if buddy plane is landed instantly
+
+            if int(request["p"]["instantland"]) == 1:
+                if request["p"]["flight_status"] == 105:
+
+                    f = open(os.path.join(p, "data", "global_init_data.json"), "r")
+                    init_data = json.loads(str(f.read()))
+                    f.close()
+
+                    for g in init_data["planeTypes"]:
+                        if int(g["id"]) == int(i["plane_type_id"]):
+                            air_cash_cost = int(g["quick_land_coins_cost"])
+                            json_data["playerData"]["air_cash"] = int(json_data["playerData"]["air_cash"]) - air_cash_cost
+                            break
+
+            break
         j = j + 1
     
 

@@ -52,7 +52,6 @@ def handle_planesTakeMeans(request, user_id, rpcResult, items_to_add_to_obj):
                     if "souvenir_types_id" in request["p"]:
                       for h in json_data["souvenirCollections"]:
                         for k in h["items"]:
-                            print(k["type_id"])
                             if int(k["type_id"]) == int(request["p"]["souvenir_types_id"]):
                               k["num"] = int(k["num"]) + 1
                     break
@@ -63,13 +62,11 @@ def handle_planesTakeMeans(request, user_id, rpcResult, items_to_add_to_obj):
 
             if int(request["p"]["owner_id"]) == int(user_id) and "xp" in request["p"]:
                 if "xp" in request["p"]: # Add xp as temporary fix. This should be moved to planes.setState to avoid that.
-                  print((int(request["t"]) - int(i["start_service_time"])))
-                  print(i["start_service_time"])
                   if (int(request["t"]) - int(i["start_service_time"])) < (int(service_time) / 3) or int(i["start_service_time"]) == 0: # Own plane
                     json_data["playerData"]["air_cash"] = int(json_data["playerData"]["air_cash"]) - int(quick_start_coins_cost)   
 
             elif int(request["p"]["owner_id"]) != int(user_id):
-              if "xp" in request["p"]: # Add xp as temporary fix. This should be moved to planes.setState to avoid that.
+              if ("xp" in request["p"]) or int(request["p"]["plane_id"]) == 0: # Add xp as temporary fix. This should be moved to planes.setState to avoid that. Plane id 0 = Cashcow
                 if (request["t"] - i["start_service_time"]) < service_time or i["start_service_time"] == 0: # Buddy plane
                      json_data["playerData"]["air_cash"] = json_data["playerData"]["air_cash"] - quick_buddy_serve_coins_cost
 
