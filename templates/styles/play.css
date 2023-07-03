@@ -50,7 +50,7 @@ body {
 }
 
 .internalHome .frame-bg-left {
-  background-image: url(../../assets/style/global/frame/bg_left.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_left.jpg);
   background-position: top right;
   background-repeat: no-repeat;
   width: 50%;
@@ -58,19 +58,19 @@ body {
 
 .internalHome .frame-bg-center {
   width: 1255px;
-  background-image: url(../../assets/style/global/frame/bg_center.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_center.jpg);
   background-repeat: no-repeat;
 }
 
 .internalHome .frame-bg-right {
-  background-image: url(../../assets/style/global/frame/bg_right.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_right.jpg);
   background-position: top left;
   background-repeat: no-repeat;
   width: 50%;
 }
 
 .internalHome .frame-bg-left-vercel {
-  background-image: url(https://skyassets.michielvan4.repl.co/style/global/frame/bg_left.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_left.jpg);
   background-position: top right;
   background-repeat: no-repeat;
   width: 50%;
@@ -78,12 +78,12 @@ body {
 
 .internalHome .frame-bg-center-vercel {
   width: 1255px;
-  background-image: url(https://skyassets.michielvan4.repl.co/style/global/frame/bg_center.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_center.jpg);
   background-repeat: no-repeat;
 }
 
 .internalHome .frame-bg-right-vercel {
-  background-image: url(https://skyassets.michielvan4.repl.co/style/global/frame/bg_right.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/style/global/frame/bg_right.jpg);
   background-position: top left;
   background-repeat: no-repeat;
   width: 50%;

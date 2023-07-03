@@ -3,40 +3,40 @@ from pathlib import Path
 import os
 import json
 
-def handle_SendPlane(request, user_id, json_data, task, task_number):
+def handle_SendPlane(request, user_id, json_data, task, task_number, init_data, quest_seq):
     if request["m"] == "planes.send":
-        p = Path(__file__).parents[2]
         conditions_completed = 0
         for i in json_data["planes"]:
-            if i["id"] == request["p"]["id"]:
-                plane_type_id = i["plane_type_id"]
+            if int(i["id"]) == int(request["p"]["id"]):
+                type_id = int(i["plane_type_id"])
+                to_location_id = int(i["to_location_id"])
                 break
-        if task["obj_type_id"] != -1:
-            if task["obj_type_id"] == plane_type_id:
-                conditions_completed = conditions_completed + 1
-        else:
-            conditions_completed = conditions_completed + 1
+
+        for i in init_data["planeTypes"]:
+            if int(i["id"]) == type_id:
+                size = i["size"]
+                plane_type = i["type"]
+                for j in json_data["locations"]:
+                    if int(j["id"]) == to_location_id:
+                        continent = j["continent"]
+                        break
+
+        if int(task["obj_type_id"]) == type_id or int(task["obj_type_id"]) == -1:
+            conditions_completed += 1
         
-        print(task["size"])
-        if task["size"] != None:
-            f = open(os.path.join(p, "data", "global_init_data.json"), "r")
-            init_data = json.loads(str(f.read()))
-            f.close()
+        if task["size"] == size or task["size"] == None:
+            conditions_completed += 1
 
-            for i in init_data["planeTypes"]:
-                if i["id"] == plane_type_id:
-                    plane_size = i["size"]
+        if task["plane_type"] == plane_type or task["plane_type"] == None:
+            conditions_completed += 1
 
-            if task["size"] == plane_size:
-                conditions_completed = conditions_completed + 1
-        else:
-            conditions_completed = conditions_completed + 1
+        if task["continent"] == continent or task["continent"] == None:
+            conditions_completed += 1
 
-        
-        # TO-DO: Plane type check, location id check, continent check, ...
-        print(conditions_completed)
-        if conditions_completed == 2:
-            json_data["goals"]["goals"]["main"]["tasks"][task_number]["num_completed"] = json_data["goals"]["goals"]["main"]["tasks"][task_number]["num_completed"] + 1
+
+
+        if conditions_completed == 4:
+            json_data["goals"]["goals"][quest_seq]["tasks"][task_number]["num_completed"] = json_data["goals"]["goals"][quest_seq]["tasks"][task_number]["num_completed"] + 1
 
 
 #        if int(task["goal_types_id"]) == 4: # Tutorial, speed up Cashcow

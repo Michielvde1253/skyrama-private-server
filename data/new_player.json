@@ -51,16 +51,6 @@
     ]
   },
   "bays": [
-    {
-      "bay_types_id": 1,
-      "last_harvest_time": 0,
-      "set_in_storage_time": 0,
-      "id": 18,
-      "position_x": -100,
-      "position_y": -100,
-      "direction": 0,
-      "player_id": "88211998"
-    }
   ],
   "runways": [
     {
@@ -15982,7 +15972,7 @@
             "plane_type": null,
             "location_id": null,
             "continent": null,
-            "air_cash_cost": null,
+            "air_cash_cost": 2,
             "loca": {
               "locaString": "av.task.collect",
               "locaParam": {
@@ -16000,7 +15990,7 @@
             "plane_type": null,
             "location_id": null,
             "continent": null,
-            "air_cash_cost": null,
+            "air_cash_cost": 2,
             "loca": {
               "locaString": "av.task.collect",
               "locaParam": {
