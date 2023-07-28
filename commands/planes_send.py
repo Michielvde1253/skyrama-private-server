@@ -4,26 +4,13 @@ import os
 import json
 import random
 
-def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj):
+def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_data, init_data):
     rpcResult["i"] = request["i"]
     rpcResult["t"] = str(int(time.time()))
     rpcResult["r"] = {}
     rpcResult["r"]["planes"] = {}
 
-
-    p = Path(__file__).parents[1]
-    for file in os.listdir(os.path.join(p, "data")):
-        if file[0:8] == str(user_id):
-            player_file = file
-            break
-
-    f = open(os.path.join(p, "data", player_file), "r")
-    json_data = json.loads(str(f.read()))
-    f.close()
-    
-    f = open(os.path.join(p, "data", "global_init_data.json"), "r")
-    init_data = json.loads(str(f.read()))
-    f.close()    
+    p = Path(__file__).parents[1]  
 
     player_to_file = 0
     j = 0
@@ -55,15 +42,12 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj):
                     quick_start_coins_cost = g["quick_start_coins_cost"]
                     buddy_points = int(g["buddy_points_yield"])
                     
-            print(int(request["t"]) - int(i["start_service_time"]))
-            print(int(i["start_service_time"]))
             if (int(request["t"]) - int(i["start_service_time"])) < ((int(service_time) / 3) * 2) or int(i["start_service_time"]) == 0:
               json_data["playerData"]["air_cash"] = int(json_data["playerData"]["air_cash"]) - int(quick_start_coins_cost)   
 
                 
                 
             if int(json_data["planes"][j]["to_player_id"]) != 800: # ID 800 = NPC player
-              print("Working")
               for file in os.listdir(os.path.join(p, "data")):
                 if file[0:8] == str(json_data["planes"][j]["to_player_id"]):
                   player_to_file = file
@@ -80,13 +64,8 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj):
               
               json2_data["playerData"]["next_object_id"] = int(json2_data["playerData"]["next_object_id"]) + 1
 
-            rpcResult["r"]["planes"][str(request["p"]["id"])] = json_data["planes"][j]
+              rpcResult["r"]["planes"][str(request["p"]["id"])] = json_data["planes"][j]
         j = j + 1
-
-
-    f = open(os.path.join(p, "data", player_file), "w")
-    f.write(json.dumps(json_data))
-    f.close()
     
     if player_to_file != 0:
       f = open(os.path.join(p, "data", player_to_file), "w")

@@ -146,21 +146,7 @@ def next_quest(quest_seq, init_data, json_data, user_id, items_to_add_to_obj):
     json_data["goals"]["goals"][quest_seq]["tasks"] = new_tasks
     return json_data
 
-def handle_goal(request, user_id, quest_seq, items_to_add_to_obj):
-    p = Path(__file__).parents[1]
-    for file in os.listdir(os.path.join(p, "data")):
-        if file[0:8] == str(user_id):
-            player_file = file
-            break
-
-    f = open(os.path.join(p, "data", player_file), "r")
-    json_data = json.loads(str(f.read()))
-    f.close()
-
-    f = open(os.path.join(p, "data", "global_init_data.json"), "r")
-    init_data = json.loads(str(f.read()))
-    f.close()
-
+def handle_goal(request, user_id, quest_seq, items_to_add_to_obj, json_data, init_data):
     current_goal = json_data["goals"]["goals"][quest_seq]
     num_tasks_completed = 0
 
@@ -178,7 +164,3 @@ def handle_goal(request, user_id, quest_seq, items_to_add_to_obj):
     if num_tasks_completed == len(json_data["goals"]["goals"][quest_seq]["tasks"]):
         # QUEST COMPLETED, GIVE REWARDS AND START NEW QUEST
         json_data = next_quest(quest_seq, init_data, json_data, user_id, items_to_add_to_obj)
-
-    f = open(os.path.join(p, "data", player_file), "w")
-    f.write(json.dumps(json_data))
-    f.close()

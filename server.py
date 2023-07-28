@@ -60,20 +60,35 @@ available_commands = {
     "planes.upgrade": handle_planesUpgrade,
     "planes.scrap": handle_planesScrap,
     "goals.buyTask": handle_goalsBuyTask,
-    "playerdata.updateLevel": handle_playerdataUpdateLevel
+    "playerdata.updateLevel": handle_playerdataUpdateLevel,
+    "planes.createFlyBy": handle_planesCreateFlyBy,
+    "planes.sendbackflyby": handle_planesSendBackFlyBy,
+    "planes.removeFlyByPlane": handle_planesRemoveFlyByPlane
 }
+
+print(" [+] Loading init data...")
+
+p = Path(__file__).parents[0]
+
+f = open(os.path.join(p, "data", "global_init_data.json"), "r")
+init_data = json.loads(str(f.read()))
+f.close()
+
+f = open(os.path.join(p, "data", "obj.json"), "r")
+obj_data = json.loads(str(f.read()))
+f.close()
 
 # GLITCH
 # host = '0.0.0.0'
 # port = 8080
 # server_ip = "http://skyrama.glitch.me"
-# assets_ip = "https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/assets/"
+# assets_ip = "https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/"
 
 # LOCAL
 host = '127.0.0.1'
 port = 5050
 server_ip = "http://" + str(host) + ":" + str(port)
-assets_ip = "http://" + str(host) + ":" + str(port) + "/assets/"
+assets_ip = "http://" + str(host) + ":" + str(port)
 
 app = Flask(__name__, template_folder=TEMPLATES_DIR)
 
@@ -304,7 +319,6 @@ def get_level_from_xp(xp, level_caps):
 @app.route("/SkyApi.php", methods=['POST'])
 def handle_request():
     print(request.form)
-    p = Path(__file__).parents[0]
     for file in os.listdir(os.path.join(p, "data")):
         if file[0:8] == str(request.form["userId"]):
             player_file = file
@@ -312,7 +326,7 @@ def handle_request():
 
     f = open(os.path.join(p, "data", player_file), "r")
     json_data = json.loads(str(f.read()))
-    f.close()
+    f.close()   
 
     if json_data["playerData"]["token"] == request.form["t"]:
         command_data = json.loads(request.form["d"])
@@ -332,21 +346,21 @@ def handle_request():
                 command["previous_air_coins"] = json_data["playerData"]["air_coins"]
 
                 # Check Lucky Luggage new spins
-                handle_lucky_luggage_live(command, request.form["userId"])
+                handle_lucky_luggage_live(command, request.form["userId"], json_data)
 
                 # Create command answer
                 rpcResult = {}
                 items_to_add_to_obj = []
                 handler = available_commands[command["m"]]
                 handler(command, request.form["userId"],
-                        rpcResult, items_to_add_to_obj)
+                        rpcResult, items_to_add_to_obj, json_data, init_data)
 
                 total_response["rpcResults"].append(rpcResult)
                 total_items_to_add_to_obj = total_items_to_add_to_obj + items_to_add_to_obj
 
                 # Check goal completion
-                handle_goal(command, request.form["userId"], "main", items_to_add_to_obj)
-                handle_goal(command, request.form["userId"], "pilot", items_to_add_to_obj)
+                handle_goal(command, request.form["userId"], "main", items_to_add_to_obj, json_data, init_data)
+                handle_goal(command, request.form["userId"], "pilot", items_to_add_to_obj, json_data, init_data)
 
             else:
                 print("Command " + command["m"] + " not handled")
@@ -354,10 +368,6 @@ def handle_request():
                 return "Could not get Sky_Instance_Plane object with unique id 1435_12297741"
 
         # Check start level based on xp
-        f = open(os.path.join(p, "data", player_file), "r")
-        json_data = json.loads(str(f.read()))
-        f.close()
-
         end_level = get_level_from_xp(
             json_data["playerData"]["xp"], json_data["playerData"]["xp_level_caps"])
 
@@ -368,16 +378,16 @@ def handle_request():
                 json_data["playerData"]["air_cash"] = int(
                     json_data["playerData"]["air_cash"]) + 2  # YAY WE CAN BUY 0.2 HANGAR SLOTS!!!
 
-            f = open(os.path.join(p, "data", player_file), "w")
-            f.write(json.dumps(json_data))
-            f.close()
-
         # Create command object
         obj = {}
         print(total_items_to_add_to_obj)
         handle_addObj(
-            command, request.form["userId"], obj, total_items_to_add_to_obj)
+            command, request.form["userId"], obj, total_items_to_add_to_obj, json_data, init_data, obj_data)
         total_response["obj"] = obj
+
+        f = open(os.path.join(p, "data", player_file), "w")
+        f.write(json.dumps(json_data))
+        f.close()
 
         return total_response
     else:
