@@ -3,26 +3,7 @@ from pathlib import Path
 import os
 import json
 
-def handle_addObj(request, user_id, obj, total_items_to_add_to_obj):
-    
-    p = Path(__file__).parents[1]
-    f = open(os.path.join(p, "data", "obj.json"), "r")
-    obj_data = json.loads(str(f.read()))
-    f.close()
-
-    for file in os.listdir(os.path.join(p, "data")):
-        if file[0:8] == str(user_id):
-            player_file = file
-            break
-
-    f = open(os.path.join(p, "data", player_file))
-    json_data = json.loads(str(f.read()))
-    f.close()
-    
-    f = open(os.path.join(p, "data", "global_init_data.json"), "r")
-    init_data = json.loads(str(f.read()))
-    f.close()
-
+def handle_addObj(request, user_id, obj, total_items_to_add_to_obj, json_data, init_data, obj_data):
     obj["player"] = {}
     obj["player"]["next_object_id"] = json_data["playerData"]["next_object_id"]
     obj["player"]["air_coins"] = json_data["playerData"]["air_coins"]

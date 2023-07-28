@@ -1,19 +1,6 @@
 import time
-from pathlib import Path
-import os
-import json
 
-def handle_lucky_luggage_live(request, user_id):
-    p = Path(__file__).parents[1]
-    for file in os.listdir(os.path.join(p, "data")):
-        if file[0:8] == str(user_id):
-            player_file = file
-            break
-
-    f = open(os.path.join(p, "data", player_file), "r")
-    json_data = json.loads(str(f.read()))
-    f.close()
-    
+def handle_lucky_luggage_live(request, user_id, json_data):
     if "next_reward" not in json_data["lucky_luggage_data"]:
        json_data["lucky_luggage_data"]["next_reward"] = 0
 
@@ -37,7 +24,3 @@ def handle_lucky_luggage_live(request, user_id):
         
       json_data["lucky_luggage_data"]["free_spins"] = json_data["lucky_luggage_data"]["free_spins"] + num_spins
       json_data["playerData"]["lucky_luggage_free_spins"] = json_data["lucky_luggage_data"]["free_spins"] # Is this being used by the game?
-        
-    f = open(os.path.join(p, "data", player_file), "w")
-    f.write(json.dumps(json_data))
-    f.close()
