@@ -63,7 +63,10 @@ available_commands = {
     "playerdata.updateLevel": handle_playerdataUpdateLevel,
     "planes.createFlyBy": handle_planesCreateFlyBy,
     "planes.sendbackflyby": handle_planesSendBackFlyBy,
-    "planes.removeFlyByPlane": handle_planesRemoveFlyByPlane
+    "planes.removeFlyByPlane": handle_planesRemoveFlyByPlane,
+    "planes.onStartCargoTutorial": handle_planesOnStartCargoTutorial,
+    "cargoshops.fillShop": handle_cargoshopsFillShop,
+    "cargoshops.collectSalesRevenue": handle_cargoshopsCollectSalesRevenue
 }
 
 print(" [+] Loading init data...")
@@ -146,7 +149,10 @@ def login():
     # Get total amount of created accounts
     playerCount = len(os.listdir("data")) - 4
     if not request.args.get('locale'):
-        lang = "en"
+        if "lang" in session:
+            lang = session["lang"]
+        else:
+            lang = "en"
     else:
         lang = request.args.get('locale')
     langUpper = lang.upper()
@@ -354,6 +360,10 @@ def handle_request():
                 handler = available_commands[command["m"]]
                 handler(command, request.form["userId"],
                         rpcResult, items_to_add_to_obj, json_data, init_data)
+                
+                if rpcResult["i"] == -1: # Command asked to disconnect user (likely due to possible cheat)
+                    print(f"User with id {request.form['userId']} has been disconnected")
+                    return "Could not get Sky_Instance_Plane object with unique id 1435_12297741"
 
                 total_response["rpcResults"].append(rpcResult)
                 total_items_to_add_to_obj = total_items_to_add_to_obj + items_to_add_to_obj
