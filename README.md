@@ -12,11 +12,11 @@ This repository is made for educational purposes only, and will not be monetized
 
 ## How to play
 
-You can find the game on http://skyrama.glitch.me. To play, you will need a browser that supports flash (and flash player itself) to run the game. I personally recommend https://flash.pm/browser/ if you want to do it the easy way.
+You can find the game on http://skyrama.glitch.me. You will need a browser that supports flash (and flash player itself) to run the game. I personally recommend https://flash.pm/browser/ if you want to do it the easy way.
 
 ## How to run the code locally
 
-In order to run the code, simply download the .zip from Github and run server.py. Make sure you have installed the required libraries from requirements.txt first.
+In order to run the code, simply run server.py. Make sure you have installed the required libraries from requirements.txt first.
 
 You will need a browser that supports Flash (and Flash Player itself) to run the game. Alternatively, you can use https://flash.pm/browser/.
 
@@ -24,26 +24,26 @@ You will need a browser that supports Flash (and Flash Player itself) to run the
 - Leaving the tutorial early causes bugs.
 
 ## List of quest task types
-This are all the types of tasks that can be in a quest. Doing an unimplemented one will work in-game, but after refreshing, all further progress on quests will be gone! The tutorial and most important other types are working.
+This are all the types of tasks that can be in a quest. Doing an unimplemented one will work in-game, but after refreshing, all further progress on quests will be gone! The tutorial (as well as the mid-game "cargo tutorial") and most important other types are working.
 
 - [x] BuyBay
 - [x] BuyLandsideBuilding
 - [x] BuyPlane
 - [x] CollectSouvenir
-- [ ] FillShop
+- [x] FillShop
 - [x] GetAirCoins
-- [ ] GetCargo
+- [x] GetCargo
 - [x] GetPassengers
 - [x] LandPlane
 - [x] PlaceBay
-- [ ] PlaceCargoshop
+- [x] PlaceCargoshop
 - [ ] PlaceDecoration
 - [ ] PlaceLandsideBuilding
 - [x] PlaceTerminal
-- [ ] PlaceWarehouse
+- [x] PlaceWarehouse
 - [x] QuickStartPlane
 - [x] ReturnPlane
-- [ ] SellProducts
+- [x] SellProducts
 - [x] SendPlane
 - [ ] SendPlaneToStranger
 - [ ] StoreLandsideBuilding
@@ -79,23 +79,23 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] planes.scrap
 - [ ] resource_items.buy
 - [x] packages.buy
-- [ ] planes.createFlyBy
+- [x] planes.createFlyBy
 - [x] planes.send
 - [x] planes.sendback
-- [ ] planes.sendbackflyby
+- [x] planes.sendbackflyby
 - [x] planes.miss
-- [ ] planes.removeFlyByPlane
+- [x] planes.removeFlyByPlane
 - [x] planes.takeMeans
 - [x] planes.setState
 - [x] planes.get
-- [ ] planes.onStartCargoTutorial
+- [x] planes.onStartCargoTutorial  -  Doesn't seem necessary?
 - [ ] backgrounds.buy
 - [ ] backgrounds.makeCurrent
 - [ ] landmarks.buy
 - [ ] landmarks.makeCurrent
 - [x] bays.buy
-- [ ] cargoshops.fillShop
-- [ ] cargoshops.collectSalesRevenue
+- [x] cargoshops.fillShop
+- [x] cargoshops.collectSalesRevenue
 - [ ] cargoshops.buy
 - [ ] cargoshops.buyCapacity
 - [ ] cargoshops.buyCargo
@@ -109,7 +109,6 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] landside_buildings.buy
 - [x] landside_buildings.harvest
 - [x] goals.buyTask
-- [ ] souvenirs.buy
 - [ ] souvenirs.takeReward
 - [x] special_buildings.buy
 - [x] placeable.place  -  PARTIALLY
@@ -152,6 +151,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - hangars.get
 - warehouses.get
 - landside_buildings.get
+- souvenirs.buy
 
 ### Not sure what those are
 - catchits.get
