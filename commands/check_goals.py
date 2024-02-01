@@ -1,7 +1,3 @@
-import time
-from pathlib import Path
-import os
-import json
 from commands.goals import *
 
 available_task_types = {
@@ -16,7 +12,12 @@ available_task_types = {
     "BuyBay": handle_BuyBay,
     "BuyLandsideBuilding": handle_BuyLandsideBuilding,
     "CollectSouvenir": handle_CollectSouvenir,
-    "GetAirCoins": handle_GetAirCoins
+    "GetAirCoins": handle_GetAirCoins,
+    "PlaceWarehouse": handle_PlaceWarehouse,
+    "GetCargo": handle_GetCargo,
+    "PlaceCargoshop": handle_PlaceCargoshop,
+    "FillShop": handle_FillShop,
+    "SellProducts": handle_SellProducts
 }
 
 

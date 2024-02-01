@@ -4,7 +4,7 @@ import inspect
 import pkgutil
 
 for loader, name, is_pkg in pkgutil.walk_packages(__path__):
-    module = loader.find_module(name).load_module(name)
+    module = loader.find_spec(name).loader.load_module(name)
 
     for name, value in inspect.getmembers(module):
         if name.startswith('__'):
