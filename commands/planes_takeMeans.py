@@ -186,18 +186,25 @@ def handle_planesTakeMeans(request, user_id, rpcResult, items_to_add_to_obj, jso
             # To-do: properly test if this works
 
             if int(request["p"]["owner_id"]) == int(user_id) and "xp" in request["p"]:
-                # Add xp as temporary fix. This should be moved to planes.setState to avoid that.
+                # Add xp as temporary fix to check if it's the last drop before going into hangar.
+                ##########################################################
+                # This should be moved to planes.setState to avoid that! #
+                ##########################################################
                 if "xp" in request["p"]:
                     if (int(request["t"]) - int(i["start_service_time"])) < (int(service_time) / 3) or int(i["start_service_time"]) == 0:  # Own plane
                         json_data["playerData"]["air_cash"] = int(
                             json_data["playerData"]["air_cash"]) - int(quick_start_coins_cost)
 
             elif int(request["p"]["owner_id"]) != int(user_id):
-                # Add xp as temporary fix. This should be moved to planes.setState to avoid that. Plane id 0 = Cashcow
-                if ("xp" in request["p"]) or int(request["p"]["plane_id"]) == 0:
+                # Add xp as temporary fix. Plane id 0 = Cashcow
+                ##########################################################
+                # This should be moved to planes.setState to avoid that! #
+                ##########################################################
+                if ("xp" in request["p"]) or (int(request["p"]["plane_id"]) == 0 and "air_coins" in request["p"]):
                     # Buddy plane
                     if (request["t"] - i["start_service_time"]) < service_time or i["start_service_time"] == 0:
                         json_data["playerData"]["air_cash"] = json_data["playerData"]["air_cash"] - \
                             quick_buddy_serve_coins_cost
+                        print("Quick Service used (check if true)")
 
         j = j + 1

@@ -35,7 +35,8 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_dat
                     quick_start_coins_cost = g["quick_start_coins_cost"]
                     buddy_points = int(g["buddy_points_yield"])
                     load_type = g["load_type"]
-                    contents_count = int(g["wares_revenue_capacity"])
+                    wares_revenue = int(g["wares_revenue_capacity"])
+                    contents_count = int(g["capacity"])
                     recycling_value = int(g["recyclingValue"]) # L parts drop is depending on this number (6 random sequences)
                     break
 
@@ -44,7 +45,7 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_dat
               # Setup cargo
 
               json_data["planes"][j]["contents_count"] = contents_count
-              json_data["planes"][j]["wares_revenue"] = contents_count
+              json_data["planes"][j]["wares_revenue"] = wares_revenue
 
               # Setup L parts
 
@@ -76,8 +77,11 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_dat
                 
                 
             if int(json_data["planes"][j]["to_player_id"]) != 800: # ID 800 = NPC player
+              print(os.listdir(os.path.join(p, "data")))
               for file in os.listdir(os.path.join(p, "data")):
+                print(str(json_data["planes"][j]["to_player_id"]))
                 if file[0:8] == str(json_data["planes"][j]["to_player_id"]):
+                  print(file)
                   player_to_file = file
                   break
 

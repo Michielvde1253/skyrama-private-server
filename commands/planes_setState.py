@@ -26,9 +26,17 @@ def handle_planesSetState(request, user_id, rpcResult, items_to_add_to_obj, json
             if request["p"]["flight_status"] == 118 or request["p"]["flight_status"] == 1010 or request["p"]["flight_status"] == 9 or request["p"]["flight_status"] == 2 or request["p"]["flight_status"] == 1005 or request["p"]["flight_status"] == 105:
                 json_data["planes"][j]["start_service_time"] = request["p"]["last_state_change_time"]
 
+            # Check if cargo plane
+            if request["p"]["flight_status"] == 2:
+                for k in init_data["planeTypes"]:
+                    if int(k["id"]) == int(i["plane_type_id"]):
+                        contents_count = int(k["capacity"])
+                        load_type = k["load_type"]
+                        break
+                if load_type == "Cargo": # Reduce air coins for starting cargo planes (amount = wares capacity)
+                    json_data["playerData"]["air_coins"] -= contents_count
 
             # Reduce aircash if buddy plane is landed instantly
-
             if int(request["p"]["instantland"]) == 1:
                 if request["p"]["flight_status"] == 105:
                     for g in init_data["planeTypes"]:
