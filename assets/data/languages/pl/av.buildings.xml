@@ -1070,6 +1070,7 @@
   <item name="av.building.xmas2020_largeplane"><![CDATA[Iceing 636 X20]]></item>
   <item name="av.building.airstrip_birthday2021_large"><![CDATA[Duży urodzinowy pas startowy]]></item>
   <item name="av.building.airstrip_birthday2022_large"><![CDATA[Duży urodzinowy pas startowy]]></item>
+  <item name="av.building.airstrip_birthday2023_large"><![CDATA[Duży urodzinowy pas startowy]]></item>
   
   <item name="av.building.smallplane_mm_2022"><![CDATA[Ja-Lopy]]></item>
   <item name="av.building.madmax2022_background"><![CDATA[Futurystyczne tło]]></item>
@@ -1085,6 +1086,27 @@
   <item name="av.building.smallbay_mm_2022"><![CDATA[Mała płyta postojowa 2022]]></item>
   
   <item name="av.building.building04_mm_2022"><![CDATA[WK-MM 2022]]></item>
+  <item name="av.building.building05_mm_2022"><![CDATA[BC-MM 2022]]></item>
+  
+  <item name="av.building.col2023_smallplane1"><![CDATA[COL-S1]]></item>
+  <item name="av.building.col2023_mediumplane1"><![CDATA[COL-M1]]></item>
+  <item name="av.building.col2023_smallplane1b"><![CDATA[COL-S1B]]></item>
+  <item name="av.building.col2023_smallplane2"><![CDATA[COL-S2]]></item>
+  <item name="av.building.col2023_waveflag"><![CDATA[COL-WF]]></item>
+  <item name="av.building.col2023_stand"><![CDATA[COL-TRBN]]></item>
+  <item name="av.building.col2023_standbig"><![CDATA[COL-TRBN-B]]></item>
+  <item name="av.building.summer2023_background"><![CDATA[Tło: pola 2023]]></item>
+  
+  <item name="av.building.winterevent2023_medium1"><![CDATA[XMAS-M1]]></item>
+  <item name="av.building.winterevent2023_medium2"><![CDATA[XMAS-M2]]></item>
+  <item name="av.building.winterevent2023_medium3"><![CDATA[XMAS-M3]]></item>
+  
+  <item name="av.building.winter2023_background"><![CDATA[Tło: krajobraz zimowy]]></item>
+  <item name="av.building.seaplane_runway_winter"><![CDATA[Tor wodny XMAS-23]]></item>
+  
+  <item name="av.building.valentines2024_smallplane1"><![CDATA[VAL-S1]]></item>
+  <item name="av.building.valentines2024_smallplane1b"><![CDATA[VAL-SB1]]></item>
+  <item name="av.building.valentines2024_smallplane2"><![CDATA[VAL-S2]]></item>
   
  </category>
  <category name="av.storeitem">
@@ -1873,7 +1895,7 @@
   <item name="av.storeitem.valentinesevent022017_seaplane_bonus"><![CDATA[Nakład ograniczony]]></item>
   <item name="av.storeitem.valentinesevent022017_rewardplane"><![CDATA[Nakład ograniczony]]></item>
   <item name="av.storeitem.skyrace2017_building"><![CDATA[Dodaje {number} pasażerów co {minutes}minut(y)]]></item>
-  <item name="av.storeitem.skyrace2017_deco"><![CDATA[Pasażerowie: + {number}Zasięg:]]></item>
+  <item name="av.storeitem.skyrace2017_deco"><![CDATA[Pasażerowie: + {number}Zasięg: {radius}]]></item>
   <item name="av.storeitem.skyrace2017_tech_deco"><![CDATA[Czas odprawy: - {number}% Zasięg: {radius}]]></item>
   <item name="av.storeitem.skyrace2017_background"><![CDATA[Podniebny wyścig - specjalne tło]]></item>
   <item name="av.storeitem.skyrace2017_smallplane01"><![CDATA[Nakład ograniczony]]></item>
@@ -1897,6 +1919,7 @@
   <item name="av.storeitem.xmas2020_largeplane"><![CDATA[Nakład ograniczony]]></item>
   <item name="av.storeitem.airstrip_birthday2021_large"><![CDATA[Tu lądują duże samoloty]]></item>
   <item name="av.storeitem.airstrip_birthday2022_large"><![CDATA[Tu lądują duże samoloty]]></item>
+  <item name="av.storeitem.airstrip_birthday2023_large"><![CDATA[Tu lądują duże samoloty]]></item>
   
   <item name="av.storeitem.smallplane_mm_2022"><![CDATA[Nakład ograniczony]]></item>
   <item name="av.storeitem.madmax2022_background"><![CDATA[Nakład ograniczony]]></item>
@@ -1911,5 +1934,27 @@
   <item name="av.storeitem.smallbay_mm_2022"><![CDATA[Odprawia małe samoloty]]></item>
   
   <item name="av.storeitem.building04_mm_2022"><![CDATA[Dodaje {number} pasażerów co {minutes}minut(y)]]></item>
+  <item name="av.storeitem.building05_mm_2022"><![CDATA[Dodaje {number} pasażerów co {minutes}minut(y)]]></item>
+  
+  <item name="av.storeitem.col2023_smallplane1"><![CDATA[Nakład ograniczony]]></item>
+  <item name="av.storeitem.col2023_mediumplane1"><![CDATA[Nakład ograniczony]]></item>
+  <item name="av.storeitem.col2023_smallplane1b"><![CDATA[Nakład ograniczony]]></item>
+  <item name="av.storeitem.col2023_smallplane2"><![CDATA[Nakład ograniczony]]></item>
+  <item name="av.storeitem.col2023_waveflag"><![CDATA[Pasażerowie: + {number}Zasięg: {radius}]]></item>
+  <item name="av.storeitem.col2023_stand"><![CDATA[Dodaje {number} pasażerów co {minutes}minut(y)]]></item>
+  <item name="av.storeitem.col2023_standbig"><![CDATA[Dodaje {number} pasażerów co {minutes}minut(y)]]></item>
+  <item name="av.storeitem.summer2023_background"><![CDATA[Bajecznie piękna panorama, jak okiem sięgnąć.]]></item>
+  
+  <item name="av.storeitem.winterevent2023_medium1"><![CDATA[Nakład ograniczony]]></item>
+  <item name="av.storeitem.winterevent2023_medium2"><![CDATA[Nakład ograniczony]]></item>
+  <item name="av.storeitem.winterevent2023_medium3"><![CDATA[Nakład ograniczony]]></item>
+  
+  <item name="av.storeitem.winter2023_background"><![CDATA[Zima, jak okiem sięgnąć!]]></item>
+  <item name="av.storeitem.seaplane_runway_winter"><![CDATA[Zezwala na lądowanie hydroplanom]]></item>
+  
+  <item name="av.storeitem.valentines2024_smallplane1"><![CDATA[Nakład ograniczony]]></item>
+  <item name="av.storeitem.valentines2024_smallplane1b"><![CDATA[Nakład ograniczony]]></item>
+  <item name="av.storeitem.valentines2024_smallplane2"><![CDATA[Nakład ograniczony]]></item>
+  
  </category>
 </language>

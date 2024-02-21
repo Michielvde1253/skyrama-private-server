@@ -1069,6 +1069,7 @@
   <item name="av.building.xmas2020_largeplane"><![CDATA[Jääing 636 X20]]></item>
   <item name="av.building.airstrip_birthday2021_large"><![CDATA[Suuri synttärikiitorata]]></item>
   <item name="av.building.airstrip_birthday2022_large"><![CDATA[Suuri synttärikiitorata]]></item>
+  <item name="av.building.airstrip_birthday2023_large"><![CDATA[Suuri synttärikiitorata]]></item>
   
   <item name="av.building.smallplane_mm_2022"><![CDATA[Ja-Lopy]]></item>
   <item name="av.building.madmax2022_background"><![CDATA[Tulevaisuus-tausta]]></item>
@@ -1083,6 +1084,27 @@
   <item name="av.building.smallbay_mm_2022"><![CDATA[Pieni lentokoneparkki 2022]]></item>
   
   <item name="av.building.building04_mm_2022"><![CDATA[WK-MM 2022]]></item>
+  <item name="av.building.building05_mm_2022"><![CDATA[BC-MM 2022]]></item>
+  
+  <item name="av.building.col2023_smallplane1"><![CDATA[COL-S1]]></item>
+  <item name="av.building.col2023_mediumplane1"><![CDATA[COL-M1]]></item>
+  <item name="av.building.col2023_smallplane1b"><![CDATA[COL-S1B]]></item>
+  <item name="av.building.col2023_smallplane2"><![CDATA[COL-S2]]></item>
+  <item name="av.building.col2023_waveflag"><![CDATA[COL-WF]]></item>
+  <item name="av.building.col2023_stand"><![CDATA[COL-TRBN]]></item>
+  <item name="av.building.col2023_standbig"><![CDATA[COL-TRBN-B]]></item>
+  <item name="av.building.summer2023_background"><![CDATA[Niittytausta]]></item>
+  
+  <item name="av.building.winterevent2023_medium1"><![CDATA[XMAS-M1]]></item>
+  <item name="av.building.winterevent2023_medium2"><![CDATA[XMAS-M2]]></item>
+  <item name="av.building.winterevent2023_medium3"><![CDATA[XMAS-M3]]></item>
+  
+  <item name="av.building.winter2023_background"><![CDATA[Talvinen tausta]]></item>
+  <item name="av.building.seaplane_runway_winter"><![CDATA[Vesiväylä XMAS-23]]></item>
+  
+  <item name="av.building.valentines2024_smallplane1"><![CDATA[VAL-S1]]></item>
+  <item name="av.building.valentines2024_smallplane1b"><![CDATA[VAL-SB1]]></item>
+  <item name="av.building.valentines2024_smallplane2"><![CDATA[VAL-S2]]></item>
   
  </category>
  <category name="av.storeitem">
@@ -1870,7 +1892,7 @@
   <item name="av.storeitem.valentinesevent022017_seaplane_bonus"><![CDATA[Rajoitettu versio]]></item>
   <item name="av.storeitem.valentinesevent022017_rewardplane"><![CDATA[Rajoitettu versio]]></item>
   <item name="av.storeitem.skyrace2017_building"><![CDATA[Kerää {number} matkustajaa joka {minutes}. minuutti]]></item>
-  <item name="av.storeitem.skyrace2017_deco"><![CDATA[Matkustajia: + {number} säteellä: {radius]]></item>
+  <item name="av.storeitem.skyrace2017_deco"><![CDATA[Matkustajia: + {number} säteellä: {radius}]]></item>
   <item name="av.storeitem.skyrace2017_tech_deco"><![CDATA[Palveluaika: - {number}% säteellä: {radius}]]></item>
   <item name="av.storeitem.skyrace2017_background"><![CDATA[Skykisa-erikoistausta]]></item>
   <item name="av.storeitem.skyrace2017_smallplane01"><![CDATA[Rajoitettu versio]]></item>
@@ -1894,6 +1916,7 @@
   <item name="av.storeitem.xmas2020_largeplane"><![CDATA[Rajoitettu versio]]></item>
   <item name="av.storeitem.airstrip_birthday2021_large"><![CDATA[Suurten koneiden laskeutumisalusta]]></item>
   <item name="av.storeitem.airstrip_birthday2022_large"><![CDATA[Suurten koneiden laskeutumisalusta]]></item>
+  <item name="av.storeitem.airstrip_birthday2023_large"><![CDATA[Suurten koneiden laskeutumisalusta]]></item>
   
   <item name="av.storeitem.smallplane_mm_2022"><![CDATA[Rajoitettu versio]]></item>
   <item name="av.storeitem.madmax2022_background"><![CDATA[Rajoitettu versio]]></item>
@@ -1909,5 +1932,26 @@
   <item name="av.storeitem.smallbay_mm_2022"><![CDATA[Pienten koneiden valmisteluun]]></item>
   
   <item name="av.storeitem.building04_mm_2022"><![CDATA[Kerää {number} matkustajaa joka {minutes}. minuutti]]></item>
+  <item name="av.storeitem.building05_mm_2022"><![CDATA[Kerää {number} matkustajaa joka {minutes}. minuutti]]></item>
+  
+  <item name="av.storeitem.col2023_smallplane1"><![CDATA[Rajoitettu versio]]></item>
+  <item name="av.storeitem.col2023_mediumplane1"><![CDATA[Rajoitettu versio]]></item>
+  <item name="av.storeitem.col2023_smallplane1b"><![CDATA[Rajoitettu versio]]></item>
+  <item name="av.storeitem.col2023_smallplane2"><![CDATA[Rajoitettu versio]]></item>
+  <item name="av.storeitem.col2023_waveflag"><![CDATA[Matkustajia: + {number} säteellä: {radius}]]></item>
+  <item name="av.storeitem.col2023_stand"><![CDATA[Kerää {number} matkustajaa joka {minutes}. minuutti]]></item>
+  <item name="av.storeitem.col2023_standbig"><![CDATA[Kerää {number} matkustajaa joka {minutes}. minuutti]]></item>
+  <item name="av.storeitem.summer2023_background"><![CDATA[Kaunis maisema silmän kantamattomiin.]]></item>
+    
+  <item name="av.storeitem.winterevent2023_medium1"><![CDATA[Rajoitettu versio]]></item>
+  <item name="av.storeitem.winterevent2023_medium2"><![CDATA[Rajoitettu versio]]></item>
+  <item name="av.storeitem.winterevent2023_medium3"><![CDATA[Rajoitettu versio]]></item>
+  <item name="av.storeitem.winter2023_background"><![CDATA[Todellinen talven ihmemaa!]]></item>
+  <item name="av.storeitem.seaplane_runway_winter"><![CDATA[Vesitasojen laskeutumisalusta]]></item>
+  
+  <item name="av.storeitem.valentines2024_smallplane1"><![CDATA[Rajoitettu versio]]></item>
+  <item name="av.storeitem.valentines2024_smallplane1b"><![CDATA[Rajoitettu versio]]></item>
+  <item name="av.storeitem.valentines2024_smallplane2"><![CDATA[Rajoitettu versio]]></item>
+  
  </category>
 </language>

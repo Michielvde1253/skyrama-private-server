@@ -1072,6 +1072,7 @@
   <item name="av.building.xmas2020_largeplane"><![CDATA[Iceing 636 X20]]></item>
   <item name="av.building.airstrip_birthday2021_large"><![CDATA[Nagy szülinapi kifutópálya]]></item>
   <item name="av.building.airstrip_birthday2022_large"><![CDATA[Nagy szülinapi kifutópálya]]></item>
+  <item name="av.building.airstrip_birthday2023_large"><![CDATA[Nagy szülinapi kifutópálya]]></item>
   
   <item name="av.building.smallplane_mm_2022"><![CDATA[Ja-Lopy]]></item>
   <item name="av.building.madmax2022_background"><![CDATA[Háttér a jövőből]]></item>
@@ -1086,7 +1087,28 @@
   <item name="av.building.smallbay_mm_2022"><![CDATA[Kis állóhely 2022]]></item>
   
   <item name="av.building.building04_mm_2022"><![CDATA[WK-MM 2022]]></item>
+  <item name="av.building.building05_mm_2022"><![CDATA[BC-MM 2022]]></item>
   
+  <item name="av.building.col2023_smallplane1"><![CDATA[COL-S1]]></item>
+  <item name="av.building.col2023_mediumplane1"><![CDATA[COL-M1]]></item>
+  <item name="av.building.col2023_smallplane1b"><![CDATA[COL-S1B]]></item>
+  <item name="av.building.col2023_smallplane2"><![CDATA[COL-S2]]></item>
+  <item name="av.building.col2023_waveflag"><![CDATA[COL-WF]]></item>
+  <item name="av.building.col2023_stand"><![CDATA[COL-TRBN]]></item>
+  <item name="av.building.col2023_standbig"><![CDATA[COL-TRBN-B]]></item>
+  <item name="av.building.summer2023_background"><![CDATA[Mező háttér 2023]]></item>
+  
+  <item name="av.building.winterevent2023_medium1"><![CDATA[XMAS-M1]]></item>
+  <item name="av.building.winterevent2023_medium2"><![CDATA[XMAS-M2]]></item>
+  <item name="av.building.winterevent2023_medium3"><![CDATA[XMAS-M3]]></item>
+  
+  <item name="av.building.winter2023_background"><![CDATA[Téli háttér]]></item>
+  <item name="av.building.seaplane_runway_winter"><![CDATA[Vízi kifutó XMAS-23]]></item>
+  
+  <item name="av.building.valentines2024_smallplane1"><![CDATA[VAL-S1]]></item>
+  <item name="av.building.valentines2024_smallplane1b"><![CDATA[VAL-SB1]]></item>
+  <item name="av.building.valentines2024_smallplane2"><![CDATA[VAL-S2]]></item>
+
  </category>
  <category name="av.storeitem">
   <item name="av.storeitem.s_prop1"><![CDATA[Utasokat szállít. A szállítással aircoint kereshetsz és tapasztalatpontokat gyűjthetsz.]]></item>
@@ -1900,6 +1922,7 @@
   <item name="av.storeitem.xmas2020_largeplane"><![CDATA[Limitált kiadás]]></item>
   <item name="av.storeitem.airstrip_birthday2021_large"><![CDATA[Nagy gépek leszállópályája.]]></item>
   <item name="av.storeitem.airstrip_birthday2022_large"><![CDATA[Nagy gépek leszállópályája.]]></item>
+  <item name="av.storeitem.airstrip_birthday2023_large"><![CDATA[Nagy gépek leszállópályája.]]></item>
   
   <item name="av.storeitem.smallplane_mm_2022"><![CDATA[Limitált kiadás]]></item>
   <item name="av.storeitem.madmax2022_background"><![CDATA[Limitált kiadás]]></item>
@@ -1915,5 +1938,27 @@
   <item name="av.storeitem.smallbay_mm_2022"><![CDATA[Kis repülőket lát el.]]></item>
   
   <item name="av.storeitem.building04_mm_2022"><![CDATA[{minutes} percenként {number} utast gyűjt össze.]]></item>
+  <item name="av.storeitem.building05_mm_2022"><![CDATA[{minutes} percenként {number} utast gyűjt össze.]]></item>
+  
+  <item name="av.storeitem.col2023_smallplane1"><![CDATA[Limitált kiadás]]></item>
+  <item name="av.storeitem.col2023_mediumplane1"><![CDATA[Limitált kiadás]]></item>
+  <item name="av.storeitem.col2023_smallplane1b"><![CDATA[Limitált kiadás]]></item>
+  <item name="av.storeitem.col2023_smallplane2"><![CDATA[Limitált kiadás]]></item>
+  <item name="av.storeitem.col2023_waveflag"><![CDATA[Utasok: + {number}, hatókör: {radius}]]></item>
+  <item name="av.storeitem.col2023_stand"><![CDATA[{minutes} percenként {number} utast gyűjt össze.]]></item>
+  <item name="av.storeitem.col2023_standbig"><![CDATA[{minutes} percenként {number} utast gyűjt össze.]]></item>
+  <item name="av.storeitem.summer2023_background"><![CDATA[Álomszép kilátás, amíg a szem ellát.]]></item>
+  
+  <item name="av.storeitem.winterevent2023_medium1"><![CDATA[Limitált kiadás]]></item>
+  <item name="av.storeitem.winterevent2023_medium2"><![CDATA[Limitált kiadás]]></item>
+  <item name="av.storeitem.winterevent2023_medium3"><![CDATA[Limitált kiadás]]></item>
+  
+  <item name="av.storeitem.winter2023_background"><![CDATA[Tél, ameddig a szem ellát!]]></item>
+  <item name="av.storeitem.seaplane_runway_winter"><![CDATA[Hidroplánok leszállópályája]]></item>
+  
+  <item name="av.storeitem.valentines2024_smallplane1"><![CDATA[Limitált kiadás]]></item>
+  <item name="av.storeitem.valentines2024_smallplane1b"><![CDATA[Limitált kiadás]]></item>
+  <item name="av.storeitem.valentines2024_smallplane2"><![CDATA[Limitált kiadás]]></item>
+  
  </category>
 </language>

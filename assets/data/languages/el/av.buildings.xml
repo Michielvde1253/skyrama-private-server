@@ -1069,6 +1069,7 @@
   <item name="av.building.xmas2020_largeplane"><![CDATA[Παγόπτερο 636 X20]]></item>
   <item name="av.building.airstrip_birthday2021_large"><![CDATA[Μεγάλος γενέθλιος διάδρομος απογείωσης]]></item>
   <item name="av.building.airstrip_birthday2022_large"><![CDATA[Μεγάλος γενέθλιος διάδρομος απογείωσης]]></item>
+  <item name="av.building.airstrip_birthday2023_large"><![CDATA[Μεγάλος γενέθλιος διάδρομος απογείωσης]]></item>
   
   <item name="av.building.smallplane_mm_2022"><![CDATA[Ja-Lopy]]></item>
   <item name="av.building.madmax2022_background"><![CDATA[Φόντο του μέλλοντος]]></item>
@@ -1083,6 +1084,27 @@
   <item name="av.building.smallbay_mm_2022"><![CDATA[Θέση στάθμευσης S 2022]]></item>
   
   <item name="av.building.building04_mm_2022"><![CDATA[WK-MM 2022]]></item>
+  <item name="av.building.building05_mm_2022"><![CDATA[BC-MM 2022]]></item>
+  
+  <item name="av.building.col2023_smallplane1"><![CDATA[COL-S1]]></item>
+  <item name="av.building.col2023_mediumplane1"><![CDATA[COL-M1]]></item>
+  <item name="av.building.col2023_smallplane1b"><![CDATA[COL-S1B]]></item>
+  <item name="av.building.col2023_smallplane2"><![CDATA[COL-S2]]></item>
+  <item name="av.building.col2023_waveflag"><![CDATA[COL-WF]]></item>
+  <item name="av.building.col2023_stand"><![CDATA[COL-TRBN]]></item>
+  <item name="av.building.col2023_standbig"><![CDATA[COL-TRBN-B]]></item>
+  <item name="av.building.summer2023_background"><![CDATA[Φόντο: Χωράφια 2023]]></item>
+  
+  <item name="av.building.winterevent2023_medium1"><![CDATA[XMAS-M1]]></item>
+  <item name="av.building.winterevent2023_medium2"><![CDATA[XMAS-M2]]></item>
+  <item name="av.building.winterevent2023_medium3"><![CDATA[XMAS-M3]]></item>
+  
+  <item name="av.building.winter2023_background"><![CDATA[Φόντο: Χειμώνας]]></item>
+  <item name="av.building.seaplane_runway_winter"><![CDATA[Υδάτινος διάδρομος απογείωσης XMAS-23]]></item>
+  
+  <item name="av.building.valentines2024_smallplane1"><![CDATA[VAL-S1]]></item>
+  <item name="av.building.valentines2024_smallplane1b"><![CDATA[VAL-SB1]]></item>
+  <item name="av.building.valentines2024_smallplane2"><![CDATA[VAL-S2]]></item>
   
  </category>
  <category name="av.storeitem">
@@ -1870,7 +1892,7 @@
   <item name="av.storeitem.valentinesevent022017_seaplane_bonus"><![CDATA[Περιορισμένη έκδοση]]></item>
   <item name="av.storeitem.valentinesevent022017_rewardplane"><![CDATA[Περιορισμένη έκδοση]]></item>
   <item name="av.storeitem.skyrace2017_building"><![CDATA[Συγκεντρώνει {number} επιβάτη(ες) κάθε {minutes} λεπτό(α)]]></item>
-  <item name="av.storeitem.skyrace2017_deco"><![CDATA[Επιβάτες: + {number} Ακτίνα: {radius]]></item>
+  <item name="av.storeitem.skyrace2017_deco"><![CDATA[Επιβάτες: + {number} Ακτίνα: {radius}]]></item>
   <item name="av.storeitem.skyrace2017_tech_deco"><![CDATA[Χρόνος εξυπηρέτησης: - {number}% Ακτίνα: {radius}]]></item>
   <item name="av.storeitem.skyrace2017_background"><![CDATA[Ειδικό Φόντο: Αιθέριοι Αγώνες]]></item>
   <item name="av.storeitem.skyrace2017_smallplane01"><![CDATA[Περιορισμένη έκδοση]]></item>
@@ -1894,6 +1916,7 @@
   <item name="av.storeitem.xmas2020_largeplane"><![CDATA[Περιορισμένη έκδοση]]></item>
   <item name="av.storeitem.airstrip_birthday2021_large"><![CDATA[Προσγειώνει αεροπλάνα L]]></item>
   <item name="av.storeitem.airstrip_birthday2022_large"><![CDATA[Προσγειώνει αεροπλάνα L]]></item>
+  <item name="av.storeitem.airstrip_birthday2023_large"><![CDATA[Προσγειώνει αεροπλάνα L]]></item>
   
   <item name="av.storeitem.smallplane_mm_2022"><![CDATA[Περιορισμένη έκδοση]]></item>
   <item name="av.storeitem.madmax2022_background"><![CDATA[Περιορισμένη έκδοση]]></item>
@@ -1908,5 +1931,27 @@
   <item name="av.storeitem.smallbay_mm_2022"><![CDATA[Εξυπηρετεί αεροπλάνα S.]]></item>
   
   <item name="av.storeitem.building04_mm_2022"><![CDATA[Συγκεντρώνει {number} επιβάτη(ες) κάθε {minutes} λεπτό(α)]]></item>
+  <item name="av.storeitem.building05_mm_2022"><![CDATA[Συγκεντρώνει {number} επιβάτη(ες) κάθε {minutes} λεπτό(α)]]></item>
+  
+  <item name="av.storeitem.col2023_smallplane1"><![CDATA[Περιορισμένη έκδοση]]></item>
+  <item name="av.storeitem.col2023_mediumplane1"><![CDATA[Περιορισμένη έκδοση]]></item>
+  <item name="av.storeitem.col2023_smallplane1b"><![CDATA[Περιορισμένη έκδοση]]></item>
+  <item name="av.storeitem.col2023_smallplane2"><![CDATA[Περιορισμένη έκδοση]]></item>
+  <item name="av.storeitem.col2023_waveflag"><![CDATA[Επιβάτες: + {number} Ακτίνα: {radius}]]></item>
+  <item name="av.storeitem.col2023_stand"><![CDATA[Συγκεντρώνει {number} επιβάτη(ες) κάθε {minutes} λεπτό(α)]]></item>
+  <item name="av.storeitem.col2023_standbig"><![CDATA[Συγκεντρώνει {number} επιβάτη(ες) κάθε {minutes} λεπτό(α)]]></item>
+  <item name="av.storeitem.summer2023_background"><![CDATA[Πανέμορφη θέα μέχρι εκεί που φτάνει το μάτι.]]></item>
+  
+  <item name="av.storeitem.winterevent2023_medium1"><![CDATA[Περιορισμένη έκδοση]]></item>
+  <item name="av.storeitem.winterevent2023_medium2"><![CDATA[Περιορισμένη έκδοση]]></item>
+  <item name="av.storeitem.winterevent2023_medium3"><![CDATA[Περιορισμένη έκδοση]]></item>
+  
+  <item name="av.storeitem.winter2023_background"><![CDATA[Ένας πραγματικός χειμερινός παράδεισος!]]></item>
+  <item name="av.storeitem.seaplane_runway_winter"><![CDATA[Προσγειώνει υδροπλάνα]]></item>
+  
+  <item name="av.storeitem.valentines2024_smallplane1"><![CDATA[Περιορισμένη έκδοση]]></item>
+  <item name="av.storeitem.valentines2024_smallplane1b"><![CDATA[Περιορισμένη έκδοση]]></item>
+  <item name="av.storeitem.valentines2024_smallplane2"><![CDATA[Περιορισμένη έκδοση]]></item>
+  
  </category>
 </language>

@@ -1076,6 +1076,7 @@
   <item name="av.building.xmas2020_largeplane"><![CDATA[Iceing 636 X20]]></item>
   <item name="av.building.airstrip_birthday2021_large"><![CDATA[Stor fødselsdag startbane]]></item>
   <item name="av.building.airstrip_birthday2022_large"><![CDATA[Stor fødselsdag startbane]]></item>
+  <item name="av.building.airstrip_birthday2023_large"><![CDATA[Stor fødselsdag startbane]]></item>
   
   <item name="av.building.smallplane_mm_2022"><![CDATA[Ja-Lopy]]></item>
   <item name="av.building.madmax2022_background"><![CDATA[Fremtidsbaggrund]]></item>
@@ -1089,8 +1090,29 @@
   
   <item name="av.building.smallbay_mm_2022"><![CDATA[Lille rampe 2022]]></item>
   
-  <item name="av.building.building04_mm_2022"><![CDATA[WK-MM 2022]]></item> 
+  <item name="av.building.building04_mm_2022"><![CDATA[WK-MM 2022]]></item>
+  <item name="av.building.building05_mm_2022"><![CDATA[BC-MM 2022]]></item>
   
+  <item name="av.building.col2023_smallplane1"><![CDATA[COL-S1]]></item>
+  <item name="av.building.col2023_mediumplane1"><![CDATA[COL-M1]]></item>
+  <item name="av.building.col2023_smallplane1b"><![CDATA[COL-S1B]]></item>
+  <item name="av.building.col2023_smallplane2"><![CDATA[COL-S2]]></item>
+  <item name="av.building.col2023_waveflag"><![CDATA[COL-WF]]></item>
+  <item name="av.building.col2023_stand"><![CDATA[COL-TRBN]]></item>
+  <item name="av.building.col2023_standbig"><![CDATA[COL-TRBN-B]]></item>
+  <item name="av.building.summer2023_background"><![CDATA[Baggrund: Felter 2023]]></item>
+  
+  <item name="av.building.winterevent2023_medium1"><![CDATA[XMAS-M1]]></item>
+  <item name="av.building.winterevent2023_medium2"><![CDATA[XMAS-M2]]></item>
+  <item name="av.building.winterevent2023_medium3"><![CDATA[XMAS-M3]]></item>
+  <item name="av.building.winter2023_background"><![CDATA[baggrund<: vinter]]></item>
+  
+  <item name="av.building.seaplane_runway_winter"><![CDATA[Vandvej XMAS-23]]></item>
+  
+  <item name="av.building.valentines2024_smallplane1"><![CDATA[VAL-S1]]></item>
+  <item name="av.building.valentines2024_smallplane1b"><![CDATA[VAL-SB1]]></item>
+  <item name="av.building.valentines2024_smallplane2"><![CDATA[VAL-S2]]></item>
+   
  </category>
  <category name="av.storeitem">
   <item name="av.storeitem.s_prop1"><![CDATA[Transporterer passagerer så du tjener flere aircoins og EP]]></item>
@@ -1883,7 +1905,7 @@
   <item name="av.storeitem.valentinesevent022017_seaplane_bonus"><![CDATA[Begrænset oplag!]]></item>
   <item name="av.storeitem.valentinesevent022017_rewardplane"><![CDATA[Begrænset oplag!]]></item>
   <item name="av.storeitem.skyrace2017_building"><![CDATA[Få {number} passager(er) med hvert {minutes}minut]]></item>
-  <item name="av.storeitem.skyrace2017_deco"><![CDATA[Passagerer: + {number} Radius: {radius]]></item>
+  <item name="av.storeitem.skyrace2017_deco"><![CDATA[Passagerer: + {number} Radius: {radius}]]></item>
   <item name="av.storeitem.skyrace2017_tech_deco"><![CDATA[Ekspeditionstid: - {number}% Radius: {radius}]]></item>
   <item name="av.storeitem.skyrace2017_background"><![CDATA[Skyrace speciel background]]></item>
   <item name="av.storeitem.skyrace2017_smallplane01"><![CDATA[Begrænset oplag!]]></item>
@@ -1907,6 +1929,7 @@
   <item name="av.storeitem.xmas2020_largeplane"><![CDATA[Begrænset oplag!]]></item>
   <item name="av.storeitem.airstrip_birthday2021_large"><![CDATA[Her lander store flyvere]]></item>
   <item name="av.storeitem.airstrip_birthday2022_large"><![CDATA[Her lander store flyvere]]></item>
+  <item name="av.storeitem.airstrip_birthday2023_large"><![CDATA[Her lander store flyvere]]></item>
   
   <item name="av.storeitem.smallplane_mm_2022"><![CDATA[Begrænset oplag!]]></item>
   <item name="av.storeitem.madmax2022_background"><![CDATA[Begrænset oplag!]]></item>
@@ -1921,6 +1944,27 @@
   <item name="av.storeitem.smallbay_mm_2022"><![CDATA[Servicerer små flyvemaskiner]]></item>
   
   <item name="av.storeitem.building04_mm_2022"><![CDATA[Få {number} passager(er) med hvert {minutes}minut]]></item>
+  <item name="av.storeitem.building05_mm_2022"><![CDATA[Få {number} passager(er) med hvert {minutes}minut]]></item>
+  
+  <item name="av.storeitem.col2023_smallplane1"><![CDATA[Begrænset oplag!]]></item>
+  <item name="av.storeitem.col2023_mediumplane1"><![CDATA[Begrænset oplag!]]></item>
+  <item name="av.storeitem.col2023_smallplane1b"><![CDATA[Begrænset oplag!]]></item>
+  <item name="av.storeitem.col2023_smallplane2"><![CDATA[Begrænset oplag!]]></item>
+  <item name="av.storeitem.col2023_waveflag"><![CDATA[Passagerer: + {number} Radius: {radius}]]></item>
+  <item name="av.storeitem.col2023_stand"><![CDATA[Få {number} passager(er) med hvert {minutes}minut]]></item>
+  <item name="av.storeitem.col2023_standbig"><![CDATA[Få {number} passager(er) med hvert {minutes}minut]]></item>
+  <item name="av.storeitem.summer2023_background"><![CDATA[Fantastisk udsigt så langt øjet rækker.]]></item>
+  
+  <item name="av.storeitem.winterevent2023_medium1"><![CDATA[Begrænset oplag!]]></item>
+  <item name="av.storeitem.winterevent2023_medium2"><![CDATA[Begrænset oplag!]]></item>
+  <item name="av.storeitem.winterevent2023_medium3"><![CDATA[Begrænset oplag!]]></item>
+  
+  <item name="av.storeitem.winter2023_background"><![CDATA[Vinter så langt øjet rækker!]]></item>
+  <item name="av.storeitem.seaplane_runway_winter"><![CDATA[Land vandflyvere]]></item>
+  
+  <item name="av.storeitem.valentines2024_smallplane1"><![CDATA[Begrænset oplag!]]></item>
+  <item name="av.storeitem.valentines2024_smallplane1b"><![CDATA[Begrænset oplag!]]></item>
+  <item name="av.storeitem.valentines2024_smallplane2"><![CDATA[Begrænset oplag!]]></item>
   
  </category>
 </language>
