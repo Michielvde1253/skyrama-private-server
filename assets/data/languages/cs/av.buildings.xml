@@ -1074,6 +1074,7 @@
   <item name="av.building.xmas2020_largeplane"><![CDATA[20x Iceing 636]]></item>
   <item name="av.building.airstrip_birthday2021_large"><![CDATA[Velká narozeninová runway]]></item>
   <item name="av.building.airstrip_birthday2022_large"><![CDATA[Velká narozeninová runway]]></item>
+  <item name="av.building.airstrip_birthday2023_large"><![CDATA[Velká narozeninová runway]]></item>
   
   <item name="av.building.smallplane_mm_2022"><![CDATA[Ja-Lopy]]></item>
   <item name="av.building.madmax2022_background"><![CDATA[Futuristické pozadí]]></item>
@@ -1087,7 +1088,28 @@
   
   <item name="av.building.smallbay_mm_2022"><![CDATA[Malá servisní plocha 2022]]></item>
 
-  <item name="av.building.building04_mm_2022"><![CDATA[WK-MM 2022]]></item>  
+  <item name="av.building.building04_mm_2022"><![CDATA[WK-MM 2022]]></item>
+  <item name="av.building.building05_mm_2022"><![CDATA[BC-MM 2022]]></item>
+  
+  <item name="av.building.col2023_smallplane1"><![CDATA[COL-S1]]></item>
+  <item name="av.building.col2023_mediumplane1"><![CDATA[COL-M1]]></item>
+  <item name="av.building.col2023_smallplane1b"><![CDATA[COL-S1B]]></item>
+  <item name="av.building.col2023_smallplane2"><![CDATA[COL-S2]]></item>
+  <item name="av.building.col2023_waveflag"><![CDATA[COL-WF]]></item>
+  <item name="av.building.col2023_stand"><![CDATA[COL-TRBN]]></item>
+  <item name="av.building.col2023_standbig"><![CDATA[COL-TRBN-B]]></item>
+  <item name="av.building.summer2023_background"><![CDATA[Pozadí: pole 2023]]></item>
+  
+  <item name="av.building.winterevent2023_medium1"><![CDATA[XMAS-M1]]></item>
+  <item name="av.building.winterevent2023_medium2"><![CDATA[XMAS-M2]]></item>
+  <item name="av.building.winterevent2023_medium3"><![CDATA[XMAS-M3]]></item>
+  <item name="av.building.winter2023_background"><![CDATA[Zimní scéna]]></item>
+  
+  <item name="av.building.seaplane_runway_winter"><![CDATA[Vodní dráha XMAS-23]]></item>
+  
+  <item name="av.building.valentines2024_smallplane1"><![CDATA[VAL-S1]]></item>
+  <item name="av.building.valentines2024_smallplane1b"><![CDATA[VAL-SB1]]></item>
+  <item name="av.building.valentines2024_smallplane2"><![CDATA[VAL-S2]]></item>
   
  </category>
  <category name="av.storeitem">
@@ -1881,7 +1903,7 @@
   <item name="av.storeitem.valentinesevent022017_seaplane_bonus"><![CDATA[Limitovaná edice]]></item>
   <item name="av.storeitem.valentinesevent022017_rewardplane"><![CDATA[Limitovaná edice]]></item>
   <item name="av.storeitem.skyrace2017_building"><![CDATA[Sbírá pasažéry: {number} každých {minutes} min.]]></item>
-  <item name="av.storeitem.skyrace2017_deco"><![CDATA[Pasažéři: + {number} Rádius: {radius]]></item>
+  <item name="av.storeitem.skyrace2017_deco"><![CDATA[Pasažéři: + {number} Rádius: {radius}]]></item>
   <item name="av.storeitem.skyrace2017_tech_deco"><![CDATA[Rychlost odbavení: - {number} % Rádius: {radius}]]></item>
   <item name="av.storeitem.skyrace2017_background"><![CDATA[Nebeský závod – speciální pozadí]]></item>
   <item name="av.storeitem.skyrace2017_smallplane01"><![CDATA[Limitovaná edice]]></item>
@@ -1905,6 +1927,7 @@
   <item name="av.storeitem.xmas2020_largeplane"><![CDATA[Limitovaná edice]]></item>
   <item name="av.storeitem.airstrip_birthday2021_large"><![CDATA[Přistání velkých letadel]]></item>
   <item name="av.storeitem.airstrip_birthday2022_large"><![CDATA[Přistání velkých letadel]]></item>
+  <item name="av.storeitem.airstrip_birthday2023_large"><![CDATA[Přistání velkých letadel]]></item>
   <item name="av.storeitem.smallplane_mm_2022"><![CDATA[Limitovaná edice]]></item>
   <item name="av.storeitem.madmax2022_background"><![CDATA[Limitovaná edice]]></item>
   <item name="av.storeitem.ballon_mm_2022"><![CDATA[Limitovaná edice]]></item>
@@ -1917,7 +1940,28 @@
   
   <item name="av.storeitem.smallbay_mm_2022"><![CDATA[Servis pro malá letadla]]></item>
   
-  <item name="av.storeitem.building04_mm_2022"><![CDATA[Sbírá pasažéry: {number} každých {minutes} min.]]></item> 
+  <item name="av.storeitem.building04_mm_2022"><![CDATA[Sbírá pasažéry: {number} každých {minutes} min.]]></item>
+  <item name="av.storeitem.building05_mm_2022"><![CDATA[Sbírá pasažéry: {number} každých {minutes} min.]]></item>
+  
+  <item name="av.storeitem.col2023_smallplane1"><![CDATA[Limitovaná edice]]></item>
+  <item name="av.storeitem.col2023_mediumplane1"><![CDATA[Limitovaná edice]]></item>
+  <item name="av.storeitem.col2023_smallplane1b"><![CDATA[Limitovaná edice]]></item>
+  <item name="av.storeitem.col2023_smallplane2"><![CDATA[Limitovaná edice]]></item>
+  <item name="av.storeitem.col2023_waveflag"><![CDATA[Rychlost odbavení: - {number} % Rádius: {radius}]]></item>
+  <item name="av.storeitem.col2023_stand"><![CDATA[Sbírá pasažéry: {number} každých {minutes} min.]]></item>
+  <item name="av.storeitem.col2023_standbig"><![CDATA[Sbírá pasažéry: {number} každých {minutes} min.]]></item>
+  <item name="av.storeitem.summer2023_background"><![CDATA[Jedinečný výhled kam jen oko dohlédne.]]></item>
+  
+  <item name="av.storeitem.winterevent2023_medium1"><![CDATA[Limitovaná edice]]></item>
+  <item name="av.storeitem.winterevent2023_medium2"><![CDATA[Limitovaná edice]]></item>
+  <item name="av.storeitem.winterevent2023_medium3"><![CDATA[Limitovaná edice]]></item>
+  
+  <item name="av.storeitem.winter2023_background"><![CDATA[Ta pravá zimní říše!]]></item>
+  <item name="av.storeitem.seaplane_runway_winter"><![CDATA[Přistaň s hydroplány]]></item>
+  
+  <item name="av.storeitem.valentines2024_smallplane1"><![CDATA[Limitovaná edice]]></item>
+  <item name="av.storeitem.valentines2024_smallplane1b"><![CDATA[Limitovaná edice]]></item>
+  <item name="av.storeitem.valentines2024_smallplane2"><![CDATA[Limitovaná edice]]></item>
   
  </category>
 </language>
