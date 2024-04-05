@@ -1,5 +1,14 @@
+#######################
+# Import server stuff #
+#######################
 from commands import *
 from bundle import TEMPLATES_DIR, STUB_DIR, STYLES_DIR, ASSETS_DIR
+import userManager
+
+##########################
+# Import 3rd party stuff #
+##########################
+print(" [+] Importing libraries...")
 from flask import Flask, render_template, send_from_directory, request, redirect, session, url_for
 import re
 import random
@@ -9,11 +18,6 @@ import hashlib
 from pathlib import Path
 import json
 import os
-print(" [+] Loading basics...")
-if os.name == 'nt':
-    os.system("color")
-
-os.system("title Skyrama Server")
 
 print(" [+] Loading server...")
 
@@ -23,6 +27,9 @@ for module in os.listdir(os.path.join(os.path.dirname(__file__), "commands")):
     __import__(module[:-3], locals(), globals())
 del module
 
+###############################
+# Setup list of game commands #
+###############################
 
 available_commands = {
     "general.getCv": handle_getCv,
@@ -66,9 +73,16 @@ available_commands = {
     "planes.removeFlyByPlane": handle_planesRemoveFlyByPlane,
     "planes.onStartCargoTutorial": handle_planesOnStartCargoTutorial,
     "cargoshops.fillShop": handle_cargoshopsFillShop,
-    "cargoshops.collectSalesRevenue": handle_cargoshopsCollectSalesRevenue
+    "cargoshops.collectSalesRevenue": handle_cargoshopsCollectSalesRevenue,
+    "general.getBuddyInitState": handle_getBuddyInitState,
+    "resource_items.buy": handle_resourceItemsBuy,
+    "playerdata.updateBuddypingTime": handle_updateBuddypingTime,
+    "playerdata.deleteBuddypingTime": handle_deleteBuddypingTime
 }
 
+#########################
+# Load global game data #
+#########################
 print(" [+] Loading init data...")
 
 p = Path(__file__).parents[0]
@@ -81,11 +95,28 @@ f = open(os.path.join(p, "data", "obj.json"), "r")
 obj_data = json.loads(str(f.read()))
 f.close()
 
+##########################
+# Load site translations #
+##########################
+langstrings = {}
+for filename in os.listdir(os.path.join("templates", "languages")):
+    f = open(os.path.join("templates", "languages",
+             filename), "r", encoding="utf-8")
+    langstrings[filename[0:-5]] = json.loads(str(f.read()))
+    f.close()
+
+########################################
+# Get total amount of created accounts #
+########################################
+playerCount = len(os.listdir("data")) - 5 # -5 because of default files and folders
+
+'''
 # GLITCH
-# host = '0.0.0.0'
-# port = 8080
-# server_ip = "http://skyrama.glitch.me"
-# assets_ip = "https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/"
+host = '0.0.0.0'
+port = 8080
+server_ip = "http://skyrama.glitch.me"
+assets_ip = "https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/"
+'''
 
 # LOCAL
 host = '127.0.0.1'
@@ -101,11 +132,13 @@ print(" [+] Configuring server routes...")
 # ROUTES #
 ##########
 
-
 @app.route("/play")
 def play():
+    # If not logged in, redirect to homepage
     if "username" not in session:
         return redirect("/")
+    
+    # Setup session
     session["error_mode"] = "error"
     if not request.args.get('locale'):
         if "lang" in session:
@@ -115,17 +148,12 @@ def play():
     else:
         lang = request.args.get('locale')
     session["lang"] = lang
-    f = open(os.path.join("templates", "languages",
-             lang + ".json"), "r", encoding="utf-8")
-    langstrings = json.loads(str(f.read()))
-    f.close()
-    return render_template("play.html", username=session["username"], userid=session["userid"], token=session["token"], lang=lang, SERVERIP=server_ip, ASSETSIP=assets_ip, langstrings=langstrings)
+    return render_template("play.html", username=session["username"], userid=session["userid"], token=session["token"], lang=lang, SERVERIP=server_ip, ASSETSIP=assets_ip, langstrings=langstrings[lang])
 
 
 @app.route('/')
 def homepage():
-    # Get total amount of created accounts
-    playerCount = len(os.listdir("data")) - 4
+    # Setup session
     if not request.args.get('locale'):
         if "lang" in session:
             lang = session["lang"]
@@ -135,19 +163,13 @@ def homepage():
         lang = request.args.get('locale')
     session["lang"] = lang
     langUpper = lang.upper()
-    f = open(os.path.join("templates", "languages",
-             lang + ".json"), "r", encoding="utf-8")
-    langstrings = json.loads(str(f.read()))
-    f.close()
-    return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings, lang=lang, langUpper=langUpper)
+    return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings[lang], lang=lang, langUpper=langUpper)
 
 
-@app.route('/login', methods=['GET', 'POST'])
+@app.route('/login', methods=['POST'])
 def login():
     msg = ''
-
-    # Get total amount of created accounts
-    playerCount = len(os.listdir("data")) - 4
+    # Setup session
     if not request.args.get('locale'):
         if "lang" in session:
             lang = session["lang"]
@@ -156,132 +178,97 @@ def login():
     else:
         lang = request.args.get('locale')
     langUpper = lang.upper()
-    f = open(os.path.join("templates", "languages", lang + ".json"), "r")
-    langstrings = json.loads(str(f.read()))
-    f.close()
 
-    if request.method == 'POST' and 'username' in request.form and 'password' in request.form:
+    if 'username' in request.form and 'password' in request.form:
         username = request.form['username']
         password = request.form['password']
         password = hashlib.sha512(password.encode('utf-8')).hexdigest()
-        for i in os.listdir("data"):
-            if i[8:len(i)-5] == username:
-                f = open(os.path.join("data", i), "r")
-                json_data = json.loads(str(f.read()))
-                f.close()
-                if json_data["playerData"]["password"] == password:
-                    json_data["playerData"]["token"] = str(uuid.uuid1())
-                    msg = 'Logged in successfully!'
-                    f = open(os.path.join("data", i), "w")
-                    f.write(json.dumps(json_data))
-                    f.close()
 
-                    session["username"] = username
-                    session["userid"] = json_data["playerData"]["account_id"]
-                    session["token"] = json_data["playerData"]["token"]
-                    return redirect('play')
-                else:
-                    msg = 'bgc.error.login_invalidCredentials'
-                    return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings, lang=lang, langUpper=langUpper, msg=msg)
-        msg = 'bgc.error.login_invalidCredentials'
-        return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings, lang=lang, langUpper=langUpper, msg=msg)
+        json_data = userManager.load_save_by_name(username)
+        if json_data["playerData"]["password"] == password:
+            # Generate random token
+            json_data["playerData"]["token"] = str(uuid.uuid1())
+            user_id = json_data["playerData"]["account_id"]
+            msg = 'Logged in successfully!'
+            userManager.modify_save_by_id(user_id, json_data)
+            session["username"] = username
+            session["userid"] = user_id
+            session["token"] = json_data["playerData"]["token"]
+            return redirect('play')
+        else:
+            msg = 'bgc.error.login_invalidCredentials'
+            return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings[lang], lang=lang, langUpper=langUpper, msg=msg)
 
     else:
-        return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings, lang=lang, langUpper=langUpper, msg='')
+        return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings[lang], lang=lang, langUpper=langUpper, msg='')
 
 
-@app.route('/register', methods=['GET', 'POST'])
+@app.route('/register', methods=['POST'])
 def register():
     msg = ''
-    if request.method == 'POST':
-        username = request.form['RegUsername']
-        password = request.form['RegPassword']
-        password = hashlib.sha512(password.encode('utf-8')).hexdigest()
-        email = request.form['RegEmail']
+    # Read form data
+    username = request.form['RegUsername']
+    password = request.form['RegPassword']
+    password = hashlib.sha512(password.encode('utf-8')).hexdigest()
+    email = request.form['RegEmail']
 
-        # Get total amount of created accounts
-        playerCount = len(os.listdir("data")) - 4
-        if not request.args.get('locale'):
-            lang = "en"
-        else:
-            lang = request.args.get('locale')
-        langUpper = lang.upper()
-        f = open(os.path.join("templates", "languages", lang + ".json"), "r")
-        langstrings = json.loads(str(f.read()))
-        f.close()
+    # Setup session
+    if not request.args.get('locale'):
+        lang = "en"
+    else:
+        lang = request.args.get('locale')
+    langUpper = lang.upper()
 
-        if not re.match(r'[^@]+@[^@]+\.[^@]+', email):
-            msg = 'bgc.error.email_invalidAddress'
-        elif not re.match(r'[A-Za-z0-9]+', username):
-            msg = 'bgc.error.username_containsInvalidCharacters'
-        elif not username:
-            msg = 'bgc.error.username_notGiven'
-        elif not password:
-            msg = 'bgc.error.password_notGiven'
-        elif len(username) < 4:
-            msg = 'bgc.error.username_isTooShort'
-        elif len(username) > 20:
-            msg = 'bgc.error.username_isTooLong'
-        # Disabled cuz of hash, needs to be checked on the site itself
-        # elif len(password) < 4:
-        #    msg = 'bgc.error.password_isTooShort'
-        # elif len(password) > 45:
-        #    msg = 'bgc.error.password_isTooLong'
-        elif not email:
-            msg = 'bgc.error.email_notGiven'
-        else:
-            accountExists = 0
-            files = os.listdir(os.path.join(Path(__file__).parents[0], "data"))
-            for g in files:
-                if g[8:len(g) - 5] == username:
-                    accountExists = 1
-                    break
-            if accountExists == 0:
+    # Check if input data is valid
+    if not re.match(r'[^@]+@[^@]+\.[^@]+', email):
+        msg = 'bgc.error.email_invalidAddress'
+    elif not re.match(r'[A-Za-z0-9]+', username):
+        msg = 'bgc.error.username_containsInvalidCharacters'
+    elif not username:
+        msg = 'bgc.error.username_notGiven'
+    elif not password:
+        msg = 'bgc.error.password_notGiven'
+    elif len(username) < 4:
+        msg = 'bgc.error.username_isTooShort'
+    elif len(username) > 20:
+        msg = 'bgc.error.username_isTooLong'
+    # Disabled cuz of hash, needs to be checked on the site itself
+    # elif len(password) < 4:
+    #    msg = 'bgc.error.password_isTooShort'
+    # elif len(password) > 45:
+    #    msg = 'bgc.error.password_isTooLong'
+    elif not email:
+        msg = 'bgc.error.email_notGiven'
+    else:
+        # Check if account already exists
+        if userManager.user_name_exists(username) == False:
+            uid = random.randint(10000000, 99999999)
+            # Just in case it might be a double user id
+            while userManager.user_id_exists(uid) == True:
                 uid = random.randint(10000000, 99999999)
-                n = open(os.path.join("data", "new_player.json"), "r")
-                json_data = json.loads(str(n.read()))
-                f = open(os.path.join("data", str(uid) +
-                         str(username) + ".json"), "w+")
-                json_data["playerData"]["account_id"] = uid
-                json_data["playerData"]["user_name"] = username
-                json_data["playerData"]["password"] = password
 
-                # Change user-id everywhere [WHY :-( ]
-                json_data["goals"]["player_id"] = uid
-                json_data["backgrounds"][0]["player_id"] = uid
-                json_data["planes"][0]["to_player_id"] = uid
-                json_data["runways"][0]["player_id"] = uid
-                json_data["hangars"][0]["player_id"] = uid
-                # json_data["bays"][0]["player_id"] = uid
-                j = 0
-                for i in json_data["landsideBuildings"]:
-                    json_data["landsideBuildings"][j]["player_id"] = uid
-                    j = j + 1
-                json_data["accountData"]["id"] = uid
-                json_data["accountData"]["user_name"] = username
+            token = str(uuid.uuid1())
+            userManager.create_new_account(uid,username,password,token)
+            session["username"] = username
+            session["userid"] = uid
+            session["token"] = token
 
-                json_data["expeditionstatus"]["player_id"] = uid
+            global playerCount
+            playerCount += 1
 
-                json_data["playerData"]["token"] = str(uuid.uuid1())
-
-                f.write(json.dumps(json_data))
-                f.close()
-
-                session["username"] = username
-                session["userid"] = json_data["playerData"]["account_id"]
-                session["token"] = json_data["playerData"]["token"]
-                return redirect('play')
-            else:
-                msg = 'bgc.error.account_exists'
-    return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings, lang=lang, langUpper=langUpper, msg=msg)
+            return redirect('play')
+        else:
+            msg = 'bgc.error.account_exists'
+    return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings[lang], lang=lang, langUpper=langUpper, msg=msg)
 
 
 @app.route("/crossdomain.xml")
 def crossdomain():
     return send_from_directory(STUB_DIR, "crossdomain.xml")
 
-# GAME STATIC
-
+###############
+# GAME STATIC #
+###############
 
 @app.route("/assets/<path:path>")
 def static_assets_loader(path):
@@ -310,7 +297,6 @@ def logout():
 # GAME DYNAMIC #
 ################
 
-
 def get_level_from_xp(xp, level_caps):
     level = 100  # Handle the edge case when you're at the last level
     j = 0
@@ -325,14 +311,8 @@ def get_level_from_xp(xp, level_caps):
 @app.route("/SkyApi.php", methods=['POST'])
 def handle_request():
     print(request.form)
-    for file in os.listdir(os.path.join(p, "data")):
-        if file[0:8] == str(request.form["userId"]):
-            player_file = file
-            break
 
-    f = open(os.path.join(p, "data", player_file), "r")
-    json_data = json.loads(str(f.read()))
-    f.close()   
+    json_data = userManager.load_save_by_id(str(request.form["userId"]))
 
     if json_data["playerData"]["token"] == request.form["t"]:
         command_data = json.loads(request.form["d"])
@@ -395,9 +375,7 @@ def handle_request():
             command, request.form["userId"], obj, total_items_to_add_to_obj, json_data, init_data, obj_data)
         total_response["obj"] = obj
 
-        f = open(os.path.join(p, "data", player_file), "w")
-        f.write(json.dumps(json_data))
-        f.close()
+        userManager.modify_save_by_id(str(request.form["userId"]), json_data)
 
         return total_response
     else:

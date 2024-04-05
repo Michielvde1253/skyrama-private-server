@@ -1,9 +1,11 @@
 
 # Skyrama Private Server
 
-A simple server for the game Skyrama. Not all features have been implemented, and the ones that are may contain bugs. All help is welcome :)
+Skyrama Private Server is an attempt to create a custom server for Skyrama, a Bigpoint game. Not all features have been implemented, and the ones that are likely contain bugs. All help is welcome!
 
-Besides that, keep in mind that passwords are not properly encrypted at the moment! So I highly recommend you choose a unique password you DON'T use for any other services.
+The way this server works is, least to say, kind of primitive. Data gets stored in JSON files directly on your pc instead of using a proper database. It does run just fine, however! In the future data storing might easily be upgraded if needed.
+
+Keep in mind that although passwords should be properly encrypted/hashed, it is recommended to not use a password you use for any other services.
 
 
 ## Legal Issues
@@ -12,19 +14,20 @@ This repository is made for educational purposes only, and will not be monetized
 
 ## How to play
 
-You can find the game on http://skyrama.glitch.me. You will need a browser that supports flash (and flash player itself) to run the game. I personally recommend https://flash.pm/browser/ if you want to do it the easy way.
+You can find the game on http://skyrama.glitch.me. You will either need a browser that supports Flash (and Flash Player itself), or an all-in-one browser like [Flash Browser](https://flash.pm).
 
 ## How to run the code locally
 
-In order to run the code, simply run server.py. Make sure you have installed the required libraries from requirements.txt first.
+Install the libraries from requirements.txt and start server.py. It's as simple as that!
 
-You will need a browser that supports Flash (and Flash Player itself) to run the game. Alternatively, you can use https://flash.pm/browser/.
+You will need a browser that supports Flash (and Flash Player itself) to run the game. Alternatively, you can use [Flash Browser](https://flash.pm).
 
 ## Known issues
 - Leaving the tutorial early causes bugs.
+- (and a bunch more xD)
 
 ## List of quest task types
-This are all the types of tasks that can be in a quest. Doing an unimplemented one will work in-game, but after refreshing, all further progress on quests will be gone! The tutorial (as well as the mid-game "cargo tutorial") and most important other types are working.
+This are all the types of tasks that can be in a quest. Doing an unimplemented one will work in-game, but after refreshing all further progress on quests will be gone! The tutorial (as well as the mid-game "cargo tutorial") and most important other types are working.
 
 - [x] BuyBay
 - [x] BuyLandsideBuilding
@@ -54,19 +57,18 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 
 - [x] general.getCv
 - [x] general.getConfig
-- [ ] playerdata.updateBuddypingTime
-- [ ] playerdata.deleteBuddypingTime
+- [x] playerdata.updateBuddypingTime
+- [x] playerdata.deleteBuddypingTime
 - [x] account.getLatest  -  PARTIALLY
 - [x] general.getInitState
 - [x] general.soundIsOn
-- [ ] general.getBuddyInitState
+- [x] general.getBuddyInitState
 - [x] playerdata.setLocation
 - [x] playerdata.updateLevel
 - [x] playerdata.updateSettings
 - [ ] evoucher.book
 - [x] lucky_luggage.spin
 - [x] buddy.getAll
-- [ ] buddy.getTutorialBuddy
 - [ ] buddy.collectPassenger
 - [ ] buddy.receivePassengers
 - [x] buddy.endRelationship
@@ -77,7 +79,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] planes.upgrade
 - [x] planes.buy
 - [x] planes.scrap
-- [ ] resource_items.buy
+- [x] resource_items.buy  -  Only QS for now
 - [x] packages.buy
 - [x] planes.createFlyBy
 - [x] planes.send
@@ -137,6 +139,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - account.getData
 - account.getRandom
 - account.getDataByUserId
+- buddy.getTutorialBuddy
 - playerdata.getStats
 - locations.get
 - packets.get

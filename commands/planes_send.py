@@ -3,6 +3,7 @@ from pathlib import Path
 import os
 import json
 import random
+import userManager
 
 def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_data, init_data):
     rpcResult["i"] = request["i"]
@@ -12,7 +13,8 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_dat
 
     p = Path(__file__).parents[1]  
 
-    player_to_file = 0
+    json2_data = None
+    #player_to_file = 0
     j = 0
     for i in json_data["planes"]:
         if int(i["id"]) == request["p"]["id"]:
@@ -72,14 +74,17 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_dat
                   json_data["planes"][j]["souvenir_types_id"] = souvenir # To-do: event currency drop (= -2 ???)
                     
             if (int(request["t"]) - int(i["start_service_time"])) < ((int(service_time) / 3) * 2) or int(i["start_service_time"]) == 0:
-              json_data["playerData"]["air_cash"] = int(json_data["playerData"]["air_cash"]) - int(quick_start_coins_cost)   
+              if int(request["t"]) > int(json_data["playerData"]["aycqs_start_time"]):
+                json_data["playerData"]["air_cash"] = int(json_data["playerData"]["air_cash"]) - int(quick_start_coins_cost)   
 
                 
                 
             if int(json_data["planes"][j]["to_player_id"]) != 800: # ID 800 = NPC player
+              '''
               print(os.listdir(os.path.join(p, "data")))
               for file in os.listdir(os.path.join(p, "data")):
                 print(str(json_data["planes"][j]["to_player_id"]))
+
                 if file[0:8] == str(json_data["planes"][j]["to_player_id"]):
                   print(file)
                   player_to_file = file
@@ -88,6 +93,8 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_dat
               f = open(os.path.join(p, "data", player_to_file), "r")
               json2_data = json.loads(str(f.read()))
               f.close()
+              '''
+              json2_data = userManager.load_save_by_id(json_data["planes"][j]["to_player_id"])
               
               last_id = int(json2_data["playerData"]["next_object_id"])
               json2_data["planes"].append(json_data["planes"][j].copy())
@@ -99,7 +106,10 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_dat
               rpcResult["r"]["planes"][str(request["p"]["id"])] = json_data["planes"][j]
         j = j + 1
     
-    if player_to_file != 0:
+    if json2_data != None:
+      '''
       f = open(os.path.join(p, "data", player_to_file), "w")
       f.write(json.dumps(json2_data))
       f.close()
+      '''
+      userManager.modify_save_by_id(json2_data["playerData"]["account_id"], json2_data)
