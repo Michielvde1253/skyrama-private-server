@@ -68,7 +68,7 @@ def handle_planesTakeMeans(request, user_id, rpcResult, items_to_add_to_obj, jso
                     #####################################################################################
                     elif "buddy_points" in request["p"]:
                         for h in json_data["buddyStuff"]["buddies"]:
-                            if int(request["p"]["owner_id"]) == int(user_id):
+                            if int(request["p"]["owner_id"]) == int(user_id): # plane sent by you
                                 if int(h["hi_player_id"]) == int(i["to_player_id"]):
                                     # Possible cheat, disconnect user
                                     if int(request["p"]["buddy_points"]) != buddy_points:
@@ -76,7 +76,7 @@ def handle_planesTakeMeans(request, user_id, rpcResult, items_to_add_to_obj, jso
                                     h["buddy_points"] = int(
                                         h["buddy_points"]) + int(request["p"]["buddy_points"])
 
-                            else:
+                            else: # plane sent by your friend
                                 if int(h["hi_player_id"]) == int(i["player_id"]):
                                     h["buddy_points"] = int(
                                         h["buddy_points"]) + buddy_points
@@ -192,8 +192,8 @@ def handle_planesTakeMeans(request, user_id, rpcResult, items_to_add_to_obj, jso
                 ##########################################################
                 if "xp" in request["p"]:
                     if (int(request["t"]) - int(i["start_service_time"])) < (int(service_time) / 3) or int(i["start_service_time"]) == 0:  # Own plane
-                        json_data["playerData"]["air_cash"] = int(
-                            json_data["playerData"]["air_cash"]) - int(quick_start_coins_cost)
+                        if int(request["t"]) > int(json_data["playerData"]["aycqs_start_time"]):
+                            json_data["playerData"]["air_cash"] -= int(quick_start_coins_cost)
 
             elif int(request["p"]["owner_id"]) != int(user_id):
                 # Add xp as temporary fix. Plane id 0 = Cashcow
@@ -203,8 +203,8 @@ def handle_planesTakeMeans(request, user_id, rpcResult, items_to_add_to_obj, jso
                 if ("xp" in request["p"]) or (int(request["p"]["plane_id"]) == 0 and "air_coins" in request["p"]):
                     # Buddy plane
                     if (request["t"] - i["start_service_time"]) < service_time or i["start_service_time"] == 0:
-                        json_data["playerData"]["air_cash"] = json_data["playerData"]["air_cash"] - \
-                            quick_buddy_serve_coins_cost
+                        if int(request["t"]) > int(json_data["playerData"]["aycqs_start_time"]):
+                            json_data["playerData"]["air_cash"] -= quick_buddy_serve_coins_cost
                         print("Quick Service used (check if true)")
 
         j = j + 1
