@@ -33,6 +33,8 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_dat
             plane_type_id = int(i["plane_type_id"])
             for g in init_data["planeTypes"]:
                 if int(g["id"]) == plane_type_id:
+                    xp = g["xp_yield"]
+                    coins = g["air_coins_yield"]
                     service_time = g["service_length"]
                     quick_start_coins_cost = g["quick_start_coins_cost"]
                     buddy_points = int(g["buddy_points_yield"])
@@ -41,6 +43,11 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_dat
                     contents_count = int(g["capacity"])
                     recycling_value = int(g["recyclingValue"]) # L parts drop is depending on this number (6 random sequences)
                     break
+                
+            # Setup xp and coins (will be doubled in planes.sendback when the plane gets serviced by the buddy)
+
+            json_data["planes"][j]["xp"] = xp
+            json_data["planes"][j]["air_coins"] = coins            
 
             if load_type == "Cargo": # Cargo planes don't drop souvenirs, but cargo + L parts
 
@@ -97,9 +104,13 @@ def handle_planesSend(request, user_id, rpcResult, items_to_add_to_obj, json_dat
               json2_data = userManager.load_save_by_id(json_data["planes"][j]["to_player_id"])
               
               last_id = int(json2_data["playerData"]["next_object_id"])
-              json2_data["planes"].append(json_data["planes"][j].copy())
-              json2_data["planes"][len(json2_data["planes"]) - 1]["id"] = last_id + 1
-              json2_data["planes"][len(json2_data["planes"]) - 1]["buddy_points"] = buddy_points
+              copy = json_data["planes"][j].copy()
+              copy["id"] = last_id + 1
+              copy["buddy_points"] = buddy_points
+              copy["xp"] = xp * 2 # Servicing a buddy's plane gives double xp, but same amount of coins
+              copy["air_coins"] = coins
+
+              json2_data["planes"].append(copy)
               
               json2_data["playerData"]["next_object_id"] = int(json2_data["playerData"]["next_object_id"]) + 1
 

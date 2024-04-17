@@ -1,20 +1,22 @@
 from pathlib import Path
 import json
 import os
-import time
+import random
+from concurrent.futures import ProcessPoolExecutor
 
 
 p = Path(__file__).parents[0]
 
 
 '''
-When save files get loaded, store them in memory as buddy.getAll needs to loop all buddies,
-which is much better performance-wise if done from memory.
+Store all save files in memory.
 '''
 
 __saves = {}
 
-n = open(os.path.join("data", "new_player.json"), "r")
+__world_map_players = {}
+
+n = open(os.path.join("data", "new_player.json.def"), "r")
 NEW_ACCOUNT_DATA = json.loads(str(n.read()))
 n.close()
 
@@ -98,3 +100,44 @@ def create_new_account(uid, username, password, token):
     f = open(os.path.join("data", "nametoid", str(username)), "w+")
     f.write(str(uid))
     f.close()
+
+def read_location_id(file):
+    with open(os.path.join(p, "data", file), "r") as f:
+        json_data = json.load(f)
+    return file[0:-5], json_data["playerData"]["location_id"]
+    
+
+def save_players_by_location_id():
+    all_files = [x for x in os.listdir("data") if x.endswith(".json")]
+    with ProcessPoolExecutor() as executor:
+        for user_id, result in executor.map(read_location_id, all_files):
+            if result not in __world_map_players:
+                __world_map_players[result] = []
+            __world_map_players[result].append(int(user_id))
+
+
+    for i in range(241):
+        # There are 240 countries right now.
+        # Not all ids exist, but we don't care as it doesn't hurt
+        if i in __world_map_players:
+            # The original game does exactly this: a completely random order.
+            # We'd like to prioritize online users, but instead of checking this on server start
+            # we're putting them on the beginning of the list when they enable their buddyping.
+            random.shuffle(__world_map_players[i])
+        else:
+            __world_map_players[i] = [800] # NPC player
+
+def buddyping_enabled(user_id, location_id):
+    player_list = __world_map_players[location_id]
+    old_index = player_list.index(int(user_id))
+    player_list.insert(0, player_list.pop(old_index))
+
+def get_accounts_by_location_id(location_id, amount, own_user_id):
+    player_list = __world_map_players[location_id]
+    player_list_cropped = [ x for x in player_list[0:(amount+1 if int(own_user_id) in player_list else amount)] if x != int(own_user_id) ]
+
+    # Ducktape fix for if you're the only person in your country
+    if player_list_cropped == []:
+        player_list_cropped = [800]
+
+    return player_list_cropped
