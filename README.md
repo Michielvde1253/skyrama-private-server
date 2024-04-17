@@ -59,7 +59,7 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] general.getConfig
 - [x] playerdata.updateBuddypingTime
 - [x] playerdata.deleteBuddypingTime
-- [x] account.getLatest  -  PARTIALLY
+- [x] account.getLatest
 - [x] general.getInitState
 - [x] general.soundIsOn
 - [x] general.getBuddyInitState
