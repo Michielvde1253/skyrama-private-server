@@ -131,19 +131,21 @@ def main():
     # Get total amount of created accounts #
     ########################################
     
-    '''
+    
     # GLITCH
     host = '0.0.0.0'
     port = 8080
     server_ip = "http://skyrama.glitch.me"
     assets_ip = "https://cdn.jsdelivr.net/gh/Mima2370/skyrama-private-server/"
-    '''
+    
     
     # LOCAL
+    '''
     host = '127.0.0.1'
     port = 5050
     server_ip = "http://" + str(host) + ":" + str(port)
     assets_ip = "http://" + str(host) + ":" + str(port)
+    '''
     
     app = Flask(__name__, template_folder=TEMPLATES_DIR)
     
