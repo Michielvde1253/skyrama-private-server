@@ -81,7 +81,19 @@ def main():
         "general.getBuddyInitState": handle_getBuddyInitState,
         "resource_items.buy": handle_resourceItemsBuy,
         "playerdata.updateBuddypingTime": handle_updateBuddypingTime,
-        "playerdata.deleteBuddypingTime": handle_deleteBuddypingTime
+        "playerdata.deleteBuddypingTime": handle_deleteBuddypingTime,
+        "cargoshops.buy": handle_cargoshopsBuy,
+        "cargoshops.buyCargo": handle_cargoshopsBuyCargo,
+        "cargoshops.buyCapacity": handle_cargoshopsBuyCapacity,
+        "bays.sell": handle_sell,
+        "landside_buildings.sell": handle_sell,
+        "runways.sell": handle_sell,
+        "terminals.sell": handle_sell,
+        "backgrounds.buy": handle_backgroundsBuy,
+        "backgrounds.makeCurrent": handle_backgroundsMakeCurrent,
+        "landmarks.buy": handle_landmarksBuy,
+        "landmarks.makeCurrent": handle_landmarksMakeCurrent,
+        "hangars.upgrade": handle_hangarsUpgrade
     }
     
     #########################
@@ -118,7 +130,6 @@ def main():
     ########################################
     # Get total amount of created accounts #
     ########################################
-    playerCount = len(os.listdir("data")) - 5 # -5 because of default files and folders
     
     '''
     # GLITCH
@@ -173,7 +184,7 @@ def main():
             lang = request.args.get('locale')
         session["lang"] = lang
         langUpper = lang.upper()
-        return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings[lang], lang=lang, langUpper=langUpper)
+        return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=userManager.get_player_count(), langstrings=langstrings[lang], lang=lang, langUpper=langUpper)
     
     
     @app.route('/login', methods=['POST'])
@@ -207,10 +218,10 @@ def main():
                 return redirect('play')
             else:
                 msg = 'bgc.error.login_invalidCredentials'
-                return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings[lang], lang=lang, langUpper=langUpper, msg=msg)
+                return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=userManager.get_player_count(), langstrings=langstrings[lang], lang=lang, langUpper=langUpper, msg=msg)
     
         else:
-            return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings[lang], lang=lang, langUpper=langUpper, msg='')
+            return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=userManager.get_player_count(), langstrings=langstrings[lang], lang=lang, langUpper=langUpper, msg='')
     
     
     @app.route('/register', methods=['POST'])
@@ -262,14 +273,12 @@ def main():
                 session["username"] = username
                 session["userid"] = uid
                 session["token"] = token
-    
-                global playerCount
-                playerCount += 1
+                userManager.add_to_player_count(1)
     
                 return redirect('play')
             else:
                 msg = 'bgc.error.account_exists'
-        return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=playerCount, langstrings=langstrings[lang], lang=lang, langUpper=langUpper, msg=msg)
+        return render_template("home.html", SERVERIP=server_ip, ASSETSIP=assets_ip, playerCount=userManager.get_player_count(), langstrings=langstrings[lang], lang=lang, langUpper=langUpper, msg=msg)
     
     
     @app.route("/crossdomain.xml")

@@ -91,21 +91,21 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] planes.setState
 - [x] planes.get
 - [x] planes.onStartCargoTutorial  -  Doesn't seem necessary?
-- [ ] backgrounds.buy
-- [ ] backgrounds.makeCurrent
-- [ ] landmarks.buy
-- [ ] landmarks.makeCurrent
+- [x] backgrounds.buy
+- [x] backgrounds.makeCurrent
+- [x] landmarks.buy
+- [x] landmarks.makeCurrent
 - [x] bays.buy
 - [x] cargoshops.fillShop
 - [x] cargoshops.collectSalesRevenue
-- [ ] cargoshops.buy
-- [ ] cargoshops.buyCapacity
-- [ ] cargoshops.buyCargo
+- [x] cargoshops.buy
+- [x] cargoshops.buyCapacity
+- [x] cargoshops.buyCargo
 - [x] runways.buy
 - [x] terminals.buy
 - [ ] map_extensions.buy
 - [ ] hangars.buy
-- [ ] hangars.upgrade
+- [x] hangars.upgrade
 - [ ] warehouses.buy
 - [x] playerdata.setbooster
 - [x] landside_buildings.buy
@@ -117,11 +117,11 @@ I'm not 100% sure if all of these are still being used in the latest version of 
 - [x] placeable.setInStorage  -  PARTIALLY
 - [x] flashCookies.set
 - [ ] backgrounds.sell
-- [ ] bays.sell
-- [ ] landmarks.sell
-- [ ] landside_buildings.sell
-- [ ] runways.sell
-- [ ] terminals.sell
+- [x] bays.sell
+- [] landmarks.sell
+- [x] landside_buildings.sell
+- [x] runways.sell
+- [x] terminals.sell
 - [ ] recycling.start
 - [ ] recycling.instant
 - [ ] recycling.collect

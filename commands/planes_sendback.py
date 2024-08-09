@@ -17,7 +17,9 @@ def handle_planesSendback(request, user_id, rpcResult, items_to_add_to_obj, json
         if int(i["id"]) == request["p"]["id"]:
             plane_type_id = int(i["plane_type_id"])
             if request["p"]["player_id"] == 0: # Cashcow, so make it appear on radar again.
-                json_data["planes"][j]["flight_status"] = 122
+                json_data["planes"][j]["flight_status"] = 77
+                json_data["planes"][j]["departure_time"] = request["t"] - 450
+                json_data["planes"][j]["arrival_time"] = request["t"] + 450
                 json_data["planes"][j]["start_service_time"] = 0
                 json_data["planes"][j]["last_state_change_time"] = request["p"]["last_state_change_time"]
                 json_data["planes"][j]["player_id"] = request["p"]["player_id"]

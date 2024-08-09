@@ -16,6 +16,9 @@ __saves = {}
 
 __world_map_players = {}
 
+__playerCount = {"count": len(os.listdir("data")) - 5} # -5 because of default files and folders
+
+
 n = open(os.path.join("data", "new_player.json.def"), "r")
 NEW_ACCOUNT_DATA = json.loads(str(n.read()))
 n.close()
@@ -81,7 +84,6 @@ def create_new_account(uid, username, password, token):
     json_data["planes"][0]["to_player_id"] = uid                    #
     json_data["runways"][0]["player_id"] = uid                      #
     json_data["hangars"][0]["player_id"] = uid                      #
-    json_data["bays"][0]["player_id"] = uid                       #
     j = 0                                                           #
     for i in json_data["landsideBuildings"]:                        #
         json_data["landsideBuildings"][j]["player_id"] = uid        #
@@ -120,7 +122,7 @@ def save_players_by_location_id():
         # There are 240 countries right now.
         # Not all ids exist, but we don't care as it doesn't hurt
         if i in __world_map_players:
-            # The original game does exactly this: a completely random order.
+            # The original game uses a completely random order.
             # We'd like to prioritize online users, but instead of checking this on server start
             # we're putting them on the beginning of the list when they enable their buddyping.
             random.shuffle(__world_map_players[i])
@@ -141,3 +143,9 @@ def get_accounts_by_location_id(location_id, amount, own_user_id):
         player_list_cropped = [800]
 
     return player_list_cropped
+
+def get_player_count():
+    return __playerCount["count"]
+
+def add_to_player_count(amount):
+    __playerCount["count"] += amount
