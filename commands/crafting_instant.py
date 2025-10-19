@@ -2,6 +2,7 @@ import logging
 import time
 from src.debug import send_webhook
 from src.utils import substract_resources
+from src.utils import get_crafting_level_from_xp
 
 def handle_craftingInstant(request, user_id, rpcResult, items_to_add_to_obj, json_data, init_data):
     rpcResult["i"] = request["i"]
@@ -53,6 +54,17 @@ def handle_craftingInstant(request, user_id, rpcResult, items_to_add_to_obj, jso
         rpcResult["i"] = -1
         return
     
+    # To-do: double-check if hangar has the capacity
+    hangar_id = None
+    for hangar in json_data["hangars"]:
+        if int(hangar["hangar_types_id"]) == 5: # 5 = Large hangar
+            hangar_id = hangar["id"]
+            break
+    if hangar_id is None:
+        logging.critical(f"Large hangar not found for user with id {user_id}")
+        rpcResult["i"] = -1
+        return
+
     for i in init_data["planeTypes"]:
         if int(i["id"]) == int(p["planeId"]):
             json_data["planes"].append(
@@ -61,8 +73,8 @@ def handle_craftingInstant(request, user_id, rpcResult, items_to_add_to_obj, jso
                     "active_count":1,
                     "id":json_data["playerData"]["next_object_id"],
                     "plane_type_id":p["planeId"],
-                    "container_id":33, # Hardcoded value, no idea what it means
-                    "subcontainer_id":1, # Hardcoded value, no idea what it means
+                    "container_id": hangar_id,
+                    "subcontainer_id":1, # Hangar has no subcontainers, so just 1 (i think that's what it means?)
                     "to_player_id":-1,
                     "departure_time":-1,
                     "arrival_time":-1,
@@ -88,13 +100,40 @@ def handle_craftingInstant(request, user_id, rpcResult, items_to_add_to_obj, jso
     
     currentCraftings.pop(str(p["planeId"]), None)
 
-    json_data["playerData"]["crafting_totalXP"] += 10
+    # Calculate xp
+    # Got this data from the German FAQs, can't seem to find them in the config as well
+    crafting_level = json_data["playerData"]["crafting_level"]
+    if crafting_level == 0: # level 1 in-game
+        crafting_xp_per_craft = 5
+    elif crafting_level == 1:
+        crafting_xp_per_craft = 8
+    elif crafting_level == 2:
+        crafting_xp_per_craft = 10
+    elif crafting_level == 3:
+        crafting_xp_per_craft = 15
+    elif crafting_level == 4:
+        crafting_xp_per_craft = 20
+    else:
+        crafting_xp_per_craft = 5 # Fallback to fewest xp, just in case
+
+
+    json_data["playerData"]["crafting_totalXP"] += crafting_xp_per_craft
+    # Don't go over the xp limit (causes weird visual glitches)
+    if json_data["playerData"]["crafting_totalXP"] > 3850: # All the level caps added = total xp for the end of the maximum level
+        json_data["playerData"]["crafting_totalXP"] = 3850
+    # To prevent issues: recalculate everything except total xp
+    level_calculation = get_crafting_level_from_xp(json_data["playerData"]["crafting_totalXP"],
+                                                    init_data["playerData"]["crafting_level_caps"])
+    json_data["playerData"]["crafting_level"] = level_calculation[0]
+    json_data["playerData"]["crafting_levelXP"] = level_calculation[1]
+    json_data["playerData"]["crafting_levelCap"] = level_calculation[2]
+    
     json_data["playerData"]["next_object_id"] += 1
 
     rpcResult["r"] = {
         "status": True, 
         "result": {
-            "craftingXp": 10,
+            "craftingXp": crafting_xp_per_craft,
             "itemId": p["planeId"]
         },
         "slotId": p["slotId"],
