@@ -39,7 +39,7 @@ def handle_recyclingCollect(request, user_id, rpcResult, items_to_add_to_obj, js
         rpcResult["i"] = -1
         return
 
-    found = True
+    found = False
 
     # Get the recycling value and size
     for plane in init_data["planeTypes"]:
@@ -80,7 +80,7 @@ def handle_recyclingCollect(request, user_id, rpcResult, items_to_add_to_obj, js
         rpcResult["i"] = -1
         return   
 
-    # To-do: add to playerData
+    # To-Do: I forgot to implement recycling_level_caps from initData..
     level_cap = json_data["playerData"]["recycling_levelCap"]
 
     json_data["playerData"]["recycling_totalXP"] += recycling_xp
