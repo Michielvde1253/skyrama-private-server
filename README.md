@@ -6,7 +6,7 @@ Keep in mind that although passwords should be properly encrypted/hashed, it is 
 
 ## Legal Notice / DMCA
 
-This repository is made for educational and archival purposes only and will not be monetized in any way. We are NOT affiliated nor sponsored by Bigpoint GmbH. All game content, imagery, and trademarks are the property of Bigpoint GmbH. This project is not meant to replace Skyrama in any way. Please contact us for any legal problems, and we'll quickly take appropriate action. You can contact the repository owner on this Discord server: https://discord.gg/uFhJRvggZy.
+This repository is made for educational and archival purposes only and will not be monetized in any way. We are NOT affiliated nor sponsored by Bigpoint GmbH. All game content, imagery, and trademarks are the property of Bigpoint GmbH. **This repository does not contain or distribute any Skyrama game files.** The game client (`airville.swf`) and the game assets (the `assets/data` folder) are the property of Bigpoint GmbH and are not included. You must supply your own copies and are responsible for obtaining them legally. This project is not meant to replace Skyrama in any way. Please contact us for any legal problems, and we'll quickly take appropriate action. You can contact the repository owner on this Discord server: https://discord.gg/uFhJRvggZy.
 
 ## How to play
 
@@ -21,11 +21,6 @@ You will either need a browser that supports Flash (and Flash Player itself). We
 [Flash Browser](https://github.com/radubirsan/FlashBrowser/releases/download/v0.81/v0.81_FlashBrowser_x64.exe)<br>
 ⚠️ May contain unmoderated ads, as the homepage is down, we recommend using the method above!
 
-## Where can I try it out?
-
-We currently host our own test server here: https://crimson-goat-16936.zap.cloud/
-The server may be down anytime for maintenance or updates, use different login/password than you use in skyrama!
-
 Also join us on [Discord](https://discord.gg/uFhJRvggZy)!
 
 ## How to run with Docker (recommended)
@@ -33,8 +28,8 @@ Also join us on [Discord](https://discord.gg/uFhJRvggZy)!
 Everything (server + PostgreSQL + Caddy) comes up with one command. No database
 to install, no credentials to invent.
 
-1. Obtain the Skyrama `.swf` file, we cannot provide this on GitHub
-2. Place it in the `assets` folder as `assets/airville.swf`
+1. Obtain the Skyrama client (`airville.swf`) and the Skyrama game assets (the `data` folder). We cannot provide either on GitHub.
+2. Place the client at `assets/airville.swf` and the asset files inside `assets/data/` (so that, e.g., `assets/data/config.xml` exists).
 3. Run:
 
 ```bash
@@ -84,8 +79,8 @@ re-requests them on restart and can hit Let's Encrypt rate limits.
 
 ## How to run the code locally (without Docker)
 
-1. Obtain Skyrama .swf file, we cannot provide this on GitHub
-2. Place Skyrama .swf file into assets folder
+1. Obtain the Skyrama client (`airville.swf`) and the Skyrama game assets (the `data` folder). We cannot provide either on GitHub.
+2. Place the client at `assets/airville.swf` and the asset files inside `assets/data/` (so that, e.g., `assets/data/config.xml` exists).
 3. Install PostgreSQL and create a database
 4. Rename .env-example to .env and set `DB_CONNECTION_STRING` to your database
 5. Adjust host/port in config.cfg if needed

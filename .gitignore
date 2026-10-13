@@ -175,3 +175,7 @@ assets/airville.swf
 
 # Local working notes, not for the repo
 CLAUDE.md
+
+# Game files, see README
+assets/data/*
+!assets/data/.gitkeep
